@@ -1,15 +1,14 @@
 # Local Jekyll config file (will be appended after master)
 
 # Site settings
-url: https://faktaoklimatu.cz
-email: info@faktaoklimatu.cz
+url: https://faktyoklime.sk
+email: info@faktyoklime.sk
 twitter: "faktaoklimatu"
 newsletter: "https://tinyletter.com/faktaoklimatu/subscribe"
 fundraising: "https://www.darujme.cz/projekt/1203742"
-author: faktaoklimatu.cz
-description: Shromažďujeme data o klimatu a klimatické změně, která poskytují vědecké instituce a zpracováváme z nich grafy a infografiky pro další použití.
-keywords: klima, změna klimatu, infografiky
-test: infografiky
+author: faktyoklime.sk
+description: Zhromažďujeme dáta o klíme a klimatickej zmene, ktoré poskytujú vedecké inštitúcie a spracovávame z nich grafy a infografiky pre ďalšie použitie.
+keywords: klíma, zmena klímy, infografiky
 
 # Set permalinks in local language
 collections:
@@ -32,6 +31,6 @@ jekyll-archives:
   layouts:
     tag: tag
   permalinks:
-    tag: '/temata/:name/'
+    tag: '/temy/:name/'
   collections:
     merge_tags: true
