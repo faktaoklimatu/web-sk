@@ -1,6 +1,6 @@
 ---
 layout:     infographic
-title:      "Emise skleníkových plynů Slovenska podle sektorů"
+title:      "Emisie skleníkových plynov Slovenska podľa sektorov"
 slug:       "emise-sr"
 redirect_from: "/emise-sr"
 published:  2020-10-14
