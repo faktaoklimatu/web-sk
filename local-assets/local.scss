@@ -1,0 +1,17 @@
+/* Local CSS for slovak web version */
+
+.intro {
+    .tagline { width: 11rem; }
+    p { padding-left: 14rem; }
+    form { padding-left: 14rem; }
+}
+
+.infographics-preview {
+    display: block; 
+    height: 60vh; 
+    background: linear-gradient(transparent 60%, rgba(234,234,234,1) 100%), url(/local-assets/img/infographics-preview.png);
+    background-repeat: repeat;
+    border-width: 10px 0 0 0;
+    border-style: solid;
+    border-color: $c-primary;
+}
