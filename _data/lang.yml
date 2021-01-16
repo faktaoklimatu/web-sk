@@ -1,0 +1,10 @@
+# Local translations of core strings
+
+navigation:
+  dev-version: "Toto je vývojárska verzia webu."
+  dev-differences: "Oproti produkčnej verzii v nej chýba web analytika."
+
+footer:
+  get-newsletter: "Odoberajte newsletter"
+  support-us: "Podporte nás"
+  last-change: "Posledná zmena"

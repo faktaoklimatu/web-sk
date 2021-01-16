@@ -1,12 +1,15 @@
 # Local Jekyll config file (will be appended after master)
 
 # Site settings
+title: "Fakty o klíme"
 url: https://faktyoklime.sk
 email: info@faktyoklime.sk
+github: faktaoklimatu/web-sk
 twitter: "faktaoklimatu"
 newsletter: "https://tinyletter.com/faktyoklime/subscribe"
 fundraising: "https://www.darujme.cz/projekt/1203742"
 author: faktyoklime.sk
+copyright: "&copy; 2021 Otevřená data o klimatu, z. ú."
 description: Zhromažďujeme dáta o klíme a klimatickej zmene, ktoré poskytujú vedecké inštitúcie a spracovávame z nich grafy a infografiky pre ďalšie použitie.
 keywords: klíma, zmena klímy, infografiky
 
