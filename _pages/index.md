@@ -1,11 +1,11 @@
 ---
 layout: empty
 title: Fakta o klimatu
-slug: index
+slug: index2
 ---
 <div class="section intro">
     <div class="container">
-        <h1 class="display-1" id="home">Fakta o změně<br>klimatu</h1>
+        <h1 class="display-1" id="home">Fakty o zmene<br>klímy</h1>
         <span class="tagline">Veřejně dostupné<br>infografiky a datasety</span>
         <p class="mb-5">Shromažďujeme data o klimatu a klimatické změně, která poskytují vědecké instituce (ČHMÚ, NASA, Eurostat a jiné) a zpracováváme z nich grafy a infografiky pro <a href="/jak-pouzivat" title="Jak používat naše materiály">další použití</a>.<br/>
             <a href="{{ site.fundraising }}" class="btn btn-primary mt-3"><i class="fas fa-fw fa-heart"></i> Podpořte nás</a>
