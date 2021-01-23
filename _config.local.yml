@@ -37,3 +37,9 @@ jekyll-archives:
     tag: '/temy/:name/'
   collections:
     merge_tags: true
+
+# Temporarily disable sitemap
+defaults:
+  -
+    values:
+      sitemap: false
