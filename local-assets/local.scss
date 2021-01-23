@@ -1,6 +1,9 @@
 /* Local CSS for slovak web version */
 
 .intro {
+    background: linear-gradient(transparent 150px, #ffffff 350px),url(/local-assets/img/infographics-preview.png) !important;
+    padding-top: 300px !important;
+
     .tagline { width: 11rem; }
     p { padding-left: 14rem; }
     form { padding-left: 14rem; }
@@ -14,4 +17,16 @@
     border-width: 10px 0 0 0;
     border-style: solid;
     border-color: $c-primary;
+}
+
+.widget-darujme {
+    padding: 1rem 0 3rem 14rem;
+}
+
+@media screen and (max-width: 768px) {
+    .intro {
+        background: linear-gradient(transparent 50px, #ffffff 250px),url(/local-assets/img/infographics-preview.png) !important;
+        padding-top: 200px !important;
+    }
+    .widget-darujme { padding-left: 0; }
 }
