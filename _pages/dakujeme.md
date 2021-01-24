@@ -36,7 +36,7 @@ sitemap:    false
             </tr>
             </table>
         </div>
-        <p class="lead">Aj vďaka vášmu príspevku môžeme ďalej fungovať. V prípade dotazov se nám neváhajte ozvať na <a href="mailto:dary@faktyoklime.sk" title="Kontaktná adresa pre darcov">dary@faktyoklime.sk</a>.</p>
+        <p class="lead">Aj vďaka vášmu príspevku môžeme vložiť našu energiu do prekladov a prípravy infografík relevantných pre Slovensko. Pomáhame tým stavať diskusiu o klimatických zmenách na vedeckých dátach. Budeme radi, ak nám pomôžete kampaň zdieľať a informovať o nej svojich priateľov a okolie. V prípade dotazov sa nám neváhajte ozvať na <a href="mailto:dary@faktyoklime.sk" title="Kontaktná adresa pre darcov">dary@faktyoklime.sk</a>.</p>
         <hr/>
         <p class="pb-2">Ak chcete byť informovaný o novinkách, prihláste sa na odber nášho newslettru alebo sledujte náš Twitter.</p>
         <a href="{{ site.newsletter }}" target="_blank" class="btn btn-primary"><i class="fas fa-fw fa-envelope-open-text"></i> Newsletter</a>
