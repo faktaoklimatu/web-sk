@@ -1,32 +1,29 @@
 /* Local CSS for slovak web version */
 
 .intro {
-    background: linear-gradient(transparent 150px, #ffffff 350px),url(/local-assets/img/infographics-preview.png) !important;
-    padding-top: 300px !important;
+    background: linear-gradient(transparent 0, #ffffff 200px),url(/local-assets/img/infographics-preview.png) !important;
+    padding-top: 150px !important;
 
     .tagline { width: 11rem; }
     p { padding-left: 14rem; }
     form { padding-left: 14rem; }
 }
 
-.infographics-preview {
-    display: block; 
-    height: 60vh; 
-    background: linear-gradient(transparent 60%, rgba(234,234,234,1) 100%), url(/local-assets/img/infographics-preview.png);
-    background-repeat: repeat;
-    border-width: 10px 0 0 0;
-    border-style: solid;
-    border-color: $c-primary;
-}
-
-.widget-darujme {
+.support-block {
     padding: 1rem 0 3rem 14rem;
+    display: grid;
+    grid-template: 1fr / 1fr;
+    place-items: center;
+
+    * {
+        grid-column: 1 / 1;
+        grid-row: 1 / 1;
+    }
+    .widget-darujme {
+        z-index: 2;
+    }
 }
 
 @media screen and (max-width: 768px) {
-    .intro {
-        background: linear-gradient(transparent 50px, #ffffff 250px),url(/local-assets/img/infographics-preview.png) !important;
-        padding-top: 200px !important;
-    }
-    .widget-darujme { padding-left: 0; }
+    .support-block { padding-left: 0; }
 }
