@@ -8,3 +8,41 @@ footer:
   get-newsletter: "Odoberajte newsletter"
   support-us: "Podporte nás"
   last-change: "Posledná zmena"
+
+licence:
+  id: "CC BY 4.0"
+  title: "Creative Commons Uvedenie Autora 4.0 Medzinárodný"
+  link: "https://creativecommons.org/licenses/by/4.0/deed.sk"
+
+infographic:
+  download:
+    title: "Na stiahnutie"
+    caption: "Páči sa vám naša infografika? Stiahnite si ju a používajte ďalej!"
+    which-file-format: "Ktorý formát vybrať?"
+  data:
+    title: "Podkladové dáta"
+  share:
+    title: "Zdieľanie a licencia"
+    caption: "Všetky naše infografiky sú k dispozícii na ďalšie použitie pod licenciou"
+    usage: "Ako správne použiť?"
+    modal-title: "Ako správne odkazovať faktyoklime.sk?"
+  mobile:
+    title: "Dáta, licencia a zdieľanie"
+    caption: "Pozrite sa na podkladové dáta alebo infografiku zdieľajte. Všetky naše infografiky sú k dispozícii pod licenciou"
+    download: "Stiahnutie"
+    data: "Dáta"
+    share: "Zdieľanie"
+
+dataset:
+  data:
+    title: "Podkladové dáta"
+  share:
+    title: "Zdieľanie a licencia"
+    caption1: "Všetky naše datasety sú k dispozícii na ďalšie použitie pod licenciou"
+    caption2: "Pôvodné dáta majú rôzne licencie, detaily nájdete v podrobnom texte k datasetu."
+    modal-title: "Ako správne odkazovať faktyoklime.sk?"
+  mobile:
+    title: "Dáta, licencia a zdieľanie"
+    caption1: "Pozrite sa na podkladové dáta alebo ich zdieľajte ďalej. Všetky naše datasety sú k dispozícii pod licenciou"
+    data: "Dáta"
+    share: "Zdieľanie"

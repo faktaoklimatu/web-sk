@@ -1,0 +1,28 @@
+{%- case page.layout -%}
+    {%- when "infographic" -%}
+        <h2>Odkazy na infografiku</h2>
+        <p>Ak chcete odkazovať na túto infografiku, odkazujte prosím na stránku so sprievodným textom, nie priamo na obrázok (garantujeme dlhodobú funkčnosť URL stránky, nie však obrázku). Pre aktuálnu infografiku to vyzerá nasledovne:</p>
+        <div class="embed-example-caption">
+            <a href="{{ page.url }}" target="_blank">{{ page.title }}</a>
+        </div>
+        <pre class="highlight"><code>&lt;a href="{{ site.url }}{{ page.url }}" target="_blank" rel="noopener"&gt;{{ page.title }}&lt;/a&gt;</code></pre>
+        <h2>Priame použitie infografiky</h2>
+        <p>Ak chcete, môžete na svoj web či iný projekt použiť priamo <strong>stiahnutú</strong> infografiku. Použitá licencia však vyžaduje uviesť názov, autora, zdroj a licenciu. Pro aktuálnu infografiku to vyzerá nasledovne:</p>
+        <div class="embed-example-caption">
+            <a href="{{ page.url }}" target="_blank" rel="noopener">{{ page.title }}</a> od autora <a href="{{ site.url }}" target="_blank" rel="noopener">{{ site.title }}</a>, licencovaný pod <a href="{{ site.data.lang.licence.link }}" title="{{ site.data.lang.licence.title }}" rel="license">{{ site.data.lang.licence.id }}</a>.
+        </div>
+        <pre><code>&lt;a href="{{ site.url }}{{ page.url }}" target="_blank"&gt;{{ page.title }}&lt;/a&gt; od autora &lt;a href="{{ site.url }}" target="_blank"&gt;{{ site.title }}&lt;/a&gt;, licencovaný pod &lt;a href="{{ site.data.lang.licence.link }}" target="_blank">{{ site.data.lang.licence.id }}&lt;/a&gt;.</code></pre>
+    {%- when "dataset" -%}
+        <h2>Odkazy na dataset</h2>
+        <p>Ak chcete odkazovať na tento dataset, odkazujte prosím na stránku so sprievodným textom, nie priamo na tabuľku (garantujeme dlhodobú funkčnosť URL stránky, nie však tabuľky). Pre aktuálny dataset to vyzerá nasledovne:</p>
+        <div class="embed-example-caption">
+            <a href="{{ page.url }}" target="_blank">{{ page.title }}</a>
+        </div>
+        <pre class="highlight"><code>&lt;a href="{{ site.url }}{{ page.url }}" target="_blank" rel="noopener"&gt;{{ page.title }}&lt;/a&gt;</code></pre>
+        <h2>Priame použitie datasetu</h2>
+        <p>Ak chcete, môžete na svoj web či iný projekt použiť priamo <strong>stiahnutý</strong> dataset. Použitá licencia však vyžaduje uviesť názov, autora, zdroj a licenciu. Pro aktuálny dataset to vyzerá nasledovne:</p>
+        <div class="embed-example-caption">
+            <a href="{{ page.url }}" target="_blank" rel="noopener">{{ page.title }}</a> od autora <a href="{{ site.url }}" target="_blank" rel="noopener">{{ site.title }}</a>, licencovaný pod <a href="{{ site.data.lang.licence.link }}" title="{{ site.data.lang.licence.title }}" rel="license">{{ site.data.lang.licence.id }}</a>.
+        </div>
+        <pre><code>&lt;a href="{{ site.url }}{{ page.url }}" target="_blank"&gt;{{ page.title }}&lt;/a&gt; od autora &lt;a href="{{ site.url }}" target="_blank"&gt;{{ site.title }}&lt;/a&gt;, licencovaný pod &lt;a href="{{ site.data.lang.licence.link }}" target="_blank">{{ site.data.lang.licence.id }}&lt;/a&gt;.</code></pre>
+{%- endcase -%}
