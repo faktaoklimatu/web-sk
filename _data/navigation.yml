@@ -17,7 +17,7 @@
 #  link: /explainery
 
 # - title: O projekte
-#   link: /o-projektu
+#   link: /o-projekte
 
 # - title: Viac
 #   dropdown:
@@ -25,13 +25,13 @@
 #       link: /aktuality
 # 
 #     - title: Slovník pojmov
-#       link: /slovnik
+#       link: /{{ site.slugs.glossary }}
 # 
 #     - title: Ďalšie zdroje a odkazy
 #       link: /zdroje
 # 
 #     - title: Ako používať naše materiály
-#       link: /jak-pouzivat
+#       link: /{{ site.slugs.how-to-use }}
 # 
 #    - title: Atlas klimatickej zmeny
 #      link: /atlas
