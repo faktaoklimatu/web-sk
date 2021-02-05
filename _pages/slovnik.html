@@ -1,0 +1,17 @@
+---
+layout:     single-section-page
+title:      "Slovník pojmov"
+slug:       slovnik
+intro:      "Stručný prehľad nejčastejšie používaných hesiel a skratiek s krátkym vysvetlením či komentárom."
+---
+
+<!-- FIXME dodělat markdownify filtr a upravit glossary.yml --#McZ_2019-10-02 -->
+
+<p class="lead">{{ page.intro }}</p>
+
+{% assign sorted_glossary = site.data.glossary | sort_czech: "name-short" %}
+{% for item in sorted_glossary %}
+<hr/>
+<h3 id="{{ item.id }}"><strong>{{ item.name-short }}</strong>{% if item.name-long %}<span class="lead"> ({{ item.name-long }})</span>{% endif %}</h3>
+{{ item.description | markdownify }}
+{% endfor %}
