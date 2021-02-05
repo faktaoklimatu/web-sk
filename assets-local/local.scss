@@ -1,9 +1,11 @@
 /* Local CSS for slovak web version */
 
-.intro {
+.single-page {
     background: linear-gradient(transparent 0, #ffffff 200px),url(/assets-local/img/infographics-preview.png) !important;
     padding-top: 150px !important;
+}
 
+.intro {
     .tagline { width: 11rem; }
     p { padding-left: 14rem; }
     form { padding-left: 14rem; }
