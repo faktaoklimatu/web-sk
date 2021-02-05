@@ -8,33 +8,33 @@ slug:       ako-pouzivat
 # {{ page.title }}
 
 {:.lead}
-Věříme, že volné šíření informací a kultivace veřejné debaty pomáhají politikům, institucím, firmám i jednotlivcům dělat správná rozhodnutí. Proto poskytujeme všechny naše materiály ke stažení, dalšímu zpracování a šíření.
+Veríme, že voľné šírenie informácií a kultivácia verejnej debaty pomáhajú politikom, inštitúciám, firmám aj jednotlivcom robiť správne rozhodnutia. Preto poskytujeme všetky naše materiály na stiahnutie, ďalšie spracovanie a šírenie.
 </div>
 </div>
 
 <div class="section">
 <div class="container clearfix" markdown="1">
-## Jak mohu použít infografiky a data z Fakta o klimatu?
+## Ako môžem použiť infografiky a dáta z Fakt o klíme?
 
 <figure class="d-none d-md-block float-right w-50 ml-4">
-<a href="/infografiky/emise-cr-detail"><img src="/assets/generated/emise-cr-detail_600.png" class="rounded w-100" alt="Emise skleníkových plynů v ČR podle sektorů detailně" /></a>
-<figcaption class="pt-2">Ukázka použití infografiky z webu Fakta o klimatu. Infografika <em><a href="/infografiky/emise-cr-detail">Emise skleníkových plynů v ČR podle sektorů detailně</a></em> od autora <a href="/">Fakta o klimatu</a>, licencováno pod <a href="https://creativecommons.org/licenses/by/4.0/deed.cs">CC BY 4.0</a>.</figcaption>
+<a href="/infografiky/emisie-sr"><img src="/assets/generated/emisie-sr_600.png" class="rounded w-100" alt="Emisie skleníkových plynov na Slovensku podľa sektorov" /></a>
+<figcaption class="pt-2">Ukážka použitia infografiky z webu Fakty o klíme. Infografika <em><a href="/infografiky/emisie-sr">Emisie skleníkových plynov na Slovensku podľa sektorov</a></em> od autora <a href="/">Fakty o klíme</a>, licencované pod <a href="https://creativecommons.org/licenses/by/4.0/deed.sk">CC BY 4.0</a>.</figcaption>
 </figure>
 
-Veškerá naše práce je zveřejněna pod licencí [Creative Commons Uveďte původ 4.0 Mezinárodní (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.cs). V krátkosti, tato licence vám umožňuje naše dílo
+Všetka naša práca je zverejnená pod licenciou [Creative Commons Uvedenie Autora 4.0 Medzinárodný (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.sk). V krátkosti, táto licencia vám umožňuje naše dielo
 
-* **sdílet**, tj. rozmnožovat a distribuovat materiál prostřednictvím jakéhokoli média v jakémkoli formátu, a
-* **upravovat**, tj. remixovat, měnit a vycházet z původního díla pro jakýkoliv účel, a to i komerční,
+* **zdieľať**, t. j. vyhotovovať jeho rozmnoženiny a rozširovať ho na akomkoľvek médiu alebo v akomkoľvek formáte, a
+* **upravovať**, t. j. nanovo ho usporadúvať, transformovať a vychádzať z neho na akýkoľvek účel, a to aj na obchodný.
 
-za podmínky **uvedení původu**, tzn. uvést nás jako autory díla, uvést odkaz na naše stránky, název licence a odkaz na její znění a vyznačit případné změny v infografice nebo datasetu. Tyto informace mohou mít různou vizuální podobu v závislosti na médiu (např. webová stránka, novinový článek), musí však být za každých okolností zřetelně uvedeny.
+za podmienky **uvedenia zdroja**, tzn. uviesť nás ako autorov die, uviesť odkaz na naše stránky, názov licencie a odkaz na jej znenie a vyznačiť prípadné zmeny v infografike alebo texte. Tieto informácie môžu mať rôznu vizuálnu podobu v závislosti na médiu (napr. webová stránka, novinový článok), musí však byť za každých okolností zreteľne uvedené.
 
-U každého použití naší infografiky či našich dat odkazujte na stránku konkrétní infografiky nebo datasetu, nikoliv přímo na obrázek. Správně je tedy např. _"Infografika [Emise skleníkových plynů v ČR podle sektorů detailně](/infografiky/emise-cr-detail) od autora [Fakta o klimatu](/), licencováno pod [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.cs)."_ Viz též ilustrační obrázek s ukázkou citace infografiky.
+Pri každom použití našej infografiky či našich dát odkazujte na stránku konkrétnej infografiky nebo datasetu, nie priamo na obrázok. Správne je teda napr. _"Infografika [Emisie skleníkových plynov na Slovensku podľa sektorov](/infografiky/emisie-sr) od autora [Fakty o klíme](/), licencované pod [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.sk)."_ Viď aj ilustračný obrázok s ukážkou citácie infografiky.
 
-Citaci si také můžete nechat vygenerovat přímo na stránce každé infografiky nebo datasetu kliknutím na tlačítko sdílení (se symbolem <tt>&lt;/&gt;</tt>) v sekci "Sdílení a licence".
+Citáciu si môžete aj nechať vygenerovať priamo na stránke každej infografiky alebo datasetu kliknutím na tlačítko zdieľania (se symbolom <tt>&lt;/&gt;</tt>) v sekcii "Zdieľanie a licencia".
 
 <figure class="d-md-none w-100 mt-2">
-<a href="/infografiky/emise-cr-detail"><img src="/assets/generated/emise-cr-detail_600.png" class="rounded w-100" alt="Emise skleníkových plynů v ČR podle sektorů detailně" /></a>
-<figcaption class="pt-2">Ukázka použití infografiky z webu Fakta o klimatu. Infografika <em><a href="/infografiky/emise-cr-detail">Emise skleníkových plynů v ČR podle sektorů detailně</a></em> od autora <a href="/">Fakta o klimatu</a>, licencováno pod <a href="https://creativecommons.org/licenses/by/4.0/deed.cs">CC BY 4.0</a>.</figcaption>
+<a href="/infografiky/emisie-sr"><img src="/assets/generated/emisie-sr_600.png" class="rounded w-100" alt="Emisie skleníkových plynov na Slovensku podľa sektorov" /></a>
+<figcaption class="pt-2">Ukážka použitia infografiky z webu Fakty o klíme. Infografika <em><a href="/infografiky/emisie-sr">Emisie skleníkových plynov na Slovensku podľa sektorov</a></em> od autora <a href="/">Fakty o klíme</a>, licencované pod <a href="https://creativecommons.org/licenses/by/4.0/deed.sk">CC BY 4.0</a>.</figcaption>
 </figure>
 
 </div>
@@ -42,33 +42,35 @@ Citaci si také můžete nechat vygenerovat přímo na stránce každé infograf
 
 <div class="section">
 <div class="container" markdown="1">
-## V jakém formátu stáhnout naše infografiky
+{:#file-formats}
+## V akom formáte stiahnuť naše infografiky
 
-U každé naší infografiky najdete tlačítko ke stažení. Můžete si vybrat z vektorových formátů (PDF či SVG) či rastrového formátu (PNG v různých velikostech).
+Pri každej našej infografike nájdete tlačítko na stiahnutie. Môžete si vybrať z vektorových formátov (PDF či SVG) a rastrového formátu (PNG v rôznych veľkostiach).
 
-* Pokud chcete použít infografiku tak, jak je (například na webu, vložit do textového dokumentu nebo poslat přátelům emailem), stáhněte si soubor PNG.
-* Pokud chcete infografiku dále upravovat, stáhněte si ji ve formátu SVG a následně otevřete ve vektorovém editoru, například [Inkscape](https://inkscape.org/) či Adobe Illustrator.
-* Pokud si chcete infografiku vytisknout, stáhněte si soubor PDF.
+* Ak chcete použiť infografiku tak, ako je (napríklad na webe, vložiť do textového dokumentu alebo poslať priateľom emailom), stiahnite si súbor PNG.
+* Ak chcete infografiku ďalej upravovať, stiahnite si ju vo formáte SVG alebo PDF a následne otvorte vo vektorovom editore, napríklad [Inkscape](https://inkscape.org/) či Adobe Illustrator.
+* Ak si chcete infografiku vytlačiť, stiahnite si súbor PDF.
 
-## V jakém formátu stáhnout naše podkladová data
+## V akom formáte stiahnuť naše podkladové dáta
 
-U každé naší infografiky jsou také k dispozici podkladová data.
+Pri každej našej infografike sú k dispozícii aj podkladová dáta.
 
-* Tlačítko "Náš dataset" u infografik odkazuje na naši stránku se zpracovanými daty, jejich popisem a dalšími odkazy na zdrojová data.
-* Tlačítko "Naše tabulka s daty" u infografik a datasetů odkazuje na námi vytvořenou tabulku. Námi vytvořená a zpracovaná data jsou zveřejněna pod licencí [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.cs), tedy je možné si je stáhnout, upravit a zveřejnit při uvedení původu a odkazu na licenci. Vstupní data však často mají svoji vlastní licenci, která je u každého zdroje v tabulce uvedena.
-* Tlačítko "Zdrojová data" u infografik a datasetů odkazuje na původní data sesbíraná, vytvořená nebo zpracovaná jinými institucemi. Tato data mají často vlastní licenci, která je u každého zdroje uvedena.
+* Tlačítko "Náš dataset" pri infografikách odkazuje na našu stránku so spracovanými dátami, ich popisom a ďalšími odkazmi na zdrojová dáta.
+* Tlačítko "Naša tabuľka s dátami" pri infografikách a datasetoch odkazuje na nami vytvorenú tabuľku. Nami vytvorené a spracované dáta sú zverejnené pod licenciou [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.sk), je teda možné si ich stiahnuť, upraviť a zverejniť pri uvedení zdroja a odkazu na licenciu. Vstupné dáta však často majú svoju vlastnú licenciu, ktorá je pri každom zdroji v tabuľke uvedená.
+* Tlačítko "Zdrojové dáta" pri infografikách a datasetoch odkazuje na pôvodné dáta zozbierané, vytvorené alebo spracované inými inštitúciami. Tieto dáta majú často vlastnú licenciu, ktorá je pri každom zdroji uvedená.
+
 </div>
 </div>
 
 <div class="section">
 <div class="container" markdown="1">
 {:#kontakt}
-## Jak nás kontaktovat?
+## Ako nás kontaktovať?
 
-Chcete-li s námi konzultovat použití našich infografik či dat (například pro použití v médiích), ozvěte se našemu týmu na e-mailu [info@faktaoklimatu.cz](mailto:info@faktaoklimatu.cz). Případně můžete kontaktovat přímo Ondráše Přibylu na [ondras.pribyla@faktaoklimatu.cz](mailto:ondras.pribyla@faktaoklimatu.cz) nebo na tel. +420 775 988 882.
+Ak s nami chcete konzultovať použitie našich infografík či dát (napríklad na použitie v médiách), ozvite se nášmu tímu na e-mail [info@faktyoklime.sk](mailto:info@faktyoklime.sk). Prípadne môžete kontaktovať priamo Ondráša Přibylu na [ondras.pribyla@faktyoklime.sk](mailto:ondras.pribyla@faktyoklime.sk) alebo na tel. +420 775 988 882.
 
-Hledáte-li stručné shrnutí projektu, podívejte se do sekce [O projektu](/index2#o-projekte).
+Ak hľadáte stručný popis projektu, pozrite se do sekcie [O projekte](/index2#o-projekte).
 
-Budeme také rádi, pokud nám o použití našich materiálů dáte vědět. Znalost, jak se naše práce používá, nám pomáhá k dalším zlepšením.
+Budeme radi, ak nám o použití našich materiálov dáte vedieť. Znalosť, ako sa naša práca používa, nám pomáha sa ďalej zlepšovať.
 </div>
 </div>
