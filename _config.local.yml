@@ -34,6 +34,7 @@ jekyll-archives:
   layouts:
     tag: tag
   permalinks:
+    slug: temy
     tag: '/temy/:name/'
   collections:
     merge_tags: true
