@@ -1,7 +1,7 @@
 # uvnitř řetězců můžete použít HTML
 # prosím, udržujte seznam řazený dle abecedy
 
-- id: adaptace
+- id: adaptacia
   name-short: "Adaptace"
   description: "Proces přizpůsobení se dopadům klimatických změn a snaha o snížení způsobených škod. Příklady současných adaptačních opatření jsou například protipovodňové zábrany, změny pěstovaných plodin nebo přesídlení do výše položených oblastí, které nebudou postiženy zvyšováním hladiny oceánů. Některé očekávané dopady klimatických změn, jako například silnější hurikány nebo rozšíření tropických nemocí, umožňují jen minimální prevenci a zvládání škod jimi způsobených bude nákladné."
 
@@ -10,13 +10,18 @@
   description: "Albedo vyjadřuje odrazivost povrchu, tedy kolik z příchozího záření odrazí povrch zpět. Povrch, který veškeré záření pohltí, má albedo 0 a povrch, který veškeré záření odrazí, má albedo 1. V klimatologii hraje albedo důležitou roli v úvahách o energetické bilanci planety a při určování v množství slunečního záření, které povrch planety odrazí.<br/>
   Průměrné albedo Země je mezi 0,30 a 0,35, tedy přibližně třetina přijatého záření se odrazí a dvě třetiny se přemění na teplo. Různé oblasti planety však mají různé albedo, které se může navíc měnit během roku, podle typu vegetace, množství sněhu nebo zámrzu na vodní hladině – čerstvý sníh má albedo 0,8 (tedy odráží 80 % záření), albedo ledovců je mezi 0,5 až 0,7.  Naopak volný oceán nebo černý asfalt pohltí skoro všechno záření, které na ně dopadne - oceán má albedo 0,06 a asfalt 0,04."
 
-- id: antropogennisklenikoveplyny
+- id: antropogennesklenikoveplyny
   name-short: "Antropogenní skleníkové plyny"
   description: "V současnosti mají státy vázané _UNFCCC_ a _Kjótským protokolem_ povinnost inventarizovat emise 7 skleníkových plynů [[ghgprotocol.org](https://ghgprotocol.org/sites/default/files/standards_supporting/Required%20gases%20and%20GWP%20values.pdf)]: _antropogenní CO<sub>2</sub>_ (oxid uhličitý), _CH<sub>4</sub>_ (metan), _N<sub>2</sub>O_ (oxid dusný), _PFCs_ (zcela fluorované uhlovodíky), _HFCs_ (částečně fluorované uhlovodíky), _SF<sub>6</sub>_ (fluorid sírový) a _NF<sub>3</sub>_ (fluorid dusitý), což jsou plyny, které přispívají velkou mírou ke skleníkovému efektu (viz _CO<sub>2</sub>eq_ níže)."
 
 - id: citlivost
   name-short: "Citlivost klimatu"
   description: "_Citlivost klimatu_ (z angl. „climate sensitivity“) udává, o kolik stupňů Celsia se zvýší průměrná globální teplota vzduchu, pokud dojde ke zdvojnásobení koncentrace skleníkových plynů v atmosféře. Klimatologické modely předpovídají hodnoty citlivosti v intervalu 2–4,5 °C s nejpravděpodobnější hodnotou 3 °C. To znamená, že při zvýšení koncentrace na dvojnásobek předindustriální hodnoty (z 280 ppm na 560 ppm) můžeme očekávat nárůst průměrné globální teploty o 3 °C – s tím, že oteplení bude spolehlivě o alespoň 2 °C a nemůžeme vyloučit zvýšení teploty až o 4,5 °C. Koncentrace CO<sub>2</sub> v roce 2019 byly 411 ppm a hodnoty 560 ppm bude v případě scénáře RCP8.5 (bez omezování emisí) dosaženo zhruba v roce 2050. Podrobnější diskusi důvodů, které fundamentálně znemožňují zpřesnit interval odhadu, nabízí přehledové články [Knutti & Hegerl, 2008](https://ethz.ch/content/dam/ethz/special-interest/usys/iac/iac-dam/documents/group/climphys/knutti/publications/knutti08natgeo.pdf) a [Knutti, Rugenstein & Hegerl, 2017](https://www.research-collection.ethz.ch/handle/20.500.11850/197761). V obecné rovině se jedná o odezvu klimatického systému na změny v radiačním působení (z angl. “[radiative forcing](https://en.wikipedia.org/wiki/Radiative_forcing)”), podrobnou diskusi konceptu citlivosti klimatu z pohledu různých časových škál obsahuje [en.wikipedia](https://en.wikipedia.org/wiki/Climate_sensitivity)."
+
+- id: shmu
+  name-short: "SHMÚ"
+  name-long: "Slovenský hydrometeorologický ústav"
+  description: "TBA"
 
 - id: chmu
   name-short: "ČHMÚ"
@@ -32,7 +37,7 @@
   name-short: "Externalita"
   description: "Externalita představuje vedlejší, nezamýšlený efekt hospodářské činnosti. Tento efekt může být pozitivní nebo negativní, pak hovoříme o pozitivní či negativní externalitě. Příkladem negativní externality je například továrna vypouštějící toxický odpad do řeky nebo auta uvolňující zplodiny s negativním dopadem na zdraví obyvatel měst. Příkladem pozitivní externality je včelař, jehož včely přispívají k vyšší úrodě zemědělců v okolí, nebo firma, která uvolní svůj software jako open source. Externalita představuje mimotržní dopady, kde nedochází k žádné kompenzaci – například továrna vypouštějící odpad neplatí okolním obyvatelům, kteří již nemohou řeku využívat. Klimatické změny lze považovat za negativní externalitu s globálním dopadem."
 
-- id: emisniintenzitaekonomiky
+- id: emisnaintenzitaekonomiky
   name-short: "Emisní intenzita ekonomiky"
   description: "Intenzita emisí skleníkových plynů v hospodářství je definovaná jako poměr mezi emisemi CO<sub>2</sub>eq a HDP dané ekonomiky. HDP se zpravidla vyjadřuje pomocí parity kupní síly, kdy jsou zohledněny různé cenové hladiny v jednotlivých zemích. K emisím skleníkových plynů dochází při hospodářské aktivitě, emisní intenzitu lze tedy chápat jako ukazatel efektivity nebo čistoty dané ekonomiky vzhledem k množství vypouštěných skleníkových plynů. Zpravidla se udává v kg CO<sub>2</sub>eq na $ HDP, mezi státy s nejnižší a nejvyšší emisní intenzitou jsou až desetinásobné rozdíly."
 
@@ -50,7 +55,7 @@
   name-long: "The Intergovernmental Panel on Climate Change"
   description: "_Mezivládní panel pro změny klimatu_ je vědecký orgán založen v roce 1988 k vyhodnocování rizik změny klimatu, potvrzen Valným shromážděním OSN rezolucí 43/53. Posláním IPCC je poskytovat komplexní vědecké posouzení současných vědeckých, technických a sociálně-ekonomických informací z celého světa o nebezpečí klimatických změn způsobených lidskou činností, o jejich potenciálních environmentálních a sociálně-ekonomických důsledcích a o možnostech přizpůsobení se těmto důsledkům nebo o možnostech zmírnění jejich účinků. IPCC představuje mezinárodně uznávanou autoritu v oblasti klimatických změn, vytváří zprávy, které jsou dohodou předních klimatologů a konsensu zúčastněných vlád. To poskytuje směrodatné politické poradenství s dalekosáhlými důsledky pro ekonomiku a životní styl [[cs.wikipedia](https://cs.wikipedia.org/wiki/IPCC)]."
 
-- id: mitigace
+- id: mitigacia
   name-short: "Mitigace"
   description: "Opatření zaměřená na zmírnění klimatické změny, tedy především na snižování emisí skleníkových plynů (tedy nejen _CO<sub>2</sub>_, ale i metanu, _N<sub>2</sub>O_ a dalších). Příkladem mitigačních opatření je uhlíková daň, využívání obnovitelných zdrojů energie, elektrifikace dopravy nebo zalesňování."
 
