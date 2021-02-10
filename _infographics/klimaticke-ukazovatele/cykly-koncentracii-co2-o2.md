@@ -66,11 +66,11 @@ Keelingova metóda merania koncentrácií CO<sub>2</sub> spočíva v extrémne p
 
 ## Ako vieme, že nárast koncentrácií CO<sub>2</sub> je dôsledkom spaľovania fosílnych palív?
 
-Dôkazov, že nárast koncentrácií CO<sub>2</sub> je spôsobený spaľovaním fosílnych palív je niekoľko:
+Dôkazov, že nárast koncentrácií CO<sub>2</sub> je spôsobený spaľovaním fosílnych palív, je niekoľko:
 
 * Ľudstvo ročne spáli viac ako 5 miliárd ton uhlia, asi 4 miliardy ton ropy a asi 3 miliardy ton zemného plynu. Nárast koncentrácií CO<sub>2</sub> v atmosfére zodpovedá týmto množstvám (po započítaní pohltenia časti CO<sub>2</sub> v oceánoch). Keby chcel niekto tvrdiť, že koncentrácie CO<sub>2</sub> rastú z iného dôvodu, musel by presvedčivo vysvetliť, kam sa "stratia" emisie zo spaľovania tak veľkého množstva fosílnych palív.
-* Nárast koncentrácií CO<sub>2</sub> je sprevádzaný poklesom koncentrácií O<sub>2</sub>, ktorý presne zodpovedá reakčným pomerom pri spaľovaní fosílnych palív (po započítaní pohltenia časti CO<sub>2</sub> v oceánoch) – ide teda o ďalší dôkaz, že za zvyšovanie koncentrácií CO<sub>2</sub> môže práve spaľovanie.
-* Rôzne zdroje oxidu uhličitého majú rôzne [zastúpenie izotopov uhlíka](https://cs.wikipedia.org/wiki/Izotopy_uhl%C3%ADku). Uhlík obsiahnutý v uhlí a rope neobsahuje žiadne izotopy <sup>14</sup>C a zníženú koncentráciu <sup>13</sup>C. Oxid uhličitý vydychovaný rastlinami má nižšiu koncentráciu <sup>13</sup>C ako oxid uhličitý, ktorý vychádza z oceánu. Oxid uhličitý v atmosfére je zmiešaný z týchto zdrojov a jeho podrobnou analýzou je možné zistiť, že súčasné narastajúce koncentrácie CO<sub>2</sub> presne zodpovedajú množstvu spaľovaných fosílnych palív. Viac o izotopoch uhlíka v atmosfére nájdete na webe [NOAA Earth System Research Laboratory](https://www.esrl.noaa.gov/gmd/outreach/isotopes/mixing.html).
+* Nárast koncentrácie CO<sub>2</sub> je sprevádzaný poklesom koncentrácie O<sub>2</sub>, ktorý presne zodpovedá reakčným pomerom pri spaľovaní fosílnych palív (po započítaní pohltenia časti CO<sub>2</sub> v oceánoch) – ide teda o ďalší dôkaz, že za zvyšovanie koncentrácií CO<sub>2</sub> môže práve spaľovanie.
+* Rôzne zdroje oxidu uhličitého majú rôzne [zastúpenie izotopov uhlíka](https://cs.wikipedia.org/wiki/Izotopy_uhl%C3%ADku). Uhlík obsiahnutý v uhlí a rope neobsahuje žiadne izotopy <sup>14</sup>C a má zníženú koncentráciu <sup>13</sup>C. Oxid uhličitý vydychovaný rastlinami má nižšiu koncentráciu <sup>13</sup>C ako oxid uhličitý, ktorý vychádza z oceánu. Oxid uhličitý v atmosfére je zmiešaný z týchto zdrojov a jeho podrobnou analýzou je možné zistiť, že súčasné narastajúce koncentrácie CO<sub>2</sub> presne zodpovedajú množstvu spaľovaných fosílnych palív. Viac o izotopoch uhlíka v atmosfére nájdete na webe [NOAA Earth System Research Laboratory](https://www.esrl.noaa.gov/gmd/outreach/isotopes/mixing.html).
 
 ## Ďalšie súvislosti a odkazy
 
