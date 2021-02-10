@@ -28,7 +28,7 @@ Graf takisto ukazuje vývoj koncentrácie kyslíka (O<sub>2</sub>), konkrétne o
 
 Koncentrácia CO<sub>2</sub> a pokles koncentrácií O<sub>2</sub> uvádzame v jednotkách <glossary id="ppm">ppm</glossary>. Jednotka ppm znamená parts per million, teda označuje počet častíc v jednom milióne, podobne ako percento \[%], teda *per cent*, znamená počet v stovke a promile \[‰] označuje počet v tisícke. Koncentrácia 400 ppm znamená, že v jednom milióne molekúl vzduchu je 400 molekúl oxidu uhličitého, čo zodpovedá 0,4 ‰ alebo 0,04 %.
 
-V absolútnych číslach nemusí nárast koncentrácie CO<sub>2</sub> rádovo v desiatkach molekúl pôsobiť zásadne. Aj takto malá zmena však má veľký vplyv –⁠ pripomeňme si, že zdvojnásobenie koncentrácie CO<sub>2</sub> vedie k dlhodobému zvýšeniu teploty na planéte o 3 °C (viď. <glossary id="citlivosť">citlivosť klímy</glossary>).
+V absolútnych číslach nemusí nárast koncentrácie CO<sub>2</sub> rádovo v desiatkach molekúl pôsobiť zásadne. Aj takto malá zmena však má veľký vplyv –⁠ pripomeňme si, že zdvojnásobenie koncentrácie CO<sub>2</sub> vedie k dlhodobému zvýšeniu teploty na planéte o 3 °C (viď. <glossary id="citlivost">citlivosť klímy</glossary>).
 
 ## Ako sa meria koncentrácia CO<sub>2</sub> a O<sub>2</sub>?
 
