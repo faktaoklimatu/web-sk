@@ -26,7 +26,7 @@
 
 - id: klima
   name-short: klíma
-  name-long: klimatické ukazatele
+  name-long: klimatické ukazovatele
   index-weight: 1
   description: "Priemerná globálna teplota vzduchu od začiatku priemyselnej revolúcie, teda za posledných 200 rokov, stúpla o zhruba 1 °C. Na Slovensku za posledných 60 rokov vzrástla už o 2 °C. Koncentrácia <glossary id='co2eq'>CO<sub>2</sub></glossary> dosahuje hodnôt vyšších než kedykoľvek počas existencie rodu *Homo sapiens*."
 
