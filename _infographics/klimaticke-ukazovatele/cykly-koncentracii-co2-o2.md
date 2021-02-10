@@ -62,8 +62,6 @@ CH<sub>4</sub> + 2 O<sub>2</sub> ⟶ CO<sub>2</sub> + 2 H<sub>2</sub>O."
 
 Dôkaz, že je nárast koncentrácie CO<sub>2</sub> v atmosfére skutočne spôsobený spaľovaním, priniesol Keelingov syn Ralph. Ten v roku 1988 objavil spôsob, ako veľmi presne merať koncentráciu kyslíka. Jeho merania ukazujú na dlhodobý neprirodzený pokles koncentrácie kyslíka v atmosfére. Dnes existujú aj ďalšie vedecké práce založené okrem iného aj na skúmaní izotopových stôp, ktoré potvrdzujú, že pribúdajúci oxid uhličitý v atmosfére pochádza zo spaľovania fosílnych palív. Je preto isté, že nárast koncentrácie CO<sub>2</sub> je skutočne spôsobený človekom.
 
-Keelingova metóda merania koncentrácií CO<sub>2</sub> spočíva v extrémne presnom meraní absorpcie špecifických vlnových dĺžok infračerveného žiarenia vo vzorke vzduchu. Podrobnejšie je popísaná v článku [_The Story of Atmospheric CO<sub>2</sub> Measurements_](https://pubs.acs.org/doi/pdf/10.1021/ac1001492) (PDF). Ďalší kontext, vrátane vysvetlenia meraní izotopových stôp, nájdete v článku [_The Keeling Curve: Carbon Dioxide Measurements at Mauna Loa_](https://www.acs.org/content/acs/en/education/whatischemistry/landmarks/keeling-curve.html).
-
 ## Ako vieme, že nárast koncentrácií CO<sub>2</sub> je dôsledkom spaľovania fosílnych palív?
 
 Dôkazov, že nárast koncentrácií CO<sub>2</sub> je spôsobený spaľovaním fosílnych palív, je niekoľko:
@@ -73,6 +71,8 @@ Dôkazov, že nárast koncentrácií CO<sub>2</sub> je spôsobený spaľovaním 
 * Rôzne zdroje oxidu uhličitého majú rôzne [zastúpenie izotopov uhlíka](https://cs.wikipedia.org/wiki/Izotopy_uhl%C3%ADku). Uhlík obsiahnutý v uhlí a rope neobsahuje žiadne izotopy <sup>14</sup>C a má zníženú koncentráciu <sup>13</sup>C. Oxid uhličitý vydychovaný rastlinami má nižšiu koncentráciu <sup>13</sup>C ako oxid uhličitý, ktorý vychádza z oceánu. Oxid uhličitý v atmosfére je zmiešaný z týchto zdrojov a jeho podrobnou analýzou je možné zistiť, že súčasné narastajúce koncentrácie CO<sub>2</sub> presne zodpovedajú množstvu spaľovaných fosílnych palív. Viac o izotopoch uhlíka v atmosfére nájdete na webe [NOAA Earth System Research Laboratory](https://www.esrl.noaa.gov/gmd/outreach/isotopes/mixing.html).
 
 ## Ďalšie súvislosti a odkazy
+
+* Keelingova metóda merania koncentrácií CO<sub>2</sub> spočíva v extrémne presnom meraní absorpcie špecifických vlnových dĺžok infračerveného žiarenia vo vzorke vzduchu. Podrobnejšie je popísaná v článku [The Story of Atmospheric CO<sub>2</sub> Measurements](https://pubs.acs.org/doi/pdf/10.1021/ac1001492) (PDF). Ďalší kontext, vrátane vysvetlenia meraní izotopových stôp, nájdete v článku [The Keeling Curve: Carbon Dioxide Measurements at Mauna Loa](https://www.acs.org/content/acs/en/education/whatischemistry/landmarks/keeling-curve.html).
 
 * Metóda pre veľmi presné merania koncentrácií O<sub>2</sub> je podrobne popísaná v [dizertačnej práci](http://bluemoon.ucsd.edu/publications/ralph/34_PhDthesis.pdf) Ralpha Keelinga (PDF). Táto metóda spočíva v interferometrickom meraní indexu lomu vzduchu, ktorý je závislý na pomere koncentrácií kyslíka a dusíka. Podrobnejší popis metodiky merania O<sub>2</sub> (vrátane prevodu jednotiek *per meg* na *ppm*) je na stránkach [Scrippsova O<sub>2</sub> programu](https://scrippso2.ucsd.edu/faq.html).
 
