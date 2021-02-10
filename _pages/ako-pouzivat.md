@@ -14,7 +14,7 @@ Veríme, že voľné šírenie informácií a kultivácia verejnej debaty pomáh
 
 <div class="section">
 <div class="container clearfix" markdown="1">
-## Ako môžem použiť infografiky a dáta z Fakt o klíme?
+## Ako môžem použiť infografiky a dáta z Faktov o klíme?
 
 <figure class="d-none d-md-block float-right w-50 ml-4">
 <a href="/infografiky/emisie-sr"><img src="/assets/generated/emisie-sr_600.png" class="rounded w-100" alt="Emisie skleníkových plynov na Slovensku podľa sektorov" /></a>
@@ -23,12 +23,12 @@ Veríme, že voľné šírenie informácií a kultivácia verejnej debaty pomáh
 
 Všetka naša práca je zverejnená pod licenciou [Creative Commons Uvedenie Autora 4.0 Medzinárodný (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.sk). V krátkosti, táto licencia vám umožňuje naše dielo
 
-* **zdieľať**, t. j. vyhotovovať jeho rozmnoženiny a rozširovať ho na akomkoľvek médiu alebo v akomkoľvek formáte, a
+* **zdieľať**, t. j. vyhotovovať jeho rozmnoženiny a rozširovať ho na akomkoľvek médiu alebo v akomkoľvek formáte; 
 * **upravovať**, t. j. nanovo ho usporadúvať, transformovať a vychádzať z neho na akýkoľvek účel, a to aj na obchodný.
 
-za podmienky **uvedenia zdroja**, tzn. uviesť nás ako autorov die, uviesť odkaz na naše stránky, názov licencie a odkaz na jej znenie a vyznačiť prípadné zmeny v infografike alebo texte. Tieto informácie môžu mať rôznu vizuálnu podobu v závislosti na médiu (napr. webová stránka, novinový článok), musí však byť za každých okolností zreteľne uvedené.
+za podmienky **uvedenia zdroja**, tzn. uviesť nás ako autorov diela, uviesť odkaz na naše stránky, názov licencie a odkaz na jej znenie a vyznačiť prípadné zmeny v infografike alebo texte. Tieto informácie môžu mať rôznu vizuálnu podobu v závislosti na médiu (napr. webová stránka, novinový článok), musia však byť za každých okolností zreteľne uvedené.
 
-Pri každom použití našej infografiky či našich dát odkazujte na stránku konkrétnej infografiky nebo datasetu, nie priamo na obrázok. Správne je teda napr. _"Infografika [Emisie skleníkových plynov na Slovensku podľa sektorov](/infografiky/emisie-sr) od autora [Fakty o klíme](/), licencované pod [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.sk)."_ Viď aj ilustračný obrázok s ukážkou citácie infografiky.
+Pri každom použití našej infografiky či našich dát odkazujte na stránku konkrétnej infografiky nebo datasetu, nie priamo na obrázok. Správne je teda napr. _"Infografika [Emisie skleníkových plynov na Slovensku podľa sektorov](/infografiky/emisie-sr) od autora [Fakty o klíme](/), licencované pod [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.sk)."_, viď aj ilustračný obrázok s ukážkou citácie infografiky.
 
 Citáciu si môžete aj nechať vygenerovať priamo na stránke každej infografiky alebo datasetu kliknutím na tlačítko zdieľania (se symbolom <tt>&lt;/&gt;</tt>) v sekcii "Zdieľanie a licencia".
 
@@ -45,7 +45,7 @@ Citáciu si môžete aj nechať vygenerovať priamo na stránke každej infograf
 {:#file-formats}
 ## V akom formáte stiahnuť naše infografiky
 
-Pri každej našej infografike nájdete tlačítko na stiahnutie. Môžete si vybrať z vektorových formátov (PDF či SVG) a rastrového formátu (PNG v rôznych veľkostiach).
+Pri každej našej infografike nájdete tlačidlo na stiahnutie. Môžete si vybrať z vektorových formátov (PDF či SVG) a rastrového formátu (PNG v rôznych veľkostiach).
 
 * Ak chcete použiť infografiku tak, ako je (napríklad na webe, vložiť do textového dokumentu alebo poslať priateľom emailom), stiahnite si súbor PNG.
 * Ak chcete infografiku ďalej upravovať, stiahnite si ju vo formáte SVG alebo PDF a následne otvorte vo vektorovom editore, napríklad [Inkscape](https://inkscape.org/) či Adobe Illustrator.
@@ -55,9 +55,9 @@ Pri každej našej infografike nájdete tlačítko na stiahnutie. Môžete si vy
 
 Pri každej našej infografike sú k dispozícii aj podkladová dáta.
 
-* Tlačítko "Náš dataset" pri infografikách odkazuje na našu stránku so spracovanými dátami, ich popisom a ďalšími odkazmi na zdrojová dáta.
-* Tlačítko "Naša tabuľka s dátami" pri infografikách a datasetoch odkazuje na nami vytvorenú tabuľku. Nami vytvorené a spracované dáta sú zverejnené pod licenciou [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.sk), je teda možné si ich stiahnuť, upraviť a zverejniť pri uvedení zdroja a odkazu na licenciu. Vstupné dáta však často majú svoju vlastnú licenciu, ktorá je pri každom zdroji v tabuľke uvedená.
-* Tlačítko "Zdrojové dáta" pri infografikách a datasetoch odkazuje na pôvodné dáta zozbierané, vytvorené alebo spracované inými inštitúciami. Tieto dáta majú často vlastnú licenciu, ktorá je pri každom zdroji uvedená.
+* Tlačidlo "Náš dataset" pri infografikách odkazuje na našu stránku so spracovanými dátami, ich popisom a ďalšími odkazmi na zdrojová dáta.
+* Tlačidlo "Naša tabuľka s dátami" pri infografikách a datasetoch odkazuje na nami vytvorenú tabuľku. Nami vytvorené a spracované dáta sú zverejnené pod licenciou [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.sk), je teda možné si ich stiahnuť, upraviť a zverejniť pri uvedení zdroja a odkazu na licenciu. Vstupné dáta však často majú svoju vlastnú licenciu, ktorá je pri každom zdroji v tabuľke uvedená.
+* Tlačidlo "Zdrojové dáta" pri infografikách a datasetoch odkazuje na pôvodné dáta zozbierané, vytvorené alebo spracované inými inštitúciami. Tieto dáta majú často vlastnú licenciu, ktorá je pri každom zdroji uvedená.
 
 </div>
 </div>
