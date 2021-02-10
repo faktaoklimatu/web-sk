@@ -8,7 +8,7 @@ weight:     95
 tags-scopes: [ svet ]
 tags-topics: [ klima ]
 caption:    "Od průmyslové revoluce rostou koncentrace oxidu uhličitého vysoko nad hodnoty, které byly na planetě během posledních 800 000 let, výrazně zvyšují skleníkový efekt a způsobují globální oteplování. Data pochází z analýzy ledovcových vrtů EPICA v Antarktidě a z přímých měření na Mauna Loa, Hawai."
-dataset:    "koncentrace-co2"
+dataset:    "koncentracie-co2"
 ---
 
 ## Jak číst tento graf?
