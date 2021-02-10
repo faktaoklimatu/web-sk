@@ -1,19 +1,18 @@
 ---
 layout:     infographic
 title:      "Cykly koncentrácií CO₂ a O₂ v atmosfére"
-slug:       "cykly-koncentrace-co2"
-redirect_from: "/cykly-koncentrace-co2"
-published:  2020-07-30
+slug:       "cykly-koncentracii-co2-o2"
+redirect_from: "/cykly-koncentracii-co2-o2"
+published:  2021-03-01
 weight:     90
 tags-scopes: [ svet ]
 tags-topics: [ klima ]
 caption:    "Graf ukazuje takzvanú Keelingovu krivku, teda najdlhší súvislý záznam vývoja koncentrácií CO<sub>2</sub> v atmosfére."
-dataset:    "koncentrace-co2"
+dataset:    "koncentracie-co2"
 ---
 
-<p class="perex">
+{:.perex}
 Dlhodobý nárast koncentrácie oxidu uhličitého a pokles koncentrácie kyslíka ukazuje, že zloženie atmosféry sa mení v dôsledku ľudskej činnosti –⁠ predovšetkým spaľovaním fosílnych palív.
-</p>
 
 ## Čo vidíme v grafe?
 
@@ -55,7 +54,7 @@ Okrem tohto kolísania medzi letom a zimou videl Keeling tiež dlhodobý nárast
 {:.equation}
 C + O<sub>2</sub> ⟶ CO<sub>2</sub>.
 
-Spaľovanie zemného plynu spotrebováva ešte viac kyslíka, pretože pri ňom vzniká vodná para: 
+Spaľovanie zemného plynu spotrebováva ešte viac kyslíka, pretože pri ňom vzniká vodná para:
 
 {:.equation}
 CH<sub>4</sub> + 2 O<sub>2</sub> ⟶ CO<sub>2</sub> + 2 H<sub>2</sub>O."
@@ -75,7 +74,7 @@ Dôkazov, že nárast koncentrácií CO<sub>2</sub> je spôsobený spaľovaním 
 
 ## Ďalšie súvislosti a odkazy
 
-* Metóda pre veľmi presné merania koncentrácií O<sub>2</sub> je podrobne popísaná v [disertačnej práci](http://bluemoon.ucsd.edu/publications/ralph/34_PhDthesis.pdf) Ralpha Keelinga (PDF). Táto metóda spočíva v interferometrickom meraní indexu lomu vzduchu, ktorý je závislý na pomere koncentrácií kyslíka a dusíka. Podrobnejší popis metodiky merania O<sub>2</sub> (vrátane prevodu jednotiek *per meg* na *ppm*) je na stránkach [Scrippsova O<sub>2</sub> programu](https://scrippso2.ucsd.edu/faq.html).
+* Metóda pre veľmi presné merania koncentrácií O<sub>2</sub> je podrobne popísaná v [dizertačnej práci](http://bluemoon.ucsd.edu/publications/ralph/34_PhDthesis.pdf) Ralpha Keelinga (PDF). Táto metóda spočíva v interferometrickom meraní indexu lomu vzduchu, ktorý je závislý na pomere koncentrácií kyslíka a dusíka. Podrobnejší popis metodiky merania O<sub>2</sub> (vrátane prevodu jednotiek *per meg* na *ppm*) je na stránkach [Scrippsova O<sub>2</sub> programu](https://scrippso2.ucsd.edu/faq.html).
 
 * Koncentrácie CO<sub>2</sub> sú čiastočne ovplyvnené pohlcovaním časti CO<sub>2</sub> v oceáne, čo má za následok [zvyšovanie kyslosti](https://en.wikipedia.org/wiki/Ocean_acidification) morskej vody. Podrobnosti je možné nájsť v článku [Ocean-Atmosphere CO<sub>2</sub> exchange](https://sos.noaa.gov/datasets/ocean-atmosphere-co2-exchange/) od NOAA.
 
