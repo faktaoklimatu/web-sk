@@ -18,7 +18,7 @@ data-orig:   [ [ "Global Carbon Budget", "https://www.icos-cp.eu/science-and-imp
 
 Emisné scenáre sú možné varianty budúceho vývoja emisií ľudstva, ktoré často počítajú s množstvom premenných – od vývoja počtu ľudí na planéte a dopytu po elektrine až po možné rozšírenie veterných elektrární a ďalších technológií. Z vývoja emisií skleníkových plynov je možné odhadnúť budúci vývoj ich koncentrácií v atmosfére (napríklad <glossary id="rcp">RCP</glossary>), čo potom slúži ako základný vstup dát pre modely klímy. Inými slovami, pre každý scenár budúceho vývoja emisií možno odhadnúť oteplenie, ku ktorému povedie.
 
-Samozrejme, existujú aj iné emisné scenáre ako tie, ktoré sme zobrazili v grafe: napríklad scenár "business as usual", ktorý počíta s tým, že emisie CO<sub>2</sub> nebudeme nijako obmedzovať a porastú ďalej doterajším tempom. Okolo roku 2100 by sme takto dospeli ku koncentrácii CO<sub>2</sub> približne 1000 ppm a k priemernému otepleniu planéty o takmer 5 °C v porovnaní s predindustriálnym obdobím.
+Samozrejme, existujú aj iné emisné scenáre ako tie, ktoré sme zobrazili v grafe: napríklad scenár "*business as usual*", ktorý počíta s tým, že emisie CO<sub>2</sub> nebudeme nijako obmedzovať a porastú ďalej doterajším tempom. Okolo roku 2100 by sme takto dospeli ku koncentrácii CO<sub>2</sub> približne 1000 ppm a k priemernému otepleniu planéty o takmer 5 °C v porovnaní s predindustriálnym obdobím.
 
 ## Prečo je zobrazený len vývoj emisií CO<sub>2</sub> a nie aj emisie ďalších skleníkových plynov (metán, N<sub>2</sub>O)?
 
@@ -26,7 +26,7 @@ Emisie oxidu uhličitého spôsobujú približne tri štvrtiny výsledného skle
 
 Budúce emisné scenáre predpokladajú rôzne priebehy emisií rôznych skleníkových plynov, čo by sme síce mohli zobraziť, ale výsledok by bol komplikovaný a pre mnoho ľudí mätúci. Preto zjednodušene zobrazujeme iba priebeh emisií CO<sub>2</sub>, ktorý hrá v globálnom otepľovaní najvýznamnejšiu úlohu.
 
-Zobrazené scenáre predpokladajú pokles emisií metánu približne na polovicu okolo roku 2030 a ich následnú stabilizáciu; v prípade N<sub>2</sub>O pokles približne na 80 % a následnú stabilizáciu emisií. V prípade metánu ani N<sub>2</sub>O teda nepredpokladajú dosiahnutie nulových emisií, ale iba zníženie oproti dnešnému stavu. To je rozumný predpoklad, pretože metán i N<sub>2</sub>O sú z veľkej časti produkované v poľnohospodárstve (chov dobytka, pestovanie ryže, hnojivá) a nemožno teda očakávať úplnú elimináciu týchto emisií. Pre podrobnejšiu diskusiu vývoja emisií týchto plynov pozri [graf v IPCC SR15](https://www.ipcc.ch/site/assets/uploads/sites/2/2019/06/SR15_Full_Report_Low_Res.pdf#page=27), prípadne kompletnú diskusiu potenciálu mitigačních scenárov v druhej kapitole [IPCC SR15](https://www.ipcc.ch/site/assets/uploads/sites/2/2019/06/SR15_Full_Report_Low_Res.pdf#page=107).
+Zobrazené scenáre predpokladajú pokles emisií metánu približne na polovicu okolo roku 2030 a ich následnú stabilizáciu; v prípade N<sub>2</sub>O pokles približne na 80 % a následnú stabilizáciu emisií. V prípade metánu ani N<sub>2</sub>O teda nepredpokladajú dosiahnutie nulových emisií, ale iba zníženie oproti dnešnému stavu. To je rozumný predpoklad, pretože metán i N<sub>2</sub>O sú z veľkej časti produkované v poľnohospodárstve (chov dobytka, pestovanie ryže, hnojivá) a nemožno teda očakávať úplnú elimináciu týchto emisií. Pre podrobnejšiu diskusiu vývoja emisií týchto plynov pozri [graf v IPCC SR15](https://www.ipcc.ch/site/assets/uploads/sites/2/2019/06/SR15_Full_Report_Low_Res.pdf#page=27), prípadne kompletnú diskusiu potenciálu mitigačných scenárov v druhej kapitole [IPCC SR15](https://www.ipcc.ch/site/assets/uploads/sites/2/2019/06/SR15_Full_Report_Low_Res.pdf#page=107).
 
 ## Čo je započítané v historických emisiách CO<sub>2</sub>?
 
@@ -44,7 +44,7 @@ __Plná citácie Parížskej dohody__ znie: _"Táto dohoda (...) sa usiluje posi
 
 Vzhľadom na to, že v súčasnosti dosiahlo oteplenie hodnoty približne 1,2 °C v porovnaní s obdobím pred industrializáciou a emisie ďalej rastú, cieľ udržať nárast teploty pod 1,5 °C je na hranici dosiahnuteľnosti a cieľ udržať nárast teploty pod hranicou 2 °C je veľmi ambiciózny. Zároveň ale už oteplenie okolo 2 °C môže prekročiť mnoho ekosystémových bodov zlomu a bude mať veľké negatívne dôsledky pre ľudstvo. Podrobnejšie sa porovnaniu dopadov oteplenia o 1,5 °C, 2 °C a 3 °C venuje [správa IPCC SR15](https://www.ipcc.ch/sr15/) a prehľad o možných bodoch zlomu obsahujú [naše grafiky](https://faktaoklimatu.cz/infografiky/body-zlomu-1).
 
-## Z čoho vychádzajú odhady budúcich emisií vedúce k naplneniu cieľov Parížskej dohody?
+## Z čoho vychádzajú odhady budúcich emisií vedúce k naplneniu Parížskej dohody?
 
 Emisné scenáre vedúce k obmedzeniu oteplenia o 1,5 °C, resp. o 2 °C, podrobne diskutuje druhá kapitola správy [IPCC SR15](https://www.ipcc.ch/site/assets/uploads/sites/2/2019/06/SR15_Full_Report_Low_Res.pdf#page=107). Autori správy zozbierali výstupy z viac než stovky emisných scenárov a pomocou globálnych klimatických modelov porovnávali, aké oteplenie by spôsobili. Oblasti zobrazené v grafike zodpovedajú pásmam emisií v takých scenároch, ktoré dosiahli hranicu oteplenia o 1,5 °C, resp. o 2 °C, pričom čiara zobrazuje medián z daného súboru.
 
