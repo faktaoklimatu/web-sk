@@ -1,0 +1,31 @@
+/* Local CSS for slovak web version */
+
+.single-page {
+    background: linear-gradient(transparent 0, #ffffff 200px),url(/assets-local/img/infographics-preview.png) !important;
+    padding-top: 150px !important;
+}
+
+.intro {
+    .tagline { width: 11rem; }
+    p { padding-left: 14rem; }
+    form { padding-left: 14rem; }
+}
+
+.support-block {
+    padding: 1rem 0 3rem 14rem;
+    display: grid;
+    grid-template: 1fr / 1fr;
+    place-items: center;
+
+    * {
+        grid-column: 1 / 1;
+        grid-row: 1 / 1;
+    }
+    .widget-darujme {
+        z-index: 2;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .support-block { padding-left: 0; }
+}
