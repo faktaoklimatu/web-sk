@@ -1,13 +1,13 @@
 ---
 layout:      infographic
 title:       "Emisné scenáre vedúce k naplneniu Parížskej dohody"
-slug:        "emisni-scenare-pariz"
-redirect_from: "/emisne-scenare_ParizskaDohoda"
-published:   2021-01-06
+slug:        "emisne-scenare-parizska-dohoda"
+redirect_from: "/emisne-scenare-parizska-dohoda"
+published:   2021-03-01
 weight:      90
 tags-scopes: [ svet ]
 tags-topics: [ buducnost, emisie, opatrenia ]
-caption:     "Udržať nárast teploty v medziach, ktoré nespôsobia rozsiahlu deštrukciu životného prostredia, vyžaduje radikálne zníženie emisií. Scenáre, ktoré vedú k nárastu globálnej teploty do 1,5 °C v porovaní s predindustriálnym obdobím, počítajú so znížením emisií CO<sub>2</sub> na polovicu do roku 2030 a s dosiahnutím uhlíkovej neutrality do roku 2050. Keby sme sa uspokojili s obmedzením oteplenia na 2 °C, znamená to znížiť emisie o štvrtinu do roku 2030 a uhlíkovú neutralitu dosiahnuť okolo roku 2070."
+caption:     "Udržať nárast teploty v medziach, ktoré nespôsobia rozsiahlu deštrukciu životného prostredia, vyžaduje radikálne zníženie emisií. Scenáre, ktoré vedú k nárastu globálnej teploty do 1,5 °C v porovnaní s predindustriálnym obdobím, počítajú so znížením emisií CO<sub>2</sub> na polovicu do roku 2030 a s dosiahnutím uhlíkovej neutrality do roku 2050. Keby sme sa uspokojili s obmedzením oteplenia na 2 °C, znamená to znížiť emisie o štvrtinu do roku 2030 a uhlíkovú neutralitu dosiahnuť okolo roku 2070."
 data-our:    "https://docs.google.com/spreadsheets/d/19PiqYV6FkttzrNcjkbTQmphzxgydtTc1MB6nDZpybj0/edit?usp=sharing"
 data-orig:   [ [ "Global Carbon Budget", "https://www.icos-cp.eu/science-and-impact/global-carbon-budget/2019" ],["IPCC SR15","https://www.ipcc.ch/site/assets/uploads/sites/2/2019/06/SR15_Full_Report_Low_Res.pdf#page=107"] ]
 ---
@@ -22,7 +22,7 @@ Samozrejme, existujú aj iné emisné scenáre ako tie, ktoré sme zobrazili v g
 
 ## Prečo je zobrazený len vývoj emisií CO<sub>2</sub> a nie aj emisie ďalších skleníkových plynov (metán, N<sub>2</sub>O)?
 
-Emisie oxidu uhličitého spôsobujú približne tri štvrtiny výsledného skleníkového efektu. Zostávajúca štvrtina je spôsobená metánom (CH<sub>4</sub>), oxidom dusným (N<sub>2</sub>O) a ďalšími plynmi (SF<sub>6</sub>, PFC, HFC). Bežná prax je prepočítavať emisie týchto skleníkových plynov na ekvivalentné množstvo CO<sub>2</sub>, ktoré sa označuje jednotkou <glossary id="co2eq">CO<sub>2</sub>eq</glossary>. Pre ilustráciu: zatiaľ čo emisie oxidu uhličitého boli v roku 2018 približne 42,1 miliárd ton CO<sub>2</sub>, emisie všetkých skleníkových plynov vrátane metánu, oxidu dusného a ďalších boli 55,3 miliárd ton CO<sub>2</sub>eq. Väčšinou v našich materiáloch zobrazujeme emisie všetkých antropogénnych skleníkových plynov (CO<sub>2</sub>eq) – prečo teda v tejto grafike robíme výnimku?
+Emisie oxidu uhličitého spôsobujú približne tri štvrtiny výsledného skleníkového efektu. Zostávajúca štvrtina je spôsobená metánom (CH<sub>4</sub>), oxidom dusným (N<sub>2</sub>O) a ďalšími plynmi (SF<sub>6</sub>, PFC, HFC). Bežná prax je prepočítavať emisie týchto skleníkových plynov na ekvivalentné množstvo CO<sub>2</sub>, ktoré sa označuje jednotkou <glossary id="co2eq">CO<sub>2</sub>eq</glossary>. Pre ilustráciu: zatiaľ čo emisie oxidu uhličitého boli v roku 2018 približne 42,1 miliárd ton CO<sub>2</sub>, emisie všetkých skleníkových plynov vrátane metánu, oxidu dusného a ďalších boli 55,3 miliárd ton CO<sub>2</sub>eq. Väčšinou v našich materiáloch zobrazujeme emisie všetkých <glossary id="antropogennesklenikoveplyny">antropogénnych skleníkových plynov</glossary> (CO<sub>2</sub>eq) – prečo teda v tejto grafike robíme výnimku?
 
 Budúce emisné scenáre predpokladajú rôzne priebehy emisií rôznych skleníkových plynov, čo by sme síce mohli zobraziť, ale výsledok by bol komplikovaný a pre mnoho ľudí mätúci. Preto zjednodušene zobrazujeme iba priebeh emisií CO<sub>2</sub>, ktorý hrá v globálnom otepľovaní najvýznamnejšiu úlohu.
 
@@ -32,8 +32,8 @@ Zobrazené scenáre predpokladajú pokles emisií metánu približne na polovicu
 
 Zdrojom dát o historických emisiách je [Global Carbon Project](https://www.globalcarbonproject.org/), ktorý sa snaží o inventarizáciu všetkých dostupných dát o antropogénnych skleníkových plynoch a ich cykloch. Zobrazené údaje obsahujú:
 
-* emisie zo spaľovania fosílnych palív (uhlie, ropa, plyn)
-* emisie z priemyselných procesov (hlavne výroba cementu, ale aj ďalšie oxidačné procesy)
+* emisie zo spaľovania fosílnych palív (uhlie, ropa, plyn);
+* emisie z priemyselných procesov (hlavne výroba cementu, ale aj ďalšie oxidačné procesy);
 * emisie spôsobené odlesňovaním a zmenami využívania pôdy – do tejto kategórie spadá nielen výrub tropických či iných lesov a lesné požiare, ale aj zmeny množstva organického uhlíka viazaného v pôde, zalesňovanie a ďalšie človekom spôsobené zmeny. Odhady týchto emisií zo zmien využitia pôdy si vyžadujú zložitejšie modelovanie a uvádzané hodnoty sú priemerom z niekoľkých modelov.
 
 Podrobnú metodologickú diskusiu nájdete v článku [Global Carbon Budget 2019](https://www.researchgate.net/publication/337742746_Global_Carbon_Budget_2019).
