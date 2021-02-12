@@ -8,7 +8,7 @@ weight:     90
 tags-scopes: [ svet ]
 tags-topics: [ klima ]
 caption:    "Graf ukazuje takzvanú Keelingovu krivku, teda najdlhší súvislý záznam vývoja koncentrácií CO<sub>2</sub> v atmosfére."
-dataset:    "koncentracie-co2"
+dataset:    "koncentracia-co2"
 ---
 
 {:.perex}
