@@ -30,17 +30,17 @@ Zobrazené scenáre predpokladajú pokles emisií metánu približne na polovicu
 
 ## Čo je započítané v historických emisiách CO<sub>2</sub>?
 
-Zdrojom dát historických emisií je [Global Carbon Project](https://www.globalcarbonproject.org/), ktorý sa snaží o inventarizáciu všetkých dostupných dát o antropogénnych skleníkových plynoch a ich cykloch. Zobrazené údaje obsahujú:
+Zdrojom dát o historických emisiách je [Global Carbon Project](https://www.globalcarbonproject.org/), ktorý sa snaží o inventarizáciu všetkých dostupných dát o antropogénnych skleníkových plynoch a ich cykloch. Zobrazené údaje obsahujú:
 
 * emisie zo spaľovania fosílnych palív (uhlie, ropa, plyn)
 * emisie z priemyselných procesov (hlavne výroba cementu, ale aj ďalšie oxidačné procesy)
-* emisie spôsobené odlesňovaním a zmenami využívania pôdy – do tejto kategórie spadá nielen výrub tropických či iných lesov a lesné požiare, ale aj zmeny v množstve organického uhlíka viazaného v pôde, zalesňovanie a ďalšie človekom spôsobené zmeny. Odhady týchto emisií zo zmien využitia pôdy si vyžadujú zložitejšie modelovanie a uvádzané hodnoty sú priemerom z niekoľkých modelov.
+* emisie spôsobené odlesňovaním a zmenami využívania pôdy – do tejto kategórie spadá nielen výrub tropických či iných lesov a lesné požiare, ale aj zmeny množstva organického uhlíka viazaného v pôde, zalesňovanie a ďalšie človekom spôsobené zmeny. Odhady týchto emisií zo zmien využitia pôdy si vyžadujú zložitejšie modelovanie a uvádzané hodnoty sú priemerom z niekoľkých modelov.
 
 Podrobnú metodologickú diskusiu nájdete v článku [Global Carbon Budget 2019](https://www.researchgate.net/publication/337742746_Global_Carbon_Budget_2019).
 
 ## Prečo sa v Parížskej dohode stanovil cieľ obmedziť oteplenie o 1,5 °C, resp. o 2 °C?
 
-__Plná citácie Parížskej dohody__ znie: _"Táto dohoda (...) sa usiluje posilniť celosvetovú odozvu na hrozbu zmeny klímy (...) vrátane nasledujúcich nástrojov: (a) udržať zvýšenie globálnej priemernej teploty výrazne pod hodnotou 2 °C v porovnaní s hodnotami predindustriálneho obdobia a vynaložiť úsilie na obmedzenie zvýšenia teploty na 1,5 °C v porovnaní s hodnotami predindustriálneho obdobia, čo by významne znížilo riziká a dôsledky zmeny klímy"_ (viď [slovenský preklad Parížskej dohody](https://www.minzp.sk/files/oblasti/politika-zmeny-klimy/paris-agreement_sk_final.pdf).
+__Plná citácia Parížskej dohody__ znie: _"Táto dohoda (...) sa usiluje posilniť celosvetovú odozvu na hrozbu zmeny klímy (...) vrátane nasledujúcich nástrojov: (a) udržať zvýšenie globálnej priemernej teploty výrazne pod hodnotou 2 °C v porovnaní s hodnotami predindustriálneho obdobia a vynaložiť úsilie na obmedzenie zvýšenia teploty na 1,5 °C v porovnaní s hodnotami predindustriálneho obdobia, čo by významne znížilo riziká a dôsledky zmeny klímy"_ (viď [slovenský preklad Parížskej dohody](https://www.minzp.sk/files/oblasti/politika-zmeny-klimy/paris-agreement_sk_final.pdf).
 
 Vzhľadom na to, že v súčasnosti dosiahlo oteplenie hodnoty približne 1,2 °C v porovnaní s obdobím pred industrializáciou a emisie ďalej rastú, cieľ udržať nárast teploty pod 1,5 °C je na hranici dosiahnuteľnosti a cieľ udržať nárast teploty pod hranicou 2 °C je veľmi ambiciózny. Zároveň ale už oteplenie okolo 2 °C môže prekročiť mnoho ekosystémových bodov zlomu a bude mať veľké negatívne dôsledky pre ľudstvo. Podrobnejšie sa porovnaniu dopadov oteplenia o 1,5 °C, 2 °C a 3 °C venuje [správa IPCC SR15](https://www.ipcc.ch/sr15/) a prehľad o možných bodoch zlomu obsahujú [naše grafiky](https://faktaoklimatu.cz/infografiky/body-zlomu-1).
 
