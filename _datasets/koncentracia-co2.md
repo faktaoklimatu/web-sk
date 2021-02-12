@@ -1,7 +1,7 @@
 ---
 layout:     dataset
 title:      "Vývoj koncentrace CO₂ a O₂ v atmosféře"
-slug:       "koncentracie-co2"
+slug:       "koncentracia-co2"
 published:  2020-04-19
 weight:     10
 tags-scopes: [ svet ]
