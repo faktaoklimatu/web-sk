@@ -58,7 +58,7 @@ slug: index2
         <a href="/{{ site.slugs.how-to-use }}" class="btn btn-secondary"><i class="fas fa-fw fa-book-reader"></i> Jak používat naše materiály</a>
       </div>
       <div class="col-md-6 col-lg-4">
-        <a href="/atlas" class="card"><img src="/assets/img/atlas-mockup.png" alt="Alas klimatické změny" class="img-fluid"></a>
+        <a href="/atlas" class="card"><img src="/assets-local/img/atlas-mockup.png" alt="Alas klimatické změny" class="img-fluid"></a>
       </div>
     </div>
   </div></div>
@@ -100,7 +100,7 @@ Klimatická změna je složitý komplex vzájemně provázaných jevů. Data, kt
         <h3 class="display-3">
         <span class="fa fa-fw fa-chevron-up"></span>
         {{ index_tag.name-long | capitalize }}
-        <small class="text-secondary d-none d-md-inline">({% include object-stats.html tag=index_tag.id %})</small>
+        <small class="text-secondary d-none d-md-inline">({% include includes-local/object-stats.html tag=index_tag.id %})</small>
         </h3>
     </div>
     <div class="collapse" id="collapse_{{ index_tag.id }}"  aria-labelledby="heading_{{ index_tag.id }}" data-parent="#accordionExample" markdown="1">
@@ -132,14 +132,14 @@ Snažíme se dodávat srozumitelné údaje široké veřejnosti a vizuálně zpr
   </ol>
   <div class="carousel-inner">
     <a href="https://www.senat.cz/informace/galerie/videogalerie/video.php?id=721" class="no-ext-link-icon carousel-item active" data-interval="6000">
-      <img src="{{ site.baseurl }}/assets/img/carousel-senat.jpg" class="d-block w-100" alt="Fakta o klimatu v Senátu" />
+      <img src="/assets-local/carousel/senat.jpg" class="d-block w-100" alt="Fakta o klimatu v Senátu" />
       <div class="carousel-caption d-none d-md-block">
         <h5>Fakta o klimatu v Senátu</h5>
         <p>Oldřich Sklenář prezentoval naše data u expertního kulatého stolu v Senátu Parlamentu ČR, aby podpořil kvalitní debatu o transformaci energetiky.</p>
       </div>
     </a>
     <a href="https://www.irozhlas.cz/veda-technologie/priroda/klima-data-fakta-o-klimatu_2002060600_jab" class="no-ext-link-icon carousel-item" data-interval="6000">
-      <img src="{{ site.baseurl }}/assets/img/carousel-media.png" class="d-block w-100" alt="Naše práce v médiích" />
+      <img src="/assets-local/carousel/media.png" class="d-block w-100" alt="Naše práce v médiích" />
       <div class="carousel-caption d-none d-md-block">
         <h5>Naše práce v médiích</h5>
         <p>Za jeden z největších úspěchů považujeme, že data a grafiky našeho projektu přebírají česká a slovenská média.</p>

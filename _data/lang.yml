@@ -14,6 +14,13 @@ licence:
   title: "Creative Commons Uvedenie Autora 4.0 Medzinárodný"
   link: "https://creativecommons.org/licenses/by/4.0/deed.sk"
 
+text:
+  toc: "Obsah"
+  related:
+    title: "Súvisiace infografiky a štúdie"
+    caption: "Zaujala vás naša práca? Preskúmajte ďalšie súvisiace infografiky a štídie:"
+    dataset-based: "Infografiky postavené na tomto datasetu"
+
 sidebar:
   download:
     title: "Na stiahnutie"
@@ -43,3 +50,19 @@ sidebar:
     download: "Stiahnutie"
     data: "Dáta"
     share: "Zdieľanie"
+  study:
+    author: "Autor"
+    institution: "Inštitúcia"
+    year: "Rok vydania"
+    source-web: "Web štúdie"
+    source-pdf: "PDF štúdie"
+
+tag:
+  all-tags-caption: "Prehľad oblastí a tém,<br/>ktorým se věnujeme"
+  scope: "Oblasť"
+  topic: "Téma"
+  all-scope: "Všetky infografiky, štúdie a datasety týkajúce se oblasti"
+  all-topic: "Všetky infografiky, štúdie a datasety týkajúce se témy"
+  all-infographics: "Naše infografiky týkajúce se témy. Na stránke grafiky vždy nájdete zdroj dát aj podrobnejšie informácie."
+  all-studies: "Naše rešerše a zhrnutia štúdií týkajúcich sa témy. U štúdií uvádzame, prečo je daná štúdia dôležitá a aké sú jej hlavné závery."
+  all-datasets: "Naše datasety vzťahujúce se k téme. Typicky kombinujeme viacero zdrojov a vysvetľujeme, ako presne z nich vychádzajú naše infografiky."

@@ -51,3 +51,7 @@ defaults:
   -
     values:
       sitemap: false
+
+# Enable Czech smart quotes
+kramdown:
+    smart_quotes: sbquo,lsquo,bdquo,ldquo
