@@ -1,37 +1,38 @@
 ---
 layout:     infographic
-title:      "Emise skleníkových plynů světa"
-slug:       "emise-svet"
-redirect_from: "/emise-svet"
-published:  2019-10-28
+title:      "Svetové emisie skleníkových plynov"
+slug:       "emisie-svet"
+redirect_from: "/emisie-svet"
+published:  2021-03-01
 weight:     80
 tags-scopes: [ svet ]
-tags-topics: [ emise ]
-caption:    "Poměrové srovnání ročních emisí regionů světa a přepočet na obyvatele."
+tags-topics: [ emisie ]
+caption:    "Pomerové porovnanie ročných emisií regiónov sveta a prepočet na obyvateľa."
 # TODO: Nahradit za dataset, až bude grafika založena na datech EDGAR 5.
+# Aktualizovať linky na SK reálie, keď budú hotové
 # dataset:    "emise-svet"
 data-our:   "https://drive.google.com/open?id=1aZNVRC7lJM28FxbKKnXo7HsPlyE2RaMbG3KDs8igwec"
 data-orig:  [ [ "Zdrojová databáze EDGAR", "https://edgar.jrc.ec.europa.eu/overview.php?v=432_GHG" ] ]
 ---
 
-## Jak číst tento graf?
+## Ako čítať tento graf?
 
-* Všechny hodnoty emisí uvádíme v jednotkách <glossary id="co2eq">CO<sub>2</sub>eq</glossary>.
-* V levé části jsou celkové roční emise světových regionů za rok 2012 v gigatunách CO<sub>2</sub>eq včetně procentuálního zastoupení (jedna gigatuna je miliarda tun). Plochy jednotlivých obdélníků odpovídají relativním emisím daného regionu. **Celosvětové emise v roce 2012 byly 46 gigatun CO<sub>2</sub>eq.**
-* V pravé části jsou roční emise přepočtené na jednoho obyvatele daného regionu vyjádřeny v tunách CO<sub>2</sub>eq. Levá část tedy umožňuje porovnání absolutních emisí regionů, oproti tomu pravá část ukazuje, jak k celosvětovým emisím přispívá průměrný obyvatel daného regionu.
-* Infografika [Emise skleníkových plynů EU](/infografiky/emise-eu) znázorňuje stejné údaje pro jednotlivé státy Evropské unie včetně České republiky.
-* Podrobnější srovnání států a regionů podle emisí na osobu ukazuje související infografika [Emise světových regionů přepočtené na osobu](/infografiky/emise-svet-na-osobu).
+* Všetky hodnoty emisií uvádzame v jednotkách <glossary id="co2eq">CO<sub>2</sub>eq</glossary>.
+* V ľavej časti sú celkové ročné emisie svetových regiónov za rok 2012 v gigatonách CO2eq vrátane percentuálneho zastúpenia (jedna gigatona je miliarda ton). Plochy jednotlivých obdĺžnikov zodpovedajú relatívnym emisiám daného regiónu. Celosvetové emisie v roku 2012 boli 46 gigaton CO2eq.
+* V pravej časti sú ročné emisie prepočítané na jedného obyvateľa tohto regiónu vyjadrené v tonách CO2eq. Ľavá časť teda umožňuje porovnávanie absolútnych emisií regiónov, oproti tomu pravá časť ukazuje, ako k celosvetovým emisiám prispieva priemerný obyvateľ daného regiónu.
+* Infografika [Emise skleníkových plynů EU](/infografiky/emise-eu) znázorňuje rovnaké údaje pre jednotlivé štáty Európskej únie vrátane Slovenska.
+* Podrobnejšie porovnanie štátov a regiónov podľa emisií na osobu ukazuje súvisiaca infografika [Emisie svetových regiónov prepočítané na osobu](/infografiky/emise-svet-na-osobu).
 
-## Zajímavosti a komentáře ke grafu
+## Zaujímavosti a komentáre ku grafu
 
-* Česká republika produkuje 0,14 gigatun CO<sub>2</sub>eq ročně, co odpovídá 0,3 % světových emisí na 0,15 % globální populace. Pokud by každý obyvatel Země produkoval tolik emisí jako průměrný Čech, globální emise by vzrostly na 92 gigatun CO<sub>2</sub>eq ročně, tedy na dvojnásobek současných emisí.
-* Asie produkuje více než polovinu globálních emisí, zároveň však představuje 59&thinsp;% globální populace. Pokud by každý obyvatel planety produkoval stejně emisí jako průměrný Asiat, celkové emise by poklesly na 41 gigatun CO<sub>2</sub>eq ročně.
-* Z jednotlivých států má v absolutních číslech nejvyšší emise Čína. K prudkému nárůstu emisí zde došlo především mezi lety 2000 a 2011, od roku 2012 čínské emise rostou [výrazně pomalejším tempem](https://unearthed.greenpeace.org/2019/02/28/china-coal-renewable-energy-2018-data-trends/) a v přepočtu na osobu jsou přibližně srovnatelné s emisemi Evropské unie. V Číně již několik let probíhají [pilotní programy obchodování s emisními povolenkami](https://www.nytimes.com/interactive/2019/04/02/climate/pricing-carbon-emissions.html) a v roce 2020 se Čína chystá spustit celonárodní program pro obchodování s emisemi. V roce 2018 bylo v Číně [prodáno více elektrických aut](https://qz.com/1517557/five-things-to-know-about-chinas-electric-car-boom/) než ve všech ostatních státech dohromady.
-* V přepočtu na obyvatele má ze sledovaných regionů nejvyšší emise Austrálie a Nový Zéland - přibližně dvojnásobné v porovnání s obyvateli České republiky. Některé blízkovýchodní státy však mají ještě vyšší emise na obyvatele (například Kuvajt nebo Spojené arabské emiráty).
+* Slovenská republika v roku 2012 vyprodukovala 48,5 megaton CO<sub>2</sub>eq, čo zodpovedá 0,1 % svetových emisií na 0,08 % globálnej populácie. Ak by každý človek na Zemi vyprodukoval toľko emisií ako priemerný obyvateľ Slovenska, celkové globálne emisie by vzrástli na 63 gigaton CO<sub>2</sub>eq ročne, teda takmer o polovicu viac v porovnaní s reálnymi vtedajšími emisiami.
+* Ázia produkuje viac ako polovicu globálnych emisií, zároveň však predstavuje 59 % globálnej populácie. Ak by každý obyvateľ planéty produkoval rovnako emisií ako priemerný Aziat, celkové emisie by poklesli na 41 gigaton CO<sub>2</sub>eq ročne.
+* Z jednotlivých štátov má v absolútnych číslach najvyššie emisie Čína. K prudkému nárastu emisií tu došlo predovšetkým medzi rokmi 2000 a 2011, od roku 2012 čínske emisie rastú [výrazne pomalším tempom](https://unearthed.greenpeace.org/2019/02/28/china-coal-renewable-energy-2018-data-trends/) a v prepočte na osobu sú približne porovnateľné s emisiami Európskej únie. V Číne už niekoľko rokov prebiehajú [pilotné programy obchodovania s emisnými povolenkami](https://www.nytimes.com/interactive/2019/04/02/climate/pricing-carbon-emissions.html) a začiatkom roka 2021 sa Čína chystá spustiť celonárodný program pre obchodovanie s emisiami. V roku 2018 bolo v Číne [predaných viac elektrických áut](https://qz.com/1517557/five-things-to-know-about-chinas-electric-car-boom/) než vo všetkých ostatných štátoch dohromady.
+* V prepočte na obyvateľa má zo sledovaných regiónov najvyššie emisie Austrália a Nový Zéland – približne trojnásobné v porovnaní s obyvateľmi Slovenska. Niektoré blízkovýchodné štáty však majú ešte vyššie emisie na obyvateľa (napríklad Kuvajt alebo Spojené arabské emiráty).
 
-## Poznámky k datům o emisích
+## Poznámky k dátam o emisiách
 
-* Zdrojem dat je databáze EDGAR (Emission Database for Global Atmospheric Research, Emisní databáze pro globální výzkum atmosféry) provozovaná Evropskou agenturou pro životní prostředí.
-* Graf uvádí data za rok 2012, neboť v době přípravy podkladů pro graf (září 2019) nebyly k dispozici novější data o emisích skleníkových plynů za jednotlivé státy světa (novější data jsou dostupná pouze pro některé regiony nebo se týkají pouze emisí oxidu uhličitého a nezahrnují ostatní skleníkové plyny).
-* Údaje odpovídají emisím vyprodukovaným v daném regionu, avšak vzhledem k vývozu a dovozu zboží nemusejí odpovídat emisím vzniklých ze spotřeby v daném regionu.
-* V grafu jsou zobrazeny <glossary id="antropogennisklenikoveplyny">antropogenní emise</glossary> CO<sub>2</sub>, N<sub>2</sub>O a CH<sub>4</sub> vyjádřené jako <glossary id="co2eq">CO<sub>2</sub>eq</glossary>, nejsou zde zahrnuty některé marginální skleníkové plyny.
+* Zdrojom dát je databáza EDGAR (Emission Database for Global Atmospheric Research, Emisné databázy pre globálne výskum atmosféry) prevádzkovaná Európskou agentúrou pre životné prostredie.
+* Graf uvádza dáta za rok 2012, pretože v čase prípravy podkladov pre graf (február 2021) neboli k dispozícii novšie dáta o emisiách skleníkových plynov za jednotlivé štáty sveta (novšie dáta sú dostupné len pre niektoré regióny alebo sa týkajú len emisií oxidu uhličitého a nezahŕňajú ostatné skleníkové plyny).
+* Údaje zodpovedajú emisiám vyprodukovaným v danom regióne, avšak vzhľadom k vývozu a dovozu tovaru nemusia zodpovedať emisiám vzniknutých zo spotreby v danom regióne.
+* V grafe sú zobrazené <glossary id="antropogennisklenikoveplyny">antropogénne emisie</glossary> CO<sub>2</sub>, N<sub>2</sub>O a CH<sub>4</sub> vyjadrené ako <glossary id="co2eq">CO<sub>2</sub>eq</glossary>, nie sú tu zahrnuté niektoré marginálne skleníkové plyny.
