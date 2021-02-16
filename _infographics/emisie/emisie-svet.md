@@ -20,7 +20,7 @@ data-orig:  [ [ "Zdrojová databáze EDGAR", "https://edgar.jrc.ec.europa.eu/ove
 * Všetky hodnoty emisií uvádzame v jednotkách <glossary id="co2eq">CO<sub>2</sub>eq</glossary>.
 * V ľavej časti sú celkové ročné emisie svetových regiónov za rok 2012 v gigatonách CO<sub>2</sub>eq vrátane percentuálneho zastúpenia (jedna gigatona je miliarda ton). Plochy jednotlivých obdĺžnikov zodpovedajú relatívnym emisiám daného regiónu. Celosvetové emisie v roku 2012 boli 46 gigaton CO<sub>2</sub>eq.
 * V pravej časti sú ročné emisie prepočítané na jedného obyvateľa tohto regiónu vyjadrené v tonách CO<sub>2</sub>eq. Ľavá časť teda umožňuje porovnávanie absolútnych emisií regiónov, zatiaľ čo pravá časť ukazuje, ako k celosvetovým emisiám prispieva priemerný obyvateľ daného regiónu.
-* Infografika [Emisie skleníkových plynov EÚ](https://faktaoklimatu.cz/infografiky/emise-eu-na-osobu) znázorňuje rovnaké údaje pre jednotlivé štáty Európskej únie vrátane Slovenska.
+* Infografika [Emisie skleníkových plynov EÚ](https://faktaoklimatu.cz/infografiky/emise-eu) znázorňuje rovnaké údaje pre jednotlivé štáty Európskej únie vrátane Slovenska.
 * Podrobnejšie porovnanie štátov a regiónov podľa emisií na osobu ukazuje súvisiaca infografika [Emisie svetových regiónov prepočítané na osobu](https://faktaoklimatu.cz/infografiky/emise-svet-na-osobu).
 
 ## Zaujímavosti a komentáre ku grafu
