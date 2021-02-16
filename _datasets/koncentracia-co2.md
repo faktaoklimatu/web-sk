@@ -84,16 +84,16 @@ Tento dataset je však zložený z meraní z oveľa viac ľadovcových vrtov z �
 
 Hoci mnohé z vrtov obsahujú záznamy z širšieho časového obdobia, tento dataset je zložený nasledovne (nižšie používané "BP" je skratka pre *before present* a odkazuje pre roky pred rokom 1950):
 
-* -51–2000 rokov BP: Law Dome (Rubino et al., 2013, MacFarling Meure et al., 2006),
-* 2–11 tisíc rokov BP: Dome C (Monnin et al., 2001 + 2004),
-* 11–22 tisíc rokov BP: WAIS (Marcott et al., 2014), od týchto meraní sú odpočítané 4 ppm pre vyváženie systematickej chyby merania,
-* 22–40 tisíc rokov BP: Siple Dome (Ahn et al., 2014),
-* 40–60 tisíc rokov BP: TALDICE (Bereiter et al., 2012),
-* 60–115 tisíc rokov BP: E-DML (Bereiter et al., 2012),
-* 105–155 tisíc rokov BP: Dome C Sublimation (Schneider et al., 2013),
-* 155–393 tisíc rokov BP: Vostok (Petit et al., 1999),
-* 393–611 tisíc rokov BP: Dome C (Siegenthaler et al., 2005),
-* 612–800 tisíc rokov BP: Dome C (Bereiter et al., 2014).
+* -51 – 2000 rokov BP: Law Dome (Rubino et al., 2013, MacFarling Meure et al., 2006),
+* 2 – 11 tisíc rokov BP: Dome C (Monnin et al., 2001 + 2004),
+* 11 – 22 tisíc rokov BP: WAIS (Marcott et al., 2014), od týchto meraní sú odpočítané 4 ppm pre vyváženie systematickej chyby merania,
+* 22 – 40 tisíc rokov BP: Siple Dome (Ahn et al., 2014),
+* 40 – 60 tisíc rokov BP: TALDICE (Bereiter et al., 2012),
+* 60 – 115 tisíc rokov BP: E-DML (Bereiter et al., 2012),
+* 105 – 155 tisíc rokov BP: Dome C Sublimation (Schneider et al., 2013),
+* 155 – 393 tisíc rokov BP: Vostok (Petit et al., 1999),
+* 393 – 611 tisíc rokov BP: Dome C (Siegenthaler et al., 2005),
+* 612 – 800 tisíc rokov BP: Dome C (Bereiter et al., 2014).
 
 </div></div>
 <div class="section"><div class="container" markdown="1">
