@@ -1,6 +1,6 @@
 ---
 layout:     infographic
-title:      "Vývoj koncentrácia CO₂ v atmosfére"
+title:      "Vývoj koncentrácie CO₂ v atmosfére"
 slug:       "koncentracia-co2"
 redirect_from: "/koncentracia-co2"
 published:  2021-03-01
