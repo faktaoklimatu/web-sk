@@ -1,12 +1,12 @@
 ---
 layout:     dataset
-title:      "Vývoj koncentrace CO₂ a O₂ v atmosféře"
+title:      "Vývoj koncentrácie CO<sub>2</sub> a O<sub>2</sub> v atmosfére"
 slug:       "koncentracia-co2"
 published:  2020-04-19
 weight:     10
 tags-scopes: [ svet ]
 tags-topics: [ klima ]
-caption:    "Dataset obsahuje tři různé datové řady pro CO₂ lišící se časovým rozsahem, zdrojem dat i metodikou a jednu datovou řadu pro koncentrace O₂. Koncentrace CO₂ jsou uvedeny v jednotkách ppm."
+caption:    "Dataset obsahuje tri rôzne rady údajov pre CO<sub>2</sub> líšiace sa časovým rozsahom, zdrojom dát i metodikou a jeden dátový rad pre koncentráciu O<sub>2</sub>. Koncentrácie CO₂ sú uvedené v jednotkách ppm."
 data-our:   "https://docs.google.com/spreadsheets/d/1DYrIsmgy_S6IIWGtsk55Jor6zSDrf6-qT8Og9n7oDoU/edit?usp=sharing"
 data-orig:	[ [ "EPICA", "ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/antarctica/epica_domec/edc-co2-2008.xls" ]
             , [ "Scripps", "https://scrippsco2.ucsd.edu/data/atmospheric_co2/icecore_merged_products" ]
@@ -16,7 +16,7 @@ data-orig:	[ [ "EPICA", "ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/antarcti
 
 <div class="section"><div class="container" markdown="1">
 
-## Keelingova křivka, rok 1958–současnost
+## Keelingova krivka, rok 1958–súčasnosť
 
 {% include data-header.html
     name="Scripps Institution of Oceanography"
@@ -28,14 +28,14 @@ data-orig:	[ [ "EPICA", "ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/antarcti
     licence-proof="http://doi.org/10.6075/J08W3BHW"
 %}
 
-Data pochází z instrumentálního měření na Mauna Loa na Havaji. Používá se pro ně velmi přesné manometricky kalibrované spektroskopické měření, které vyvinul Charles Keeling. Konstrukci měřicích přístrojů i příběh Charlese Keelinga podrobně popisuje článek v Analytical Chemistry: [Charles David Keeling and the Story of Atmospheric CO<sub>2</sub> Measurements](https://pubs.acs.org/doi/full/10.1021/ac1001492). V odebraných vzorcích vzduchu se sleduje nejen koncentrace CO<sub>2</sub> v jednotkách <glossary id='ppm'>ppm</glossary>, ale i isotopické složení uhlíku (poměr zastoupení <sup>12</sup>C, <sup>13</sup>C a <sup>14</sup>C). Toto složení pomáhá určit, z jakého zdroje uhlík pochází, zda ze spalování fosilních paliv, z dýchání rostlin, ze sopky apod. Přesnost měřených hodnot je ± 0.1 ppm (podle [původního Keelingova článku](https://scrippsco2.ucsd.edu/assets/publications/keeling_tellus_1960.pdf) i podle [Mezinárodního ústavu pro míry a váhy](https://www.bipm.org/utils/common/pdf/chemistry/GAS2015_poster_CO2.pdf)). Názorně metodu měření přibližuje [popularizační video](https://scripps.ucsd.edu/programs/keelingcurve/2018/04/12/video/) Ralpha Keelinga.
+Dáta pochádzajú z inštrumentálneho merania na Mauna Loa na Havaji. Používajú sa na ne veľmi presné tlakomerové kalibrované spektroskopické merania, ktoré vyvinul Charles Keeling. Konštrukciu meracích prístrojov aj príbeh Charlesa Keelinga podrobne opisuje článok v Analytical Chemistry: [Charles David Keeling and the Story of Atmospheric CO<sub>2</sub> Measurements](https://pubs.acs.org/doi/full/10.1021/ac1001492). V odobratých vzorkách vzduchu sa sleduje nielen koncentrácia CO<sub>2</sub> v jednotkách <glossary id='ppm'>ppm</glossary>, ale aj zastúpenie izotopov uhlíka (pomer zastúpenia <sup>12</sup>C, <sup>13</sup>C a <sup>14</sup>C). Toto zloženie pomáha určiť, z akého zdroja uhlík pochádza, či zo spaľovania fosílnych palív, z dýchania rastlín, zo sopky a pod. Presnosť meraných hodnôt je ± 0.1 ppm (podle [pôvodného Keelingovho článku](https://scrippsco2.ucsd.edu/assets/publications/keeling_tellus_1960.pdf) i podľa [Medzinárodného ústavu pre miery a váhy](https://www.bipm.org/utils/common/pdf/chemistry/GAS2015_poster_CO2.pdf)). Názorne metódu merania približuje [popularizačné video](https://scripps.ucsd.edu/programs/keelingcurve/2018/04/12/video/) Ralpha Keelinga.
 
-Datová sada obsahuje jen měsíční průměry měření, detailní denní a týdenní průměry jsou ke stažení zvlášť na [stránce měřící stanice](https://scrippsco2.ucsd.edu/data/atmospheric_co2/mlo.html). Při počítání průměrných hodnot je časová řada očištěna o měření, která se výrazně odchylují od okolních měření. Takové odchylky bývají způsobeny vlivem ostrovní vegetace z nižší nadmořské výšky (některá odpoledne k měřící stanici zavane tento vzduch s nižší koncentrací CO<sub>2</sub>), případně vyšší sopečnou aktivitou (která naopak koncentraci CO<sub>2</sub> zvyšuje). Stejně tak bývají některé hodnoty zpětně aktualizovány kvůli rekalibraci referenčních plynů a dalším kontrolám kvality. Další informace o zpracování měřených dat najdete v [článku](https://scripps.ucsd.edu/programs/keelingcurve/2014/07/28/how-is-co2-data-processed/) na webových stránkách ústavu.
+Dátová sada obsahuje len mesačné priemery merania. Detailné denné a týždenné priemery sú dostupné zvlášť na [stránke meracej stanice](https://scrippsco2.ucsd.edu/data/atmospheric_co2/mlo.html). Pri počítaní priemerných hodnôt sú časové rady očistené o merania, ktoré sa výrazne odchyľujú od okolitých meraní. Takéto odchýlky bývajú spôsobené vplyvom ostrovnej vegetácie (vzduch s nižšou koncentráciou  CO<sub>2</sub>) alebo sopečnou aktivitou (vyššia koncentrácia  CO<sub>2</sub>). Rovnako tak bývajú niektoré hodnoty spätne aktualizované kvôli rekalibrácii referenčných plynov a ďalšej kontrole kvality. Ďalšie informácie o spracovaní meraných dát nájdete v [článku](https://scripps.ucsd.edu/programs/keelingcurve/2014/07/28/how-is-co2-data-processed/) na webových stránkach ústavu.
 
 </div></div>
 <div class="section"><div class="container" markdown="1">
 
-## Kompozitní dataset Scripps, posledních 2000 let
+## Kompozitný dataset Scripps, posledných 2000 rokov
 
 {% include data-header.html
     name="Scripps Institution of Oceanography"
@@ -46,19 +46,19 @@ Datová sada obsahuje jen měsíční průměry měření, detailní denní a t�
     licence-proof="https://scrippsco2.ucsd.edu/data/atmospheric_co2/icecore_merged_products.html"
 %}
 
-Tento dataset je složen ze dvou měření:
+Tento dataset je zložený z dvoch meraní:
 
-* Keelingovo měření z Mauna Loa (od roku 1958, viz výše) a z jižního pólu (od roku 1957, viz [stránka stanice](https://scrippsco2.ucsd.edu/data/atmospheric_co2/spo.html)).
-* Měření historických koncentrací za posledních 2000 let z ledovcových vrtů v oblasti Law Dome ve východní Antarktidě (66°46′08″S, 112°48′28″E). Měření byla prováděna postupně z různých vrtů, proto je nejvíce vzorků pro nejbližších 200 let, o něco méně vzorků pro předchozích 1000 let a nejméně vzorků z prvního tisíciletí našeho letopočtu.
+* Keelingovo meranie z Mauna Loa (od roku 1958, pozri vyššie) a z južného pólu (od roku 1957, viď [stránka stanice](https://scrippsco2.ucsd.edu/data/atmospheric_co2/spo.html)).
+* merania historických koncentrácií za posledných 2000 rokov z ľadovcových vrtov v oblasti Law Dome vo východnej Antarktíde (66°46′08″S, 112°48′28″E). Merania sa majú uskutočniť postupne z rôznych vrtov, preto je najviac vzoriek z posledných 200 rokov, o niečo menej vzoriek pre predchádzajúcich 1000 rokov a najmenej vzoriek z prvého tisícročia nášho letopočtu.
 
-Historické koncentrace jsou měřeny stejnou metodou jako Keelingovo měření výše. Jen vzorky vzduchu jsou odlišné, jde o vzduch zachycený v bublinkách v ledu. Stáří vzduchu je určeno hloubkou a radioizotopovým datováním.
+Historické koncentrácie sú merané rovnakou metódou ako Keelingove meranie, len vzorky vzduchu sú odlišné –⁠ ide o vzduch zachytený v bublinkách v ľade. Vek vzduchu je určený hĺbkou a rádioizotopovým datovaním.
 
-Jsou současná měření a historická data srovnatelná? Měřené hodnoty z bublinek v ledu antarktického ledovce a současná měření se velmi přesně překrývají. Zároveň historická data z různých ledovců (Antarktida, Grónsko, horské ledovce) jsou vysoce konzistentní. Jediným omezením ledovcových dat je, že získaná koncentrace odpovídá zhruba desetiletému klouzavému průměru koncentrací, kvůli difuzi vzduchu v pomalu tuhnoucích vrchních vrstvách firnu.
+Sú súčasné merania a historické dáta porovnateľné? Merané hodnoty z bubliniek v ľade antarktického ľadovca a súčasné merania sa veľmi presne prekrývajú. Zároveň historické dáta z rôznych ľadovcov (Antarktída, Grónsko, horské ľadovce) sú vysoko konzistentné. Jediným obmedzením ľadovcových dát je, že získaná koncentrácia zodpovedá zhruba desaťročnému kĺzavému priemeru koncentrácií, a to kvôli difúzii vzduchu v pomaly tuhnúcich vrchných vrstvách firnu.
 
 </div></div>
 <div class="section"><div class="container" markdown="1">
 
-## Kompozitní dataset EPICA, posledních 800 000 let
+## Kompozitný dataset EPICA, posledných 800 000 rokov
 
 {% include data-header.html
     name="NOAA (National Oceanic and Atmospheric Administration)"
@@ -69,45 +69,44 @@ Jsou současná měření a historická data srovnatelná? Měřené hodnoty z b
     licence-proof="https://www1.ncdc.noaa.gov/pub/data/paleo/icecore/antarctica/antarctica2015co2composite.txt"
 %}
 
-V rámci projektu EPICA (European Project for Ice Coring in Antartica) byly získány nejstarší vzorky ledu pro měření koncentrace CO<sub>2</sub> v rámci tohoto datasetu. Ty pocházejí ze dvou vrtů na Antarktidě:
+V rámci projektu EPICA (European Project for Ice Coring in Antartica) boli získané najstaršie vzorky ľadu pre meranie koncentrácie CO<sub>2</sub> v rámci tohto datasetu. Tie pochádzajú z dvoch vrtov na Antarktíde:
 
-* Epica-DML, u německé Kohnovy stanice (75°00′06″S; 00°04′04″E, hloubka vrtu 2 774 m).
-* Dome C, u francouzsko-italské stanice Concordia (75°06′04″S; 123°20′52″E, hloubka vrtu 3 270 m).
+* Epica-DML pri nemeckej Kohnovej stanici (75°00′06″S; 00°04′04″E, hĺbka vrtu 2 774 m).
+* Dome C pri francúzsko-talianskej stanici Concordia (75°06′04″S; 123°20′52″E, hĺbka vrtu 3 270 m).
 
-Tento dataset je ovšem složen z měření z mnohem více ledovcových vrtů z dalších výzkumných projektů:
+Tento dataset je však zložený z meraní z oveľa viac ľadovcových vrtov z ďalších výskumných projektov:
 
-* Law Dome, viz dataset SCRIPPS výše.
-* WAIS, měřený v rámci amerického výzkumného projektu v západní Antarktidě (79°28′04.8″S; 112°05′09.6″W, hloubka vrtu 3 405 m).
-* Siple Dome, měřený v rámci amerického výzkumného projektu v Zemi Marie Byrdové (81°39′15″S 149°00′18″W, hloubka vrtu 974 m).
-* TALDICE, měřený v rámci evropského výzkumného projektu v oblasti Talos Dome (72°49′40″S 159°11′00″E, hloubka vrtu 1620 m).
-* Vostok, měřený od sedmdesátých let u sovětské polární stanice Vostok (78°27′50″S 106°50′15″E, hloubka nejhlubšího vrtu z roku 1996 je 3623 m).
+* Law Dome viď dataset SCRIPPS vyššie,
+* WAIS meraný v rámci amerického výskumného projektu v západnej Antarktíde (79°28′04.8″S; 112°05′09.6″W, hĺbka vrtu 3 405 m),
+* Siple Dome meraný v rámci amerického výskumného projektu v Zemi Mary Byrd (81°39′15″S 149°00′18″W, hĺbka vrtu 974 m),
+* TALDICE meraný v rámci európskeho projektu výskumu Talos Dome (72°49′40″S 159°11′00″E, hĺbka vrtu 1620 m),
+* Vostok meraný od sedemdesiatych rokov na sovietskej polárnej stanice Vostok (78°27′50″S 106°50′15″E, hĺbka najhlbšieho vrtu z roku 1996 je 3623 m).
 
-Přestože mnohé z vrtů obsahují záznamy z širšího časového období, tento dataset je složen následujícím způsobem
-(níže používané "BP" je zkratka pro *before present* a odkazuje pro roky před rokem 1950):
+Hoci mnohé z vrtov obsahujú záznamy z širšieho časového obdobia, tento dataset je zložený nasledovne (nižšie používané "BP" je skratka pre *before present* a odkazuje pre roky pred rokom 1950):
 
-* -51–2000 let BP: Law Dome (Rubino et al., 2013, MacFarling Meure et al., 2006),
-* 2–11 tisíc let BP: Dome C (Monnin et al., 2001 + 2004),
-* 11–22 tisíc let BP: WAIS (Marcott et al., 2014), od těchto měření je odečteno 4 ppm pro vyvážení systematické chyby měření,
-* 22–40 tisíc let BP: Siple Dome (Ahn et al., 2014),
-* 40–60 tisíc let BP: TALDICE (Bereiter et al., 2012),
-* 60–115 tisíc let BP: E-DML (Bereiter et al., 2012),
-* 105–155 tisíc let BP: Dome C Sublimation (Schneider et al., 2013),
-* 155–393 tisíc let BP: Vostok (Petit et al., 1999),
-* 393–611 tisíc let BP: Dome C (Siegenthaler et al., 2005),
-* 612–800 tisíc let BP: Dome C (Bereiter et al., 2014).
+* -51–2000 rokov BP: Law Dome (Rubino et al., 2013, MacFarling Meure et al., 2006),
+* 2–11 tisíc rokov BP: Dome C (Monnin et al., 2001 + 2004),
+* 11–22 tisíc rokov BP: WAIS (Marcott et al., 2014), od týchto meraní sú odpočítané 4 ppm pre vyváženie systematickej chyby merania,
+* 22–40 tisíc rokov BP: Siple Dome (Ahn et al., 2014),
+* 40–60 tisíc rokov BP: TALDICE (Bereiter et al., 2012),
+* 60–115 tisíc rokov BP: E-DML (Bereiter et al., 2012),
+* 105–155 tisíc rokov BP: Dome C Sublimation (Schneider et al., 2013),
+* 155–393 tisíc rokov BP: Vostok (Petit et al., 1999),
+* 393–611 tisíc rokov BP: Dome C (Siegenthaler et al., 2005),
+* 612–800 tisíc rokov BP: Dome C (Bereiter et al., 2014).
 
 </div></div>
 <div class="section"><div class="container" markdown="1">
 
-## Koncentrace O<sub>2</sub> na Mauna Loa, rok 1989–současnost
+## Koncentrácia O<sub>2</sub> na Mauna Loa, rok 1989-súčasnosť
 
 {% include data-header.html
     name="Scripps Institution of Oceanography"
     description="Scripps O<sub>2</sub> Program, Atmospheric Oxygen Research."
     url="https://scrippso2.ucsd.edu/index.html"
-    licence="otevřená vědecká data (licence není specifikovaná)"
+    licence="otvorené vedecká dáta (licencia nie je špecifikovaná)"
 %}
 
-Tento dataset pochází z instrumentálního měření na sopce Mauna Loa na Havaji. Metodu pro velmi přesné měření koncentrací O<sub>2</sub> objevil v roce 1988 Ralph Keeling, syn Charlese Keelinga, a podrobně ji popsal ve své [disertační práci](http://bluemoon.ucsd.edu/publications/ralph/34_PhDthesis.pdf). Tato metoda spočívá v interferometrickém měření indexu lomu vzduchu, který je závislý na poměru koncentrací kyslíku a dusíku. Tento dataset tedy technicky obsahuje měření poměru koncentrace O<sub>2</sub>/N<sub>2</sub> a je udáván ve formě relativního rozdílu vůči referenčnímu vzorku přibližně z poloviny osmdesátých let (vynásobené milionem, proto je označována "per meg"). Přesnou definici této jednotky včetně převodu na ppm najdete na stránkách [Scrippsova O2 programu](http://scrippso2.ucsd.edu/units-and-terms.html). Podle těchto instrukcí jsme také převedli tato naměřená data na jednotky ppm, abychom je mohli srovnat s růstem koncentrace CO<sub>2</sub>.
+Tento dataset pochádza z inštrumentálneho merania na sopke Mauna Loa na Havaji. Metódu pre veľmi presné meranie koncentrácie O<sub>2</sub> vyvinul v roku 1988 Ralph Keeling, syn Charlesa Keelinga, a podrobne ju opísal vo svojej [dizertačnej práci](http://bluemoon.ucsd.edu/publications/ralph/34_PhDthesis.pdf). Táto metóda spočíva v interferometrickom meraní indexu lomu vzduchu, ktorý je závislý na pomere koncentrácie kyslíka a dusíka. Tento dataset teda technicky obsahuje meranie pomeru koncentrácie O<sub>2</sub>/N<sub>2</sub> a je udávaný vo forme relatívneho rozdielu voči referenčnej vzorke približne z polovice osemdesiatych rokov (vynásobenej miliónom, preto je označovaná "per meg"). Presnú definíciu tejto jednotky vrátane prevodu na ppm nájdete na stránkach [Scrippsovho O<sub>2</sub> programu](http://scrippso2.ucsd.edu/units-and-terms.html). Podľa týchto inštrukcií sme previedli tieto namerané dáta na jednotky ppm, aby sme ich mohli porovnať s rastom koncentrácie CO<sub>2</sub>.
 
 </div></div>
