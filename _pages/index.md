@@ -1,7 +1,7 @@
 ---
 layout: empty
 title: Fakta o klimatu
-slug: index2
+slug: index
 ---
 <div class="section intro">
     <div class="container">
