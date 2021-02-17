@@ -1,25 +1,25 @@
 ---
 layout:     study
-title:      "Globální zpráva o elektřině 2020"
-slug:       2020-globalni-zprava-o-elektrine
+title:      "Globálna správa o elektrine 2020"
+slug:       2020-globalna-sprava-o-elektrine
 redirect_from:
-  - /2020-globalni-zprava-o-elektrine
-  - /2020_globalni-zprava-o-elektrine
-  - /studie/2020_globalni-zprava-o-elektrine
-published:  2020-05-22
+  - /2020-globalna-sprava-o-elektrine
+  - /2020_globalna-sprava-o-elektrine
+  - /studie/2020_globalna-sprava-o-elektrine
+published:  2021-03-01
 weight:     95
 tags-scopes: [ svet ]
-tags-topics: [ energetika, emise ]
-caption:    "Zpráva nabízí globální analýzu zdrojů výroby elektřiny v roce 2019 a změn ve výrobě oproti předchozím rokům."
-intro:      "Cílem studie think-tanku Ember vydané v březnu 2020 je předložit analýzu světových trendů ve výrobě a spotřebě elektřiny a podrobněji diskutovat stav v roce 2019 s vývojem v předchozích dvaceti letech. Zabývá se pouze výrobou elektřiny, nikoli celým energetickým sektorem, není tak zahrnuta například energie vyrobená spalováním paliv v dopravě (benzín, nafta) či na vytápění (zejména zemní plyn).
-Zpráva také obsahuje kompletní dataset popisující zdroje výroby elektřiny pro všechny státy světa za posledních 20 let."
+tags-topics: [ energetika, emisie ]
+caption:    "Správa ponúka globálnu analýzu zdrojov výroby elektriny v roku 2019 a zmien vo výrobe v porovnaní s predošlými rokmi."
+intro:      "Cieľom štúdie think-tanku Ember vydanej v marci 2020 je predložit analýzu svetových trendov vo výrobe a spotrebe elektriny a ???podrobnejšie diskutovať stav v roku 2019 s vývojom v predchádzajúcich dvadsiatich rokoch???. Zaoberá sa iba výrobou elektriny a nie celým energetickým sektorom, a preto nezahŕna napr. spotrebu energie v doprave (benzín, nafta) či energiu na vykurovanie (najmä zemný plyn).
+Správa tiež obsahuje kompletný dataset popisujúci zdroje výroby elektriny pre všetky štáty sveta za posledných 20 rokov."
 summary:    |
-    * **Výroba elektřiny z uhlí se v roce 2019 celosvětově propadla o 3 % ve srovnání s rokem 2018.** V důsledku došlo k poklesu celkových emisí při výrobě elektřiny o 2 %, jedná se však spíše o jednorázový pokles než o začátek dlouhodobého trendu.
-    * Mezi jednotlivými regiony jsou značné rozdíly. **Lídry v nahrazování uhlí jinými zdroji jsou Evropská unie a Spojené státy americké, od roku 2007 míra využívání uhlí pro výrobu elektřinu v obou poklesla na polovinu.** V EU byl tento pokles nahrazen obnovitelnými zdroji (větrné a solární elektrárny), v USA bylo uhlí nahrazeno převážně zemním plynem.
-    * Produkce z větrných a solárních elektráren vzrostla v roce 2019 o 15 %, kdy tyto zdroje vyrobily 8 % celosvětové elektřiny.
-    * Celosvětová poptávka po elektřině stále roste, v roce 2019 se navýšila o 1,4 %. Jednalo se o nejnižší nárůst od roku 2009, příčinou byla nižší ekonomická produkce a mírnější zima především v USA a EU. Poptávka po elektřině v Číně vzrostla o 5 %.
-    * Tříprocentní pokles ve využívání uhlí však stále není dostatečný pro efektivní zmírnění klimatické změny. Scénář udržitelného rozvoje podle Mezinárodní energetické agentury (IEA) vyžaduje každoroční snížení o 4 %, scénář 1,5 °C podle IPCC dokonce o 11 %. **Zároveň data naznačují, že pokles v roce 2019 je spíše krátkodobým výkyvem než začátkem slibného trendu** – v předchozích letech míra využívání uhlí pro výrobu elektřiny spíše rostla, vývoj v roce 2019 byl ovlivněn nižším růstem HDP a počasím.
-
+    * **Výroba elektriny z uhlia sa v roku 2019 celosvetovo znížila o 3 % v porovnaní s rokom 2018.** V dôsledku toho došlo k poklesu celkových emisií z výroby elektriny o 2 %, **jedná sa ale skôr o jednorazový pokles než o začiatok sľubného dlhodobého trendu**. Dáta z predošlých rokov naznačujú, že miera využitia uhlia na výrobu elektriny skôr rástla a situácia v roku 2019 bola zrejme ovplyvnená nižším rastom HDP a počasím.
+    * Medzi jednotlivými regiónmi sú značné rozdiely. **Lídrami v nahrádzaní uhlia inými zdrojmi sú Európska únia a USA, kde od roku 2007 využitie uhlia na výrobu elektriny kleslo na polovicu.** V EÚ bol tento pokles nahradený obnoviteľnými zdrojmi (veternými a solárnymi elektrárňami), v USA prevažne zemným plynom.
+    * Produkcia z veterných a solárnych elektrární vzrástla v roku 2019 o 15 %, kedy tieto zdroje vyrobili 8 % celosvetovej elektriny.
+    * Celosvetový dopyt po elektrine stále rastie a v roku 2019 sa navýšil o 1,4 %, čo bol najnižší nárast od roku 2009. Príčinou toho bola nižšia ekonomická produkcia a miernejšia zima predovšetkým v USA a EÚ. V Číne vzrástol dopyt po elektrine o 5 %.
+    * Trojpercentný pokles vo využívaní uhlia však stále nie je dostatočný pre efektívne zmiernenie klimatickej zmeny. Scenár udržateľného rozvoja podla Medzinárodnej energetickej agentúry (IEA) vyžaduje každoročné zníženie o 4 %, scenár 1,5 °C podľa IPCC dokonca o 11 %. 
+    
 study-title:        "Global Electricity Review 2020"
 study-author:       "Dave Jones a kol."
 study-institution:  "Ember: Coal to Clean Energy Policy"
@@ -89,6 +89,6 @@ Tříprocentní pokles ve využívání uhlí by nebyl dostatečný pro efektivn
 
 * Údaje pro emise ve zprávě a datasetu jsou přímé emise výroby elektřiny, nikoliv emise životního cyklu. Není v nich tedy započítáno budování zdrojů a infrastruktury, emise z těžby a přepravy paliv apod.
 
-## Poznámky o zpracovateli
+## Poznámky o spracovateľovi
 
-Ember (dříve nazývaný Sandbag) je nezávislý klimatický think-tank, zaměřený na podporu přechodu od uhlí k čistým zdrojům elektřiny. Cílem zprávy je předložit analýzu aktuálních trendů ve využívání elektřiny a zároveň také  poskytnout volně přístupný soubor se zdrojovými daty za jednotlivé státy. Zpráva se zabývá pouze výrobou elektřiny, nikoli celým energetickým sektorem, není tak zahrnuta například energie spotřebovaná dopravou (benzín, nafta) či na vytápění (zejména zemní plyn).
+Ember (predtým nazývaný Sandbag) je nezávislý klimatický think-tank zameraný na prechod od uhlia k čistým zdrojom elektriny. Cieľom správy je predložiť analýzu aktuálnych trendov vo využití elektriny a zároveň tiež poskytnúť voľne prístupný súbor so zdrojovými dátami pre jednotlivé štáty. Správa sa zaoberá iba výrobou elektriny a nie celým energetickým sektorom, a preto nezahŕna napr. spotrebu energie v doprave (benzín, nafta) alebo na vykurovanie (hlavne zemný plyn).
