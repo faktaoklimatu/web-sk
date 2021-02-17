@@ -86,7 +86,7 @@ Tříprocentní pokles ve využívání uhlí by nebyl dostatečný pro efektivn
 ## Poznámky o metodike
 
 * Dataset obsahuje údaje z rokov 2000 – 2019 pre 224 krajín. V niektorých prípadoch boli dáta získané od národnych zdrojov (Čína, USA, India, EÚ a 15 ďalších väčších štátov), údaje pre ostatné štáty pochádzajú z [medzinárodnej datovej sekcie amerického Ministerstva energetiky](https://www.eia.gov/international/data/world). V niektorých prípadoch boli dáta doplnené o ďalšie odhady (obvykle sa jednalo o produkciu elektriny podľa jednotlivých typov výroby v prípade dát pre ostatné štáty). Detailnejšiu metodológiu týchto odhadov a ďalších výpočtov popisuje príslušná časť správy.
-* Údaje o emisiách v správe a datasete sú priame emisie z výroby elektriny, nie emisie celého životného cyklu. Nie sú v nich teda zahrnuté emisie z budovanie zdrojov a infraštruktúry, emisie z ťažby a prepravy palív a pod.
+* Údaje o emisiách v správe a datasete sú priame emisie z výroby elektriny, nie emisie z celého životného cyklu. Nie sú v nich teda zahrnuté emisie z budovania zdrojov a infraštruktúry, emisie z ťažby a prepravy palív a pod.
 
 ## Poznámky o spracovateľovi
 
