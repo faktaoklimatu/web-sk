@@ -1,15 +1,15 @@
 ---
 layout:     study
-title:      "Charneyho zpráva"
-slug:       1979-charneyho-zprava
+title:      "Charneyho správa"
+slug:       1979-charneyho-sprava
 redirect_from:
-  - /1979-charneyho-zprava
-published:  2019-08-22
+  - /1979-charneyho-sprava
+published:  2021-03-01
 weight:     200
 tags-scopes: [ svet ]
 tags-topics: [ klima, emise ]
-caption:    "V roce 1979 vědci popsali a vcelku přesně předpověděli klimatickou změnu. Jejich výsledky jsou stále platné."
-intro:      "V roce 1979 vědci publikovali zprávu o dopadech zvyšujících se koncentrací CO<sub>2</sub> v atmosféře. Výsledky této studie se ukázaly být přesné a byly od té doby mnohokrát potvrzeny mnohem přesnějšími metodami. Již tehdy vědci v úvodu psali o nebezpečí setrvačnosti klimatického systému"
+caption:    "V roku 1979 vedci popísali a celkom presne predpovedali klimatickú zmenu. Ich výsledky sú stále platné."
+intro:      "V roku 1979 vedci publikovali správu o dopadoch zvyšujúcej sa koncentrácie CO<sub>2</sub> v atmosfére. Výsledky tejto štúdie sa ukázali byť presné a boli odvtedy mnohokrát potvrdené oveľa presnejšími metódami. Už vtedy vedci v úvode písali o nebezpečenstve zotrvačnosti klimatického systému."
 study-title:        "Carbon Dioxide and Climate: A Scientific Assessment"
 study-author:       "Climate Research Board"
 study-institution:  "National Research Council"
@@ -18,19 +18,19 @@ study-doi:          "10.17226/19856"
 study-url:          "https://www.nap.edu/catalog/19856/carbon-dioxide-and-climate-a-scientific-assessment"
 study-pdf:          "https://www.nap.edu/read/19856/chapter/1"
 summary: |
-    * Hlavním výstupem zprávy je odhad tzv. <glossary id="citlivost">citlivosti klimatu</glossary>, tedy průměrné změny teploty povrchu Země při zdvojnásobení koncentrace CO<sub>2</sub>. Vědci dochází k závěru, že __*"...pokud dojde ke zdvojnásobení koncentrace CO<sub>2</sub> v atmosféře a dosažení termodynamické rovnováhy, dojde k oteplení o 2 °C až 3,5 °C, s vyššími nárůsty v severních zeměpisných šířkách."*__ Moderní odhady citlivosti klimatu na základě mnohem přesnějších modelů i historických pozorování docházejí ke stejným hodnotám.
-    * Zpráva popisuje skleníkový efekt, i když toto slovní spojení ještě přímo nepoužívá: __*"...hlavní efekt zvýšení koncentrace CO<sub>2</sub> je větší absorpce tepelného záření zemského povrchu a v důsledku nárůst teploty vzduchu v atmosféře. Silnou pozitivní zpětnou vazbu vytváří pak související nárůst koncentrace vodní páry, která je ještě silnější absorbér tepelného záření..."*__ Vědci dále kvantifikují radiační působení při zdvojnásobení koncentrace na 4 W/m<sup>2</sup> a konstatují, že metody výpočtu radiačního působení byly již tehdy potvrzeny laboratorními měřeními i satelitními měřeními.
+    * Hlavným výstupom správy je odhad tzv. <glossary id="citlivosť">citlivosti klímy</glossary>, teda priemernej zmeny teploty povrchu Zeme pri zdvojnásobení koncentrácie CO<sub>2</sub>. Vedci v správe dochádzajú k záveru, že __*"(...) ak príde k zdvojnásobeniu koncentrácie CO<sub>2</sub> v atmosfére a k dosiahnutiu termodynamickej rovnováhy, dôjde k otepleniu o 2 °C až 3,5 °C, s vyšším nárastom teploty v severných zemepisných šírkach"*__ Moderné odhady citlivosti klímy na základe omnoho presnejších modelov aj historických pozorovaní dochádzajú k rovnakým hodnotám.
+    * Správa popisuje skleníkový efekt, aj keď toto slovné spojenie ešte priamo nepoužíva: __"*(...) hlavný efekt zvýšenia koncentrácie CO<sub>2</sub> je väčšia absorpcia tepelného žiarenia zemského povrchu a v dôsledku toho nárast teploty vzduchu v atmosfére. Silnú pozitívnu spätnú väzbu vytvára potom súvisiaci nárast koncentrácie vodnej pary, ktorá je ešte silnejší absorbent tepelného žiarenia (...).*"__ Vedci ďalej kvantifikujú radiačné pôsobenie pri zdvojnásobení koncentrácie na 4 W/m<sup>2</sup> a konštatujú, že metódy výpočtu radiačného pôsobenia boli už vtedy potvrdené laboratórnymi aj satelitnými meraniami.
 ---
 
-## Předpoklady a metodologie
+## Predpoklady a metodológia
 
-Studie vychází z tehdejších poznatků o fyzice atmosféry a oceánů a z výsledků tehdejších numerických modelů, tzv. GCM (_Global Circulation Models_), což byly první počítačové modely s hrubou geografií povrchu. Ve studii jsou shrnuty dominantní fyzikální mechanismy určující planetární klima včetně hlavních zpětnovazebních smyček (vodní pára, albedo, oblaka) a podrobněji diskutovány výsledky modelů. Autoři popisují historické emise a uvádějí odhad možného vývoje emisí (odhadují, že koncentrací 560 ppm, tedy zdvojnásobení oproti předindustriální hodnotě 280 ppm, by planeta mohla dosáhnout někdy po roce 2030). Vzhledem k možnostem tehdejších počítačových simulací se autoři nesnaží určit rychlost změny ani podrobné geografické rozložení teplot a zaměřují se pouze na odhad citlivosti klimatu.
+Štúdia vychádza z vtedajších poznatkov o fyzike atmosféry a oceánov a z výsledkov vtedajších numerických modelov, tzv. GCM (Global Circulation Models), čo boli prvé počítačové modely s hrubou geografiou povrchu. V štúdii sú zhrnuté dominantné fyzikálne mechanizmy určujúce planetárnu klímu vrátane hlavných spätnoväzbových slučiek (vodná para, albedo, oblaky) a podrobnejšie diskutované sú výsledky modelov. Autori popisujú historické emisie a uvádzajú odhad možného vývoja emisií (odhadujú, že koncentráciu 560 ppm, teda zdvojnásobenie v porovnaní s predindustriálnou hodnotou 280 ppm, by planéta mohla dosiahnuť niekedy po roku 2030). Vzhľadom na možnosti vtedajších počítačových simulácií sa autori nesnažia určiť rýchlosť zmeny ani podrobné geografické rozloženie teplôt a zameriavajú sa len na odhad citlivosti klímy.
 
-## Poznámky o zpracovateli
+## Poznámky o spracovateľovi
 
-Autorský tým zprávy tvořilo 10 předních vědců z oblasti klimatologie a fyziky atmosféry (zpráva je pojmenována po předsedovi této komise, kterým byl [Jule Charney](https://en.wikipedia.org/wiki/Jule_Gregory_Charney) z Massachusetts Institute of Technology). Úkolem tohoto týmu bylo shrnout tehdejší znalosti o dopadech zvyšující se koncentrace skleníkových plynů a kvantitativně zhodnotit přesnost předpovědí tehdejších numerických modelů klimatu.
+Autorský tím správy tvorilo 10 popredných vedcov z oblasti klimatológie a fyziky atmosféry (správa je pomenovaná po predsedovi tejto komisie, ktorým bol [Jule Charney](https://en.wikipedia.org/wiki/Jule_Gregory_Charney) z Massachusetts Institute of Technology). Úlohou tohto tímu bolo zhrnúť vtedajšie vedomosti o dopadoch zvyšujúcej sa koncentrácie skleníkových plynov a kvantitatívne zhodnotiť presnosť predpovedí vtedajších numerických modelov klímy.
 
-## Další souvislosti
+## Ďalšie súvislosti
 
-* Nejstarší odhady citlivosti klimatu pocházejí z roku 1896, kdy prof. Svante Arhenius publikoval [první výpočet](https://www.tandfonline.com/doi/abs/10.1080/14786449608620846) skleníkového efektu CO<sub>2</sub> a vodní páry. Došel tehdy k hodnotě oteplení o 4 °C při zdvojnásobení koncentrace CO<sub>2</sub>.
-* Od publikace Charneyho zprávy, tedy za posledních 40 let, se koncentrace CO<sub>2</sub> zvýšily z 335 ppm na 408 ppm, tedy o 22 %. [Teplotní anomálie](https://faktaoklimatu.cz/infografiky/teplotni-anomalie) se ve stejném období zvýšila o 0,64 °C. Odhad klimatické citlivosti z Charneyho zprávy předpovídá zvýšení o 0,65 °C. To se zdá být pozoruhodně přesný odhad, který ale nezahrnuje dva podstatné efekty: další skleníkové plyny a zpoždění odezvy. Lidstvo vypouští i jiné skleníkové plyny jako CH<sub>4</sub>, N<sub>2</sub>O a další, které zesilují skleníkový jev. Pozorované zvýšení rovnovážných teplot by tedy mělo být větší, než předpovídá Charneyho zpráva, protože ta počítá pouze s CO<sub>2</sub>. Zároveň však teploty, které měříme dnes, nejsou rovnovážnými teplotami. Klimatický systém má velkou setrvačnost a k dosažení rovnováhy potřebuje 20–30 let. Tedy i kdybychom přestali nyní vypouštět skleníkové plyny, teplota by ještě 20–30 let rostla. Jinak řečeno, korektnější výpočet by současné teploty měl porovnávat s teplotami odpovídajícími koncentracím skleníkových plynů před 20–30lety, zároveň by však musel zahrnout působení dalších skleníkových plynů (lze převést na <glossary id="co2eq">CO<sub>2</sub>eq</glossary>).
+* Najstaršie odhady citlivosti klímy pochádzajú z roku 1896, kedy prof. Svante Arrhenius publikoval [prvý výpočet](https://www.tandfonline.com/doi/abs/10.1080/14786449608620846) skleníkového efektu CO<sub>2</sub> a vodnej pary. Došiel vtedy k hodnote oteplenia o 4 °C pri zdvojnásobení koncentrácie CO<sub>2</sub>.
+* Od publikácie Charneyho správy, teda za posledných 40 rokov, sa koncentrácia CO<sub>2</sub> zvýšila z 335 ppm na 408 ppm, teda o 22 %. [Teplotná anomália](https://faktaoklimatu.cz/infografiky/teplotni-anomalie) sa v rovnakom období zvýšila o 0,64 °C. Odhad klimatickej citlivosti z Charneyho správy predpovedá zvýšenie o 0,65 °C. To sa zdá byť pozoruhodne presný odhad, ktorý ale nezahŕňa dva podstatné efekty: ďalšie skleníkové plyny a oneskorenie odozvy. Ľudstvo vypúšťa aj iné skleníkové plyny, ako CH<sub>4</sub>, N<sub>2</sub>O a ďalšie, ktoré zosilňujú skleníkový jav. Pozorované zvýšenie rovnovážnych teplôt by teda malo byť väčšie než predpovedá Charneyho správa, pretože tá počíta iba s CO<sub>2</sub>. Zároveň však teploty, ktoré meriame dnes, nie sú rovnovážnymi teplotami. Klimatický systém má veľkú zotrvačnosť a na dosiahnutie rovnováhy potrebuje 20 – 30 rokov. Aj keby sme teda prestali teraz vypúšťať skleníkové plyny, teplota by ešte 20 – 30 rokov rástla. Inak povedané, korektnejší výpočet by súčasné teploty mal porovnávať s teplotami zodpovedajúcimi koncentráciám skleníkových plynov spred 20 – 30 rokov, zároveň by však musel zahrnúť pôsobenie ďalších skleníkových plynov (je možné previesť na <glossary id="co2eq">CO<sub>2</sub>eq</glossary>).
