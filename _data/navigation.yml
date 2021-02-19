@@ -2,7 +2,7 @@
   link: /
 
 - title: Témy
-  dropdown: true
+  dropdown: temy
   list-topics: true
 
 # - title: Explainery
@@ -17,13 +17,13 @@
       link: /aktuality
 
     - title: Slovník pojmov
-      link: /{{ site.slugs.glossary }}
+      link: /slovnik
 
     - title: Ďalšie zdroje a odkazy
       link: /zdroje
 
     - title: Ako používať naše materiály
-      link: /{{ site.slugs.how-to-use }}
+      link: /ako-pouzivat
 
     - title: Atlas klimatickej zmeny
       link: /atlas
@@ -32,5 +32,5 @@
       fundraising: true
       class: no-ext-link-icon
 
-    - title: O nás
-      link: /o-nas
+#    - title: O nás
+#      link: /o-nas
