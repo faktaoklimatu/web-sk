@@ -1,5 +1,5 @@
-# uvnitř řetězců můžete použít HTML
-# prosím, udržujte seznam řazený dle abecedy
+# Vnútri textov je možné použiť Markdown (aj HTML)
+# prosím, udržujte zoznam usporiadaný podľa abecedy
 
 - id: adaptacia
   name-short: "Adaptácia"
@@ -12,7 +12,7 @@ Priemerné albedo Zeme je v rozmedzí 0,30–0,35, čo znamená, že približne 
 
 - id: antropogennesklenikoveplyny
   name-short: "Antropogénne skleníkové plyny"
-  description: "V súčasnosti majú štáty viazané _UNFCCC_ a _Kjótskym protokolom_ povinnosť inventarizovať emisie siedmych skleníkových plynov [[ghgprotocol.org](https://ghgprotocol.org/sites/default/files/standards_supporting/Required%20gases%20and%20GWP%20values.pdf)]: _antropogénny CO<sub>2</sub>_ (oxid uhličitý), _CH<sub>4</sub>_ (metan), _N<sub>2</sub>O_ (oxid dusný), _PFCs_ (plnofluórované uhľovodíky), _HFCs_ (hydrofluórované uhľovodíky), _SF<sub>6</sub>_ (fluorid sírový) a _NF<sub>3</sub>_ (fluorid dusitý), čo sú plyny, ktoré prispievajú veľkou mierou ku skleníkovému efektu (viď _CO<sub>2</sub>eq_ nižšie)."
+  description: "V súčasnosti majú štáty viazané _UNFCCC_ a _Kjótskym protokolom_ povinnosť inventarizovať emisie siedmych skleníkových plynov [[ghgprotocol.org](https://ghgprotocol.org/sites/default/files/standards_supporting/Required%20gases%20and%20GWP%20values.pdf)]: _antropogénny CO<sub>2</sub>_ (oxid uhličitý), _CH<sub>4</sub>_ (metán), _N<sub>2</sub>O_ (oxid dusný), _PFCs_ (plnofluórované uhľovodíky), _HFCs_ (hydrofluórované uhľovodíky), _SF<sub>6</sub>_ (fluorid sírový) a _NF<sub>3</sub>_ (fluorid dusitý), čo sú plyny, ktoré prispievajú veľkou mierou ku skleníkovému efektu (viď _CO<sub>2</sub>eq_ nižšie)."
 
 - id: citlivost
   name-short: "Citlivosť klímy"
@@ -21,7 +21,7 @@ Priemerné albedo Zeme je v rozmedzí 0,30–0,35, čo znamená, že približne 
 - id: chmu
   name-short: "ČHMÚ"
   name-long: "Český hydrometeorologický ústav"
-  description: "Ústřední státní orgán České republiky pro obory kvality ovzduší, meteorologie, klimatologie či hydrologie. Mimo jiné je zodpovědný za provoz výstražné služby včetně Státního varovného a regulačního systému. Kromě provozu staničních sítí a zajišťování odborných služeb se zabývá také vědecko-výzkumnou činností v oblastech zájmu [[cs.wikipedia](https://cs.wikipedia.org/wiki/%C4%8Cesk%C3%BD_hydrometeorologick%C3%BD_%C3%BAstav)]."
+  description: "Ústredný štátny orgán Českej republiky pre odbory kvality ovzdušia, meteorológie, klimatológie či hydrológie. Mimo iné je zodpovedný za prevádzku výstražnej služby vrátane Štátneho varovného a regulačného systému. Okrem prevádzky staničných sietí a zaisťovania odborných služieb se zaoberá aj vedecko-výskumnou činnosťou v oblastiach záujmu [[cs.wikipedia](https://cs.wikipedia.org/wiki/%C4%8Cesk%C3%BD_hydrometeorologick%C3%BD_%C3%BAstav)]."
 
 - id: co2eq
   name-short: "CO<sub>2</sub>eq"
@@ -99,6 +99,6 @@ Priemerné albedo Zeme je v rozmedzí 0,30–0,35, čo znamená, že približne 
 
 - id: w
   name-short: "W a Wh (kW, MW… a kWh, MWh…)"
-  name-long: "watt, watthodina a jejich násobky"
+  name-long: "watt, watthodina a ich násobky"
   description: "V našom kontexte sa s wattmi (a ich násobkami) stretávame najčastejšie v rámci energetiky pri opise výkonu elektrární. Príklad: výkon uhoľnej elektrárne Nováky je 266 MW (1 MW = milión W) [sk.wikipedia](https://sk.wikipedia.org/wiki/Elektr%C3%A1re%C5%88_Nov%C3%A1ky)] a za rok vyrobí zhruba 1000 GWh elektriny [energoklub.sk](https://energoklub.sk/sk/clanky/od-uhlia-k-biomase-a-plynu-pozname-detaily-premeny-elektrarne-novaky/). Jedna štandardná LED "žiarovka" má príkon okolo 9 W, jej klasický starý ekvivalent s žeraveným vláknom cca 60 W - ak ju necháte svietiť hodinu, spotrebujete cca 9, resp. 60 Wh (watthodín) energie. Spotreba elektriny v domácnostiach SR je cca 4900 GWh/rok [Štatistický úrad SR](https://slovak.statistics.sk/wps/wcm/connect/df330cc3-d70d-4805-bcc2-04e0d7c65065/Energetika_2017.pdf)."
 
