@@ -37,11 +37,11 @@
   # Extra span rieši problém so slovníkovým odkazom na začiatku odstavca.
   description: <span><glossary id='antropogennesklenikoveplyny'>Skleníkové plyny</glossary></span> sa dostávajú do atmosféry spaľováním fosílnych palív a ďalšími processmi, ako napríklad produkciou cementu, pestovaním ryže či chovom dobytka.
 
-- id: energetika
-  name-short: energetika
-  name-long: energetika
-  index-weight: 3
-  description: Sektor elektroenergetiky je celosvetovo najväčším zdrojom emisií skleníkových plynov (v roku 2017 tvoril cca 40 % emisií CO<sub>2</sub> a cca 25 % emisíi všetkých <glossary id='antropogennesklenikoveplyny'>skleníkových plynov</glossary> meraných v <glossary id='co2eq'>CO<sub>2</sub>eq</glossary>). Svojím dopadom výrazne presahuje poľnohospodárstvo rovnako ako spaľovanie fosílnych palív v doprave, spaľovanie fosílnych palív v priemysle alebo produkciu cementu. V rámci elektroenergetiky vyše 70 % emisií pochádza z uhlia, cez 20 % zo zemného plynu, asi 5 % tvoria deriváty ropy.
+# - id: energetika
+#   name-short: energetika
+#   name-long: energetika
+#   index-weight: 3
+#   description: Sektor elektroenergetiky je celosvetovo najväčším zdrojom emisií skleníkových plynov (v roku 2017 tvoril cca 40 % emisií CO<sub>2</sub> a cca 25 % emisíi všetkých <glossary id='antropogennesklenikoveplyny'>skleníkových plynov</glossary> meraných v <glossary id='co2eq'>CO<sub>2</sub>eq</glossary>). Svojím dopadom výrazne presahuje poľnohospodárstvo rovnako ako spaľovanie fosílnych palív v doprave, spaľovanie fosílnych palív v priemysle alebo produkciu cementu. V rámci elektroenergetiky vyše 70 % emisií pochádza z uhlia, cez 20 % zo zemného plynu, asi 5 % tvoria deriváty ropy.
 
 - id: buducnost
   name-short: budúcnosť
