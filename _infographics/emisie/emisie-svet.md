@@ -8,9 +8,9 @@ weight:     80
 tags-scopes: [ svet ]
 tags-topics: [ emisie ]
 caption:    "Pomerové porovnanie ročných emisií regiónov sveta a prepočet na obyvateľa."
-# TODO: Nahradit za dataset, až bude grafika založena na datech EDGAR 5.
+# TODO: Nahradiť za dataset, keď bude grafika založená na dátach EDGAR 5.
 # Aktualizovať linky na SK reálie, keď budú hotové.
-# dataset:    "emise-svet"
+# dataset:    "emisie-svet"
 data-our:   "https://drive.google.com/open?id=1aZNVRC7lJM28FxbKKnXo7HsPlyE2RaMbG3KDs8igwec"
 data-orig:  [ [ "Zdrojová databáze EDGAR", "https://edgar.jrc.ec.europa.eu/overview.php?v=432_GHG" ] ]
 ---
@@ -35,4 +35,4 @@ data-orig:  [ [ "Zdrojová databáze EDGAR", "https://edgar.jrc.ec.europa.eu/ove
 * Zdrojom dát je databáza EDGAR (Emission Database for Global Atmospheric Research, Emisné databázy pre globálne výskum atmosféry) prevádzkovaná Európskou agentúrou pre životné prostredie.
 * Graf uvádza dáta za rok 2012, pretože v čase prípravy podkladov pre graf (február 2021) neboli k dispozícii novšie dáta o emisiách skleníkových plynov za jednotlivé štáty sveta (novšie dáta sú dostupné len pre niektoré regióny alebo sa týkajú len emisií oxidu uhličitého a nezahŕňajú ostatné skleníkové plyny).
 * Údaje zodpovedajú emisiám vyprodukovaným v danom regióne, avšak vzhľadom k vývozu a dovozu tovaru nemusia zodpovedať emisiám vzniknutých zo spotreby v danom regióne.
-* V grafe sú zobrazené <glossary id="antropogennisklenikoveplyny">antropogénne emisie</glossary> CO<sub>2</sub>, N<sub>2</sub>O a CH<sub>4</sub> vyjadrené ako <glossary id="co2eq">CO<sub>2</sub>eq</glossary>, nie sú tu zahrnuté niektoré marginálne skleníkové plyny.
+* V grafe sú zobrazené <glossary id="antropogennesklenikoveplyny">antropogénne emisie</glossary> CO<sub>2</sub>, N<sub>2</sub>O a CH<sub>4</sub> vyjadrené ako <glossary id="co2eq">CO<sub>2</sub>eq</glossary>, nie sú tu zahrnuté niektoré marginálne skleníkové plyny.

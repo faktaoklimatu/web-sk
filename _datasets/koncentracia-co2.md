@@ -10,8 +10,8 @@ caption:    "Dataset obsahuje tri rôzne rady údajov pre CO₂ líšiace sa ča
 data-our:   "https://docs.google.com/spreadsheets/d/1DYrIsmgy_S6IIWGtsk55Jor6zSDrf6-qT8Og9n7oDoU/edit?usp=sharing"
 data-orig:	[ [ "EPICA", "ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/antarctica/epica_domec/edc-co2-2008.xls" ]
             , [ "Scripps", "https://scrippsco2.ucsd.edu/data/atmospheric_co2/icecore_merged_products" ]
-            , [ "Keelingova křivka", "https://scripps.ucsd.edu/programs/keelingcurve/" ] 
-            , [ "Koncentrace O₂", "http://scrippso2.ucsd.edu/osub2sub-data.html"]]
+            , [ "Keelingova krivka", "https://scripps.ucsd.edu/programs/keelingcurve/" ] 
+            , [ "Koncentrácia O₂", "http://scrippso2.ucsd.edu/osub2sub-data.html"]]
 ---
 
 <div class="section"><div class="container" markdown="1">
