@@ -69,7 +69,7 @@ Pri každej našej infografike sú k dispozícii aj podkladová dáta.
 
 Ak s nami chcete konzultovať použitie našich infografík či dát (napríklad na použitie v médiách), ozvite se nášmu tímu na e-mail [info@faktyoklime.sk](mailto:info@faktyoklime.sk). Prípadne môžete kontaktovať priamo Ondráša Přibylu na [ondras.pribyla@faktyoklime.sk](mailto:ondras.pribyla@faktyoklime.sk) alebo na tel. +420 775 988 882.
 
-Ak hľadáte stručný popis projektu, pozrite se do sekcie [O projekte](/index2#o-projekte).
+Ak hľadáte stručný popis projektu, pozrite se do sekcie [O projekte](/index#o-projekte).
 
 Budeme radi, ak nám o použití našich materiálov dáte vedieť. Znalosť, ako sa naša práca používa, nám pomáha sa ďalej zlepšovať.
 </div>
