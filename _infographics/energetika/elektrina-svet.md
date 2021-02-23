@@ -16,7 +16,7 @@ data-orig:  [["Zdrojová data Ember", "https://ember-climate.org/project/data-gl
 
 * Graf znázorňuje **celosvetový vývoj celkovej vyrobenej elektriny v rokoch 2000 – 2019 podľa jednotlivých energetických zdrojov** a tiež porovnanie s vybranými svetovými regiónmi. Hodnoty sú uvádzané v <glossary id="w">TWh</glossary> vyrobenej elektriny za rok.
 * Svetové regióny sú rozdielne veľké a produkujú rôzne množstvá elektriny, preto vertikálna os nie je znázornená. Celkové množstvo elektriny vyrobenej na začiatku a na konci sledovaného obdobia udávajú priamo hodnoty v grafe. Percentuálne hodnoty pod názvami regiónov udávajú **podiel na celkovom množstve globálne vyrobenej elektriny v roku 2019**.
-* Graf umožňuje porovnávanie regiónov z hľadiska vývoja v danom období a zdrojov využívaných na výrobu elektriny. Celkové množstvo vyrobenej elektriny v jednotlivých regiónoch samozrejme závisí na veľkosti populácie týchto regiónov, preto priame porovnanie celkových hodnôt nie je zmysluplné. Porovnanie regiónov z hľadiska množstva vyrobenej elektriny prepočítanej na osobu znázorňuje doplňujúca infografika [Výroba elektriny na osobu vo svetových regiónoch](/infografiky/elektrina-na-osobu-svet).
+* Graf umožňuje porovnávanie regiónov z hľadiska vývoja v danom období a zdrojov využívaných na výrobu elektriny. Celkové množstvo vyrobenej elektriny v jednotlivých regiónoch samozrejme závisí na veľkosti populácie týchto regiónov, preto priame porovnanie celkových hodnôt nie je zmysluplné. <!-- Porovnanie regiónov z hľadiska množstva vyrobenej elektriny prepočítanej na osobu znázorňuje doplňujúca infografika [Výroba elektriny na osobu vo svetových regiónoch](/infografiky/elektrina-na-osobu-svet). -->
 
 ## Komentáre ku grafu
 
