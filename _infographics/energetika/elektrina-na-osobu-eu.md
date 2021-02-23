@@ -17,7 +17,7 @@ data-orig:  [["Ember (výroba a spotreba elektriny)", "https://ember-climate.org
 * Graf znázorňuje **množstvo vyrobenej elektriny na osobu podľa jednotlivých energetických zdrojov v rokoch 2000–2019** vo všetkých členských štátoch Európskej únie a vo Veľkej Británii. Hodnoty sú uvádzané v **<glossary id="w">kWh</glossary> vyrobenej (a spotrebovanej) elektriny na obyvateľa za rok**.
 * Údaje o vyrobenej elektrine sú tiež doplnené o priemernú spotrebu, ktorá **v roku 2019 v celej Európskej únii bola 6 259 kWh na osobu**. Graf ukazuje, ako sa táto priemerná spotreba líši v jednotlivých členských štátoch a ako sa táto spotreba vyvíja v čase. Rozdiel medzi priemernou výrobou a priemernou spotrebou predstavujú dovoz a vývoz elektriny.
 * *Ostatné fosílne palivá* zahŕňajú predovšetkým zemný plyn. *Obnoviteľné zdroje* zahŕňajú solárne, veterné a vodné elektrárne, výrobu elektriny z biomasy, z bioplynu a zo spaľovania odpadu.
-* Podobné porovnanie výroby elektriny na osobu podľa jednotlivých energetických zdrojov pre celý svet a hlavné regióny ponúka infografika [Výroba elektriny na osobu vo svetových regiónoch](/infografiky/elektrina-na-osobu-svet).
+<!-- * Podobné porovnanie výroby elektriny na osobu podľa jednotlivých energetických zdrojov pre celý svet a hlavné regióny ponúka infografika [Výroba elektriny na osobu vo svetových regiónoch](/infografiky/elektrina-na-osobu-svet). -->
 
 ## Komentáre ku grafu
 
@@ -32,5 +32,5 @@ data-orig:  [["Ember (výroba a spotreba elektriny)", "https://ember-climate.org
 ## Zdroj údajov
 
 * Infografika je založená na údajoch od organizácie [Ember](https://ember-climate.org/)(predtým nazývanej Sandbag). Ide o nezávislý klimatický think-tank, zameraný na podporu prechodu od uhlia k čistým zdrojom elektriny.
-* Jednou z hlavných činností think-tanku Ember je publikovanie správ o výrobe elektriny v Európskej únii, v roku 2020 publikoval tiež správu o globálnej výrobe elektriny, ktorej zhrnutie nájdete [v sekcii Štúdie](/studie/2020-globalni-zprava-o-elektrine).
+* Jednou z hlavných činností think-tanku Ember je publikovanie správ o výrobe elektriny v Európskej únii, v roku 2020 publikoval tiež správu o globálnej výrobe elektriny, ktorej zhrnutie nájdete [v sekcii Štúdie](/studie/2020-globalna-sprava-o-elektrine).
 * Populačné údaje sú prevzaté od Organizácie Spojených národov.
