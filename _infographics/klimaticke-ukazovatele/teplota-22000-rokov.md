@@ -6,8 +6,8 @@ redirect_from: "/teplota-22000-rokov"
 published:  2021-03-01
 weight:     97
 tags-scopes: [ svet ]
-tags-topics: [ klíma ]
-caption:    "Kým v priebehu prirodzeného prechodu medzi dobou ľadovou a medziľadovou trvalo planéte Zem oteplenie o 1 °C viac ako tisíc rokov, teraz sa pod vplyvom človekom vypúšťaných skleníkových plynov ohriala o 1 °C za menej ako sto rokov. Podľa predpovedí sa do konca tohto storočia planéta od súčasných teplôt oteplí ešte o ďalších 0,5 – 3 °C, v závislosti od množstva vypustených emisií skleníkových plynov."
+tags-topics: [ klima ]
+caption:    "Kým v priebehu prirodzeného prechodu medzi dobou ľadovou a medziľadovou trvalo planéte Zem oteplenie o 1 °C viac ako tisíc rokov, teraz sa pod vplyvom človekom vypúšťaných skleníkových plynov ohriala o 1 °C za menej ako sto rokov. Podľa predpovedí sa do konca tohto storočia planéta od súčasných teplôt oteplí ešte o ďalších 0,5–3 °C, v závislosti od množstva vypustených emisií skleníkových plynov."
 data-our:   "https://docs.google.com/spreadsheets/d/1XDa9X1W-bEJhKYMtefvwPuz5N0l2HPyio5dR5KI9qsY/edit?usp=sharing"
 data-orig:	[ [ "Zdrojové údaje NASA GISS", "https://data.giss.nasa.gov/gistemp/maps/index_v4.html" ], [ "Shakun 2012", "https://doi.org/10.1038/nature10915"], ["Marcott 2013", "https://doi.org/10.1126/science.1228026"]
  ]
@@ -15,7 +15,7 @@ data-orig:	[ [ "Zdrojové údaje NASA GISS", "https://data.giss.nasa.gov/gistemp
 
 ## Čo je zobrazené v grafe
 
-* V grafe je znázornený vývoj **teplotnej anomálie** vzhľadom k **„predindustriálnemu“ referenčnému obdobiu 1850 – 1900** (nejde o graf priemernej teploty, ale odchýlky od priemerných teplôt v referenčnom období z rokov 1850 – 1900) počas posledných 22 000 rokov.
+* V grafe je znázornený vývoj **teplotnej anomálie** vzhľadom k **"predindustriálnemu" referenčnému obdobiu 1850 – 1900** (nejde o graf priemernej teploty, ale odchýlky od priemerných teplôt v referenčnom období z rokov 1850–1900) počas posledných 22 000 rokov.
 * Graf začína v čase vrcholu poslednej doby ľadovej, 20 000 rokov pred n. l. Môžeme pozorovať prirodzené oteplenie, ktoré prebehlo počas konca doby ľadovej, a následné ustálenie teplôt v terajšej dobe medziľadovej. V pravej časti grafu vidíme súčasné oteplenie od roku 1880, teda súčasnú klimatickú zmenu, ktorá je dôsledkom zvyšujúcej sa koncentrácie CO<sub>2</sub> v atmosfére.
 * Jedná sa o vývoj odchýlky priemernej teploty na celej Zemi. Nejde teda o údaje získané na jednom mieste, ale o priemer mnohých meraní vykonaných na celom svete (viac nižšie v sekcii „Ako rekonštruujeme historické teploty“).
 
@@ -42,5 +42,5 @@ data-orig:	[ [ "Zdrojové údaje NASA GISS", "https://data.giss.nasa.gov/gistemp
 
 * Shakun, J., Clark, P., He, F. et al. _Global warming preceded by increasing carbon dioxide concentrations during the last deglaciation._ Nature 484, 49–54 (2012). [DOI 10.1038/nature10915](https://doi.org/10.1038/nature10915)
 * Marcott, S., Shakun, J.,  & Clark, P., Mix, A. _A Reconstruction of Regional and Global Temperature for the Past 11,300 Years._ Science 339, 1198-201, (2013) [DOI 10.1126/science.1228026](https://doi.org/10.1126/science.1228026).
-* GISTEMP Team, _2019: GISS Surface Temperature Analysis (GISTEMP)._ NASA Goddard Institute for Space Studies. Dataset navštíven 2020-02-27 na [data.giss.nasa.gov/gistemp](https://data.giss.nasa.gov/gistemp/).
+* GISTEMP Team, _2019: GISS Surface Temperature Analysis (GISTEMP)._ NASA Goddard Institute for Space Studies. Dataset navštívený 2020-02-27 na [data.giss.nasa.gov/gistemp](https://data.giss.nasa.gov/gistemp/).
 * Lenssen, N., G. Schmidt, J. Hansen, M. Menne, A. Persin, R. Ruedy a D. Zyss, _2019: Improvements in the GISTEMP uncertainty model._ Journal of Geophysical Research: Atmospheres, 124, č. 12, str. 6307–6326, [DOI 10.1029/2018JD029522](http://dx.doi.org/10.1029/2018JD029522).
