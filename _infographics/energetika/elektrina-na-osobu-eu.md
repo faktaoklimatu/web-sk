@@ -32,5 +32,5 @@ data-orig:  [["Ember (výroba a spotreba elektriny)", "https://ember-climate.org
 ## Zdroj údajov
 
 * Infografika je založená na údajoch od organizácie [Ember](https://ember-climate.org/)(predtým nazývanej Sandbag). Ide o nezávislý klimatický think-tank, zameraný na podporu prechodu od uhlia k čistým zdrojom elektriny.
-* Jednou z hlavných činností think-tanku Ember je publikovanie správ o výrobe elektriny v Európskej únii, v roku 2020 publikoval tiež správu o globálnej výrobe elektriny, ktorej zhrnutie nájdete [v sekcii Štúdie](/studie/2020-globalna-sprava-o-elektrine).
+<!-- * Jednou z hlavných činností think-tanku Ember je publikovanie správ o výrobe elektriny v Európskej únii, v roku 2020 publikoval tiež správu o globálnej výrobe elektriny, ktorej zhrnutie nájdete [v sekcii Štúdie](/studie/2020-globalna-sprava-o-elektrine). -->
 * Populačné údaje sú prevzaté od Organizácie Spojených národov.
