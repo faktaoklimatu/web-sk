@@ -11,13 +11,13 @@ weight:     95
 tags-scopes: [ svet ]
 tags-topics: [ energetika, emisie ]
 caption:    "Správa ponúka globálnu analýzu zdrojov výroby elektriny v roku 2019 a zmien vo výrobe v porovnaní s predošlými rokmi."
-intro:      "Cieľom štúdie think-tanku Ember vydanej v marci 2020 je predložit analýzu svetových trendov vo výrobe a spotrebe elektriny a ???podrobnejšie diskutovať stav v roku 2019 s vývojom v predchádzajúcich dvadsiatich rokoch???. Zaoberá sa iba výrobou elektriny a nie celým energetickým sektorom, a preto nezahŕna napr. spotrebu energie v doprave (benzín, nafta) či energiu na vykurovanie (najmä zemný plyn).
+intro:      "Cieľom štúdie think-tanku Ember vydanej v marci 2020 je predložit analýzu svetových trendov vo výrobe a spotrebe elektriny v rokoch 2000 – 2019 a podrobnejšie diskutovať zdroje výroby elektriny v roku 2019. Zaoberá sa iba výrobou elektriny a nie celým energetickým sektorom, a preto nezahŕna napr. spotrebu energie v doprave (benzín, nafta) či energiu na vykurovanie (najmä zemný plyn).
 Správa tiež obsahuje kompletný dataset popisujúci zdroje výroby elektriny pre všetky štáty sveta za posledných 20 rokov."
 summary:    |
-    * **Výroba elektriny z uhlia sa v roku 2019 celosvetovo znížila o 3 % v porovnaní s rokom 2018.** V dôsledku toho došlo k poklesu celkových emisií z výroby elektriny o 2 %, **jedná sa ale skôr o jednorazový pokles než o začiatok sľubného dlhodobého trendu**. Dáta z predošlých rokov naznačujú, že miera využitia uhlia na výrobu elektriny skôr rástla a situácia v roku 2019 bola zrejme ovplyvnená nižším rastom HDP a počasím. Aj keby sa nám ale trojpercentný pokles podarilo udržať, stále nie je dostačujúci pre efektívne zmiernenie klimatickej zmeny. Scenár udržateľného rozvoja podla Medzinárodnej energetickej agentúry (IEA) vyžaduje každoročné zníženie o 4 %, scenár 1,5 °C podľa IPCC dokonca o 11 %.
-    * Medzi jednotlivými regiónmi sú značné rozdiely. **Lídrami v nahrádzaní uhlia inými zdrojmi sú Európska únia a USA, kde od roku 2007 využitie uhlia na výrobu elektriny kleslo na polovicu.** V EÚ bol tento pokles nahradený obnoviteľnými zdrojmi (veternými a solárnymi elektrárňami), v USA prevažne zemným plynom.
-    * Produkcia z veterných a solárnych elektrární vzrástla v roku 2019 o 15 %, kedy tieto zdroje vyrobili 8 % celosvetovej elektriny.
-    * Celosvetový dopyt po elektrine stále rastie a v roku 2019 sa navýšil o 1,4 %, čo bol najnižší nárast od roku 2009. Príčinou toho bola nižšia ekonomická produkcia a miernejšia zima predovšetkým v USA a EÚ. V Číne vzrástol dopyt po elektrine o 5 %.
+    * **Výroba elektriny z uhlia sa v roku 2019 celosvetovo znížila o 3 % v porovnaní s rokom 2018.** V dôsledku toho došlo k poklesu celkových emisií z výroby elektriny o 2 %, **jedná sa skôr ale o jednorazový pokles než o začiatok sľubného dlhodobého trendu**. Dáta z predošlých rokov naznačujú, že miera využitia uhlia na výrobu elektriny skôr rástla a situácia v roku 2019 bola zrejme ovplyvnená nižším rastom HDP a počasím. Aj keby sa nám ale trojpercentný pokles podarilo udržať, stále nie je dostačujúci pre efektívne zmiernenie klimatickej zmeny. Scenár udržateľného rozvoja podla Medzinárodnej energetickej agentúry (IEA) vyžaduje každoročné zníženie o 4 %, scenár 1,5 °C podľa IPCC dokonca o 11 %.
+    * Medzi jednotlivými regiónmi sú značné rozdiely. **Lídrami v nahrádzaní uhlia inými zdrojmi sú Európska únia a USA, kde od roku 2007 využitie uhlia na výrobu elektriny kleslo na polovicu.** V EÚ bolo uhlie nahradené obnoviteľnými zdrojmi (veternými a solárnymi elektrárňami), v USA prevažne zemným plynom.
+    * Produkcia z veterných a solárnych elektrární vzrástla medzi 2018 – 2019 o 15 %, kedy tieto zdroje vyrobili 8 % celosvetovej elektriny.
+    * Celosvetový dopyt po elektrine stále rastie a v roku 2019 sa zvýšil o 1,4 %, čo bol najnižší nárast od roku 2009. Príčinou toho bola nižšia ekonomická produkcia a miernejšia zima predovšetkým v USA a EÚ. Naopak, v Číne vzrástol dopyt po elektrine o 5 %.
 
     
 study-title:        "Global Electricity Review 2020"
@@ -26,18 +26,19 @@ study-institution:  "Ember: Coal to Clean Energy Policy"
 study-year:         2020
 study-url:          "https://ember-climate.org/project/global-power-2020/"
 study-pdf:          "https://ember-climate.org/wp-content/uploads/2020/03/Ember-2020GlobalElectricityReview-Web.pdf"
-metadata-extra: '<a href="https://ember-climate.org/project/data-global-electricity-review/" id="study-link-3" class="btn btn-secondary">Podkladová data studie</a>'
+metadata-extra: '<a href="https://ember-climate.org/project/data-global-electricity-review/" id="study-link-3" class="btn btn-secondary">Podkladové dáta štúdie</a>'
 ---
 
-## Kontext zprávy – klíčové souvislosti
+## Kontext správy – kľúčové súvislosti
 
-* *Pro zastavení globálního oteplování okolo 1,5 °C musí globální emise CO<sub>2</sub> klesnout do roku 2030 na polovinu a musí být nulové okolo roku 2050. Pro zastavení oteplování na či blízko 2 °C musí do roku 2030 emise klesnout o 25 % a být nulové kolem roku 2070 ([IPCC SR15](https://www.ipcc.ch/sr15/chapter/chapter-2/)). Oteplení v ČR je přitom zhruba dvojnásobek světového, tedy světové oteplení o 2 °C odpovídá oteplení o 4 °C v ČR.*
-* *Čtvrtina světových emisí CO<sub>2</sub> vzniká při výrobě elektřiny v uhelných elektrárnách, proto je nahrazení uhlí obnovitelnými zdroji nebo zemním plynem tématem. Zemní plyn má nižší emise na jednotku vyrobené energie než uhlí.*
+* *Pre zastavenie nárastu globálnej teploty do 1,5 °C v porovnaní s predindustriálnym obdobím je potrebné znížiť globálne emisie CO<sub>2</sub> na polovicu do roku 2030 a do roku 2050 dosiahnuť uhlíkovú neutralitu. Keby sme sa uspokojili s obmedzením oteplenia na 2 °C, znamenalo by to znížiť emisie o štvrtinu do roku 2030 a uhlíkovú neutralitu dosiahnuť okolo roku 2070 ([IPCC SR15](https://www.ipcc.ch/sr15/chapter/chapter-2/)). Oteplenie na Slovensku je pritom zhruba dvakrát väčšie v porovnaní so svetovým priemerom, preto svetové oteplenie o 2 °C zodpovedá otepleniu Slovenska o zhruba 4 °C.*
+* *Štvrtina svetových emisií CO<sub>2</sub> vzniká pri výrobe elektriny v uhoľných elektrárňach, preto je nahradenie uhlia obnoviteľnými zdrojmi alebo zemným plynom dôležitou témou. Zemný plyn má nižšie emisie na jednotku vyrobenej energie ako uhlie.*
 
-## Shrnutí
+## Zhrnutie
 
-Celosvětová poptávka po elektřině roste v poslední dekádě průměrně tempem 2,5 % ročně a nárůst výroby je realizován částečně výrobou z OZE, částečně navyšováním výroby z uhlí a z plynu. V roce 2019 došlo ve světě k poklesu ve využívání uhlí pro výrobu elektřiny o 3 % a uhlíková intenzita výroby elektřiny (tedy množství emisí na jednotku vyrobené elektřiny) je dnes o 15 % nižší než před deseti lety. Celkové emise způsobené výrobou elektřiny však stále rostou. Také v budoucnu lze očekávat další tlak na nárůst spotřeby elektřiny v důsledku snižování podílu fosilních paliv v dopravě a ve vytápění a v postupném nahrazování elektřinou.
+Celosvetový dopyt po elektrine rastie v poslednej dekáde priemerne o 2,5 % ročne a nárast jej výroby je pokrytý navyšovaním výroby z OZE, uhlia a plynu. V roku 2019 ale došlo vo svete k poklesu vo využívaní uhlia na výrobu elektriny o 3 % a uhlíková intenzita výroby elektriny (množstvo emisií na jednotku vyrobenej elektriny) je v súčasnosti o 15 % nižšia ako pred 10 rokmi. Celkové emisie z výroby elektriny avšak stále rastú. V budúcnosti je tiež možné očakávať ďalší nárast spotreby spôsobený postupným nahradzovaním fosílnych palív v doprave a vo vykurovaní elektrinou.
 
+Tabuľka obsahuje prehľad produkcie elektriny v roku 2019 celosvetovo, v hlavných regiónoch a pre porovnanie tiež v 
 Tabulka shrnuje produkci elektřiny v roce 2019 celosvětově, v hlavních regionech a pro srovnání také v České republice, včetně zastoupení jednotlivých zdrojů, spotřeby elektřiny na osobu a uhlíkové intenzity výroby elektřiny.
 
 <div class="table table-striped table-hover" markdown="1">
@@ -51,7 +52,7 @@ Tabulka shrnuje produkci elektřiny v roce 2019 celosvětově, v hlavních regio
 | Indie           | 1 378 TWh  | 72 % |  3 % | 3 %  | 21 % | 1 008 kWh  | 651 |
 | Ostatní státy   | 9 754 TWh  | 21 % | 36 % | 7 %  | 28 % | 2 478 kWh  | 388 |
 | --------------- | ----------:| ----:| ----:| ----:|-----:|-----------:| ---:|
-| Česká republika | 86 TWh     | 43 % |  7 % | 35 % | 13 % | 6 916 kWh  | 411<sup>3</sup> |
+| Slovensko       | 28 TWh     | 8 %  |  7 % | 55 % | 27 % | 5 083 kWh  | 411<sup>3</sup> |
 
 </div>
 
