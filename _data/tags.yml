@@ -15,7 +15,7 @@
   is-scope: true
 
 - id: eu
-  name-short: EU
+  name-short: EÚ
   name-long: Európska únia
   is-scope: true
 
@@ -28,26 +28,26 @@
   name-short: klíma
   name-long: klimatické ukazovatele
   index-weight: 1
-  description: "Priemerná globálna teplota vzduchu od začiatku priemyselnej revolúcie, teda za posledných 200 rokov, stúpla o zhruba 1 °C. Na Slovensku za posledných 60 rokov vzrástla už o 2 °C. Koncentrácia <glossary id='co2eq'>CO<sub>2</sub></glossary> dosahuje hodnôt vyšších než kedykoľvek počas existencie rodu *Homo sapiens*."
+  description: "Priemerná globálna teplota vzduchu od začiatku priemyselnej revolúcie, teda za posledných 200 rokov, stúpla o zhruba 1 °C. Na Slovensku od začiatku meraní v roku 1881 vzrástla už o 1,8 °C. Koncentrácia <glossary id='co2eq'>CO<sub>2</sub></glossary> dosahuje vyšších hodnôt než kedykoľvek počas existencie rodu *Homo sapiens*."
 
 - id: emisie
   name-short: emisie
   name-long: emisie skleníkových plynov
   index-weight: 2
   # Extra span rieši problém so slovníkovým odkazom na začiatku odstavca.
-  description: <span><glossary id='antropogennesklenikoveplyny'>Skleníkové plyny</glossary></span> sa dostávajú do atmosféry spaľováním fosílnych palív a ďalšími processmi, ako napríklad produkciou cementu, pestovaním ryže či chovom dobytka.
+  description: <span><glossary id='antropogennesklenikoveplyny'>Skleníkové plyny</glossary></span> sa dostávajú do atmosféry spaľovaním fosílnych palív a ďalšími procesmi, ako napríklad produkciou cementu, pestovaním ryže či chovom dobytka.
 
 - id: energetika
   name-short: energetika
   name-long: energetika
   index-weight: 3
-  description: Sektor elektroenergetiky je celosvetovo najväčším zdrojom emisií skleníkových plynov (v roku 2017 tvoril cca 40 % emisií CO<sub>2</sub> a cca 25 % emisíi všetkých <glossary id='antropogennesklenikoveplyny'>skleníkových plynov</glossary> meraných v <glossary id='co2eq'>CO<sub>2</sub>eq</glossary>). Svojím dopadom výrazne presahuje poľnohospodárstvo rovnako ako spaľovanie fosílnych palív v doprave, spaľovanie fosílnych palív v priemysle alebo produkciu cementu. V rámci elektroenergetiky vyše 70 % emisií pochádza z uhlia, cez 20 % zo zemného plynu, asi 5 % tvoria deriváty ropy.
+  description: Sektor elektroenergetiky je celosvetovo najväčším zdrojom emisií skleníkových plynov (v roku 2017 tvoril cca 40 % emisií CO<sub>2</sub> a cca 25 % emisií všetkých <glossary id='antropogennesklenikoveplyny'>skleníkových plynov</glossary> meraných v <glossary id='co2eq'>CO<sub>2</sub>eq</glossary>). Svojím dopadom výrazne presahuje poľnohospodárstvo, spaľovanie fosílnych palív v doprave a v priemysle alebo produkciu cementu. V rámci elektroenergetiky viac ako 70 % emisií pochádza z uhlia, cez 20 % zo zemného plynu a asi 5 % tvoria deriváty ropy.
 
 - id: buducnost
   name-short: budúcnosť
-  name-long: Budúcnosť, scénáre vývoja
+  name-long: Budúcnosť, scenáre vývoja
   index-weight: 4
-  description: Budúcí vývoj klímy závisí do veľkekj miery na tom, ako sa budú ďalej vyvíjať emisie skleníkových plynov alebo odlesňovanie. Pre porovnanie možných budúcností slúžia <glossary id='rcp'>emisné scenáre RCP</glossary>. Zároveň väčšia zmena klímy prináša väčšie riziká a pri prekročení bodov zlomu aj možnosť kolapsu niektorých ekosystémov a klimatických systémov.
+  description: Budúci vývoj klímy závisí do veľkej miery na tom, ako sa budú ďalej vyvíjať emisie skleníkových plynov alebo odlesňovanie. Pre porovnanie možných budúcností slúžia <glossary id='rcp'>emisné scenáre RCP</glossary>. Zároveň väčšia zmena klímy prináša väčšie riziká a pri prekročení bodov zlomu aj možnosť kolapsu niektorých ekosystémov a klimatických systémov.
 
 #- id: opatrenia
 #  name-short: opatrenia
