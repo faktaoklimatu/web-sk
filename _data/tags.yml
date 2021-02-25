@@ -1,7 +1,7 @@
 # id: používa sa v metadátach objektu (tags-scopes, tags-topics)
-# name-short: používa se v zobrazovaných témach
-# name-long: používa se v nadpisoch
-# index-weight: ak je väčší než nula, zobrazuje téma na titulnej stránke
+# name-short: používa sa v zobrazovaných témach
+# name-long: používa sa v nadpisoch
+# index-weight: ak je väčší než nula, zobrazuje tému na titulnej stránke
 # description: používa sa ako popis témy
 
 - id: sr
