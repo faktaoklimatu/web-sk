@@ -1,3 +1,11 @@
-- date: 2021-02-01
-  title: "Spustenie slovenskeho webu"
-  summary: "Spustenie!"
+- date: 2021-03-01
+  title: "Spustenie slovenského webu"
+  summary: "Začíname! Zatiaľ hlavne ako slovenská mutácia českých [Faktov o klimatu](faktaoklimatu.cz), no časom chceme zamerať pozornosť aj na obsah relevantný pre Slovensko."
+
+- date: 2021-01-23
+  title: "Prvý klimaton Faktov o klíme"
+  summary: "Po necelých 2 rokoch existencie v ČR sme sa rozhodli vytvoriť slovenskú verziu – Fakty o klíme. V online priestore sa spojili Ondráš Přibyla, Martin Ukrop a Viera Minarovičová a s pomocou ďalších dobrovoľníkov začali intenzívne pracovať na zrode stránky."
+
+- date: 2019-05-31
+  title: "Prvý klimatický hackathon Fakt o klimatu"
+  summary: "Ondráš Přibyla a Martin Ukrop s podporou Mareka Lahodu a Martina crysmana Zahradníka zorganizovali prvý klimatický <glossary id='hackathon'>hackathon</glossary> ('klimaton') s pomerne veľkou účasťou (viac ako 15 ľudí), na ktorom boli položené základy projektu _faktaoklimatu.cz_. Zároveň bol založený [projekt na githube](https://github.com/mukrop/faktaoklimatu)."
