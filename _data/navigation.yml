@@ -19,14 +19,14 @@
     - title: Slovník pojmov
       link: /slovnik
 
-    - title: Ďalšie zdroje a odkazy
-      link: /zdroje
+#    - title: Ďalšie zdroje a odkazy
+#      link: /zdroje
 
     - title: Ako používať naše materiály
       link: /ako-pouzivat
 
-    - title: Atlas klimatickej zmeny
-      link: /atlas
+#    - title: Atlas klimatickej zmeny
+#      link: /atlas
 
     - title: Podporte nás <i class="fas fa-fw fa-heart"></i>
       fundraising: true

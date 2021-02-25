@@ -49,12 +49,12 @@
   index-weight: 4
   description: Budúcí vývoj klímy závisí do veľkekj miery na tom, ako sa budú ďalej vyvíjať emisie skleníkových plynov alebo odlesňovanie. Pre porovnanie možných budúcností slúžia <glossary id='rcp'>emisné scenáre RCP</glossary>. Zároveň väčšia zmena klímy prináša väčšie riziká a pri prekročení bodov zlomu aj možnosť kolapsu niektorých ekosystémov a klimatických systémov.
 
-- id: opatrenia
-  name-short: opatrenia
-  name-long: adaptačné a mitigačné opatrenia
-  index-weight: 5
-  # Extra span rieši problém so slovníkovým odkazom na začiatku odstavca.
-  description: <span><glossary id='mitigacia'>Mitigačné opatrenia</glossary></span> smerujú k zmierneniu klimatickej zmeny – ide predovšetkým o snahy o obmedzenie emisií skleníkových plynov pomocou uhlíkovej dane, emisných povoleniek alebo nahradenie uhoľných elektrární inými zdrojami energie (tzv. uhoľný phase-out). Adaptačné opatrenia smerujú k prispôsobeniu spoločnosti klimatickým zmenám – typicky môže ísť o zmeny pestovania plodín alebo opatrenia na udržovanie vody v krajine."
+#- id: opatrenia
+#  name-short: opatrenia
+#  name-long: adaptačné a mitigačné opatrenia
+#  index-weight: 5
+#  # Extra span rieši problém so slovníkovým odkazom na začiatku odstavca.
+#  description: <span><glossary id='mitigacia'>Mitigačné opatrenia</glossary></span> smerujú k zmierneniu klimatickej zmeny – ide predovšetkým o snahy o obmedzenie emisií skleníkových plynov pomocou uhlíkovej dane, emisných povoleniek alebo nahradenie uhoľných elektrární inými zdrojami energie (tzv. uhoľný phase-out). Adaptačné opatrenia smerujú k prispôsobeniu spoločnosti klimatickým zmenám – typicky môže ísť o zmeny pestovania plodín alebo opatrenia na udržovanie vody v krajine."
 
 - id: ekonomika
   name-short: ekonomika
