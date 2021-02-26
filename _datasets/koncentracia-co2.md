@@ -14,8 +14,6 @@ data-orig:	[ [ "EPICA", "ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/antarcti
             , [ "Koncentrácia O₂", "http://scrippso2.ucsd.edu/osub2sub-data.html"]]
 ---
 
-<div class="section"><div class="container" markdown="1">
-
 ## Keelingova krivka, rok 1958–súčasnosť
 
 {% include data-header.html
@@ -31,9 +29,6 @@ data-orig:	[ [ "EPICA", "ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/antarcti
 Dáta pochádzajú z inštrumentálneho merania na Mauna Loa na Havaji. Používajú sa na ne veľmi presné tlakomerové kalibrované spektroskopické merania, ktoré vyvinul Charles Keeling. Konštrukciu meracích prístrojov aj príbeh Charlesa Keelinga podrobne opisuje článok v Analytical Chemistry [Charles David Keeling and the Story of Atmospheric CO<sub>2</sub> Measurements](https://pubs.acs.org/doi/full/10.1021/ac1001492). V odobratých vzorkách vzduchu sa sleduje nielen koncentrácia CO<sub>2</sub> v jednotkách <glossary id='ppm'>ppm</glossary>, ale aj zastúpenie izotopov uhlíka (pomer <sup>12</sup>C, <sup>13</sup>C a <sup>14</sup>C). Toto zloženie pomáha určiť, z akého zdroja uhlík pochádza, či zo spaľovania fosílnych palív, z dýchania rastlín, zo sopky a pod. Presnosť meraných hodnôt je ± 0.1 ppm (podľa [pôvodného Keelingovho článku](https://scrippsco2.ucsd.edu/assets/publications/keeling_tellus_1960.pdf) i podľa [Medzinárodného ústavu pre miery a váhy](https://www.bipm.org/utils/common/pdf/chemistry/GAS2015_poster_CO2.pdf)). Názorne metódu merania približuje [popularizačné video](https://scripps.ucsd.edu/programs/keelingcurve/2018/04/12/video/) Ralpha Keelinga.
 
 Dátová sada obsahuje len mesačné priemery merania. Detailné denné a týždenné priemery sú dostupné zvlášť na [stránke meracej stanice](https://scrippsco2.ucsd.edu/data/atmospheric_co2/mlo.html). Pri počítaní priemerných hodnôt sú časové rady očistené o merania, ktoré sa výrazne odchyľujú od okolitých meraní. Takéto odchýlky bývajú spôsobené vplyvom ostrovnej vegetácie (vzduch s nižšou koncentráciou  CO<sub>2</sub>) alebo sopečnou aktivitou (vyššia koncentrácia  CO<sub>2</sub>). Rovnako tak bývajú niektoré hodnoty spätne aktualizované kvôli rekalibrácii referenčných plynov a ďalšej kontrole kvality. Ďalšie informácie o spracovaní meraných dát nájdete v [článku](https://scripps.ucsd.edu/programs/keelingcurve/2014/07/28/how-is-co2-data-processed/) na webových stránkach ústavu.
-
-</div></div>
-<div class="section"><div class="container" markdown="1">
 
 ## Kompozitný dataset Scripps, posledných 2000 rokov
 
@@ -54,9 +49,6 @@ Tento dataset je zložený z dvoch meraní:
 Historické koncentrácie sú merané rovnakou metódou ako Keelingovo meranie, len vzorky vzduchu sú odlišné –⁠ ide o vzduch zachytený v bublinkách v ľade. Vek vzduchu je určený hĺbkou a rádioizotopovým datovaním.
 
 Sú súčasné merania a historické dáta porovnateľné? Merané hodnoty z bubliniek v ľade antarktického ľadovca a súčasné merania sa veľmi presne prekrývajú. Zároveň historické dáta z rôznych ľadovcov (Antarktída, Grónsko, horské ľadovce) sú vysoko konzistentné. Jediným obmedzením ľadovcových dát je, že získaná koncentrácia zodpovedá zhruba desaťročnému kĺzavému priemeru koncentrácií, a to kvôli difúzii vzduchu v pomaly tuhnúcich vrchných vrstvách firnu.
-
-</div></div>
-<div class="section"><div class="container" markdown="1">
 
 ## Kompozitný dataset EPICA, posledných 800 000 rokov
 
@@ -95,9 +87,6 @@ Hoci mnohé z vrtov obsahujú záznamy z širšieho časového obdobia, tento da
 * 393 – 611 tisíc rokov BP: Dome C (Siegenthaler et al., 2005),
 * 612 – 800 tisíc rokov BP: Dome C (Bereiter et al., 2014).
 
-</div></div>
-<div class="section"><div class="container" markdown="1">
-
 ## Koncentrácia O<sub>2</sub> na Mauna Loa, rok 1989-súčasnosť
 
 {% include data-header.html
@@ -108,5 +97,3 @@ Hoci mnohé z vrtov obsahujú záznamy z širšieho časového obdobia, tento da
 %}
 
 Tento dataset pochádza z inštrumentálneho merania na sopke Mauna Loa na Havaji. Metódu pre veľmi presné meranie koncentrácie O<sub>2</sub> vyvinul v roku 1988 Ralph Keeling, syn Charlesa Keelinga, a podrobne ju opísal vo svojej [dizertačnej práci](http://bluemoon.ucsd.edu/publications/ralph/34_PhDthesis.pdf). Táto metóda spočíva v interferometrickom meraní indexu lomu vzduchu, ktorý je závislý na pomere koncentrácie kyslíka a dusíka. Tento dataset teda technicky obsahuje meranie pomeru koncentrácie O<sub>2</sub>/N<sub>2</sub> a je udávaný vo forme relatívneho rozdielu voči referenčnej vzorke približne z polovice osemdesiatych rokov (vynásobenej miliónom, preto je označovaná "per meg"). Presnú definíciu tejto jednotky vrátane prevodu na ppm nájdete na stránkach [Scrippsovho O<sub>2</sub> programu](http://scrippso2.ucsd.edu/units-and-terms.html). Podľa týchto inštrukcií sme previedli tieto namerané dáta na jednotky ppm, aby sme ich mohli porovnať s rastom koncentrácie CO<sub>2</sub>.
-
-</div></div>
