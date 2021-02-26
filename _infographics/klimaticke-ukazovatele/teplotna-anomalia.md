@@ -62,4 +62,4 @@ Aj bez podrobného klimatického modelu môžeme ilustrovať kontext nasledujúc
 
 Svetová teplotná anomália je len priemernou hodnotou – z grafu teda priamo nevidíme, že severná pologuľa sa otepľuje rýchlejšie ako južná a že pevnina sa otepľuje rýchlejšie ako oceány. V Európe a severnej Ázii sú súčasné teploty o 2 – 3 °C vyššie ako pred sto rokmi, v arktických oblastiach až o 4 °C. Podrobnejšie tieto miestne trendy zobrazuje [Mapa zmien teploty](/infografiky/mapa-zmeny-teploty).
 
-__Tempo, ktorým oteplenie v poslednom storočí prebieha, je asi desaťkrát rýchlejšie než zmeny teplôt planéty kedykoľvek v histórii ľudstva__. Podrobnejšie túto rýchlosť oteplenia ukazuje graf [teplotnej anomálie od poslednej doby ľadovej](/infografiky/teplota-22000-let).
+__Tempo, ktorým oteplenie v poslednom storočí prebieha, je asi desaťkrát rýchlejšie než zmeny teplôt planéty kedykoľvek v histórii ľudstva__. Podrobnejšie túto rýchlosť oteplenia ukazuje graf [teplotnej anomálie od poslednej doby ľadovej](/infografiky/teplota-22000-rokov).
