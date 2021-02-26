@@ -87,7 +87,7 @@ Zaujímajú vás naše novinky? V tejto sekcii vždy nájdete naše najnovšie i
 {% assign sorted_index_tags = site.data.tags | where_exp: "item", "item.index-weight > 0" | sort: "index-weight" %}
 <div class="section"><div class="container" markdown="1">
 {: .display-2}
-## Oblasti, ktorým se venujeme
+## Oblasti, ktorým sa venujeme
 
 {:.lead}
 Klimatická zmena je zložitý komplex navzájom previazaných javov. Údaje, s ktorými pracujeme, sa preto dotýkajú rôznych oblastí ľudskej činnosti - od ekonomiky cez politiku až po energetiku. Pre uľahčenie orientácie na webe triedime naše materiály do nižšie uvedených kategórií.
