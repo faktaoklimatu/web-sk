@@ -35,7 +35,7 @@ sidebar:
     button-data-orig: "Pôvodné zdroje dát"
   share:
     title: "Zdieľanie a licencia"
-    caption-infograpphic: "Všetky naše infografiky sú k dispozícii na ďalšie použitie pod licenciou"
+    caption-infographic: "Všetky naše infografiky sú k dispozícii na ďalšie použitie pod licenciou"
     caption-dataset-1: "Všetky naše datasety sú k dispozícii na ďalšie použitie pod licenciou"
     caption-dataset-2: "Pôvodné dáta majú rôzne licencie, detaily nájdete v podrobnom texte k datasetu."
     usage: "Ako správne použiť?"
