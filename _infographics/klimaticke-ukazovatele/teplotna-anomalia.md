@@ -10,16 +10,16 @@ published:  2021-03-01
 weight:     100
 tags-scopes: [ svet ]
 tags-topics: [ klima ]
-caption:    "Planéta je v súčasnosti o 1,2 °C teplejšia ako v období pred industrializáciou. To je však priemerná hodnota teplotnej anomálie pre celú planétu – väčšina miest na severnej pologuli je dnes oproti referenčnému obdobiu teplejšia o 2–3 °C."
+caption:    "Planéta je v súčasnosti o 1,2 °C teplejšia ako v období pred industrializáciou. To je však priemerná hodnota teplotnej anomálie pre celú planétu – väčšina miest na severnej pologuli je dnes oproti referenčnému obdobiu teplejšia o 2 – 3 °C."
 # TODO: Nahradit za dataset, až bude text dopsaný.
 # dataset:    "vyvoj-teplota-svet"
 data-our:   "https://docs.google.com/spreadsheets/d/1XDa9X1W-bEJhKYMtefvwPuz5N0l2HPyio5dR5KI9qsY/edit?usp=sharing"
-data-orig:  [ [ "Zdrojová data NASA", "https://data.giss.nasa.gov/gistemp/" ] ]
+data-orig:  [ [ "Zdrojové dáta NASA", "https://data.giss.nasa.gov/gistemp/" ] ]
 ---
 
 ## Čo vidíme v grafe?
 
-Graf zobrazuje vývoj __teplotnej anomálie__ vzhľadom k __referenčnému obdobiu 1850–1900__, ktoré sa používa ako aproximácia predindustriálnej úrovne globálnej teploty. Graf pokrýva obdobie uplynulých 140 rokov, pričom hodnota teplotnej anomálie pre konkrétny rok udáva, o koľko bol svet teplejší než priemerná teplota v referenčnom období. Pojmy „teplotná anomália“ aj „referenčné obdobie“ podrobnejšie vysvetľujeme nižšie. Údaje sú spracované z meraní viac ako 20 000 staníc na pevnine, ako aj z meraní lodí, plávajúcich bójí a vedeckých staníc v Arktíde a Antarktíde.
+Graf zobrazuje vývoj __teplotnej anomálie__ vzhľadom k __referenčnému obdobiu 1850 – 1900__, ktoré sa používa ako aproximácia predindustriálnej úrovne globálnej teploty. Graf pokrýva obdobie uplynulých 140 rokov, pričom hodnota teplotnej anomálie pre konkrétny rok udáva, o koľko bol svet teplejší než priemerná teplota v referenčnom období. Pojmy „teplotná anomália“ aj „referenčné obdobie“ podrobnejšie vysvetľujeme nižšie. Údaje sú spracované z meraní viac ako 20 000 staníc na pevnine, ako aj z meraní lodí, plávajúcich bójí a vedeckých staníc v Arktíde a Antarktíde.
 
 Z grafu tiež môžeme vidieť, že rok 2016, kedy teplotná anomália dosiahla hodnotu 1,24 °C, bol najteplejším rokom v histórii merania. V prvej dvadsiatke najteplejších rokov je iba jeden z minulého storočia (1998), všetky ostatné rekordné roky sú už z 21. storočia. Najteplejší mesiac bol február 2016, s teplotnou anomáliou 1,60 °C. __Dve tretiny všetkých oteplení nastali po roku 1975 a trend otepľovania sa pohybuje medzi 0,15 – 0,20 °C za dekádu__.
 
@@ -64,4 +64,4 @@ Aj bez podrobného klimatického modelu môžeme ilustrovať kontext nasledujúc
 
 Svetová teplotná anomália je len priemernou hodnotou – z grafu teda priamo nevidíme, že severná pologuľa sa otepľuje rýchlejšie ako južná a že pevnina sa otepľuje rýchlejšie ako oceány. V Európe a severnej Ázii sú súčasné teploty o 2 – 3 °C vyššie ako pred sto rokmi, v arktických oblastiach až o 4 °C. Podrobnejšie tieto miestne trendy zobrazuje [Mapa zmien teploty](/infografiky/mapa-zmeny-teploty).
 
-__Tempo, ktorým oteplenie v poslednom storočí prebieha, je asi desaťkrát rýchlejšie, než zmeny teplôt planéty kedykoľvek v histórii ľudstva__. Podrobnejšie túto rýchlosť oteplenia ukazuje graf [teplotnej anomálie od poslednej doby ľadovej](/infografiky/teplota-22000-let).
+__Tempo, ktorým oteplenie v poslednom storočí prebieha, je asi desaťkrát rýchlejšie než zmeny teplôt planéty kedykoľvek v histórii ľudstva__. Podrobnejšie túto rýchlosť oteplenia ukazuje graf [teplotnej anomálie od poslednej doby ľadovej](/infografiky/teplota-22000-let).
