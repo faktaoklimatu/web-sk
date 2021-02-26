@@ -4,14 +4,12 @@ title:      "Vývoj svetovej teplotnej anomálie"
 slug:       "teplotna-anomalia"
 redirect_from:
   - /teplotna-anomalia
-  - /vyvoj-teplotnej-anomalie
-  - /infografiky/vyvoj-teplotnej-anomalie
 published:  2021-03-01
 weight:     100
 tags-scopes: [ svet ]
 tags-topics: [ klima ]
 caption:    "Planéta je v súčasnosti o 1,2 °C teplejšia ako v období pred industrializáciou. To je však priemerná hodnota teplotnej anomálie pre celú planétu – väčšina miest na severnej pologuli je dnes oproti referenčnému obdobiu teplejšia o 2 – 3 °C."
-# TODO: Nahradit za dataset, až bude text dopsaný.
+# TODO: Nahradiť za dataset, keď bude text dopísaný.
 # dataset:    "vyvoj-teplota-svet"
 data-our:   "https://docs.google.com/spreadsheets/d/1XDa9X1W-bEJhKYMtefvwPuz5N0l2HPyio5dR5KI9qsY/edit?usp=sharing"
 data-orig:  [ [ "Zdrojové dáta NASA", "https://data.giss.nasa.gov/gistemp/" ] ]
@@ -28,7 +26,7 @@ Z grafu tiež môžeme vidieť, že rok 2016, kedy teplotná anomália dosiahla 
 Keď chceme povedať, o koľko bolo v danom roku nejaké miesto alebo celý svet teplejší ako „normálne“, musíme si najskôr ujasniť, čo znamená to „normálne“.
 Hovorí sa tomu referenčné obdobie. Napríklad v celosvetovom priemere bol rok 2016 o 1,2 °C teplejší ako priemer z rokov 1850 – 1900, ale len o 0,6 °C teplejší ako priemer z rokov 1981 – 2010. Teda keď v iných zdrojoch uvidíte iné uvádzané hodnoty teplotnej anomálie, pozrite sa, k akému referenčnému obdobiu sa hodnoty vzťahujú.
 
-Na našich stránkach __používame ako referenčné obdobie roky 1850 – 1900__, pretože napr. Parížska dohoda, ale aj väčšina vedeckých publikácií, vzťahuje hodnoty dosiahnutého alebo predpokladaného oteplenia planéty práve k tomuto obdobiu. Toto obdobie sa označuje ako *predindustriálne*, čo znamená *pred priemyselnou revolúciou*. Z historického pohľadu to nie je presné pomenovanie, pretože priemyselná revolúcia v tej dobe už prebiehala. Z obdobia pred rokom 1850 však nemáme k dispozícii dostatok teplotných záznamov a do roku 1900 sa koncentrácie CO<sub>2</sub> v atmosfére pohybovali okolo 280 – 300 ppm – teplota planéty ešte nebola príliš ovplyvnená zosilňujúcim sa skleníkovým efektom. Preto správa [IPCC SR15](https://www.ipcc.ch/sr15/) pre potreby vedeckej komunity definuje roky 1850 –1900 ako štandardné referenčné obdobie pre predindustriálne teploty.
+Na našich stránkach __používame ako referenčné obdobie roky 1850 – 1900__, pretože napr. Parížska dohoda, ale aj väčšina vedeckých publikácií, vzťahuje hodnoty dosiahnutého alebo predpokladaného oteplenia planéty práve k tomuto obdobiu. Toto obdobie sa označuje ako *predindustriálne*, čo znamená *pred priemyselnou revolúciou*. Z historického pohľadu to nie je presné pomenovanie, pretože priemyselná revolúcia v tej dobe už prebiehala. Z obdobia pred rokom 1850 však nemáme k dispozícii dostatok teplotných záznamov a do roku 1900 sa koncentrácie CO<sub>2</sub> v atmosfére pohybovali okolo 280 – 300 ppm – teplota planéty ešte nebola príliš ovplyvnená zosilňujúcim sa skleníkovým efektom. Preto správa [IPCC SR15](https://www.ipcc.ch/sr15/) pre potreby vedeckej komunity definuje roky 1850 – 1900 ako štandardné referenčné obdobie pre predindustriálne teploty.
 
 Pôvodné údaje z NASA GISS používali ako referenčné obdobie roky 1951 – 1980, pre prevedenie na "pre-industriál" sme použili výstupy analýzy teplotných radov zo správy [IPCC SR15](https://www.ipcc.ch/sr15/).
 
