@@ -21,7 +21,7 @@ Dlhodobý nárast koncentrácie oxidu uhličitého a pokles koncentrácie kyslí
 {% include preview-box.html
     title="Dlhší rad koncentrácie CO<sub>2</sub>"
     text="Rekonštrukcia historických hodnôt koncentrácie CO<sub>2</sub> za posledných 800 tisíc rokov."
-    slug="koncentrace-co2"
+    slug="koncentracia-co2"
 %}
 
 Graf takisto ukazuje vývoj koncentrácie kyslíka (O<sub>2</sub>), konkrétne o koľko sa v danom roku zmenila oproti referenčnému roku 1991. Takisto **koncentrácia O<sub>2</sub>** sa vplyvom fotosyntézy a dýchania mení v priebehu roka, dlhodobo ale vplyvom spaľovania fosílnych palív **klesá asi o 40 ppm za desaťročie**.
