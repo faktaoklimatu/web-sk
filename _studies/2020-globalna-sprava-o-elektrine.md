@@ -4,8 +4,6 @@ title:      "Globálna správa o elektrine 2020"
 slug:       2020-globalna-sprava-o-elektrine
 redirect_from:
   - /2020-globalna-sprava-o-elektrine
-  - /2020_globalna-sprava-o-elektrine
-  - /studie/2020_globalna-sprava-o-elektrine
 published:  2021-03-01
 weight:     95
 tags-scopes: [ svet ]
