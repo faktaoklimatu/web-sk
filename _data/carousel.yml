@@ -1,15 +1,15 @@
-- title: "Fakta o klimatu v Senátu"
+- title: "Naša práca v médiách"
+  link: "https://komentare.sme.sk/c/22583992/horucka-s-ktorou-nic-nerobime-povedie-ku-kolapsu.html"
+  img: "media.png"
+  summary: "Za jeden z najväčších úspechov považujeme, že dáta a infografiky nášho projektu preberajú slovenské aj české médiá."
+
+- title: "Fakta o klimatu v Senáte Parlamentu ČR"
   link: "https://www.senat.cz/informace/galerie/videogalerie/video.php?id=721"
   img: "senat.jpg"
-  summary: "Oldřich Sklenář prezentoval naše data u expertního kulatého stolu v Senátu Parlamentu ČR, aby podpořil kvalitní debatu o transformaci energetiky."
+  summary: "Oldřich Sklenář prezentoval naše dáta na expertnom okrúhlom stole v Senáte Parlamentu ČR, aby podporil kvalitnú debatu o transformácii českej energetiky."
 
-- title: "Naše práce v médiích"
-  link: "https://www.irozhlas.cz/veda-technologie/priroda/klima-data-fakta-o-klimatu_2002060600_jab"
-  img: "media.png"
-  summary: "Za jeden z největších úspěchů považujeme, že data a grafiky našeho projektu přebírají česká a slovenská média."
-
-- title: "Atlas klimatické změny"
+- title: "Atlas klimatickej zmeny"
   link: "/atlas"
   img: "media.png"
-  summary: "Z našich dat a grafik jsme připravili první ucelenou publikaci, Atlas klimatické změny. Brzy začne její distribuce do škol a k zájemcům o téma klimatické změny."
+  summary: "Z našich dát a infografík sme pripravili prvú ucelenú publikáciu – Atlas klimatickej zmeny. Už čoskoro začne jej distribúcia do škôl a k záujemcom o tému klimatickej zmeny."
   display: false
