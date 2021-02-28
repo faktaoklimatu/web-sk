@@ -4,7 +4,7 @@ title:      "Charneyho správa"
 slug:       1979-charneyho-sprava
 redirect_from:
   - /1979-charneyho-sprava
-published:  2021-03-01
+published:  2021-02-27
 weight:     200
 tags-scopes: [ svet ]
 tags-topics: [ klima, emise ]
