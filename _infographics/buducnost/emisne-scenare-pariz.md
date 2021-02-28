@@ -1,8 +1,8 @@
 ---
 layout:      infographic
 title:       "Emisné scenáre vedúce k naplneniu Parížskej dohody"
-slug:        "emisne-scenare-parizska-dohoda"
-redirect_from: "/emisne-scenare-parizska-dohoda"
+slug:        "emisne-scenare-pariz"
+redirect_from: "/emisne-scenare-pariz"
 published:   2021-03-01
 weight:      90
 tags-scopes: [ svet ]
