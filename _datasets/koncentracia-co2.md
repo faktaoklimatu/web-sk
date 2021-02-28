@@ -2,7 +2,7 @@
 layout:     dataset
 title:      "Vývoj koncentrácií CO<sub>2</sub> a O<sub>2</sub> v atmosfére"
 slug:       "koncentracia-co2"
-published:  2020-04-19
+published:  2021-03-01
 weight:     10
 tags-scopes: [ svet ]
 tags-topics: [ klima ]
@@ -14,14 +14,14 @@ data-orig:	[ [ "EPICA", "ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/antarcti
             , [ "Koncentrácia O₂", "http://scrippso2.ucsd.edu/osub2sub-data.html"]]
 ---
 
-## Keelingova krivka, rok 1958–súčasnosť
+## Keelingova krivka, rok 1958 – súčasnosť
 
 {% include data-header.html
     name="Scripps Institution of Oceanography"
     description="C. D. Keeling, S. C. Piper, R. B. Bacastow, M. Wahlen, T. P. Whorf, M. Heimann, and H. A. Meijer, Exchanges of atmospheric CO<sub>2</sub> and <sup>13</sup>CO<sub>2</sub> with the terrestrial biosphere and oceans from 1978 to 2000. I. Global aspects, SIO Reference Series, No. 01-06, Scripps Institution of Oceanography, San Diego, 88 pages, 2001. http://escholarship.org/uc/item/09v319r9"
     url="https://scrippsco2.ucsd.edu/data/atmospheric_co2/primary_mlo_co2_record.html"
     doi="http://doi.org/10.6075/J08W3BHW"
-    licence="CC BY 4.0"
+    licencia="CC BY 4.0"
     licence-url="http://creativecommons.org/licenses/by/4.0/"
     licence-proof="http://doi.org/10.6075/J08W3BHW"
 %}
@@ -37,7 +37,7 @@ Dátová sada obsahuje len mesačné priemery merania. Detailné denné a týžd
     description="Macfarling Meure, C. et al., 2006: Law Dome CO<sub>2</sub>, CH<sub>4</sub> and N<sub>2</sub>O ice core records extended to 2000 years BP. Geophysical Research Letters, 33."
     url="https://scrippsco2.ucsd.edu/data/atmospheric_co2/icecore_merged_products.html"
     doi="https://doi.org/10.1029/2006GL026152"
-    licence="zadarmo na použitie, vyžaduje odkaz na zdroj"
+    licencia="zadarmo na použitie, vyžaduje odkaz na zdroj"
     licence-proof="https://scrippsco2.ucsd.edu/data/atmospheric_co2/icecore_merged_products.html"
 %}
 
@@ -57,41 +57,41 @@ Sú súčasné merania a historické dáta porovnateľné? Merané hodnoty z bub
     description="Bereiter, B., Eggleston, S., Schmitt, J., Nehrbass‐Ahles, C., Stocker, T. F., Fischer, H., Kipfstuhl, S., and Chappellaz, J. ( 2015), Revision of the EPICA Dome C CO<sub>2</sub> record from 800 to 600 kyr before present, Geophys. Res. Lett., 42, 542– 549."
     url="http://ncdc.noaa.gov/paleo/study/17975"
     doi="https://doi.org/10.1002/2014GL061957"
-    licence="zadarmo na použitie, vyžaduje odkaz na zdroj"
+    licencia="zadarmo na použitie, vyžaduje odkaz na zdroj"
     licence-proof="https://www1.ncdc.noaa.gov/pub/data/paleo/icecore/antarctica/antarctica2015co2composite.txt"
 %}
 
 V rámci projektu EPICA (European Project for Ice Coring in Antartica) boli získané najstaršie vzorky ľadu pre meranie koncentrácie CO<sub>2</sub> v rámci tohto datasetu. Tie pochádzajú z dvoch vrtov na Antarktíde:
 
-* Epica-DML pri nemeckej Kohnovej stanici (75°00′06″S; 00°04′04″E, hĺbka vrtu 2 774 m).
-* Dome C pri francúzsko-talianskej stanici Concordia (75°06′04″S; 123°20′52″E, hĺbka vrtu 3 270 m).
+* Epica-DML pri nemeckej Kohnovej stanici (75°00′06″ S; 00°04′04″ E, hĺbka vrtu 2 774 m).
+* Dome C pri francúzsko-talianskej stanici Concordia (75°06′04″ S; 123°20′52″ E, hĺbka vrtu 3 270 m).
 
 Tento dataset je však zložený z meraní z oveľa viac ľadovcových vrtov z ďalších výskumných projektov:
 
 * Law Dome viď dataset SCRIPPS vyššie,
-* WAIS meraný v rámci amerického výskumného projektu v západnej Antarktíde (79°28′04.8″S; 112°05′09.6″W, hĺbka vrtu 3 405 m),
-* Siple Dome meraný v rámci amerického výskumného projektu v Zemi Mary Byrd (81°39′15″S 149°00′18″W, hĺbka vrtu 974 m),
-* TALDICE meraný v rámci európskeho projektu výskumu Talos Dome (72°49′40″S 159°11′00″E, hĺbka vrtu 1620 m),
-* Vostok meraný od sedemdesiatych rokov na sovietskej polárnej stanice Vostok (78°27′50″S 106°50′15″E, hĺbka najhlbšieho vrtu z roku 1996 je 3623 m).
+* WAIS meraný v rámci amerického výskumného projektu v západnej Antarktíde (79°28′04.8″ S; 112°05′09.6″ W, hĺbka vrtu 3 405 m),
+* Siple Dome meraný v rámci amerického výskumného projektu v Zemi Mary Byrd (81°39′15″ S 149°00′18″ W, hĺbka vrtu 974 m),
+* TALDICE meraný v rámci európskeho projektu výskumu Talos Dome (72°49′40″ S 159°11′00″ E, hĺbka vrtu 1620 m),
+* Vostok meraný od sedemdesiatych rokov na sovietskej polárnej stanice Vostok (78°27′50″ S 106°50′15″ E, hĺbka najhlbšieho vrtu z roku 1996 je 3623 m).
 
 Hoci mnohé z vrtov obsahujú záznamy z širšieho časového obdobia, tento dataset je zložený nasledovne (nižšie používané "BP" je skratka pre *before present* a odkazuje pre roky pred rokom 1950):
 
 * -51 – 2000 rokov BP: Law Dome (Rubino et al., 2013, MacFarling Meure et al., 2006),
-* 2 – 11 tisíc rokov BP: Dome C (Monnin et al., 2001 + 2004),
-* 11 – 22 tisíc rokov BP: WAIS (Marcott et al., 2014), od týchto meraní sú odpočítané 4 ppm pre vyváženie systematickej chyby merania,
-* 22 – 40 tisíc rokov BP: Siple Dome (Ahn et al., 2014),
-* 40 – 60 tisíc rokov BP: TALDICE (Bereiter et al., 2012),
-* 60 – 115 tisíc rokov BP: E-DML (Bereiter et al., 2012),
-* 105 – 155 tisíc rokov BP: Dome C Sublimation (Schneider et al., 2013),
-* 155 – 393 tisíc rokov BP: Vostok (Petit et al., 1999),
-* 393 – 611 tisíc rokov BP: Dome C (Siegenthaler et al., 2005),
-* 612 – 800 tisíc rokov BP: Dome C (Bereiter et al., 2014).
+* 2 – 11-tisíc rokov BP: Dome C (Monnin et al., 2001 + 2004),
+* 11 – 22-tisíc rokov BP: WAIS (Marcott et al., 2014), od týchto meraní sú odpočítané 4 ppm pre vyváženie systematickej chyby merania,
+* 22 – 40-tisíc rokov BP: Siple Dome (Ahn et al., 2014),
+* 40 – 60-tisíc rokov BP: TALDICE (Bereiter et al., 2012),
+* 60 – 115-tisíc rokov BP: E-DML (Bereiter et al., 2012),
+* 105 – 155-tisíc rokov BP: Dome C Sublimation (Schneider et al., 2013),
+* 155 – 393-tisíc rokov BP: Vostok (Petit et al., 1999),
+* 393 – 611-tisíc rokov BP: Dome C (Siegenthaler et al., 2005),
+* 612 – 800-tisíc rokov BP: Dome C (Bereiter et al., 2014).
 
 ## Koncentrácia O<sub>2</sub> na Mauna Loa, rok 1989-súčasnosť
 
 {% include data-header.html
     name="Scripps Institution of Oceanography"
-    description="Scripps O<sub>2</sub> Program, Atmospheric Oxygen Research."
+    description="Scripps O<sub>2</sub> Program, Atmospheric Oxygen Research"
     url="https://scrippso2.ucsd.edu/index.html"
     licence="otvorené vedecká dáta (licencia nie je špecifikovaná)"
 %}
