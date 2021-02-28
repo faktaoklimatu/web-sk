@@ -1,8 +1,8 @@
 ---
 layout:     infographic
 title:      "Cykly koncentrácií CO₂ a O₂ v atmosfére"
-slug:       "cykly-koncentracii-co2"
-redirect_from: "/cykly-koncentracii-co2"
+slug:       "cykly-koncentracie-co2"
+redirect_from: "/cykly-koncentracie-co2"
 published:  2021-03-01
 weight:     90
 tags-scopes: [ svet ]
