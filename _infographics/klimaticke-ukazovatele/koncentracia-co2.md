@@ -24,9 +24,9 @@ dataset:    "koncentracia-co2"
 
 * Vzorky ľadu z hĺbkových ľadovcových vrtov (až 3 800 m) obsahujú veľmi starý ľad (až 800 000 rokov). Fyzikálne vlastnosti tohto ľadu vypovedajú o podmienkach v časoch, keď ľad zamrzol. Z množstva izotopov kyslíka a vodíka možno určiť vtedajšiu priemernú teplotu planéty, z bubliniek zachytených v ľade možno určiť zloženie vtedajšieho vzduchu.
 * Staršie dáta (0 – ⁠800 000 rokov pred súčasnosťou) pochádzajú z projektu EPICA (_European Project for Ice Coring in Antartica_), konkrétne z vrtov "Dome C", ktoré siahajú do hĺbky 3 190 m a zodpovedajúci vek ľadu je 798 000 rokov ([data EPICA](ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/antarctica/epica_domec/edc-co2-2008.xls)).
-* V roku 2016 boli v Antarktíde objavené ľadovcové oblasti s vekom ľadu približne 2 milióny rokov. Koncentrácia CO<sub>2</sub> v bublinkách takto starého ľadu sa pohybovala v rozmedzí 200–⁠280 ppm, viď [článok](https://www.nature.com/articles/s41586-019-1692-3) z časopisu _Nature_.
-* Mladšie dáta (0–⁠2 000 rokov pred súčasnosťou) sú zložením súčasných meraní na Mauna Loa (Havaj) a meraní z ľadovcových vrtov na Južnom póle ([Scripps dáta](https://scrippsco2.ucsd.edu/data/atmospheric_co2/icecore_merged_products)).
-* Od roku 1958 sa meria priamo koncentrácia CO<sub>2</sub> vo vzduchu na Mauna Loa (Havaj), ako súčasť programu [Scripps CO<sub>2</sub>](https://scripps.ucsd.edu/programs/keelingcurve/).
+* V roku 2016 boli v Antarktíde objavené ľadovcové oblasti s vekom ľadu približne 2 milióny rokov. Koncentrácia CO<sub>2</sub> v bublinkách takto starého ľadu sa pohybovala v rozmedzí 200 –⁠ 280 ppm, viď [článok](https://www.nature.com/articles/s41586-019-1692-3) z časopisu _Nature_.
+* Mladšie dáta (0 – ⁠2 000 rokov pred súčasnosťou) sú zložením súčasných meraní na Mauna Loa (Havaj) a meraní z ľadovcových vrtov na Južnom póle ([Scripps dáta](https://scrippsco2.ucsd.edu/data/atmospheric_co2/icecore_merged_products)).
+* Od roku 1958 sa meria priamo koncentrácia CO<sub>2</sub> vo vzduchu na Mauna Loa (Havaj) ako súčasť programu [Scripps CO<sub>2</sub>](https://scripps.ucsd.edu/programs/keelingcurve/).
 * Časovú hustotu údajov o koncentrácii CO<sub>2</sub> v atmosfére za posledných 800 000 rokov ukazuje [animovaná vizualizácia](https://www.esrl.noaa.gov/gmd/ccgg/trends/history.html) NOAA.
 
 ## Ako vieme, že nárast koncentrácie  CO<sub>2</sub> je dôsledkom spaľovania fosílnych palív?
