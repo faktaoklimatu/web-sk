@@ -4,7 +4,7 @@ title:      "Vývoj svetovej teplotnej anomálie"
 slug:       "teplotna-anomalia"
 redirect_from:
   - /teplotna-anomalia
-published:  2021-03-01
+published:  2021-02-28
 weight:     100
 tags-scopes: [ svet ]
 tags-topics: [ klima ]
