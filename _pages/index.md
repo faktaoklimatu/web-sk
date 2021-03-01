@@ -7,7 +7,7 @@ slug: index
     <div class="container">
         <h1 class="display-1" id="home">Fakty o zmene<br>klímy</h1>
         <span class="tagline">Verejne dostupné<br>infografiky a datasety</span>
-        <p class="mb-5">Zhromažďujeme dáta o klíme a klimatickej zmene, ktoré poskytujú vedecké inštitúcie (SHMÚ, NASA, Eurostat a iné) a vytvátame z nich infografiky určené pre <a href="/{{ site.slugs.how-to-use }}" title="Ako používať naše materiály">ďalšie použitie</a>.<br/>
+        <p class="mb-5">Zhromažďujeme dáta o klíme a klimatickej zmene, ktoré poskytujú vedecké inštitúcie (SHMÚ, NASA, Eurostat a iné) a vytvárame z nich infografiky určené pre <a href="/{{ site.slugs.how-to-use }}" title="Ako používať naše materiály">ďalšie použitie</a>.<br/>
             <a href="{{ site.fundraising }}" class="btn btn-primary mt-3"><i class="fas fa-fw fa-heart"></i> Podporte nás</a>
             <a href="/aktuality" class="btn btn-secondary mt-3"><i class="fas fa-fw fa-newspaper"></i> Aktuality</a>
             <a href="#about" class="btn btn-secondary mt-3"><i class="fas fa-fw fa-info"></i> O projekte</a>
