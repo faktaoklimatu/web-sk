@@ -16,6 +16,15 @@ licence:
 
 text:
   toc: "Obsah"
+  study:
+    summary: "Hlavné závery"
+  dataset:
+    source: "Zdroj"
+    description: "Popis"
+    link: "Odkaz"
+    licence: "Licencia"
+    see: "viď"
+    licence-proof: "informácie o licencii"
   related:
     title: "Súvisiace infografiky a štúdie"
     caption: "Zaujala vás naša práca? Preskúmajte ďalšie súvisiace infografiky a štúdie:"
