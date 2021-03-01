@@ -149,12 +149,12 @@ Cieľom projektu Fakty o klíme je skvalitniť verejnú diskusiu v problematike 
     {%- endfor %}
   </div>
   <a class="carousel-control-prev" href="#carousel_successes" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
+    <span class="fas fa-chevron-left fa-3x" aria-hidden="true"></span>
+    <span class="sr-only">Predošlý</span>
   </a>
   <a class="carousel-control-next" href="#carousel_successes" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
+    <span class="fas fa-chevron-right fa-3x" aria-hidden="true"></span>
+    <span class="sr-only">Nasledujúci</span>
   </a>
 </div>
 
