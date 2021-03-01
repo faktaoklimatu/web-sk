@@ -67,11 +67,11 @@ Dopyt po elektrine v USA dlhodobo stagnuje. Medzi rokmi 2018 a 2019 tam došlo k
 
 ### Čína
 
-Poptávka po elektřině v Číně roste v poslední dekádě přibližně o 7 % ročně. V roce 2019 vzrostla výroba elektřiny z uhlí o 2 % a Čína samotná tak využívá více než polovinu celosvětové spotřeby uhlí při výrobě elektřiny, v jejím mixu výroby elektřiny představuje uhlí 62 %. Využívání obnovitelných zdrojů (větrných a solárních elektráren) při výrobě elektřiny vzrostlo o 16 %, přesto to však nestačilo na pokrytí prudkého růstu poptávky po elektřině. Rovněž došlo k 18% nárůstu produkce elektřiny z jaderných elektráren. Průměrná roční spotřeba elektřiny na osobu je 5,2 MWh, což je o 53 % více než světový průměr a například také více než průměrná roční spotřeba na osobu ve Velké Británii, avšak stále méně než průměr celé EU 6,3 MWh.
+Dopyt po elektrine v Číne rastie v poslednej dekáde približne o 7 % ročne. V roku 2019 narástla výroba elektriny z uhlia o 2 % a Čína samotná tak využíva viac ako polovicu celosvetovej spotreby uhlia na výrobu elektriny – v jej mixe tvorí uhlie až 62 %. Využívanie obnoviteľných zdrojov (veterných a solárnych elektrární) na výrobu elektriny stúplo o 16 %, čo však nestačilo na pokrytie prudkého rastu dopytu po elektrine. Došlo tiež k 18 % nárastu produkcie elektriny z jadrových elektrární. Priemerná ročná spotreba elektriny na osobu v Číne je 5,2 MWh, čo je o 53 % viac ako svetový priemer a napríklad tiež viac ako priemerná ročná spotreba na osobu vo Veľkej Británii, ale stále menej ako priemer EÚ (6,3 MWh). 
 
-### Indie
+### India
 
-Poptávka po elektřině v Indii roste v poslední dekádě přibližně o 6 % ročně. V indickém mixu výroby elektřiny představuje uhlí 72 %, tedy ještě více než v Číně, v roce 2019 však výroba elektřiny z uhlí poklesla o 3 %. Pravděpodobně se jedná o krátkodobý výkyv, způsobený nižším ekonomickým růstem a vyšší výrobou elektřiny z vodních elektráren v důsledku neobvykle silné monzunové sezóny. V roce 2019 Indie otevřela největší solární elektrárnu na světě. Spotřeba elektřiny na osobu je v Indii pouze 1008 kWh/osobu, tedy třetina světového průměru.
+Dopyt po elektrine v Indii rastie v poslednej dekáde približne o 6 % ročne. V indickom mixe na výrobu elektriny tvorí uhlie až 72 %, čo je viac ako v Číne. V roku 2019 však výroba z elektriny klesla o 3 %, čo je pravdepodobne jednorazový výkyv spôsobený nižším ekonomickým rastom a vyššou dodávkou elektriny z vodných elektrární, ktorá vznikla v dôsledku neobvykle silného monzúnového obdobia. V roku 2019 India otvorila najväčšiu solárnu elektráreň na svete. Priemerná ročná spotreba elektriny na osobu je v Indii iba 1008 kWh/osoba, čo je tretina svetového priemeru.
 
 ### Ostatní státy světa
 
