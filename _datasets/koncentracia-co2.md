@@ -21,7 +21,7 @@ data-orig:	[ [ "EPICA", "ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/antarcti
     description="C. D. Keeling, S. C. Piper, R. B. Bacastow, M. Wahlen, T. P. Whorf, M. Heimann, and H. A. Meijer, Exchanges of atmospheric CO<sub>2</sub> and <sup>13</sup>CO<sub>2</sub> with the terrestrial biosphere and oceans from 1978 to 2000. I. Global aspects, SIO Reference Series, No. 01-06, Scripps Institution of Oceanography, San Diego, 88 pages, 2001. http://escholarship.org/uc/item/09v319r9"
     url="https://scrippsco2.ucsd.edu/data/atmospheric_co2/primary_mlo_co2_record.html"
     doi="http://doi.org/10.6075/J08W3BHW"
-    licencia="CC BY 4.0"
+    licence="CC BY 4.0"
     licence-url="http://creativecommons.org/licenses/by/4.0/"
     licence-proof="http://doi.org/10.6075/J08W3BHW"
 %}
@@ -37,7 +37,7 @@ Dátová sada obsahuje len mesačné priemery merania. Detailné denné a týžd
     description="Macfarling Meure, C. et al., 2006: Law Dome CO<sub>2</sub>, CH<sub>4</sub> and N<sub>2</sub>O ice core records extended to 2000 years BP. Geophysical Research Letters, 33."
     url="https://scrippsco2.ucsd.edu/data/atmospheric_co2/icecore_merged_products.html"
     doi="https://doi.org/10.1029/2006GL026152"
-    licencia="zadarmo na použitie, vyžaduje odkaz na zdroj"
+    licence="zadarmo na použitie, vyžaduje odkaz na zdroj"
     licence-proof="https://scrippsco2.ucsd.edu/data/atmospheric_co2/icecore_merged_products.html"
 %}
 
@@ -57,7 +57,7 @@ Sú súčasné merania a historické dáta porovnateľné? Merané hodnoty z bub
     description="Bereiter, B., Eggleston, S., Schmitt, J., Nehrbass‐Ahles, C., Stocker, T. F., Fischer, H., Kipfstuhl, S., and Chappellaz, J. ( 2015), Revision of the EPICA Dome C CO<sub>2</sub> record from 800 to 600 kyr before present, Geophys. Res. Lett., 42, 542– 549."
     url="http://ncdc.noaa.gov/paleo/study/17975"
     doi="https://doi.org/10.1002/2014GL061957"
-    licencia="zadarmo na použitie, vyžaduje odkaz na zdroj"
+    licence="zadarmo na použitie, vyžaduje odkaz na zdroj"
     licence-proof="https://www1.ncdc.noaa.gov/pub/data/paleo/icecore/antarctica/antarctica2015co2composite.txt"
 %}
 
