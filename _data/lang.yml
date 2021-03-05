@@ -29,6 +29,9 @@ text:
     title: "Súvisiace infografiky a štúdie"
     caption: "Zaujala vás naša práca? Preskúmajte ďalšie súvisiace infografiky a štúdie:"
     dataset-based: "Infografiky postavené na tomto datasete"
+  index:
+    all-news: "Zobraziť celý prehľad noviniek, opráv a aktualizácií..."
+    all-tag: "Ďalšie infografiky, štúdie a datasety k téme"
 
 sidebar:
   download:
@@ -38,7 +41,7 @@ sidebar:
   data:
     title: "Podkladové dáta"
     caption-dataset: "Chcete vidieť konkrétne čísla? Táto infografika je postavená na nami spracovanom datasete."
-    caption-data: "Chcete vidieť konkrétne čísla? Pozrite se na našu tabuľku s dátami alebo na pôvodné zdroje."
+    caption-data: "Chcete vidieť konkrétne čísla? Pozrite sa na našu tabuľku s dátami alebo na pôvodné zdroje."
     button-dataset: "Náš dataset"
     button-data: "Naša tabuľka s dátami"
     button-data-orig: "Pôvodné zdroje dát"
