@@ -7,7 +7,7 @@ weight:     10
 tags-scopes: [ svet ]
 tags-topics: [ klima ]
 caption:    "Dataset obsahuje tri rôzne rady údajov pre CO₂ líšiace sa časovým rozsahom, zdrojom dát i metodikou a jeden dátový rad pre koncentráciu O₂. Koncentrácie CO₂ sú uvedené v jednotkách ppm."
-data-our:   "https://docs.google.com/spreadsheets/d/1DYrIsmgy_S6IIWGtsk55Jor6zSDrf6-qT8Og9n7oDoU/edit?usp=sharing"
+data-our:   "https://docs.google.com/spreadsheets/d/13c1RXjMrCwjpyoJLLI2aoBkhmuI91HHXMkMBbV0N0-g/edit?usp=sharing"
 data-orig:	[ [ "EPICA", "ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/antarctica/epica_domec/edc-co2-2008.xls" ]
             , [ "Scripps", "https://scrippsco2.ucsd.edu/data/atmospheric_co2/icecore_merged_products" ]
             , [ "Keelingova krivka", "https://scripps.ucsd.edu/programs/keelingcurve/" ] 
