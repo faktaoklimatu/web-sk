@@ -13,6 +13,10 @@ copyright: "&copy; 2021 Otevřená data o klimatu, z. ú."
 description: Zhromažďujeme dáta o klíme a klimatickej zmene, ktoré poskytujú vedecké inštitúcie a spracovávame z nich grafy a infografiky pre ďalšie použitie.
 keywords: klíma, zmena klímy, infografiky
 
+deploy:
+  firebase-project: sk-fakty-o-klime
+  cors-report-uri: https://nkas07xe.uriports.com
+
 slugs:
   infographics: infografiky
   studies: studie
@@ -29,11 +33,11 @@ collections:
     permalink: /:title
     title: stránky
     weight: 0
-#  explainers:
-#    output: true
-#    permalink: /explainery/:title
-#    title: explainery
-#    weight: 1
+  explainers:
+    output: false
+    permalink: /explainery/:title
+    title: explainery
+    weight: 1
   infographics:
     output: true
     permalink: /infografiky/:title
@@ -62,4 +66,5 @@ jekyll-archives:
 
 # Enable Czech smart quotes
 kramdown:
-    smart_quotes: sbquo,lsquo,bdquo,ldquo
+  math_engine: katex
+  smart_quotes: sbquo,lsquo,bdquo,ldquo
