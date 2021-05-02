@@ -3,6 +3,8 @@
 navigation:
   dev-version: "Toto je vývojárska verzia webu."
   dev-differences: "Oproti produkčnej verzii v nej chýba web analytika."
+  search-empty: "Nič sme nenašli"
+  search-failed: "Vyhľadávanie nefunguje. Možno je chyba v pripojení na internet?"
 
 footer:
   get-newsletter: "Odoberajte newsletter"
@@ -17,14 +19,23 @@ licence:
 text:
   toc: "Obsah"
   study:
+    study: "Štúdia"
     summary: "Hlavné závery"
+  survey:
+    survey: "Rešerš"
   dataset:
+    dataset: "Dataset"
     source: "Zdroj"
     description: "Popis"
     link: "Odkaz"
     licence: "Licencia"
     see: "viď"
     licence-proof: "informácie o licencii"
+  explainer:
+    explainer: "Explainer"
+    source: "Zdroj"
+    author: "Autor"
+    licence: "Licencia"
   related:
     title: "Súvisiace infografiky a štúdie"
     caption: "Zaujala vás naša práca? Preskúmajte ďalšie súvisiace infografiky a štúdie:"

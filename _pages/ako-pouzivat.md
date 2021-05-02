@@ -2,6 +2,7 @@
 layout:     empty
 title:      "Ako používať naše materiály"
 slug:       ako-pouzivat
+search_type: "Ako používať"
 ---
 <div class="section">
 <div class="container" markdown="1">
