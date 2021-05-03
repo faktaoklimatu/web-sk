@@ -44,7 +44,7 @@ Dátová sada obsahuje len mesačné priemery merania. Detailné denné a týžd
 Tento dataset je zložený z dvoch meraní:
 
 * Keelingovo meranie z Mauna Loa (od roku 1958, pozri vyššie) a z južného pólu (od roku 1957, viď [stránka stanice](https://scrippsco2.ucsd.edu/data/atmospheric_co2/spo.html)).
-* merania historických koncentrácií za posledných 2000 rokov z ľadovcových vrtov v oblasti Law Dome vo východnej Antarktíde (66°46′08″S, 112°48′28″E). Merania sa majú uskutočniť postupne z rôznych vrtov, preto je najviac vzoriek z posledných 200 rokov, o niečo menej vzoriek pre predchádzajúcich 1000 rokov a najmenej vzoriek z prvého tisícročia nášho letopočtu.
+* merania historických koncentrácií za posledných 2000 rokov z ľadovcových vrtov v oblasti Law Dome vo východnej Antarktíde (66°46′08″ S, 112°48′28″ E). Merania sa majú uskutočniť postupne z rôznych vrtov, preto je najviac vzoriek z posledných 200 rokov, o niečo menej vzoriek pre predchádzajúcich 1000 rokov a najmenej vzoriek z prvého tisícročia nášho letopočtu.
 
 Historické koncentrácie sú merané rovnakou metódou ako Keelingovo meranie, len vzorky vzduchu sú odlišné –⁠ ide o vzduch zachytený v bublinkách v ľade. Vek vzduchu je určený hĺbkou a rádioizotopovým datovaním.
 
@@ -87,7 +87,7 @@ Hoci mnohé z vrtov obsahujú záznamy z širšieho časového obdobia, tento da
 * 393 – 611-tisíc rokov BP: Dome C (Siegenthaler et al., 2005),
 * 612 – 800-tisíc rokov BP: Dome C (Bereiter et al., 2014).
 
-## Koncentrácia O<sub>2</sub> na Mauna Loa, rok 1989-súčasnosť
+## Koncentrácia O<sub>2</sub> na Mauna Loa, rok 1989 – súčasnosť
 
 {% include data-header.html
     name="Scripps Institution of Oceanography"
