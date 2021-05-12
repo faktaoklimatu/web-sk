@@ -13,10 +13,13 @@ Jekyll::Hooks.register :site, :post_render do |site|
     content.gsub!(/ (atď)\.([ \)])/i, '&nbsp;\1.\2')
     # Nonbreaking spaces in two-part expressions.
     content.gsub!(/ t\. j\. /i, ' t.&nbsp;j. ')
-  end  
+  end
 
   site.documents.each do |page|
-    Jekyll.logger.error "Undefined page.output for '#{page.path}'. Consider excluding this file" if not page.respond_to? :output
+    if not page.respond_to? :output
+      Jekyll.logger.error "Undefined page.output for '#{page.path}'. Consider excluding this file"
+      continue
+    end
     replace!(page.output)
   end
 
