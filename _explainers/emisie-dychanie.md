@@ -2,7 +2,7 @@
 layout:      explainer
 title:       "Ako ovplyvňuje dýchanie človeka, živočíchov a rastlín koncentráciu CO<sub>2</sub> v atmosfére?"
 slug:        "emisie-dychanie"
-published:   2021-03-01
+published:   2021-05-16
 author:      "Ondráš Přibyla"
 weight:      74
 tags-scopes: [ svet ]

@@ -2,6 +2,8 @@
 layout: empty
 title: Fakty o klíme
 slug: index
+# TODO Temporary redirect due to explainers linking authors (also in the "about" section)
+redirect-from: /o-nas
 --- 
 <div class="section intro">
     <div class="container">
@@ -79,7 +81,7 @@ slug: index
 {:.lead}
 Zaujímajú vás naše novinky? V tejto sekcii vždy nájdete naše najnovšie infografiky, zhrnutia štúdií a datasety. Úplný zoznam noviniek a aktualít nájdete aj v [prehľade na samostatnej stránke](/aktuality).
 
-{% assign objects = site.infographics | concat: site.studies | concat: site.datasets | sort: "published" | reverse %}
+{% assign objects = site.infographics | concat: site.studies | concat: site.datasets | concat: site.explainers | sort: "published" | reverse %}
 {% include preview-blocks.html blocks=objects link="news" limit=6 %}
 
 </div></div>
@@ -119,7 +121,9 @@ Klimatická zmena je zložitý komplex navzájom previazaných javov. Údaje, s 
 {:#about .display-2}
 ## O nás a našej práci
 
-{:.lead}
+<!-- TODO temporary anchor till we don't have "about" page due to explainer author links -->
+
+{:#members .lead}
 Cieľom projektu Fakty o klíme je skvalitniť verejnú diskusiu v problematike klimatickej zmeny. Snažíme sa širokej verejnosti prinášať zrozumiteľné informácie a prispieť nielen k lepšiemu pochopeniu, ale tiež k lepšiemu rozhodovaniu v oblasti politík, ktoré by mali byť založené na aktuálnych a overených údajoch.
 
 <div id="carousel_successes" class="carousel slide mb-4 mt-4" data-ride="carousel">
