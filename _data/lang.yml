@@ -2,7 +2,7 @@
 
 navigation:
   dev-version: "Toto je vývojárska verzia webu."
-  dev-differences: "Oproti produkčnej verzii v nej chýba web analytika."
+  dev-differences: "Oproti produkčnej verzii v nej chýba web analytika, platnosť cache je znížená na 5 minút a CSP violations nie sú odosielané na URIports."
   search-empty: "Nič sme nenašli"
   search-failed: "Vyhľadávanie nefunguje. Možno je chyba v pripojení na internet?"
 
