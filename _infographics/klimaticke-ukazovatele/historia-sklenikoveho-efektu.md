@@ -18,12 +18,13 @@ Táto časová os vychádza z týchto dvoch prehľadových publikácií o výsku
 * S. R. Weart: [The Discovery of Global Warming](https://www.hup.harvard.edu/catalog.php?isbn=9780674031890), [online verzia](https://history.aip.org/climate/method.htm)
 * D. Archer, R. Pierrehumbert: [The Warming Papers](https://www.wiley.com/en-us/The+Warming+Papers%3A+The+Scientific+Foundation+for+the+Climate+Change+Forecast-p-9781405196161)
 
-
+<!-- TODO Uncomment when svetove-dohody is available.
 {% include preview-box.html
     title="Časová os medzinárodných rokovaní o ochrane klímy"
     text="Vedecké úsilie o pochopenie klimatickej zmeny vyústilo do medzinárodných rokovaní a k prijatiu dohôd, ako napríklad Kjótsky protokol nebo Parížska dohoda."
     slug="svetove-dohody"
 %}
+-->
 
 ## Viac o jednotlivých udalostiach a objavoch
 
@@ -53,6 +54,7 @@ Táto časová os vychádza z týchto dvoch prehľadových publikácií o výsku
 ## Ďalšie odkazy a poznámky
 
 [Analýza citácií](https://www.carbonbrief.org/the-most-influential-climate-change-papers-of-all-time) z časopisu Carbon Brief ukazuje, že najviac citované články o klíme sú nasledujúce:
-  * Manabe, Wetherald: [Thermal Equilibrium of the Atmosphere with a Given Distribution of Relative Humidity](https://journals.ametsoc.org/jas/article/24/3/241/17328/Thermal-Equilibrium-of-the-Atmosphere-with-a-Given) (1967). Ide o prvú prácu, kedy bol počítačový model zemskej klímy použitý k odhadu dôsledkov zdvojnásobenia CO<sub>2</sub> na svetovú teplotu. Práca použila výrazne realistickejší model spätnej väzby vodnej pary (_water vapour feedback_) než ktorékoľvek predchádzajúce výskumy.
-  * Keeling: [Atmospheric carbon dioxide variations at Mauna Loa Observatory](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.2153-3490.1976.tb00701.x)(1976). Článok ukazuje výsledky šestnástich rokov merania koncentrácie CO<sub>2</sub> na Mauna Loa, ukazuje dlhodobý nárast koncentrácie a je teda prvou správou o veľkosti efektu spaľovania fosílnych palív na zloženie atmosféry.
-  * Held, Soden: [Robust Responses of the Hydrological Cycle to Global Warming](https://www.gfdl.noaa.gov/bibliography/related_files/ih0601.pdf) (2006). Tento článok na základe výsledkov z modelovania ako prvý preukázal všeobecnú tendenciu, že dôsledkom globálneho otepľovania budú suché oblasti suchšie a vlhké oblasti získajú ešte viac zrážok.
+
+* Manabe, Wetherald: [Thermal Equilibrium of the Atmosphere with a Given Distribution of Relative Humidity](https://journals.ametsoc.org/jas/article/24/3/241/17328/Thermal-Equilibrium-of-the-Atmosphere-with-a-Given) (1967). Ide o prvú prácu, kedy bol počítačový model zemskej klímy použitý k odhadu dôsledkov zdvojnásobenia CO<sub>2</sub> na svetovú teplotu. Práca použila výrazne realistickejší model spätnej väzby vodnej pary (_water vapour feedback_) než ktorékoľvek predchádzajúce výskumy.
+* Keeling: [Atmospheric carbon dioxide variations at Mauna Loa Observatory](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.2153-3490.1976.tb00701.x)(1976). Článok ukazuje výsledky šestnástich rokov merania koncentrácie CO<sub>2</sub> na Mauna Loa, ukazuje dlhodobý nárast koncentrácie a je teda prvou správou o veľkosti efektu spaľovania fosílnych palív na zloženie atmosféry.
+* Held, Soden: [Robust Responses of the Hydrological Cycle to Global Warming](https://www.gfdl.noaa.gov/bibliography/related_files/ih0601.pdf) (2006). Tento článok na základe výsledkov z modelovania ako prvý preukázal všeobecnú tendenciu, že dôsledkom globálneho otepľovania budú suché oblasti suchšie a vlhké oblasti získajú ešte viac zrážok.
