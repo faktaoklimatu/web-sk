@@ -7,8 +7,7 @@ published:  2021-03-01
 weight:     80
 tags-scopes: [ svet ]
 tags-topics: [ klima ]
-caption:    "Klimatická zmena nie je iba nárast teploty, ale jedná sa o súhrnný pojem pre rad vzájomne previazaných javov. Zmena jedného faktora, napríklad zvýšenie koncentrácie CO<sub>2</sub> v atmosfére, vyvoláva dlhý reťazec príčin a následkov.
-"
+caption:    "Klimatická zmena nie je iba nárast teploty, ale jedná sa o súhrnný pojem pre rad vzájomne previazaných javov. Zmena jedného faktora, napríklad zvýšenie koncentrácie CO<sub>2</sub> v atmosfére, vyvoláva dlhý reťazec príčin a následkov."
 ---
 
 ## Základný výklad (Ako čítať tento graf?)
