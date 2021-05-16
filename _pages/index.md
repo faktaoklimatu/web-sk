@@ -2,8 +2,6 @@
 layout: empty
 title: Fakty o klíme
 slug: index
-# TODO Temporary redirect due to explainers linking authors (also in the "about" section)
-redirect-from: /o-nas
 --- 
 <div class="section intro">
     <div class="container">
