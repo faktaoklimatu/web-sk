@@ -25,6 +25,7 @@ slugs:
   glossary: slovnik
   how-to-use: ako-pouzivat
   news: aktuality
+  about: o-nas
 
 # Set permalinks in local language
 collections:
@@ -34,7 +35,7 @@ collections:
     title: stránky
     weight: 0
   explainers:
-    output: false
+    output: true
     permalink: /explainery/:title
     title: explainery
     weight: 1
