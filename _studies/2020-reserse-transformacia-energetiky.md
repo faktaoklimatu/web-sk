@@ -4,7 +4,7 @@ title:       "Rešerše: Štúdie transformácie energetiky"
 slug:        2020-reserse-transformacie-energetiky
 redirect_from: "/2020-reserse-transformacie-energetiky"
 weight:      300
-published:   2020-11-18
+published:   2021-06-18
 tags-scopes: [ sr ]
 tags-topics: [ energetika, opatrenia ]
 caption:     "Rešerš kľúčových štúdií venujúcích sa transformácii slovenskej energetiky"
@@ -12,26 +12,26 @@ intro: |
   Štúdie skúmajúce transformáciu energetiky je veľa a prístupov, ako takéto štúdie spracovávať, je taktiež nemalé množstvo. Táto rešerš ponúka prehľadné zhrnutie kľúčových štúdií v oblasti energetiky týkajúcich sa Slovenskej republiky. Štúdie sú zoradené chronologicky od najnovšej po najstaršiu. 
 items:
   - title:   "Publikácie Inštitútu environmentálnej politiky"
-    date:    2014 - 2021
+    date:    2014 – 2021
     url:     "https://www.minzp.sk/iep/publikacie/ekonomicke-analyzy/"
     authors:
       - name: Inštitút environmentálnej politiky
         url:  "https://www.minzp.sk/iep/o-nas/"
-    timeframe: -
+    timeframe: —
   - title:   "Potenciál podpory obnovy rodinných domov"
     date:    Január 2021
     url:     "https://zelenyrestart.sk/files/Studia_Obnovarodinnychdomov_FINAL_v2_nove-1.pdf"
     authors:
       - name: Budovy pre budúcnosť
         url:  "https://bpb.sk/"
-    timeframe: -
+    timeframe: —
   - title:   "Štúdia v oblasti zelenej ekonomiky a novej lokálnej energetiky s vplyvom na zlepšenie klimatickej situácie v Slovenskej republike so zameraním sa na obnovu nemocníc s využitím OZE"
     url:     "https://zelenyrestart.sk/files/STUDIA-OBNOVANEMOCNIC-final-012021-komplet.pdf"
     date:    Január 2021
-    authors: -
+    authors:
       - name: "ENERGIA-Jarás, s.r.o."
         url:  "http://www.energia-jaras.sk/"
-    timeframe: -
+    timeframe: —
   - title:   "Decarbonization of Eastern Europe’s Energy Mix Key to Higher EU Climate Goals"
     date:    November 2020
     url:     "https://about.bnef.com/blog/decarbonization-of-eastern-europes-energy-mix-key-to-higher-eu-climate-goals/"
@@ -47,7 +47,7 @@ items:
     authors:
       - name: Prognostický ústav Centra spoločenských a psychologických vied SAV
         url:  "http://www.prog.sav.sk/index.php/"
-    timeframe: -
+    timeframe: —
   - title:   "The Potential and Challenges of Socially Sensitive, Low-carbon Regional Transition: The Case of Small and Medium Enterprises in Upper Nitra"
     url:     "http://www.prog.sav.sk/index.php/potential-and-challenges-socially-sensitive-low-carbon-regional-transition-case-small-and-medium"
     date:    2020
@@ -61,7 +61,7 @@ items:
         url:  http://www.prog.sav.sk/index.php/
       - name: Slovenská agentúra životného prostredia
         url:  https://www.sazp.sk/
-    timeframe: -
+    timeframe: —
   - title:   "Integrovaný národný energetický a klimatický plán na roky 2021-2030"
     url:     "https://www.economy.gov.sk/energetika/navrh-integrovaneho-narodneho-energetickeho-a-klimatickeho-planu"
     date:    December 2019
@@ -85,7 +85,7 @@ items:
     study:     2018-scenar-energynautics
   - title:   "Global Energy System based on 100% Renewable Energy – Power Sector"
     url:     "http://energywatchgroup.org/wp-content/uploads/2017/11/Full-Study-100-Renewable-Energy-Worldwide-Power-Sector.pdf"
-    date:    Listopad 2017
+    date:    November 2017
     authors:
       - name: Lappeenranta University of Technology
         url:  https://www.lut.fi/web/en/
