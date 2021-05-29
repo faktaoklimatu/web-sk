@@ -27,7 +27,7 @@ slug: index
 </div>
 
 <div class="tab-content" id="myTabContent">
-  <div class="section tab-pane fade show active bg-extralight-blue pt-4 pb-4" id="public" role="tabpanel" aria-labelledby="public-tab"><div class="container">
+  <div class="section tab-pane fade show active bg-extralight-blue pt-4 pb-4" id="public" role="tabpanel" aria-labelledby="tab-role-public"><div class="container">
     <p class="lead mb-0">Projekt Fakty o klíme nie je určený len pre odbornú verejnosť, ale pre každého so záujmom o tému klimatickej zmeny. Ak ste na našom webe prvýkrát a neviete, kde začať, môžete si pozrieť niektorú z úvodných infografík, ktoré uvádzame nižšie.</p>
     {% assign featured_slugs = "schema-klimatickej-zmeny, emisie-sr, koncentracia-co2, body-zlomu-1, teplota-22000-rokov" | split: ", " %}
     {% assign featured = site.infographics | where_exp: "item", "featured_slugs contains item.slug" | sample: 3 %}
@@ -42,7 +42,7 @@ slug: index
     <!-- <a href="" class="btn btn-secondary"><i class="fas fa-fw fa-globe"></i> Ďalšie zdroje a odkazy</a> -->
   </div></div>
   
-  <div class="section tab-pane fade bg-extralight-green pt-4 pb-4" id="teachers" role="tabpanel" aria-labelledby="teachers-tab"><div class="container">
+  <div class="section tab-pane fade bg-extralight-green pt-4 pb-4" id="teachers" role="tabpanel" aria-labelledby="tab-role-teachers"><div class="container">
     <p class="lead mb-0">Texty a grafiky projektu Fakty o klíme je možné použiť ako materiál pre prípravu rôznych vzdelávacích aktivít. Pri práci sa snažíme nerezignovať na vedeckú presnosť a komplexnosť, preto použitie našich textov a grafík odporúčame pre vyššie ročníky ZŠ alebo na SŠ a VŠ. Ak náš web navštevujete prvýkrát a neviete, kde začať, môžete si pozrieť niektoré z infografík, ktoré vidíte nižšie</p>
     {% assign featured_slugs = "schema-klimatickej-zmeny, emisie-sr, koncentracia-co2" | split: ", " %}
     {% assign featured = site.infographics | where_exp: "item", "featured_slugs contains item.slug" | sample: 3 %}
@@ -62,7 +62,7 @@ slug: index
     </div> -->
   </div></div>
 
-  <div class="section tab-pane fade bg-extralight-red pt-4 pb-4" id="journalists" role="tabpanel" aria-labelledby="journalists-tab"><div class="container">
+  <div class="section tab-pane fade bg-extralight-red pt-4 pb-4" id="journalists" role="tabpanel" aria-labelledby="tab-role-journalists"><div class="container">
     <p class="lead">Ak pripravujete článok, diskusiu alebo rozhovor, naše materiály vám poskytnú aktuálne informácie a pomôžu vám získať prehľad. Aj ťažko zrozumiteľné problémy môžete vďaka našim infografikám prezentovať prehľadne a zrozumiteľne. Údaje čerpáme z overených a transparentných zdrojov, posúdenie ich faktickej správnosti sme urobili za vás.</p>
     <p class="lead">Naše údaje a grafiky možno ľahko zdieľať, upravovať a šíriť. Ak naše materiály plánujete využiť, nezabudnite sa prosím zoznámiť s pravidlami na ich použitie. Ak máte záujem o bližšie informácie o projekte alebo o spolupráci, môžete nás <a href="/{{ site.slugs.how-to-use }}#contact">kontaktovať</a>.</p>
     <a href="/{{ site.slugs.how-to-use }}" class="btn btn-primary"><i class="fas fa-fw fa-book-reader"></i> Ako používať naše materiály</a>
@@ -95,7 +95,7 @@ Klimatická zmena je zložitý komplex navzájom previazaných javov. Údaje, s 
 <div class="accordion" id="accordionExample">
 {% for index_tag in sorted_index_tags %}
 <div class="accordion-item">
-    <div class="accordion-header collapsed" id="heading_{{ index_tag.id }}" data-toggle="collapse" data-target="#collapse_{{ index_tag.id }}" aria-expanded="false" aria-controls="collapse_{{ index_tag.id }}">
+    <div class="accordion-header collapsed" id="heading_{{ index_tag.id }}" role="button" data-toggle="collapse" data-target="#collapse_{{ index_tag.id }}" aria-expanded="false" aria-controls="collapse_{{ index_tag.id }}">
         <h3 class="display-3">
         <span class="fa fa-fw fa-chevron-up"></span>
         {{ index_tag.name-long | capitalize }}
