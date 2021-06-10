@@ -9,7 +9,7 @@ tags-scopes: [ svet ]
 tags-topics: [ buducnost ]
 caption:    "Parížska dohoda deklaruje úsilie o to, aby nárast globálnej priemernej teploty výrazne neprekročil hranicu 1,5 °C. Jedným z hlavných dôvodov pre stanovenie tejto hranice je riziko prekročenia tzv. bodov zlomu (tipping points). Pri oteplení nad 2 °C sa blížime k pravdepodobným bodom zlomu mnohých veľkých planetárnych systémov."
 data-our:   "https://docs.google.com/spreadsheets/d/1Hr-NNo1_WRSPWyW8YxP14WfqgOjk2xxrFsCh6enMDKI/edit#gid=2029240771"
-data-orig:	[ [ "IPCC SR15 kapitola 3", "https://www.ipcc.ch/sr15/chapter/chapter-3" ] ]
+data-orig:  [ [ "IPCC SR15 kapitola 3", "https://www.ipcc.ch/sr15/chapter/chapter-3" ] ]
 ---
 
 ## KOMENTÁRE A TECHNICKÉ POZNÁMKY
