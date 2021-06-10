@@ -11,7 +11,7 @@ caption:    "Svet sa od roku 1961 oteplil priemerne o zhruba 1 °C, rôzne miest
 # TODO: Nahradiť za dataset, keď bude text dopísaný.
 # dataset:    "mapa-teplota-svet"
 data-our:   "https://docs.google.com/spreadsheets/d/16bTWzt0y8Omne9xxjd3o1rpszF764ATaC5UpFO5Zd7I/edit?usp=sharing"
-data-orig:	[ [ "Zdrojová data NASA GISS", "https://data.giss.nasa.gov/gistemp/maps/index_v4.html" ] ]
+data-orig:  [ [ "Zdrojová data NASA GISS", "https://data.giss.nasa.gov/gistemp/maps/index_v4.html" ] ]
 ---
 
 ## Ďalšie komentáre a odkazy
