@@ -11,18 +11,7 @@ intro:      "Stručný prehľad noviniek, opráv a aktualizácií na našom webe
         <p class="lead">{{ page.intro }}</p>
         <p class="lead">Chcete dostávať pravidelné aktualizácie cez email? Prihláste sa k odberu nášho newslettru: Krátky sumár noviniek na našom webu maximálne raz za mesiac (a skôr menej často).</p>
 
-        <form class="subscription-form" action="{{ site.newsletter }}" target="_blank" method="post">
-            <div class="input-group">
-                <div class="input-group-prepend">
-                    <span class="input-group-text">Vaša emailová adresa:</span>
-                </div>
-                <input type="text" class="form-control" placeholder="email@email.sk" name="email" id="tlemail" aria-label="Emailová adresa" />
-                <div class="input-group-append">
-                    <input type="submit" class="btn btn-primary" value="Prihlásiť sa k odberu noviniek" />
-                </div>
-            </div>
-        </form>
-         
+        <a href="#newsletter-modal" class="btn btn-primary" id="newsletter-embed" data-toggle="modal" data-target="#newsletter-modal"><i class="fas fa-fw fa-envelope-open-text"></i> Prihlásiť sa k odberu newsletteru</a>
     </div>
 </div>
 

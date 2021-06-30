@@ -35,7 +35,7 @@ slug: index
     <p class="lead">Ak chcete zostať informovaní o novinkách, môžete sledovať náš newsletter alebo Twitter.
     <!-- Komplexný a zároveň dostupný pohľad na klimatickú zmenu obsahuje naša publikácia <a href="/atlas" target="_blank">Atlas klimatickej zmeny</a>. -->
     Kvalitnú verejnú diskusiu o klimatických zmenách a projekt Fakty o klíme môžete tiež podporiť finančne alebo používaním a zdieľaním našich infografík a dát.</p>
-    <a href="{{ site.newsletter }}" target="_blank" class="btn btn-primary"><i class="fas fa-fw fa-envelope-open-text"></i> Newsletter</a>
+    <a href="#newsletter-modal" class="btn btn-primary" id="newsletter-embed" data-toggle="modal" data-target="#newsletter-modal"><i class="fas fa-fw fa-envelope-open-text"></i> Newsletter</a>
     <a href="https://twitter.com/{{ site.twitter }}" target="_blank" class="btn btn-secondary"><i class="fab fa-fw fa-twitter"></i> Twitter</a>
     <!-- <a href="/temata/emise/" class="btn btn-secondary"><i class="fas fa-fw fa-binoculars"></i> Explainery</a> -->
     <a href="/slovnik" class="btn btn-secondary"><i class="fas fa-fw fa-book"></i> Slovník pojmov</a>
