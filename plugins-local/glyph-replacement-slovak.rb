@@ -5,14 +5,14 @@ Jekyll::Hooks.register :site, :post_render do |site|
 
   def replace!(content)
     # One-letter conjunctions and prepositions should not be left hanging.
-    content.gsub!(/([ \()])([aikosuvz]) /i, '\1\2&nbsp;')
+    content.gsub!(/(?<=[\s(])([aikosuvz]) +/i, "\\1\u00a0")
     # Nonbreaking space after common abbreviations with and without period after space or opening parenthesis.
-    content.gsub!(/([ \()])(tzn|tzv|vs|napr|popr|č|zvl|r|str|angl)\. /i, '\1\2.&nbsp;')
-    content.gsub!(/([ \()])(viz|cca) /i, '\1\2&nbsp;')
-    # Nonbreaking space before common ending abbreviations before space or end parenthesis.
-    content.gsub!(/ (atď)\.([ \)])/i, '&nbsp;\1.\2')
+    content.gsub!(/(?<=[\s(])(tzn|tzv|vs|napr|popr|č|zvl|r|str|angl)\. +/i, "\\1.\u00a0")
+    content.gsub!(/(?<=[\s(])(viz|cca) +/i, "\\1\u00a0")
+    # Nonbreaking space before common ending abbreviations before space or closing parenthesis.
+    content.gsub!(/\s+(atď)\.(?=[\s)])/i, "\u00a0\\1.")
     # Nonbreaking spaces in two-part expressions.
-    content.gsub!(/ t\. j\. /i, ' t.&nbsp;j. ')
+    content.gsub!(/(?<=[\s(])t\. j\. /i, "t.\u00a0j. ")
   end
 
   site.documents.each do |page|
