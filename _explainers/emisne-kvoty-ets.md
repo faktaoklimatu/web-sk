@@ -51,7 +51,7 @@ Množstvo kvót ponúkaných v ďalších rokoch (t. j. maximálne množstvo pov
     slug="mitigacne-opatrenia-mmf"
 %}
 
-**Systémy obchodovania s emisiami** sú trhovým mechanizmom, ktorý je **založený na princípe, že znečisťovatelia by za poškodzovanie životného prostredia mali platiť**. Tieto platby motivujú elektrárne a ďalšie prevádzky k znižovaniu vlastných emisií a zároveň je možné získané prostriedky aspoň čiastočne využiť na nápravu spôsobených škôd. Ekonómovia tento princíp nazývajú tzv. internalizácia externalít (tu je externalitou vypúšťanie skleníkových plynov, ktorými znečisťovatelia doteraz zaťažovali prírodu a celú spoločnosť bez toho, aby za to museli zaplatiť). Práve existencia externalít, ktoré sa v modeli ideálneho trhu nevyskytujú, vedie k neférovému zvýhodneniu znečisťovateľov. Systémy obchodovania s emisiami usilujú o odstránenie tejto nedokonalosti a o urovnanie trhového prostredia.
+**Systémy obchodovania s emisiami** sú trhovým mechanizmom, ktorý je **založený na princípe, že znečisťovatelia by za poškodzovanie životného prostredia mali platiť**. Tieto platby motivujú elektrárne a ďalšie prevádzky znižovať vlastné emisie a zároveň je možné získané prostriedky aspoň čiastočne využiť na nápravu spôsobených škôd. Ekonómovia tento princíp nazývajú tzv. internalizácia externalít (tu je externalitou vypúšťanie skleníkových plynov, ktorými znečisťovatelia doteraz zaťažovali prírodu a celú spoločnosť bez toho, aby za to museli zaplatiť). Práve existencia externalít, ktoré sa v modeli ideálneho trhu nevyskytujú, vedie k neférovému zvýhodneniu znečisťovateľov. Systémy obchodovania s emisiami usilujú o odstránenie tejto nedokonalosti a o urovnanie trhového prostredia.
 
 ## Koľko stoja emisné povolenky?
 
@@ -122,40 +122,40 @@ Prvá fáza od roku 2005 bola predovšetkým testovacia a jej účelom bolo over
 
 - EU ETS je trhový mechanizmus, a teda tozhodovanie o emisiách skleníkových plynov je z veľkej časti ponechané na samotných producentoch. Elektrárne a ďalšie zariadenia sa podľa aktuálnej ceny rozhodujú, či nakúpia emisné kvóty alebo investujú do zníženia vlastných emisií. V kombinácii so znižovaním celkového množstva kvót **je tak možné dosiahnuť emisné ciele s nízkymi dodatočnými nákladmi**, čo je tou hlavnou výhodou celého systému.
 - **Finančné prostriedky získané z dražieb** povoleniek je **možné použiť na podporu inovácií** a na klimatické a energetické účely.
-- Dobře nastavené ETS systémy umožňují propojování s dalšími zeměmi (např. EU ETS je dnes propojen s obdobným systémem ve Švýcarsku a v budoucnu by měl být napojen i na nově vznikající britský systém). Tím dochází k **vyrovnávání cen emisí z různých zemí a ke zvyšování efektivity systému**.
+- Dobre nastavené ETS systémy umožňujú prepájanie s ďalšími krajinami (napr. EU ETS je dnes prepojený s obdobným systémom vo Švajčiarsku a v budúcnosti by mal byť napojený aj na novo vznikajúce britský systém). Tým dochádza k **vyrovnávaniu cien emisií z rôznych krajín a k zvyšovaniu efektivity systému**.
 
 **Nevýhody**
 
-- **EU ETS nepokrývá všechny sektory, jež se podílejí na vypouštění emisí skleníkových plynů**. Kvůli administrativní zátěži nelze efektivně zahrnovat malé emitenty skleníkových plynů (např. sektor dopravy), a proto některé evropské státy doplňují EU ETS o národní uhlíkové daně.
-- **Přidělování bezplatných povolenek některým provozům**. Během počátečních fází EU ETS nebyla k dispozici přesná data o skutečných emisích jednotlivých provozů, v některých případech tak mohl daný provoz zdarma obdržet vyšší množství povolenek, než kolik potřeboval (a přebytek následně se ziskem prodat). Tomu by mělo zabránit monitorování vypouštěných emisí a postupné omezování bezplatných alokací povolenek.
-- Budoucí ceny povolenek jsou nepředvídatelné,  což komplikuje dlouhodobé plánování pro zahrnuté elektrárny a průmyslové závody. V reakci na nízkou cenu povolenek v roce 2013, která byla způsobena přebytkem povolenek v systému, zavedla EU tzv. Rezervu tržní stability (Market Stability Reserve), která dokáže výkyvy ceny částečně vyrovnávat. Přebytečné nevydražené povolenky byly postupně přesunuty do rezervy, ze které již nebudou draženy, avšak v případě nedostatku povolenek v systému mohou být později uvolněny. (Jinou možností, jak bránit přílišným výkyvům ceny, je stanovit minimální a maximální cenu povolenek. EU ETS tento přístup nevyužívá, některé jiné ETS systémy ve světě však ano.)
+- **EU ETS nepokrýva všetky sektory, ktoré sa podieľajú na vypúšťaní emisií skleníkových plynov**. Kvôli administratívnej záťaži nie je možné efektívne zahŕňať malých emitentov skleníkových plynov (napr. sektor dopravy), preto niektoré európske štáty dopĺňajú EU ETS národnými uhlíkovými daňami.
+- **Prideľovanie bezplatných kvót niektorým prevádzkam**. Počas počiatočných fáz EU ETS neboli k dispozícii presné dáta o skutočných emisiách jednotlivých prevádzok, čo v niektorých prípadoch spôsobilo, že prevádzky bezplatne získali vyššie množstvo povoleniek než potrebovali (a nadbytok mohli následne so ziskom predať). Tomu by malo zabrániť monitorovanie vypúšťaných emisií a postupné znižovanie bezplatných alokácií povoleniek.
+- Budúce ceny povoleniek sú nepredvídateľné, čo komplikuje dlhodobé plánovanie pre zahrnuté elektrárne a priemyselné závody. V reakcii na nízku cenu kvót v roku 2013, ktorá bola spôsobená prebytkom kvót v systéme, zaviedla EÚ tzv. rezervu trhovej stability (Market Stability Reserve), ktorá dokáže výkyvy cien čiastočne vyrovnávať. Nadbytočné nevydražené kvóty sú tak postupne presunuté do rezervy, z ktorej už nebudú vydražené, avšak v prípade nedostatku kvót v systéme môžu byť neskôr z rezervy uvoľnené. Inou možnosťou, ako brániť prílišným výkyvom ceny, je stanoviť minimálnu a maximálnu cenu povoleniek. EU ETS tento prístup nevyužíva, niektoré iné ETS systémy vo svete však áno.
 
 {% include figure.html
-    name="ets-overene-emise-des.svg"
-    name-mobile="ets-overene-emise-mob.svg"
-    alt="Ověřené emise CO2 alokované povolenky v jednotlivých letech"
+    name="ets-overene-emisie-des.svg"
+    name-mobile="ets-overene-emisie-mob.svg"
+    alt="Overené emisie CO2 a alokované povolenky v jednotlivých rokoch"
     source-text="EU Transaction Log, European Environment Agency"
     source-url="https://www.eea.europa.eu/data-and-maps/data/european-union-emissions-trading-scheme-16"
 %}
 
-V letech 2009–2013 byly celkové ověřené emise nižší než množství alokovaných povolenek, které zařízení mohla uplatňovat také v následujících letech. K problému s nadměrnou alokací přispěla i možnost používat mezinárodní kredity podle Kjótského protokolu namísto emisních povolenek, proto v následujících rocích došlo k propadu ceny evropských emisních povolenek. Odstranění části povolenek ze systému vedlo k opětovné stabilizaci cen. V některých letech jsou ověřené emise vyšší než alokované povolenky, dostupná data však neumožňují rozlišit, zdali firmy pokryly své emise mezinárodními kredity nebo pomocí povolenek nakoupených či obdržených v předchozích letech.
+V rokoch 2009 – 2013 boli celkové overené emisie nižšie ako množstvo alokovaných kvót, ktoré zariadenia mohli uplatňovať aj v nasledujúcich rokoch. K problému s nadmernou alokáciou prispela aj možnosť používať medzinárodné kredity podľa Kjótskeho protokolu namiesto emisných kvót, čo viedlo k prepadu cien európskych emisných povoleniek v nasledujúcich rokoch. Odstránenie časti kvót zo systému viedlo k opätovnej stabilizácii cien. V niektorých rokoch sú overené emisie naopak vyššie ako alokované kvóty, dostupné dáta však neumožňujú rozlíšiť, či firmy pokryli svoje emisie medzinárodnými kreditmi alebo kvótami nakúpenými či prijatými v predošlých rokoch.
 
-## Jaké systémy ETS se používají mimo Evropu?
+## Aké systémy ETS sa používajú inde vo svete?
 
 {% include preview-box.html
-    title="Zpoplatnění emisí: rozšíření ve světě"
-    text="Zpoplatnění emisí skleníkových plynů není jen doménou Evropské unie – mnoho zemí světa má zavedenu uhlíkovou daň nebo systém emisních povolenek."
-    slug="zpoplatneni-emisi-svet"
+    title="Spoplatnenie emisií: rozšírenie vo svete"
+    text="Spoplatnenie emisií skleníkových plynov nie je iba doménou Európskej únie – veľa štátov má zavedenú uhlíkovú daň alebo systém emisných povoleniek."
+    slug="spoplatnenie-emisii-svet"
 %}
 
-Od svého spuštění se EU ETS stal inspirací pro mnoho dalších států a regionů ve světě. Obdobné systémy se dnes používají například v Číně (v některých městech ETS funguje od roku 2013, celonárodní systém byl spuštěn v roce 2021 a dnes je největším ETS na světě zahrnujícím zhruba 30 % čínských emisí). Obdobu EU ETS najdeme také v Austrálii, na Novém Zélandu, ve většině kanadských provincií, v některých státech USA a v dalších regionech.
+Od svojho spustenia sa EU ETS stal inšpiráciou pre mnoho ďalších štátov a regiónov vo svete. Obdobné systémy sa dnes používajú napríklad v Číne (v niektorých mestách ETS funguje od roku 2013, celonárodnú systém bol spustený v roku 2021 a dnes je najväčším ETS na svete zahŕňajúcim zhruba 30 % čínskych emisií). Obdobu EU ETS nájdeme tiež v Austrálii, na Novom Zélande, vo väčšine kanadských provincií, v niektorých štátoch USA a v ďalších regiónoch.
 
-Některé státy zpoplatňují emise skleníkových plynů pomocí tzv. uhlíkové daně (carbon tax), která je dalším efektivním tržním mechanismem pro snížení emisí a může vhodně doplňovat ETS zahrnutím jiných sektorů (např. dopravy). Na celém světě dnes funguje přibližně 60 různých systémů zpoplatňujících emise skleníkových plynů, přičemž dvě třetiny z nich byly spuštěny v uplynulé dekádě.
+Niektoré štáty spoplatňujú emisie skleníkových plynov pomocou tzv. uhlíkovej dane (carbon tax), ktorá je ďalším efektívnym trhovým mechanizmom na zníženie emisií a môže vhodne dopĺňať ETS zahrnutím iných sektorov (napr. dopravy). Na celom svete dnes funguje približne 60 rôznych systémov spoplatňujúcich emisie skleníkových plynov, pričom dve tretiny z nich boli spustené v uplynulej dekáde.
 
 
 ## Zdroje
-[^1]: Evropská komise. ["Zpráva o fungování evropského trhu s uhlíkem"](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX:52020DC0740) Zpráva komise Evropskému parlamentu a Radě, Evropská komise, Brusel (2020).
+[^1]: Európska komisia. ["Správa o fungovaní európskeho trhu s uhlíkom"](https://eur-lex.europa.eu/legal-content/SK/TXT/PDF/?uri=CELEX:52020DC0740&from=CS) Správa komisie Európskemu parlamentu a Rade, Európska komisia, Brusel (2020).
 [^2]: World Bank. ["State and Trends of Carbon Pricing 2020"](https://openknowledge.worldbank.org/handle/10986/33809) (May), World Bank, Washington, DC (2020).
 [^3]: High-Level Commission on Carbon Prices. ["Report of the High-Level Commission on Carbon Prices."](https://openknowledge.worldbank.org/handle/10986/32419) World Bank, Washington, DC (2017).
-[^4]: Evropská komise. ["Commission decision on the Union-wide quantity of allowances to be issued under the EU Emission Trading System for 2021"](https://ec.europa.eu/clima/sites/clima/files/news/docs/c_2020_7704_en.pdf) Evropská komise, Brusel (2020).
+[^4]: Európska komisia. ["Commission decision on the Union-wide quantity of allowances to be issued under the EU Emission Trading System for 2021"](https://ec.europa.eu/clima/sites/clima/files/news/docs/c_2020_7704_en.pdf) Európska komisia, Brusel (2020).
 
