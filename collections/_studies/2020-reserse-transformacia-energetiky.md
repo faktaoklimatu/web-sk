@@ -82,7 +82,6 @@ items:
       - name: Ministerstvo životného prostredia
         url:  https://www.minzp.sk/files/odbor-politiky-zmeny-klimy/strategia-adaptacie-sr-zmenu-klimy-aktualizacia.pdf
     timeframe: 2030
-    study:     2018-scenar-energynautics
   - title:   "Global Energy System based on 100% Renewable Energy – Power Sector"
     url:     "http://energywatchgroup.org/wp-content/uploads/2017/11/Full-Study-100-Renewable-Energy-Worldwide-Power-Sector.pdf"
     date:    November 2017
