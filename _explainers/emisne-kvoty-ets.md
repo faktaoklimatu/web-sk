@@ -22,7 +22,7 @@ EU ETS bol spustený Európskou úniou v roku 2005 ako prvý veľký systém obc
 
 ## Akým spôsobom emisné kvóty znižujú emisie?
 
-Elektrárne a priemyselné zariadenia vypúšťajúce skleníkové plyny dnes musia preukázať, že majú tieto emisie pokryté povolenkami v príslušnom rozsahu. Jedna kvóta oprávňuje k vypusteniu jednej tony CO<sub>2</sub>, prípadne ekvivalentného množstva N<sub>2</sub>O alebo perfluórovaných uhľovodíkov (PFCs).
+Elektrárne a priemyselné zariadenia vypúšťajúce skleníkové plyny dnes musia preukázať, že majú tieto emisie pokryté povolenkami v príslušnom rozsahu. Jedna kvóta oprávňuje producenta vypustiť jednu tonu CO<sub>2</sub>, prípadne ekvivalentného množstva N<sub>2</sub>O alebo perfluórovaných uhľovodíkov (PFCs).
 
 Každý rok vydáva EÚ určité množstvo týchto kvót (angl. _European Union Emission Allowance_, EUA), pričom toto množstvo (tzv. **emisný strop**) sa postupne rovnomerne znižuje v súlade s emisnými cieľmi EÚ. Systém tak umožňuje kontrolovať a priebežne redukovať množstvo emisií zo zahrnutých sektorov.
 
@@ -51,7 +51,7 @@ Množstvo kvót ponúkaných v ďalších rokoch (t. j. maximálne množstvo pov
     slug="mitigacne-opatrenia-mmf"
 %}
 
-**Systémy obchodovania s emisiami** sú trhovým mechanizmom, ktorý je **založený na princípe, že znečisťovatelia by za poškodzovanie životného prostredia mali platiť**. Tieto platby motivujú elektrárne a ďalšie prevádzky znižovať vlastné emisie a zároveň je možné získané prostriedky aspoň čiastočne využiť na nápravu spôsobených škôd. Ekonómovia tento princíp nazývajú tzv. internalizácia externalít (tu je externalitou vypúšťanie skleníkových plynov, ktorými znečisťovatelia doteraz zaťažovali prírodu a celú spoločnosť bez toho, aby za to museli zaplatiť). Práve existencia externalít, ktoré sa v modeli ideálneho trhu nevyskytujú, vedie k neférovému zvýhodneniu znečisťovateľov. Systémy obchodovania s emisiami usilujú o odstránenie tejto nedokonalosti a o urovnanie trhového prostredia.
+**Systémy obchodovania s emisiami** sú trhovým mechanizmom, ktorý je **založený na princípe, že znečisťovatelia by za poškodzovanie životného prostredia mali platiť**. Tieto platby motivujú elektrárne a ďalšie prevádzky znižovať vlastné emisie a zároveň je možné získané prostriedky aspoň čiastočne využiť na nápravu spôsobených škôd. Ekonómovia tento princíp nazývajú ako tzv. internalizáciu externalít (tu je externalitou vypúšťanie skleníkových plynov, ktorými znečisťovatelia doteraz zaťažovali prírodu a celú spoločnosť bez toho, aby za to museli zaplatiť). Práve existencia externalít, ktoré sa v modeli ideálneho trhu nevyskytujú, vedie k neférovému zvýhodneniu znečisťovateľov. Systémy obchodovania s emisiami usilujú o odstránenie tejto nedokonalosti a o urovnanie trhového prostredia.
 
 ## Koľko stoja emisné povolenky?
 
@@ -76,10 +76,10 @@ Systém pokrýva najmä väčšie zdroje v energeticky náročných odvetviach (
 - ropné rafinérie,
 - koksovne,
 - železiarne a oceliarne,
-- cementárne
+- cementárne,
 - niektorú ďalšiu priemyselnú výrobu.
 
-Okrem toho zahŕňa približne 600 prevádzkovateľov lietadiel v rámci [Európskeho hospodárskeho priestoru](https://sk.wikipedia.org/wiki/Eur%C3%B3psky_hospod%C3%A1rsky_priestor)  (EHP). Súhrnne pokrýva približne 38 % emisií skleníkových plynov v EÚ[^1] a okrem emisií CO<sub>2</sub> sú zahrnuté tiež emisie oxidu dusného N<sub>2</sub>O a emisie perfluórovaných uhľovodíkov.
+Okrem toho zahŕňa približne 600 prevádzkovateľov lietadiel v rámci [Európskeho hospodárskeho priestoru](https://sk.wikipedia.org/wiki/Eur%C3%B3psky_hospod%C3%A1rsky_priestor)  (EHP). Súhrnne pokrýva približne 38 % emisií skleníkových plynov v EÚ[^1] a okrem emisií CO<sub>2</sub> sú zahrnuté tiež emisie oxidu dusného N<sub>2</sub>O a perfluórovaných uhľovodíkov.
 
 ## Kto dostáva emisné povolenky zadarmo?
 
@@ -120,14 +120,14 @@ Prvá fáza od roku 2005 bola predovšetkým testovacia a jej účelom bolo over
 
 **Výhody**
 
-- EU ETS je trhový mechanizmus, a teda tozhodovanie o emisiách skleníkových plynov je z veľkej časti ponechané na samotných producentoch. Elektrárne a ďalšie zariadenia sa podľa aktuálnej ceny rozhodujú, či nakúpia emisné kvóty alebo investujú do zníženia vlastných emisií. V kombinácii so znižovaním celkového množstva kvót **je tak možné dosiahnuť emisné ciele s nízkymi dodatočnými nákladmi**, čo je tou hlavnou výhodou celého systému.
+- EU ETS je trhový mechanizmus, a teda rozhodovanie o emisiách skleníkových plynov je z veľkej časti ponechané na samotných producentoch. Elektrárne a ďalšie zariadenia sa podľa aktuálnej ceny rozhodujú, či nakúpia emisné kvóty alebo investujú do zníženia vlastných emisií. V kombinácii so znižovaním celkového množstva kvót **je tak možné dosiahnuť emisné ciele s nízkymi dodatočnými nákladmi**, čo je tou hlavnou výhodou celého systému.
 - **Finančné prostriedky získané z dražieb** povoleniek je **možné použiť na podporu inovácií** a na klimatické a energetické účely.
-- Dobre nastavené ETS systémy umožňujú prepájanie s ďalšími krajinami (napr. EU ETS je dnes prepojený s obdobným systémom vo Švajčiarsku a v budúcnosti by mal byť napojený aj na novo vznikajúce britský systém). Tým dochádza k **vyrovnávaniu cien emisií z rôznych krajín a k zvyšovaniu efektivity systému**.
+- Dobre nastavené ETS systémy umožňujú prepájanie s ďalšími krajinami (napr. EU ETS je dnes prepojený s obdobným systémom vo Švajčiarsku a v budúcnosti by mal byť napojený aj na novovznikajúci britský systém). Tým dochádza k **vyrovnávaniu cien emisií z rôznych krajín a k zvyšovaniu efektivity systému**.
 
 **Nevýhody**
 
-- **EU ETS nepokrýva všetky sektory, ktoré sa podieľajú na vypúšťaní emisií skleníkových plynov**. Kvôli administratívnej záťaži nie je možné efektívne zahŕňať malých emitentov skleníkových plynov (napr. sektor dopravy), preto niektoré európske štáty dopĺňajú EU ETS národnými uhlíkovými daňami.
-- **Prideľovanie bezplatných kvót niektorým prevádzkam**. Počas počiatočných fáz EU ETS neboli k dispozícii presné dáta o skutočných emisiách jednotlivých prevádzok, čo v niektorých prípadoch spôsobilo, že prevádzky bezplatne získali vyššie množstvo povoleniek než potrebovali (a nadbytok mohli následne so ziskom predať). Tomu by malo zabrániť monitorovanie vypúšťaných emisií a postupné znižovanie bezplatných alokácií povoleniek.
+- **EU ETS nepokrýva všetky sektory, ktoré sa podieľajú na vypúšťaní skleníkových plynov**. Kvôli administratívnej záťaži nie je možné efektívne zahrnúť malých emitentov skleníkových plynov (napr. sektor dopravy), preto niektoré európske štáty dopĺňajú EU ETS národnými uhlíkovými daňami.
+- **Prideľovanie bezplatných kvót niektorým prevádzkam**. Počas počiatočných fáz EU ETS neboli k dispozícii presné dáta o skutočných emisiách jednotlivých prevádzok, čo v niektorých prípadoch spôsobilo, že prevádzky bezplatne získali vyššie množstvo povoleniek než potrebovali (a nadbytok mohli následne so ziskom predať). Tomu by malo brániť monitorovanie vypúšťaných emisií a postupné znižovanie bezplatných alokácií povoleniek.
 - Budúce ceny povoleniek sú nepredvídateľné, čo komplikuje dlhodobé plánovanie pre zahrnuté elektrárne a priemyselné závody. V reakcii na nízku cenu kvót v roku 2013, ktorá bola spôsobená prebytkom kvót v systéme, zaviedla EÚ tzv. rezervu trhovej stability (Market Stability Reserve), ktorá dokáže výkyvy cien čiastočne vyrovnávať. Nadbytočné nevydražené kvóty sú tak postupne presunuté do rezervy, z ktorej už nebudú vydražené, avšak v prípade nedostatku kvót v systéme môžu byť neskôr z rezervy uvoľnené. Inou možnosťou, ako brániť prílišným výkyvom ceny, je stanoviť minimálnu a maximálnu cenu povoleniek. EU ETS tento prístup nevyužíva, niektoré iné ETS systémy vo svete však áno.
 
 {% include figure.html
@@ -148,7 +148,7 @@ V rokoch 2009 – 2013 boli celkové overené emisie nižšie ako množstvo alok
     slug="spoplatnenie-emisii-svet"
 %}
 
-Od svojho spustenia sa EU ETS stal inšpiráciou pre mnoho ďalších štátov a regiónov vo svete. Obdobné systémy sa dnes používajú napríklad v Číne (v niektorých mestách ETS funguje od roku 2013, celonárodnú systém bol spustený v roku 2021 a dnes je najväčším ETS na svete zahŕňajúcim zhruba 30 % čínskych emisií). Obdobu EU ETS nájdeme tiež v Austrálii, na Novom Zélande, vo väčšine kanadských provincií, v niektorých štátoch USA a v ďalších regiónoch.
+Od svojho spustenia sa EU ETS stal inšpiráciou pre mnoho ďalších štátov a regiónov vo svete. Obdobné systémy sa dnes používajú napríklad v Číne (v niektorých mestách ETS funguje od roku 2013, celonárodný systém bol spustený v roku 2021 a dnes je najväčším ETS na svete zahŕňajúcim zhruba 30 % čínskych emisií). Obdobu EU ETS nájdeme tiež v Austrálii, na Novom Zélande, vo väčšine kanadských provincií, v niektorých štátoch USA a v ďalších regiónoch.
 
 Niektoré štáty spoplatňujú emisie skleníkových plynov pomocou tzv. uhlíkovej dane (carbon tax), ktorá je ďalším efektívnym trhovým mechanizmom na zníženie emisií a môže vhodne dopĺňať ETS zahrnutím iných sektorov (napr. dopravy). Na celom svete dnes funguje približne 60 rôznych systémov spoplatňujúcich emisie skleníkových plynov, pričom dve tretiny z nich boli spustené v uplynulej dekáde.
 
