@@ -4,9 +4,7 @@ title:      "Transformácia energetiky do 2050"
 slug:       2020-transformacia-energetiky-do-2050
 redirect_from:
   - /2020-transformacia-energetiky-do-2050
-  - /2020_transformacia-energetiky-do-2050
-  - /studie/2020_transformacia-energetiky-do-2050
-published:  2021-03-01
+published:  2021-11-04
 weight:     96
 tags-scopes: [ svet ]
 tags-topics: [ energetika, opatrenia ]
@@ -17,7 +15,7 @@ Správa sa zaoberá celým sektorom energetiky, ktorý popri výrobe elektriny z
 "
 summary:    |
     * Súčasné ciele a záväzky znižovania emisií CO<sub>2</sub> povedú k zastaveniu rastu ročných emisií na hodnote okolo 33 Gt/rok. Pre naplnenie Parížskej dohody a zastavenie nárastu svetovej teploty na úrovni okolo 2 °C je potrebné znížiť svetové emisie do roku 2050 na úroveň 10 Gt/rok. Takéto zníženie emisií dosahuje transformačný scenár, ktorý je založený na elektrifikácii, obnoviteľných zdrojoch energie, zvyšovaní flexibility siete a využití elektriny na výrobu vodíka.
-    * Podobne ako [Sternova správa](/studie/2006-sternova-sprava), aj táto publikácia hovorí, že **investícia do energetickej udržateľnosti sa jednoznačne vráti**, resp. že náklady súčasného smerovania budú vyššie ako náklady transformačného scenára. Agentúra vo svojej správe vyčíslila čistý rozdiel medzi plánovaným a transformačným scenárom (PES vs TES v roku 2050) v zamestnanosti o +0,15 %, v HDP o +2,4 % a v indikátore blahobytu dokonca o +13,5 %.
+    * Podobne ako Sternova správa, aj táto publikácia hovorí, že **investícia do energetickej udržateľnosti sa jednoznačne vráti**, resp. že náklady súčasného smerovania budú vyššie ako náklady transformačného scenára. Agentúra vo svojej správe vyčíslila čistý rozdiel medzi plánovaným a transformačným scenárom (PES vs TES v roku 2050) v zamestnanosti o +0,15 %, v HDP o +2,4 % a v indikátore blahobytu dokonca o +13,5 %.
     * Celkové investície nutné k naplneniu súčasných záväzkov odhaduje správa na 95 biliónov dolárov. Oproti tomu, investície do transformačného scenára odhaduje správa na 110 biliónov dolárov a celkové investície nutné na úplnú dekarbonizáciu energetiky do roku 2050 na 130 biliónov dolárov. Prínosy transformácie sú však vyššie ako dodatočné investície.
     * Zo svetových regiónov bude **z dodatočných investícií do transformácie energetiky najviac profitovať Európska únia**, nasledovaná Severnou Amerikou. V regióne Európskej únie vychádza v transformačnom scenári zamestnanosť o +2,6 %, HDP o +7,4 % a blahobyt o 10,6 % vyšší ako v plánovanom scenári. Na región EÚ pripadne 5 zo 6 novovytvorených pracovných miest a viac ako 50 % očakávaného nárastu HDP.
 
@@ -41,11 +39,11 @@ V [prvej kapitole]({{ page.study-pdf }}#page=57) správy sú podrobnejšie disku
 ### Porovnávané scenáre
 
 * **Základný scenár** (Baseline Energy Scenario, BES) reflektuje energetickú politiku a záväzky jednotlivých krajín z roku 2015 a predpokladá ďalšie zvyšovanie svetových emisií CO<sub>2</sub>. Pretože ide o ciele a záväzky do budúcnosti, neboli zatiaľ implementované všetky opatrenia a je teoreticky možné, že vývoj svetových emisií bude vyšší, ako predpokladá tento scenár.
-* **Plánovaný scenár** (Planned Energy Scenario, PES) slúži ako hlavný referenčný scenár a reflektuje stav záväzkov krajín z roku 2019. Keby krajiny svoje záväzky naplnili, tento scenár povedie k stabilizácii ročných emisií na 33 Gt CO<sub>2</sub>/rok, ale taktiež k rastu svetovej teploty o viac ako 2,5 °C do konca storočia v porovnaní s hodnotami v referenčnom období 1850 – 1900, ktoré sa používa ako aproximácia predindustriálnej úrovne globálnej teploty.
+* **Plánovaný scenár** (Planned Energy Scenario, PES) slúži ako hlavný referenčný scenár a reflektuje stav záväzkov krajín z roku 2019. Keby krajiny svoje záväzky naplnili, tento scenár povedie k stabilizácii ročných emisií na 33 Gt CO<sub>2</sub>/rok, ale taktiež k rastu svetovej teploty o viac ako 2,5 °C do konca storočia v porovnaní s hodnotami v referenčnom období 1850 – 1900, ktoré sa používa ako aproximácia pred-industriálnej úrovne globálnej teploty.
 * **Transformačný scenár** (Transforming Energy Scenario, TES) popisuje ambicióznu, ale realistickú transformáciu energetiky založenú z veľkej časti na obnoviteľných zdrojoch energie. Tento scenár je v súlade s cieľmi Parížskej dohody zastaviť globálne otepľovanie pod hodnotou 2 °C.
 * **Úplná dekarbonizácia** (Deep Decarbonization Perspective, DDP) popisuje možnosti dosiahnutia nulových emisií CO<sub>2</sub> do roku 2050.
 
-[![Veľkosť redukcie emisií: obnoviteľné zdroje a efektivita](/assets/studies/2020-transformace-energetiky-do-2050-graf.png){:.text-img}]({{ page.study-pdf }}#page=33){:.no-ext-link-icon}
+[![Veľkosť redukcie emisií: obnoviteľné zdroje a efektivita](/assets/studies/2020-transformacia-energetiky-do-2050-graf.png){:.text-img}]({{ page.study-pdf }}#page=33){:.no-ext-link-icon}
 
 ### Socioekonomické ukazovatele
 
@@ -63,7 +61,7 @@ V [prvej kapitole]({{ page.study-pdf }}#page=57) správy sú podrobnejšie disku
 </div>
 
 * Správa ide vo vyčíslení dopadov až na úroveň svetových regiónov, kde vznikajú významné odlišnosti. V súvislosti s očakávaným demografickým vývojom a súčasným technologicko-ekonomickým pokrokom menej rozvinutých regiónov spôsobeným doháňaním vyspelých krajín správa predikuje najrýchlejší hospodársky rast v aktuálne najslabších regiónoch južnej, centrálnej a juhovýchodnej Ázie, subsaharskej Afriky a Latinskej Ameriky.
-* Čo sa však týka prínosov, ktoré správa prisudzuje priamo energetickej transformácii, resp. **rozdielu mezi PES a TES scenárom**, sú na tom vyspelé regióny relatívne lepšie vďaka vzájomnej integrácii, nízkym bariéram obchodu a dostupnosti technológií. V regióne Európskej únie, kde je zahrnutá aj Slovenská republika, vychádza v transformačnom scenári zamestnanosť o +2,6 %, HDP o +7,4 % a blahobyt o +10,6 % vyšší ako v PES. Absolútne teda pripadne na región EÚ 5 zo 6 novovzniknutých pracovných miest a HDP v priemere vzrastie o 2950 dolárov na hlavu, čo je 8× viac ako očakávaný svetový priemer.
+* Čo sa však týka prínosov, ktoré správa prisudzuje priamo energetickej transformácii, resp. **rozdielu medzi PES a TES scenárom**, sú na tom vyspelé regióny relatívne lepšie vďaka vzájomnej integrácii, nízkym bariéram obchodu a dostupnosti technológií. V regióne Európskej únie, kde je zahrnutá aj Slovenská republika, vychádza v transformačnom scenári zamestnanosť o +2,6 %, HDP o +7,4 % a blahobyt o +10,6 % vyšší ako v PES. Absolútne teda pripadne na región EÚ 5 zo 6 novovzniknutých pracovných miest a HDP v priemere vzrastie o 2950 dolárov na hlavu, čo je 8× viac ako očakávaný svetový priemer.
 * Podrobné výstupy k jednotlivým svetovým regiónom sú obsiahnuté v dodatku [_Regional Factsheets_](https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2020/Apr/IRENA_GRO_Regional_Factsheets.pdf).
 
 ### Transformačný energetický scenár stavia na piatich pilieroch
@@ -83,6 +81,6 @@ Transformačný scenár tiež predpokladá zvyšovanie energetickej efektivity, 
 * Štúdia pracuje so štyrmi scenármi vývoja (BES, PES, TES, DDP), ktoré popisujú stupňujúce sa úsilie v obmedzení emisií, ktoré sú bližšie popísané v zhrnutí. Dôsledky týchto scenárov štúdia kvantifikuje pomocou súhrnného ukazovateľa blahobytu (welfare). Tento ukazovateľ je tvorený zamestnanosťou, vybranými zložkami HDP (spotreba, investície a vládne výdaje na školstvo), zdravím populácie, emisiami a materiálnou náročnosťou ekonomiky (podrobnejšie o štruktúre ukazovateľa blahobytu pozri [infobox 2.3 (str. 112)]({{ page.study-pdf }}#page=112)).
 * Porovnanie so scenármi budúcnosti od iných spracovateľov (IEA, IPCC, Shell, McKinsey a ďalších) v štúdii podrobnejšie diskutuje [infobox 1.8 (str. 88)]({{ page.study-pdf }}#page=88).
 
-## POZNÁMKY O SPRACOVATEĽOVI
+## Poznámky o spracovateľovi
 
 [IRENA](https://www.irena.org/) (International Renewable Energy Agency, v preklade Medzinárodná agentúra pre obnoviteľnú energiu) je medzinárodná medzivládna organizácia, ktorá podporuje spoluprácu, predávanie skúseností, adaptáciu a predovšetkým využívanie obnoviteľnej energie. Agentúra bola založená v roku 2009, aktuálne má sídlo v Spojených arabských emirátoch a do jej členskej základne patrí 162 (2020) krajín vrátane SR.
