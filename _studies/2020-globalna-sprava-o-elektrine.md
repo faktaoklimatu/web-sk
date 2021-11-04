@@ -49,7 +49,7 @@ Tabuľka obsahuje prehľad produkcie elektriny z jednotlivých zdrojov v roku 20
 | India           | 1 378 TWh  | 72 % |  3 % | 3 %  | 21 % | 1 008 kWh  | 651 |
 | Ostatné štáty   | 9 754 TWh  | 21 % | 36 % | 7 %  | 28 % | 2 478 kWh  | 388 |
 | --------------- | ----------:| ----:| ----:| ----:|-----:|-----------:| ---:|
-| Slovensko       | 28 TWh     | 8 %  |  7 % | 55 % | 27 % | 5 083 kWh  | 411<sup>3</sup> |
+| Slovensko       | 28 TWh     | 8 %  |  7 % | 55 % | 27 % | 5 083 kWh  | 408<sup>3</sup> |
 
 </div>
 
@@ -73,9 +73,9 @@ Dopyt po elektrine v Číne rastie v poslednej dekáde približne o 7 % ročne. 
 
 Dopyt po elektrine v Indii rastie v poslednej dekáde približne o 6 % ročne. V indickom mixe na výrobu elektriny tvorí uhlie až 72 %, čo je viac ako v Číne. V roku 2019 však výroba z elektriny klesla o 3 %, čo je pravdepodobne jednorazový výkyv spôsobený nižším ekonomickým rastom a vyššou dodávkou elektriny z vodných elektrární, ktorá vznikla v dôsledku neobvykle silného monzúnového obdobia. V roku 2019 India otvorila najväčšiu solárnu elektráreň na svete. Priemerná ročná spotreba elektriny na osobu je v Indii iba 1008 kWh/osoba, čo je tretina svetového priemeru.
 
-### Ostatní státy světa
+### Ostatné štáty sveta
 
-Poptávka po elektřině v ostatních státech světa roste v poslední dekádě souhrnně o 2 % ročně, rozdíly mezi jednotlivými státy jsou však značné – někde poptávka stagnuje, jinde roste až o 7 % ročně. Ostatní státy světa souhrnně navýšily využívání uhlí ve výrobě elektřiny o 1 % (především díky nárůstu ve Vietnamu, Indonésii a Pákistánu, oproti tomu využívání uhlí pokleslo v Jižní Koreji, Japonsku a Jižní Africe). V roce 2019 rovněž vzrostla výroba elektřiny u ostatních států ze solárních elektráren o 33 % (především v Japonsku, Jižní Koreji, Austrálii a Vietnamu), z větrných elektráren o 11 % a z jaderných elektráren o 7 % (renovace elektráren v Japonsku a Jižní Koreji). Mezi státy jsou však výrazné rozdíly – průměrná roční spotřeba elektřiny je 2,4 MWh na osobu, avšak Kanada a některé státy blízkého východu spotřebovávají více než 15 MWh, oproti tomu mnoho afrických zemí má průměrnou spotřebu na osobu nižší než 0,2 MWh.
+Dopyt po elektrine v ostatných štátoch rastie v poslednej dekáde (2010 – 2019) súhrnne o 2 % ročne, rozdiely medzi jednotlivými štátmi sú ale značné – niekde dopyt stagnuje, inde zase rastie až o 7 % ročne. Využívanie uhlia vo výrobe elektriny ostatné štáty navýšili celkovo o 1 % (predovšetkým kvôli nárastu vo Vietname, Indonézii a Pakistane; pokles naopak nastal v Južnej Kórei, Japonsku a Juhoafrickej republike). V roku 2019 tiež v týchto štátoch vzrástla výroba elektriny zo solárnych elektrární o 33 % (hlavne v Japonsku, Južnej Kórei, Austrálii a Juhoafrickej republike, z veterných elektrární o 11 % a z jadrových elektrární o 7 % (po renovácii elektrární v Japonsku a Južnej Kórei). Hoci je priemerná ročná spotreba elektriny v týchto štátoch 2,4 MWh na osobu, medzi štátmi sú výrazné rozdiely - zatiaľčo Kanada a niektoré štáty Blízkeho východu spotrebúvajú viac ako 15 MWh/osoba/rok, v mnohých afrických krajinách je priemerná ročná spotreba na osobu nižšia ako 0,2 MWh. 
 
 ### Je trend dostatočný?
 
