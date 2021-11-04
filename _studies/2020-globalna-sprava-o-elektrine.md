@@ -4,20 +4,18 @@ title:      "Globálna správa o elektrine 2020"
 slug:       2020-globalna-sprava-o-elektrine
 redirect_from:
   - /2020-globalna-sprava-o-elektrine
-published:  false
+published:  2021-11-04
 weight:     95
 tags-scopes: [ svet ]
 tags-topics: [ energetika, emisie ]
 caption:    "Správa ponúka globálnu analýzu zdrojov výroby elektriny v roku 2019 a zmien vo výrobe v porovnaní s predošlými rokmi."
-intro:      "Cieľom štúdie think-tanku Ember vydanej v marci 2020 je predložit analýzu svetových trendov vo výrobe a spotrebe elektriny v rokoch 2000 – 2019 a podrobnejšie diskutovať zdroje výroby elektriny v roku 2019. Zaoberá sa iba výrobou elektriny a nie celým energetickým sektorom, a preto nezahŕna napr. spotrebu energie v doprave (benzín, nafta) či energiu na vykurovanie (najmä zemný plyn).
+intro:      "Cieľom štúdie think-tanku Ember vydanej v marci 2020 je predložiť analýzu svetových trendov vo výrobe a spotrebe elektriny v rokoch 2000 – 2019 a podrobnejšie diskutovať zdroje výroby elektriny v roku 2019. Zaoberá sa iba výrobou elektriny a nie celým energetickým sektorom, a preto nezahŕňa napr. spotrebu energie v doprave (benzín, nafta) či energiu na vykurovanie (najmä zemný plyn).
 Správa tiež obsahuje kompletný dataset popisujúci zdroje výroby elektriny pre všetky štáty sveta za posledných 20 rokov."
 summary:    |
-    * **Výroba elektriny z uhlia sa v roku 2019 celosvetovo znížila o 3 % v porovnaní s rokom 2018.** V dôsledku toho došlo k poklesu celkových emisií z výroby elektriny o 2 %, **jedná sa skôr ale o jednorazový pokles než o začiatok sľubného dlhodobého trendu**. Dáta z predošlých rokov naznačujú, že miera využitia uhlia na výrobu elektriny skôr rástla a situácia v roku 2019 bola zrejme ovplyvnená nižším rastom HDP a počasím. Aj keby sa nám ale trojpercentný pokles podarilo udržať, stále nie je dostačujúci pre efektívne zmiernenie klimatickej zmeny. Scenár udržateľného rozvoja podla Medzinárodnej energetickej agentúry (IEA) vyžaduje každoročné zníženie o 4 %, scenár 1,5 °C podľa IPCC dokonca o 11 %.
+    * **Výroba elektriny z uhlia sa v roku 2019 celosvetovo znížila o 3 % v porovnaní s rokom 2018.** V dôsledku toho došlo k poklesu celkových emisií z výroby elektriny o 2 %, **jedná sa skôr ale o jednorazový pokles než o začiatok sľubného dlhodobého trendu**. Dáta z predošlých rokov naznačujú, že miera využitia uhlia na výrobu elektriny skôr rástla a situácia v roku 2019 bola zrejme ovplyvnená nižším rastom HDP a počasím. Aj keby sa nám ale trojpercentný pokles podarilo udržať, stále nie je dostačujúci pre efektívne zmiernenie klimatickej zmeny. Scenár udržateľného rozvoja podľa Medzinárodnej energetickej agentúry (IEA) vyžaduje každoročné zníženie o 4 %, scenár 1,5 °C podľa IPCC dokonca o 11 %.
     * Medzi jednotlivými regiónmi sú značné rozdiely. **Lídrami v nahrádzaní uhlia inými zdrojmi sú Európska únia a USA, kde od roku 2007 využitie uhlia na výrobu elektriny kleslo na polovicu.** V EÚ bolo uhlie nahradené obnoviteľnými zdrojmi (veternými a solárnymi elektrárňami), v USA prevažne zemným plynom.
     * Produkcia z veterných a solárnych elektrární vzrástla medzi 2018 – 2019 o 15 %, kedy tieto zdroje vyrobili 8 % celosvetovej elektriny.
     * Celosvetový dopyt po elektrine stále rastie a v roku 2019 sa zvýšil o 1,4 %, čo bol najnižší nárast od roku 2009. Príčinou toho bola nižšia ekonomická produkcia a miernejšia zima predovšetkým v USA a EÚ. Naopak, v Číne vzrástol dopyt po elektrine o 5 %.
-
-    
 study-title:        "Global Electricity Review 2020"
 study-author:       "Dave Jones a kol."
 study-institution:  "Ember: Coal to Clean Energy Policy"
@@ -67,7 +65,7 @@ Dopyt po elektrine v USA dlhodobo stagnuje. Medzi rokmi 2018 a 2019 tam došlo k
 
 ### Čína
 
-Dopyt po elektrine v Číne rastie v poslednej dekáde približne o 7 % ročne. V roku 2019 narástla výroba elektriny z uhlia o 2 % a Čína samotná tak využíva viac ako polovicu celosvetovej spotreby uhlia na výrobu elektriny – v jej mixe tvorí uhlie až 62 %. Využívanie obnoviteľných zdrojov (veterných a solárnych elektrární) na výrobu elektriny stúplo o 16 %, čo však nestačilo na pokrytie prudkého rastu dopytu po elektrine. Došlo tiež k 18 % nárastu produkcie elektriny z jadrových elektrární. Priemerná ročná spotreba elektriny na osobu v Číne je 5,2 MWh, čo je o 53 % viac ako svetový priemer a napríklad tiež viac ako priemerná ročná spotreba na osobu vo Veľkej Británii, ale stále menej ako priemer EÚ (6,3 MWh). 
+Dopyt po elektrine v Číne rastie v poslednej dekáde približne o 7 % ročne. V roku 2019 narástla výroba elektriny z uhlia o 2 % a Čína samotná tak využíva viac ako polovicu celosvetovej spotreby uhlia na výrobu elektriny – v jej mixe tvorí uhlie až 62 %. Využívanie obnoviteľných zdrojov (veterných a solárnych elektrární) na výrobu elektriny stúplo o 16 %, čo však nestačilo na pokrytie prudkého rastu dopytu po elektrine. Došlo tiež k 18 % nárastu produkcie elektriny z jadrových elektrární. Priemerná ročná spotreba elektriny na osobu v Číne je 5,2 MWh, čo je o 53 % viac ako svetový priemer a napríklad tiež viac ako priemerná ročná spotreba na osobu vo Veľkej Británii, ale stále menej ako priemer EÚ (6,3 MWh).
 
 ### India
 
@@ -75,7 +73,7 @@ Dopyt po elektrine v Indii rastie v poslednej dekáde približne o 6 % ročne. V
 
 ### Ostatné štáty sveta
 
-Dopyt po elektrine v ostatných štátoch rastie v poslednej dekáde (2010 – 2019) súhrnne o 2 % ročne, rozdiely medzi jednotlivými štátmi sú ale značné – niekde dopyt stagnuje, inde zase rastie až o 7 % ročne. Využívanie uhlia vo výrobe elektriny ostatné štáty navýšili celkovo o 1 % (predovšetkým kvôli nárastu vo Vietname, Indonézii a Pakistane; pokles naopak nastal v Južnej Kórei, Japonsku a Juhoafrickej republike). V roku 2019 tiež v týchto štátoch vzrástla výroba elektriny zo solárnych elektrární o 33 % (hlavne v Japonsku, Južnej Kórei, Austrálii a Juhoafrickej republike, z veterných elektrární o 11 % a z jadrových elektrární o 7 % (po renovácii elektrární v Japonsku a Južnej Kórei). Hoci je priemerná ročná spotreba elektriny v týchto štátoch 2,4 MWh na osobu, medzi štátmi sú výrazné rozdiely - zatiaľčo Kanada a niektoré štáty Blízkeho východu spotrebúvajú viac ako 15 MWh/osoba/rok, v mnohých afrických krajinách je priemerná ročná spotreba na osobu nižšia ako 0,2 MWh. 
+Dopyt po elektrine v ostatných štátoch rastie v poslednej dekáde (2010 – 2019) súhrnne o 2 % ročne, rozdiely medzi jednotlivými štátmi sú ale značné – niekde dopyt stagnuje, inde zase rastie až o 7 % ročne. Využívanie uhlia vo výrobe elektriny ostatné štáty navýšili celkovo o 1 % (predovšetkým kvôli nárastu vo Vietname, Indonézii a Pakistane; pokles naopak nastal v Južnej Kórei, Japonsku a Juhoafrickej republike). V roku 2019 tiež v týchto štátoch vzrástla výroba elektriny zo solárnych elektrární o 33 % (hlavne v Japonsku, Južnej Kórei, Austrálii a Juhoafrickej republike, z veterných elektrární o 11 % a z jadrových elektrární o 7 % (po renovácii elektrární v Japonsku a Južnej Kórei). Hoci je priemerná ročná spotreba elektriny v týchto štátoch 2,4 MWh na osobu, medzi štátmi sú výrazné rozdiely - zatiaľ čo Kanada a niektoré štáty Blízkeho východu spotrebúvajú viac ako 15 MWh/osoba/rok, v mnohých afrických krajinách je priemerná ročná spotreba na osobu nižšia ako 0,2 MWh.
 
 ### Je trend dostatočný?
 
@@ -83,7 +81,7 @@ Trojpercentný pokles vo využívaní uhlia na výrobu elektriny by nebol dostat
 
 ## Poznámky o metodike
 
-* Dataset obsahuje údaje z rokov 2000 – 2019 pre 224 krajín. V niektorých prípadoch boli dáta získané od národnych zdrojov (Čína, USA, India, EÚ a 15 ďalších väčších štátov), údaje pre ostatné štáty pochádzajú z [medzinárodnej dátovej sekcie amerického Ministerstva energetiky](https://www.eia.gov/international/data/world). V niektorých prípadoch boli dáta doplnené o ďalšie odhady (obvykle sa jednalo o produkciu elektriny podľa jednotlivých typov výroby v prípade dát pre ostatné štáty). Detailnejšiu metodológiu týchto odhadov a ďalších výpočtov popisuje príslušná časť správy.
+* Dataset obsahuje údaje z rokov 2000 – 2019 pre 224 krajín. V niektorých prípadoch boli dáta získané od národných zdrojov (Čína, USA, India, EÚ a 15 ďalších väčších štátov), údaje pre ostatné štáty pochádzajú z [medzinárodnej dátovej sekcie amerického Ministerstva energetiky](https://www.eia.gov/international/data/world). V niektorých prípadoch boli dáta doplnené o ďalšie odhady (obvykle sa jednalo o produkciu elektriny podľa jednotlivých typov výroby v prípade dát pre ostatné štáty). Detailnejšiu metodológiu týchto odhadov a ďalších výpočtov popisuje príslušná časť správy.
 * Údaje o emisiách v správe a v datasete sú priame emisie z výroby elektriny, nie emisie z celého životného cyklu. Nie sú v nich teda zahrnuté emisie z budovania zdrojov a infraštruktúry, emisie z ťažby a prepravy palív a pod.
 
 ## Poznámky o spracovateľovi
