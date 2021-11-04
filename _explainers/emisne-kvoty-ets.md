@@ -2,7 +2,7 @@
 layout:      explainer
 title:       "Ako fungujú európske emisné kvóty?"
 slug:        "emisne-kvoty-ets"
-published:   2021-10-14
+published:   2021-11-10
 author:      "Tomáš Protivínský"
 weight:      74
 tags-scopes: [ eu ]
@@ -47,7 +47,7 @@ Množstvo kvót ponúkaných v ďalších rokoch (t. j. maximálne množstvo pov
 
 {% include preview-box.html
     title="Porovnanie mitigačných opatrení"
-    text="Medzinárodný menový fond vysvetľuje, prečo je spoplatnenie emisií skleníkových plynov nejefektívnejším opatrením."
+    text="Medzinárodný menový fond vysvetľuje, prečo je spoplatnenie emisií skleníkových plynov najefektívnejším opatrením."
     slug="mitigacne-opatrenia-mmf"
 %}
 
@@ -72,6 +72,7 @@ K redukovaniu množstva emisií však napriek tomu dochádza, pretože emisný s
 ## Ktoré odvetvia sú do systému zahrnuté?
 
 Systém pokrýva najmä väčšie zdroje v energeticky náročných odvetviach (spolu takmer 11 000 zariadení), a to:
+
 - elektrárne s tepelným príkonom nad 20 MW,
 - ropné rafinérie,
 - koksovne,
@@ -86,6 +87,7 @@ Okrem toho zahŕňa približne 600 prevádzkovateľov lietadiel v rámci [Európ
 V rokoch 2013 – 2020 bolo bezplatne pridelených cca 43 % kvót predovšetkým emisne intenzívnym priemyselným odvetviam. Zvyšných 57 % bolo určených do aukcie (skutočný počet vydražených kvót bol však nižší). Bezplatné emisné kvóty sú určené takým odvetviam hospodárstva, v ktorých by bolo jednoduché presunúť výrobu do krajín, kde nie sú emisie skleníkových plynov obmedzované. Pri dôslednom uplatnení aukcie kvót by tak mohlo dochádzať k odlivu výrobných závodov z EÚ a navýšeniu emisií v iných krajinách. Množstvo bezplatne prideľovaných kvót je postupne znižované a napríklad výroba elektriny už nie je pre prideľovanie bezodplatných kvót spôsobilá od roku 2013 (niektoré štáty vrátane Slovenska si však vyjednali výnimku z tohto pravidla až do roku 2020).[^1]
 
 ## Akým spôsobom je stanovené maximálne množstvo kvót?
+
 Na dosiahnutie emisných cieľov EÚ v rokoch 2020 a 2030 bolo maximálne množstvo kvót od roku 2013 rovnomerne znižované. V roku 2013 bolo vydaných 2,1 miliardy emisných kvót a až do roku 2020 to každoročne bolo o 38 miliónov menej, aby bolo zaistené zníženie emisií aspoň o 21 % v zahrnutých odvetviach (v porovnaní s rokom 2005).[^4]
 
 V nasledujúcej dekáde bude znižovanie ešte rýchlejšie – pôvodným cieľom bolo znížiť emisie v rámci EU ETS do roku 2030 o 43 % oproti roku 2005 a tento cieľ je teraz ešte upravovaný v rámci [Európskej zelenej dohody](https://cs.wikipedia.org/wiki/Zelená_dohoda_pro_Evropu).
@@ -99,6 +101,7 @@ V nasledujúcej dekáde bude znižovanie ešte rýchlejšie – pôvodným cieľ
 %}
 
 ## Čo sa deje s financiami získanými v aukciách?
+
 Celkové výnosy z aukcií emisných povoleniek predstavovali v rokoch 2012 – 2019 približne 50 miliárd eur (z toho 14 miliárd boli výnosy v roku 2019, keď bola cena kvót najvyššia). Dražba prebieha v rámci každého zo zapojených štátov a tie tiež rozhodujú o konkrétnom využití prostriedkov, ktoré sa v aukciách vyberú. Z celkového obnosu sa vynaložilo na klimatické a energetické účely 78 %, a to predovšetkým na energiu z obnoviteľných zdrojov, zvyšovanie energetickej účinnosti a udržateľnú dopravu.[^1]
 
 ## Ako je EU ETS priebežne upravovaný?
@@ -114,7 +117,6 @@ Prvá fáza od roku 2005 bola predovšetkým testovacia a jej účelom bolo over
     source-text="Európska komisia, EÚ"
     source-url="https://ec.europa.eu/clima/policies/ets_en"
 %}
-
 
 ## V čom EU ETS funguje dobre a v čom nie?
 
@@ -152,10 +154,9 @@ Od svojho spustenia sa EU ETS stal inšpiráciou pre mnoho ďalších štátov a
 
 Niektoré štáty spoplatňujú emisie skleníkových plynov pomocou tzv. uhlíkovej dane (carbon tax), ktorá je ďalším efektívnym trhovým mechanizmom na zníženie emisií a môže vhodne dopĺňať ETS zahrnutím iných sektorov (napr. dopravy). Na celom svete dnes funguje približne 60 rôznych systémov spoplatňujúcich emisie skleníkových plynov, pričom dve tretiny z nich boli spustené v uplynulej dekáde.
 
-
 ## Zdroje
+
 [^1]: Európska komisia. ["Správa o fungovaní európskeho trhu s uhlíkom"](https://eur-lex.europa.eu/legal-content/SK/TXT/PDF/?uri=CELEX:52020DC0740&from=CS) Správa komisie Európskemu parlamentu a Rade, Európska komisia, Brusel (2020).
 [^2]: World Bank. ["State and Trends of Carbon Pricing 2020"](https://openknowledge.worldbank.org/handle/10986/33809) (May), World Bank, Washington, DC (2020).
 [^3]: High-Level Commission on Carbon Prices. ["Report of the High-Level Commission on Carbon Prices."](https://openknowledge.worldbank.org/handle/10986/32419) World Bank, Washington, DC (2017).
 [^4]: Európska komisia. ["Commission decision on the Union-wide quantity of allowances to be issued under the EU Emission Trading System for 2021"](https://ec.europa.eu/clima/sites/clima/files/news/docs/c_2020_7704_en.pdf) Európska komisia, Brusel (2020).
-
