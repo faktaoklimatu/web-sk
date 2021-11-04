@@ -4,13 +4,11 @@ title:      "Ako zmierniť dopady klimatickej zmeny"
 slug:       2019-mitigacne-opatrenia-mmf
 redirect_from:
   - /2019-mitigacne-opatrenia-mmf
-  - /2019_mitigacne-opatrenia-mmf
-  - /studie/2019_mitigacne-opatrenia-mmf
-published:  2019-12-03
+published:  2021-11-03
 weight:     120
 tags-scopes: [ svet ]
-tags-topics: [ opatrenia, emisir ]
-caption:    "Studie Mezinárodního měnového fondu ukazuje, proč uhlíková daň a emisní povolenky jsou efektivní opatření."
+tags-topics: [ opatrenia, emisie ]
+caption:    "Štúdia Medzinárodného menového fondu ukazuje, prečo uhlíková daň a emisné povolenky sú efektívne opatrenia."
 intro:      "Správa Medzinárodného menového fondu vydaná v apríli 2019 zdôrazňuje zásadnú úlohu fiškálnych nástrojov pre mitigáciu klimatickej zmeny. Fiškálne nástroje sú opatrenia založené na daniach a rozpočtových výdavkoch ako je napríklad daň z pridanej hodnoty, daň z tabaku alebo poistenie v nezamestnanosti. Pre zmiernenie klimatickej zmeny môžu vlády použiť uhlíkovú daň, obchod s emisnými povolenkami, reguláciu alebo systém poplatkov a príspevkov."
 summary:    |
     * **Uhlíková daň uvalená na producentov fosílnych palív je najefektívnejším opatrením** pre mitigáciu klimatickej zmeny, pretože necháva na firmách a domácnostiach voľbu najmenej nákladného spôsobu zníženia spotreby energií a emisií.
@@ -32,14 +30,14 @@ Pokiaľ nebudú prijaté efektívne opatrenia pre mitigáciu klimatickej zmeny, 
 
 ### Fiškálne opatrenia pre mitigáciu
 
-Štúdia predstavuje štyri základné rozpočtové opatrenia pre <glossary id="mitigace">mitigaci</glossary> klimatických zmien a porovnáva účinnosť na základe rôznych hľadísk.
+Štúdia predstavuje štyri základné rozpočtové opatrenia pre <glossary id="mitigacia">mitigáciu</glossary> klimatických zmien a porovnáva účinnosť na základe rôznych hľadísk.
 
 * **Uhlíková daň:** daňové zaťaženie producentov fosílnych palív podľa celkového obsahu uhlíka.
 * **Obchodovanie s emisnými povolenkami:** firmy môžu emitovať skleníkové plyny, iba ak majú povolenky v zodpovedajúcej výške emisií. Celkové množstvo emisných povoleniek je stanovené vládou a firmy s nimi následne voľne obchodujú.
 * **Poplatky a príspevky:** produkty a aktivity s nadpriemernými emisiami sú zaťažené poplatkom, oproti tomu produkty a aktivity s podpriemernými emisiami obdržia príspevok. Opatrenie je spravidla príjmovo neutrálne.
 * **Regulácia:** napríklad štandardy pre emisie motorových vozidiel a pre účinnosť elektrických spotrebičov alebo minimálne zastúpenie obnoviteľných zdrojov v energetike.
 
-Na základe [porovanania posuzovaných kritérií](/infografiky/mitigacni-opatreni-mmf) je najefektívnejším fiškálnym opatrením **uhlíková daň**. Zaťažením producentov fosílnych palív sa opatrenie premieta do širokej škály ľudských činností, v ktorých motivuje k využívaniu čistejších technológií a produktov. Napríklad drahšia elektrina z uhlia motivuje k využívaniu šetrnejších spotrebičov a k prechodu na obnoviteľné zdroje. Uhlíková daň je tržným nástrojom, pretože zahŕňa časť celospoločenských nákladov spôsobených producentmi skleníkových plynov naspäť do cien a ponecháva rozhodovanie o spôsobe zníženia emisií na firmách a domácnostiach. Pokiaľ je definovaná budúca výška uhlíkovej dane, ceny sú predvídateľné a poskytujú stabilné prostredie pre firmy. Dôsledkom uhlíkovej dane môže byť citeľný nárast cien energií a ďalších produktov a služieb (napríklad palív a následnej dopravy), preto je vhodné použiť časť dodatočných príjmov pre zmiernenie tohto dopadu na nízkopríjmové skupiny a najviac postihnuté regióny. Implementácia uhlíkovej dane je tiež jednoduchá z administratívneho pohľadu, keďže je možné použiť existujúcu infraštruktúru pre výber daní.
+Na základe [porovanania posuzovaných kritérií](/infografiky/mitigacne-opatrenia-mmf) je najefektívnejším fiškálnym opatrením **uhlíková daň**. Zaťažením producentov fosílnych palív sa opatrenie premieta do širokej škály ľudských činností, v ktorých motivuje k využívaniu čistejších technológií a produktov. Napríklad drahšia elektrina z uhlia motivuje k využívaniu šetrnejších spotrebičov a k prechodu na obnoviteľné zdroje. Uhlíková daň je tržným nástrojom, pretože zahŕňa časť celospoločenských nákladov spôsobených producentmi skleníkových plynov naspäť do cien a ponecháva rozhodovanie o spôsobe zníženia emisií na firmách a domácnostiach. Pokiaľ je definovaná budúca výška uhlíkovej dane, ceny sú predvídateľné a poskytujú stabilné prostredie pre firmy. Dôsledkom uhlíkovej dane môže byť citeľný nárast cien energií a ďalších produktov a služieb (napríklad palív a následnej dopravy), preto je vhodné použiť časť dodatočných príjmov pre zmiernenie tohto dopadu na nízkopríjmové skupiny a najviac postihnuté regióny. Implementácia uhlíkovej dane je tiež jednoduchá z administratívneho pohľadu, keďže je možné použiť existujúcu infraštruktúru pre výber daní.
 
 **Systémy pre obchodovanie s emisnými povolenkami** sú takmer porovnateľne účinné ako uhlíková daň, hlavne ak sú doplnené o minimálnu a maximálnu cenu emisných povoleniek. Umožňujú cieliť na konkrétne celkové množstvo emisií (keďže je určené počtom vydaných povoleniek), avšak vyžadujú navýšenie administratívnych kapacít pre implementáciu a monitorovanie obchodného systému.
 
