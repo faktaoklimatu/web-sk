@@ -1,7 +1,7 @@
 ---
 layout:      explainer
-title:       "Ako fungujú európske emisné kvóty?"
-slug:        "emisne-kvoty-ets"
+title:       "Ako fungujú európske emisné povolenky?"
+slug:        "emisne-povolenky-ets"
 published:   2021-11-10
 author:      "Tomáš Protivínský"
 weight:      74
@@ -60,8 +60,8 @@ Cena emisných povoleniek je kľúčovým parametrom celého systému.
 Ak je príliš nízka, znečisťovateľ si môže nakúpiť potrebné kvóty lacno a princíp, že zodpovedajúcim spôsobom zaplatí za spôsobené znečistenie, zostáva nenaplnený.
 
 {% include figure.html
-    name="ets-cena-kvot-des.svg"
-    name-mobile="ets-cena-kvot-mob.svg"
+    name="ets-cena-povoleniek-des.svg"
+    name-mobile="ets-cena-povoleniek-mob.svg"
     alt="Historické ceny futures kontraktov na emisné kvóty."
     source-text="Historické ceny futures kontraktov na emisné kvóty, Quandl, ICE"
     source-url="https://www.quandl.com/data/CHRIS/ICE_C1"
