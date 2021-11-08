@@ -4,12 +4,12 @@ title:       "Rešerše: Štúdie transformácie energetiky"
 slug:        2020-reserse-transformacie-energetiky
 redirect_from: "/2020-reserse-transformacie-energetiky"
 weight:      300
-published:   2021-06-18
+published:   2021-11-18
 tags-scopes: [ sr ]
 tags-topics: [ energetika, opatrenia ]
-caption:     "Rešerš kľúčových štúdií venujúcích sa transformácii slovenskej energetiky"
+caption:     "Rešerš kľúčových štúdií venujúcich sa transformácii slovenskej energetiky"
 intro: |
-  Štúdie skúmajúce transformáciu energetiky je veľa a prístupov, ako takéto štúdie spracovávať, je taktiež nemalé množstvo. Táto rešerš ponúka prehľadné zhrnutie kľúčových štúdií v oblasti energetiky týkajúcich sa Slovenskej republiky. Štúdie sú zoradené chronologicky od najnovšej po najstaršiu. 
+  Štúdií skúmajúcich transformáciu energetiky je veľa a prístupov, ako takéto štúdie spracovávať, je taktiež nemalé množstvo. Táto rešerš ponúka prehľadné zhrnutie kľúčových štúdií v oblasti energetiky týkajúcich sa Slovenskej republiky. Štúdie sú zoradené chronologicky od najnovšej po najstaršiu. 
 items:
   - title:   "Publikácie Inštitútu environmentálnej politiky"
     date:    2014 – 2021
@@ -62,7 +62,7 @@ items:
       - name: Slovenská agentúra životného prostredia
         url:  https://www.sazp.sk/
     timeframe: —
-  - title:   "Integrovaný národný energetický a klimatický plán na roky 2021-2030"
+  - title:   "Integrovaný národný energetický a klimatický plán na roky 2021 – 2030"
     url:     "https://www.economy.gov.sk/energetika/navrh-integrovaneho-narodneho-energetickeho-a-klimatickeho-planu"
     date:    December 2019
     authors:
