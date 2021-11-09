@@ -13,7 +13,7 @@ data-orig:	[ [ "Zpráva WBG", "https://openknowledge.worldbank.org/handle/10986/
 ---
 ## Ako čítať infografiku?
 
-Táto infografika zobrazuje **celkové množstvo emisií pre danú krajinu** alebo región vyjadrené ako veľkosť plochy kruhu. Farebný výsek udáva **množstvo emisií, ktoré sú pokryté uhlíkovou daňou alebo systémom emisných povoleniek**; zatiaľčo farba, prípadne kombinácia farieb, zodpovedá **typu implementovaného opatrenia**. Symboly ilustrujú **hospodárske odvetvia, ktoré spadajú pod dané opatrenia**.
+Táto infografika zobrazuje **celkové množstvo emisií pre danú krajinu** alebo región vyjadrené ako veľkosť plochy kruhu. Farebný výsek udáva **množstvo emisií, ktoré sú pokryté uhlíkovou daňou alebo systémom emisných povoleniek**; zatiaľ čo farba, prípadne kombinácia farieb, zodpovedá **typu implementovaného opatrenia**. Symboly ilustrujú **hospodárske odvetvia, ktoré spadajú pod dané opatrenia**.
 
 Plocha najväčšieho kruhu (Čína) zodpovedá množstvu 12,4 Gt <glossary id="co2eq">CO<sub>2</sub>eq</glossary> a veľkosť najmenšieho kruhu (Švajčiarsko) množstvu 0,05 Gt CO<sub>2</sub>eq. Jednotlivé opatrenia boli rozdelené na systémy obchodovania s emisiami (ETS, Emission Trading System) a uhlíkovú daň v závislosti na tom, ako v skutočnosti fungujú. **Prístupy k spoplatneniu emisií uhlíka sa v posledných rokoch vyvíjajú** a niektoré z nich nie je možné zaradiť priamo do niektorej z kategórií, ktoré tu popisujeme. Autori pripúšťajú, že je možné použiť inú kategorizáciu.
 
