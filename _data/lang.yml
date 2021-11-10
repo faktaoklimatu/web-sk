@@ -45,6 +45,10 @@ text:
     all-news: "Zobraziť celý prehľad noviniek, opráv a aktualizácií..."
     all-tag: "Ďalšie infografiky, štúdie a datasety k téme"
 
+search:
+  label: "Vyhľadať"
+  hide: "Zrušiť"
+
 sidebar:
   download:
     title: "Na stiahnutie"
