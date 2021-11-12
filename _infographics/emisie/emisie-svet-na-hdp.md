@@ -3,7 +3,7 @@ layout:     infographic
 title:      "Emisie svetových regiónov prepočítané na HDP"
 slug:       "emisie-svet-na-hdp"
 redirect_from: "/emisie-svet-na-hdp"
-published:  2021-10-10
+published:  2021-11-12
 weight:     94
 tags-scopes: [ svet ]
 tags-topics: [ emisie, ekonomika ]
@@ -18,7 +18,7 @@ dataset:    "emisie-svet"
 * Vertikálna os (a teda výška obdĺžnika) meria emisnú intenzitu, vyjadrenú v gramoch CO<sub>2</sub>eq na dolár. Pretože šírka obdĺžnika je veľkosť ekonomiky meraná v dolároch, plocha obdĺžnika je daná súčinom týchto dvoch premenných a zodpovedá celkovým emisiám CO<sub>2</sub>eq daného štátu alebo regiónu.
 * **Svetový priemer emisnej intenzity ekonomík je 439 gramov CO<sub>2</sub>eq na dolár vyprodukovaného HDP**, v grafe je táto hodnota vyznačená sivou farbou. Veľkosť svetovej ekonomiky je približne 107 biliónov dolárov, súčin tak udáva celosvetové emisie v roku 2015 približne 47 miliárd ton CO<sub>2</sub>eq.
 * Veľké geografické celky (kontinenty a Rusko) sú zoradené zľava doprava od najvyšších celkových emisií po najnižšie. Porovnanie emisií skleníkových plynov pre jednotlivé kontinenty prehľadne znázorňuje infografika [Svetové emisie skleníkových plynov](/infografiky/emisie-svet).
-<!-- * Obdobné relatívne vyjadrenie skleníkových plynov, avšak prepočítané na obyvateľa namiesto na HDP, zobrazuje infografika [Emisie svetových regiónov prepočítané na osobu](/infografiky/emise-svet-na-osobu). -->
+* Obdobné relatívne vyjadrenie skleníkových plynov, avšak prepočítané na obyvateľa namiesto na HDP, zobrazuje infografika [Emisie svetových regiónov prepočítané na osobu](/infografiky/emisie-svet-na-osobu).
 * Vybrané štáty sú v infografike zobrazené samostatne (typicky štáty s väčšou populáciou alebo vyššími emisiami skleníkových plynov), zostávajúce štáty daných regiónov sú združené pod označením &quot;ostatné&quot;.
 
 ## Komentáre ku grafu

@@ -3,7 +3,7 @@ layout:     infographic
 title:      "Emisie svetových regiónov prepočítané na osobu"
 slug:       "emisie-svet-na-osobu"
 redirect_from: "/emisie-svet-na-osobu"
-published:  2021-10-11
+published:  2021-11-12
 weight:     89
 tags-scopes: [ svet ]
 tags-topics: [ emisie ]
@@ -34,7 +34,7 @@ dataset:    "emisie-svet"
 * Slovenská republika vyprodukovala v roku 2016 7,6 ton CO<sub>2</sub>eq, zatiaľ čo svetový priemer bol 6,5 ton CO<sub>2</sub>eq.
 * Ázia produkuje viac ako polovicu globálnych emisií, zároveň však predstavuje 60 % globálnej produkcie. Pokiaľ by každý obyvateľ planéty produkoval rovnaké množstvo emisií ako priemerný Aziat, celkové emisie by poklesli približne o 10 %.
 * Najvyššie emisie skleníkových plynov na obyvateľa má Katar – 67 t CO<sub>2</sub> za rok. Z väčších štátov je to Austrália, 28 t CO<sub>2</sub> za rok. V celkovom množstve vypúšťaných skleníkových plynov sú najväčšími znečisťovateľmi Čína a Spojené štáty americké.
-* Prepočet emisií skleníkových plynov na obyvateľa umožňuje porovnanie krajín z určitého pohľadu, avšak nezohľadňuje rozdiely v životnej úrovni jednotlivých krajín. V medzinárodnom porovnaní je preto užitočná tzv. <glossary id="emisnaintenzitaekonomiky">emisná intenzita ekonomiky</glossary>, jej rozdiely medzi štátmi ukazujú, že <!--[-->vhodnými opatreniami<!--](/infografiky/mitigacne-opatrenia-mmf)--> je možné znižovať emisie skleníkových plynov a zároveň zvyšovať životnú úroveň obyvateľstva.
+* Prepočet emisií skleníkových plynov na obyvateľa umožňuje porovnanie krajín z určitého pohľadu, avšak nezohľadňuje rozdiely v životnej úrovni jednotlivých krajín. V medzinárodnom porovnaní je preto užitočná tzv. <glossary id="emisnaintenzitaekonomiky">emisná intenzita ekonomiky</glossary>, jej rozdiely medzi štátmi ukazujú, že [vhodnými opatreniami](/infografiky/mitigacne-opatrenia-mmf) je možné znižovať emisie skleníkových plynov a zároveň zvyšovať životnú úroveň obyvateľstva.
 * Rozdiely v emisnej intenzite zobrazuje infografika [Emisie svetových regiónov prepočítané na HDP](/infografiky/emisie-svet-na-hdp).
 
 ## Poznámky k údajom o emisiách
