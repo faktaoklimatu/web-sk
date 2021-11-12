@@ -2,7 +2,7 @@
 layout:      explainer
 title:       "Ako fungujú európske emisné povolenky?"
 slug:        "emisne-povolenky-ets"
-published:   2021-11-10
+published:   2021-11-12
 author:      "Tomáš Protivínský"
 weight:      74
 tags-scopes: [ eu ]
@@ -144,11 +144,13 @@ V rokoch 2009 – 2013 boli celkové overené emisie nižšie ako množstvo alok
 
 ## Aké systémy ETS sa používajú inde vo svete?
 
+<!--
 {% include preview-box.html
     title="Spoplatnenie emisií: rozšírenie vo svete"
     text="Spoplatnenie emisií skleníkových plynov nie je iba doménou Európskej únie – veľa štátov má zavedenú uhlíkovú daň alebo systém emisných povoleniek."
     slug="spoplatnenie-emisii-svet"
 %}
+-->
 
 Od svojho spustenia sa EU ETS stal inšpiráciou pre mnoho ďalších štátov a regiónov vo svete. Obdobné systémy sa dnes používajú napríklad v Číne (v niektorých mestách ETS funguje od roku 2013, celonárodný systém bol spustený v roku 2021 a dnes je najväčším ETS na svete zahŕňajúcim zhruba 30 % čínskych emisií). Obdobu EU ETS nájdeme tiež v Austrálii, na Novom Zélande, vo väčšine kanadských provincií, v niektorých štátoch USA a v ďalších regiónoch.
 
