@@ -4,7 +4,7 @@ title:      "Transformácia energetiky do 2050"
 slug:       2020-transformacia-energetiky-do-2050
 redirect_from:
   - /2020-transformacia-energetiky-do-2050
-published:  2021-11-04
+published:  2021-11-09
 weight:     96
 tags-scopes: [ svet ]
 tags-topics: [ energetika, opatrenia ]
