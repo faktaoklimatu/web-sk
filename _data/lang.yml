@@ -3,8 +3,11 @@
 navigation:
   dev-version: "Toto je vývojárska verzia webu."
   dev-differences: "Oproti produkčnej verzii v nej chýba web analytika, platnosť cache je znížená na 5 minút a CSP violations nie sú odosielané na URIports."
-  search-empty: "Nič sme nenašli"
-  search-failed: "Vyhľadávanie nefunguje. Možno je chyba v pripojení na internet?"
+  search:
+    empty: "Nič sme nenašli"
+    failed: "Vyhľadávanie nefunguje. Možno je chyba v pripojení na internet?"
+    hide: "Zrušiť"
+    label: "Vyhľadať"
 
 footer:
   get-newsletter: "Odoberajte newsletter"
@@ -44,10 +47,6 @@ text:
   index:
     all-news: "Zobraziť celý prehľad noviniek, opráv a aktualizácií..."
     all-tag: "Ďalšie infografiky, štúdie a datasety k téme"
-
-search:
-  label: "Vyhľadať"
-  hide: "Zrušiť"
 
 sidebar:
   download:
