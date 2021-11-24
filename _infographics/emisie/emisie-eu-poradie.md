@@ -3,7 +3,7 @@ layout:     infographic
 title:      "Poradie štátov EÚ podľa emisií skleníkových plynov"
 slug:       "emise-eu-poradie"
 redirect_from: "/emisie-eu-poradie"
-published:  2021-03-01
+published:  2021-11-23
 weight:     60
 tags-scopes: [ eu ]
 tags-topics: [ emisie ]
@@ -20,7 +20,7 @@ dataset:    "emisie-eu"
   * Francúzsko so svojimi cca 67 mil. obyvateľmi 475,4 mil. t CO<sub>2</sub>eq
   * Veľká Británia so svojimi cca 66 mil. obyvateľmi 516,8 mil. t CO<sub>2</sub>eq
   * Taliansko so svojimi cca 60 mil. obyvateľmi 438,2 mil. t CO<sub>2</sub>eq
-* Slovenská republika ako štát s cca 10,5 mil. obyvateľmi a emisiami 131,3 mil. t CO 2 eq je v prepočte na obyvateľa 4. najväčším emitentom EÚ a má 2 × vyššie emisie na obyvateľa ako porovnateľne veľké Švédsko (cca 10 mil. obyvateľov) CO<sub>2</sub>eq __je v prepočte na obyvateľa 4. najväčším emitentom EÚ__ a má 2 × vyššie emisie na obyvateľa ako porovnateľne veľké Švédsko (cca 10 mil. obyvateľov)
+* Slovenská republika ako štát s cca 5,4 mil. obyvateľmi a emisiami 41,1 mil. t CO<sub>2</sub>eq je jedným z menších emitentov v rámci EÚ celkovo aj v prepočte na obyvateľa. V porovnaní s podobne veľkým Fínskom (5,5 mil. obyvateľov) a Dánskom (5,7 mil. obyvateľov) sú slovenské emisie na osobu najnižšie.
 
 ## Zaujímavosti a komentáre k ročným emisiám na obyvateľa
 
