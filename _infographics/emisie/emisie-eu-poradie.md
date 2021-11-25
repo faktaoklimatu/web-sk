@@ -18,7 +18,6 @@ dataset:    "emisie-eu"
 * Najväčšie štáty EÚ (ako [z hľadiska počtu obyvateľov](https://en.wikipedia.org/wiki/List_of_European_Union_member_states_by_population), tak [z hľadiska HDP](https://en.wikipedia.org/wiki/List_of_sovereign_states_in_Europe_by_GDP_(nominal))) majú v absolútnych číslach najvyššie emisie:
   * Nemecko so svojimi cca 83 mil. obyvateľmi 935,8 mil. t CO<sub>2</sub>eq
   * Francúzsko so svojimi cca 67 mil. obyvateľmi 475,4 mil. t CO<sub>2</sub>eq
-  * Veľká Británia so svojimi cca 66 mil. obyvateľmi 516,8 mil. t CO<sub>2</sub>eq
   * Taliansko so svojimi cca 60 mil. obyvateľmi 438,2 mil. t CO<sub>2</sub>eq
 * Slovenská republika ako štát s cca 5,4 mil. obyvateľmi a emisiami 41,1 mil. t CO<sub>2</sub>eq je jedným z menších emitentov v rámci EÚ celkovo aj v prepočte na obyvateľa. V porovnaní s podobne veľkým Fínskom (5,5 mil. obyvateľov) a Dánskom (5,7 mil. obyvateľov) sú slovenské emisie na osobu najnižšie.
 
