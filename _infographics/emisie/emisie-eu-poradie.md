@@ -18,6 +18,7 @@ dataset:    "emisie-eu"
 * Najväčšie štáty EÚ (ako [z hľadiska počtu obyvateľov](https://en.wikipedia.org/wiki/List_of_European_Union_member_states_by_population), tak [z hľadiska HDP](https://en.wikipedia.org/wiki/List_of_sovereign_states_in_Europe_by_GDP_(nominal))) majú v absolútnych číslach najvyššie emisie:
   * Nemecko so svojimi cca 83 mil. obyvateľmi 935,8 mil. t CO<sub>2</sub>eq
   * Francúzsko so svojimi cca 67 mil. obyvateľmi 475,4 mil. t CO<sub>2</sub>eq
+  * Veľká Británia so svojimi cca 66 mil. obyvateľmi 516,8 mil. t CO<sub>2</sub>eq
   * Taliansko so svojimi cca 60 mil. obyvateľmi 438,2 mil. t CO<sub>2</sub>eq
 * Slovenská republika ako štát s cca 5,4 mil. obyvateľmi a emisiami 41,1 mil. t CO<sub>2</sub>eq je jedným z menších emitentov v rámci EÚ celkovo aj v prepočte na obyvateľa. V porovnaní s podobne veľkým Fínskom (5,5 mil. obyvateľov) a Dánskom (5,7 mil. obyvateľov) sú slovenské emisie na osobu najnižšie.
 
@@ -28,6 +29,7 @@ dataset:    "emisie-eu"
 * Írsko, na treťom mieste, má veľmi vysoký podiel poľnohospodárskej produkcie (skoro 5 × vyššie ako priemer EÚ)
 * Česká republika, na štvrtom mieste, má veľmi vysoký podiel špinavej energetiky (2 × vyšší ako priemer EÚ, najmä vplyvom hnedouhoľných elektrární) – viď naša [súvisiaca infografika](https://faktaoklimatu.cz/infografiky/emise-cr-detail).
 * Všetky spomenuté dáta nájdete v našom podrobnom datasete v sekcii "Emisie na obyvateľa podľa základných kategórií".
+* Veľká Británia síce v roku 2020 vystúpila z EÚ, no keďže používame dáta z roku 2016, je relevantné Veľkú Britániu tiež uvádzať.
 
 ## Poznámky k dátam o emisiách
 * Emisná inventúra poskytovaná Eurostatom využíva formát a štruktúru dát CRF (common reporting format), úplná metodika k výpočtom a reportingu je na stránkach národného programu inventarizácie emisií ([NGGIP - national greenhouse gas inventory programme](https://www.ipcc-nggip.iges.or.jp/)) a je záväzná pre všetky štáty [UNFCCC](https://cs.wikipedia.org/wiki/R%C3%A1mcov%C3%A1_%C3%BAmluva_OSN_o_zm%C4%9Bn%C4%9B_klimatu).
