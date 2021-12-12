@@ -3,7 +3,7 @@ layout:     infographic
 title:      "Vývoj svetových cien elektriny podľa zdrojov"
 slug:       "cena-energie"
 redirect_from: "/cena-energie"
-published:  2021-11-24
+published:  2021-12-13
 weight:     80
 tags-scopes: [ svet ]
 tags-topics: [ energetika ]
