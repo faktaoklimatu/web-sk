@@ -20,7 +20,7 @@ Združená cena energie je veličina umožňujúca porovnať ekonomickú výhodn
 
 - Graf nezobrazuje **dodatočné náklady vyplývajúce z nestálosti**[^1] solárnych a veterných elektrární. Rozdiel medzi dopytom a ponukou je možné vyrovnávať pomocou špičkových elektrární[^2], úložísk elektriny (batériových, vodných prečerpávacích), dynamického riadenia dopytu (tzv. smart grid) alebo prepojením elektrickej sústavy v rámci väčších geografických celkov.
 - V grafe nezobrazujeme niektoré druhy obnoviteľných zdrojov buď kvôli obmedzenému potenciálu ich rastu (vodné či geotermálne elektrárne, spaľovanie biomasy), alebo preto, že nie sú pre Slovensko relevantné (veterné elektrárne na mori). V dátach od spoločnosti Lazard je však možné nájsť aj tieto zdroje.
-- Veličiny vstupujúce do výpočtu sa väčšinou **značně líšia v závislosti na konkrétnom regióne:** rôzna je cena stavby zdroja, náklady spojené s jeho prevádzkou a tiež množstvo vyrobenej energie (čo platí najmä pre obnoviteľné zdroje). Graf zobrazuje zjednodušený pohľad na celý svet.
+- Veličiny vstupujúce do výpočtu sa väčšinou **značne líšia v závislosti na konkrétnom regióne:** rôzna je cena stavby zdroja, náklady spojené s jeho prevádzkou a tiež množstvo vyrobenej energie (čo platí najmä pre obnoviteľné zdroje). Graf zobrazuje zjednodušený pohľad na celý svet.
 
 ## Komentáre k cenám zdrojov
 
@@ -40,5 +40,5 @@ Nové solárne a veterné projekty dnes cenovo úspešne konkurujú aj tým najl
 ## Odkazy
 
 [^1]: Ako **nestále zdroje** (niekedy tiež intermitentné) označujeme tie, pri ktorých nevieme ovplyvniť, či elektráreň vyrába alebo nie. Ide predovšetkým o veterné a slnečné elektrárne.
-[^2]: **Špičkové elektrárne** pracujú v dobe najväčšej spotreby elektrickej energie (v špičke). U nás to sú vodné alebo plynové elektrárne. 
+[^2]: **Špičkové elektrárne** pracujú v dobe najväčšej spotreby elektrickej energie (v špičke). U nás to sú vodné alebo plynové elektrárne.
 [^3]: Ako **base load** sa označujú elektrárne, ktoré bežia stále a zaisťujú základný odber sústavy. U nás to sú predovšetkým jadrové a uhoľné elektrárne.
