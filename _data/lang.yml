@@ -47,6 +47,8 @@ text:
   index:
     all-news: "Zobraziť celý prehľad noviniek, opráv a aktualizácií..."
     all-tag: "Ďalšie infografiky, štúdie a datasety k téme"
+  rss:
+    more-online: "Viac informácií nájdete v plnej verzii na našom webe."
 
 sidebar:
   download:
