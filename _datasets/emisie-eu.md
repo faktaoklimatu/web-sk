@@ -15,7 +15,7 @@ data-orig:  [ [ "Zdrojové dáta Eurostat", "https://appsso.eurostat.ec.europa.e
 
 {% include warning.html
     title="Tieto údaje nie sú úplne aktuálne"
-    text="V súčasnosti už sú pre niektoré indikátory k dispozícii dáta aj za rok 2017, zatiaľ sme dátovú sadu neaktualizovali."
+    text="V súčasnosti už sú pre niektoré indikátory k dispozícii aj novšie dáta, zatiaľ sme dátovú sadu neaktualizovali."
 %}
 
 {% include data-header.html
