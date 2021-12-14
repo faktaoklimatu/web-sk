@@ -1,9 +1,9 @@
 ---
 layout:     infographic
 title:      "Poradie štátov EÚ podľa emisií skleníkových plynov"
-slug:       "emise-eu-poradie"
+slug:       "emisie-eu-poradie"
 redirect_from: "/emisie-eu-poradie"
-published:  2021-11-23
+published:  2021-12-14
 weight:     60
 tags-scopes: [ eu ]
 tags-topics: [ emisie ]
@@ -32,6 +32,7 @@ dataset:    "emisie-eu"
 * Veľká Británia síce v roku 2020 vystúpila z EÚ, no keďže používame dáta z roku 2016, je relevantné Veľkú Britániu tiež uvádzať.
 
 ## Poznámky k dátam o emisiách
+
 * Emisná inventúra poskytovaná Eurostatom využíva formát a štruktúru dát CRF (common reporting format), úplná metodika k výpočtom a reportingu je na stránkach národného programu inventarizácie emisií ([NGGIP - national greenhouse gas inventory programme](https://www.ipcc-nggip.iges.or.jp/)) a je záväzná pre všetky štáty [UNFCCC](https://cs.wikipedia.org/wiki/R%C3%A1mcov%C3%A1_%C3%BAmluva_OSN_o_zm%C4%9Bn%C4%9B_klimatu).
 * Dáta o emisiách poskytujú Eurostatu jednotlivé krajiny EÚ – teda dáta za Slovenskú republiku reportovala priamo Slovenská republika (cez Európsku agentúru pre životné prostredie).
 * Dáta za rok 2016 sme vybrali preto, že pre daný rok máme aj dáta zo systému emisných povoleniek a môžeme teda kombinovať dáta za rovnaký rok.
