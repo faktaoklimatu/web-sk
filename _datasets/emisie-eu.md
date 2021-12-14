@@ -2,7 +2,7 @@
 layout:     dataset
 title:      "Emisie skleníkových plynov EÚ"
 slug:       "emisie-eu"
-published:  2021-11-15
+published:  2021-12-14
 weight:     60
 tags-scopes: [ eu ]
 tags-topics: [ emisie ]
@@ -17,7 +17,6 @@ data-orig:  [ [ "Zdrojové dáta Eurostat", "https://appsso.eurostat.ec.europa.e
     title="Tieto údaje nie sú úplne aktuálne"
     text="V súčasnosti už sú pre niektoré indikátory k dispozícii dáta aj za rok 2017, zatiaľ sme dátovú sadu neaktualizovali."
 %}
-
 
 {% include data-header.html
     name="Eurostat"
@@ -40,14 +39,14 @@ Dáta o emisiách skleníkových plynov sú zhromažďované v rámci inventariz
 
 ### Prepočet na <glossary id='co2eq'>CO<sub>2</sub>eq</glossary>
 
-Z databázy vyberáme hodnotu pre všetky sledované skleníkové plyny: CO<sub>2</sub> a ďalšie plyny (CH<sub>4</sub>, N<sub>2</sub>O, SF<sub>6</sub>, HFC, PFC, NF<sub>3</sub>) prepočítané na ekvivalentné množstvo CO<sub>2</sub> emisií pomocou [koeficientu GWP](https://en.wikipedia.org/wiki/Global_warming_potential#Values). Tento koeficient zohľadňuje pre každý plyn jeho absorpčné vlastnosti a dobu, počas ktorej zostane v atmosfére. V súlade s Kjótskym protokolom používame na prepočet horizont 100 rokov. Koeficienty GWP použité na prepočet sú podľa IPCC AR4, čo bola [platná metodika](https://unfccc.int/process-and-meetings/transparency-and-reporting/methods-for-climate-change-transparency/common-metrics) UNFCCC pre rok 2016. Konkrétne sú to hodnoty 25 pre CH<sub>4</sub>, 298 pre N<sub>2</sub>0, 22800 pre SF<sub>6</sub> a 17200 pre NF<sub>3</sub>. HFC a PFC zahŕňajú celý rad plynov s rozdielnymi koeficientami, všetky hodnoty nájdete v tabuľke 2.14 v [errate k AR4](https://www.ipcc.ch/site/assets/uploads/2018/05/ar4-wg1-errata.pdf).
+Z databázy vyberáme hodnotu pre všetky sledované skleníkové plyny: CO<sub>2</sub> a ďalšie plyny (CH<sub>4</sub>, N<sub>2</sub>O, SF<sub>6</sub>, HFC, PFC, NF<sub>3</sub>) prepočítané na ekvivalentné množstvo CO<sub>2</sub> emisií pomocou [koeficientu GWP](https://en.wikipedia.org/wiki/Global_warming_potential#Values). Tento koeficient zohľadňuje pre každý plyn jeho absorpčné vlastnosti a dobu, počas ktorej zostane v atmosfére. V súlade s Kjótskym protokolom používame na prepočet horizont 100 rokov. Koeficienty GWP použité na prepočet sú podľa IPCC AR4, čo bola [platná metodika](https://unfccc.int/process-and-meetings/transparency-and-reporting/methods-for-climate-change-transparency/common-metrics) UNFCCC pre rok 2016. Konkrétne sú to hodnoty 25 pre CH<sub>4</sub>, 298 pre N<sub>2</sub>0, 22800 pre SF<sub>6</sub> a 17200 pre NF<sub>3</sub>. HFC a PFC zahŕňajú celý rad plynov s rozdielnymi koeficientami, všetky hodnoty nájdete v tabuľke 2.14 v [errata k AR4](https://www.ipcc.ch/site/assets/uploads/2018/05/ar4-wg1-errata.pdf).
 
 ### Kategórie emisií podľa zdroja
 
 Emisie sú rozdelené podľa ich zdrojov podľa metodiky UNFCCC nazývanej CRF (_Common Reporting Format_). Pre naše účely vyberáme súhrnnú kategóriu TOTX4_MEMONIA, ktorá obsahuje všetky sektory priamych a nepriamych emisií okrem memo položiek (s výnimkou medzinárodnej leteckej dopravy, ktorá je zahrnutá) a okrem položky LULUCF:
 
 * Memo položky sú položky, ktoré sa reportujú v rámci CRF, ale nie sú zahrnuté do celkovej sumy emisií pre danú krajinu, pretože ich priradenie k jednotlivým krajinám je problematické. Tieto položky obsahujú napríklad medzinárodnú leteckú a lodnú dopravu.
-* Dáta pre medzinárodnú leteckú dopravu sú založené na množstve paliva predaného (a teda natankovaného) na území danej krajiny. Pre prípad Slovenska je teda určite podhodnotený (veľa Slovákov lieta z Viedne, Budapešte alebo Prahy) a nezodpovedá úplne množstvu emisií, ktoré Slováci vyprodukujú (typicky napríklad let Slováka do New Yorku s prestupom v Londýne sa započíta do zobrazených emisií len ako Bratislava-Londýn, zatiaľ čo emisie z letu Londýn-New York sa započítajú Veľkej Británii). Takisto tu nie je započítané to, že emisie vypustené vysoko v atmosfére majú približne dvojnásobný otepľovací efekt, rovnako sa nezapočítava ani druhotný otepľujúci efekt kondenzačných stôp lietadiel.
+* Dáta pre medzinárodnú leteckú dopravu sú založené na množstve paliva predaného (a teda natankovaného) na území danej krajiny. Pre prípad Slovenska je teda určite podhodnotený (veľa Slovákov lieta z Viedne, Budapešti alebo Prahy) a nezodpovedá úplne množstvu emisií, ktoré Slováci vyprodukujú (typicky napríklad let Slováka do New Yorku s prestupom v Londýne sa započíta do zobrazených emisií len ako Bratislava-Londýn, zatiaľ čo emisie z letu Londýn-New York sa započítajú Veľkej Británii). Takisto tu nie je započítané to, že emisie vypustené vysoko v atmosfére majú približne dvojnásobný otepľovací efekt, rovnako sa nezapočítava ani druhotný otepľujúci efekt kondenzačných stôp lietadiel.
 * LULUCF – _Land Use / Land Use Change / Forestry_ (využitie poľnohospodárskej pôdy, zmena využitia poľnohospodárskej pôdy a lesníctvo) – v našich grafikách nezahŕňame z prezentačných dôvodov. Emisie v tomto sektore nie sú vo väčšine krajín Európy (vrátane Slovenska) príliš veľké a nadobúdajú aj záporné hodnoty, preto je ťažké ich zrozumiteľne zobraziť v jednom grafe s kladnými položkami.
 
 Detailné metodické pokyny k zhromažďovaniu dát o emisiách CRF (_Common Reporting Format_) ponúka napr. (starší) [dokument UNFCCC](https://unfccc.int/resource/docs/cop5/07.pdf). [Viac kontextu](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Greenhouse_gas_emission_statistics&redirect=no#Trends_in_greenhouse_gas_emissions) o tejto štatistike ponúka tiež Eurostat.
