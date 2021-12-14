@@ -20,7 +20,7 @@ data-orig:  [ [ "Zdrojové dáta Eurostat", "https://appsso.eurostat.ec.europa.e
 
 {% include data-header.html
     name="Eurostat"
-    description="Dataset env_air_gge. V tabuľke zobrazujeme súhrnné hodnoty všetkých <glossary id='antropogennisklenikoveplyny'>skleníkových plynov (GHG)</glossary> pre rok 2016 v miliónoch ton <glossary id='co2eq'>CO<sub>2</sub>eq</glossary>, na jednej osi hodnoty SRC_CRF (kategória zdroje emisií), na druhej osi hodnoty GEO (geografická oblasť)."
+    description="Dataset env_air_gge. V tabuľke zobrazujeme súhrnné hodnoty všetkých <glossary id='antropogennesklenikoveplyny'>skleníkových plynov (GHG)</glossary> pre rok 2016 v miliónoch ton <glossary id='co2eq'>CO<sub>2</sub>eq</glossary>, na jednej osi hodnoty SRC_CRF (kategória zdroje emisií), na druhej osi hodnoty GEO (geografická oblasť)."
     url="https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=env_air_gge&lang=en"
     licence="CC BY 4.0"
     licence-url="https://creativecommons.org/licenses/by/4.0/"
