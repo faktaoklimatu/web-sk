@@ -3,7 +3,7 @@ layout:     infographic
 title:      "Uhoľný phase-out v štátoch EÚ"
 slug:       "uholny-phaseout-eu"
 redirect_from: "/uholny-phaseout-eu"
-published:  2020-06-01
+published:  2022-01-04
 weight:     90
 tags-scopes: [ eu ]
 tags-topics: [ energetika, opatrenia ]
