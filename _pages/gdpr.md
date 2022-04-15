@@ -8,7 +8,7 @@ Vytvorené v súlade s platnou legislatívou a Nariadením Európskeho Parlament
 
 ## Správca osobných údajov
 
-Správcom osobných údajov je organizácia Otevřená data o klimatu, z. ú. so sídlom Výletní 593/7, 623 00 Brno – Kohoutovice, Česká republika, IČO: 095 55 587, zapísaná v registri ústavov vedenom Krajským súdom v Brne so spisovou značkou U 300.
+Správcom osobných údajov je organizácia Otevřená data o klimatu, z. ú. so sídlom Cyrilská 7, 602 00 Brno, Česká republika, IČO: 095 55 587, zapísaná v registri ústavov vedenom Krajským súdom v Brne so spisovou značkou U 300.
 
 Kontaktná osoba pre ochranu osobných údajov: Anna Macková, v prípade otázok píšte na [gdpr@faktyoklime.sk](mailto:gdpr@faktyoklime.sk)
 
