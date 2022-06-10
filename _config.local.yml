@@ -30,6 +30,7 @@ slugs:
   news: aktuality
   about: ""
 
+collections_dir: collections
 # Set permalinks in local language
 collections:
   pages:
