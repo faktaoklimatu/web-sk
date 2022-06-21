@@ -58,6 +58,8 @@ collections:
     permalink: /datasety/:title
     title: datasety
     weight: 4
+  episodes:  # required by web-core
+    output: false
 
 # Set topic permalinks in local language
 jekyll-archives:
