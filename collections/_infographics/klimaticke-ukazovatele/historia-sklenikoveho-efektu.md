@@ -18,13 +18,14 @@ Táto časová os vychádza z týchto dvoch prehľadových publikácií o výsku
 * S. R. Weart: [The Discovery of Global Warming](https://www.hup.harvard.edu/catalog.php?isbn=9780674031890), [online verzia](https://history.aip.org/climate/method.htm)
 * D. Archer, R. Pierrehumbert: [The Warming Papers](https://www.wiley.com/en-us/The+Warming+Papers%3A+The+Scientific+Foundation+for+the+Climate+Change+Forecast-p-9781405196161)
 
-<!-- TODO Uncomment when svetove-dohody is available.
+{% comment %}
+TODO: Uncomment when svetove-dohody is available.
 {% include preview-box.html
     title="Časová os medzinárodných rokovaní o ochrane klímy"
     text="Vedecké úsilie o pochopenie klimatickej zmeny vyústilo do medzinárodných rokovaní a k prijatiu dohôd, ako napríklad Kjótsky protokol nebo Parížska dohoda."
     slug="svetove-dohody"
 %}
--->
+{% endcomment %}
 
 ## Viac o jednotlivých udalostiach a objavoch
 
