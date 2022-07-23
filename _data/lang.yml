@@ -88,6 +88,7 @@ sidebar:
 
 tag:
   all-tags-caption: "Prehľad oblastí a tém,<br/>ktorým se venujeme"
+  back-to-homepage: "Zrušiť výber"
   scope: "Oblasť"
   topic: "Téma"
   all-scope: "Všetky infografiky, štúdie a datasety týkajúce se oblasti"
