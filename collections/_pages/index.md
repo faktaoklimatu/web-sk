@@ -31,9 +31,8 @@ slug: index
 <div class="tab-content" id="myTabContent">
   <div class="section tab-pane fade show active bg-extralight-blue pt-4 pb-4" id="public" role="tabpanel" aria-labelledby="tab-role-public"><div class="container">
     <p class="lead mb-0">Projekt Fakty o klíme nie je určený len pre odbornú verejnosť, ale pre každého so záujmom o tému klimatickej zmeny. Ak ste na našom webe prvýkrát a neviete, kde začať, môžete si pozrieť niektorú z úvodných infografík, ktoré uvádzame nižšie.</p>
-    {% assign featured_slugs = "schema-klimatickej-zmeny, emisie-sr, koncentracia-co2, body-zlomu-1, teplota-22000-rokov" | split: ", " %}
-    {% assign featured = site.infographics | where_exp: "item", "featured_slugs contains item.slug" | sample: 3 %}
-    {% include preview-blocks.html blocks=featured limit=3 %}
+    {%- assign featured_slugs = "schema-klimatickej-zmeny, emisie-sr, koncentracia-co2, body-zlomu-1, teplota-22000-rokov" | split: ", " | sample: 3 %}
+    {%- include preview-blocks-expandable.html slugs=featured_slugs rows=1 %}
     <p class="lead">Ak chcete zostať informovaní o novinkách, môžete sledovať náš newsletter alebo Twitter.
     <!-- Komplexný a zároveň dostupný pohľad na klimatickú zmenu obsahuje naša publikácia <a href="/atlas" target="_blank">Atlas klimatickej zmeny</a>. -->
     Kvalitnú verejnú diskusiu o klimatických zmenách a projekt Fakty o klíme môžete tiež podporiť finančne alebo používaním a zdieľaním našich infografík a dát.</p>
@@ -46,9 +45,8 @@ slug: index
   
   <div class="section tab-pane fade bg-extralight-green pt-4 pb-4" id="teachers" role="tabpanel" aria-labelledby="tab-role-teachers"><div class="container">
     <p class="lead mb-0">Texty a grafiky projektu Fakty o klíme je možné použiť ako materiál pre prípravu rôznych vzdelávacích aktivít. Pri práci sa snažíme nerezignovať na vedeckú presnosť a komplexnosť, preto použitie našich textov a grafík odporúčame pre vyššie ročníky ZŠ alebo na SŠ a VŠ. Ak náš web navštevujete prvýkrát a neviete, kde začať, môžete si pozrieť niektoré z infografík, ktoré vidíte nižšie</p>
-    {% assign featured_slugs = "schema-klimatickej-zmeny, emisie-sr, koncentracia-co2" | split: ", " %}
-    {% assign featured = site.infographics | where_exp: "item", "featured_slugs contains item.slug" | sample: 3 %}
-    {% include preview-blocks.html blocks=featured limit=3 %}
+    {%- assign featured_slugs = "schema-klimatickej-zmeny, emisie-sr, koncentracia-co2" | split: ", " %}
+    {%- include preview-blocks-expandable.html slugs=featured_slugs rows=1 %}
     <!-- <div class="row justify-content-md">
       <div class="col-md-6 col-lg-8">
         <p class="lead">Jazykovo a obsahovo najdostupnejšia je naša publikácia Atlas klimatickej zmeny, ktorá ucelene vysvetľuje javy, ktoré spôsobujú a sprevádzajú klimatickú zmenu. Prácu s textami a grafikami sa snažíme uľahčiť pomocou slovníka pojmov a explainerov (vysvetľujúcich článkov).</p>
@@ -81,8 +79,8 @@ slug: index
 {:.lead}
 Zaujímajú vás naše novinky? V tejto sekcii vždy nájdete naše najnovšie infografiky, zhrnutia štúdií a datasety. Úplný zoznam noviniek a aktualít nájdete aj v [prehľade na samostatnej stránke](/aktuality).
 
-{% assign objects = site.infographics | concat: site.studies | concat: site.datasets | concat: site.explainers | sort: "published" | reverse %}
-{% include preview-blocks.html blocks=objects limit=6 %}
+{% assign slugs = site.infographics | concat: site.studies | concat: site.datasets | concat: site.explainers | sort: "published" | reverse | map: "slug" | slice: 0, 6 %}
+{% include preview-blocks-expandable.html slugs=slugs %}
 
 </div></div>
 
