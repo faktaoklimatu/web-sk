@@ -7,12 +7,14 @@ slug: index
     <div class="container">
         <h1 class="display-1" id="home">Fakty o zmene<br>klímy</h1>
         <span class="tagline">Verejne dostupné<br>infografiky a datasety</span>
-        <p class="mb-5">Zhromažďujeme dáta o klíme a klimatickej zmene, ktoré poskytujú vedecké inštitúcie (SHMÚ, NASA, Eurostat a iné) a vytvárame z nich infografiky určené pre <a href="/{{ site.slugs.how-to-use }}" title="Ako používať naše materiály">ďalšie použitie</a>.<br/>
-            <a href="{{ site.fundraising }}" class="btn btn-primary mt-3"><i class="fas fa-fw fa-heart"></i> Podporte nás</a>
-            <a href="/aktuality" class="btn btn-secondary mt-3"><i class="fas fa-fw fa-newspaper"></i> Aktuality</a>
-            <a href="#about" class="btn btn-secondary mt-3"><i class="fas fa-fw fa-info"></i> O projekte</a>
+        <p>Zhromažďujeme dáta o klíme a klimatickej zmene, ktoré poskytujú vedecké inštitúcie (SHMÚ, NASA, Eurostat a iné) a vytvárame z nich infografiky určené pre <a href="/{{ site.slugs.how-to-use }}" title="Ako používať naše materiály">ďalšie použitie</a>.<br/>
         </p>
-        <ul class="nav nav-tabs" role="tablist">
+        <p class="intro-buttons">
+            <a href="{{ site.fundraising }}" class="btn btn-primary"><i class="fas fa-fw fa-heart"></i> Podporte nás</a>
+            <a href="/aktuality" class="btn btn-secondary"><i class="fas fa-fw fa-newspaper"></i> Aktuality</a>
+            <a href="#about" class="btn btn-secondary"><i class="fas fa-fw fa-info"></i> O projekte</a>
+        </p>
+        <ul class="nav nav-tabs flex-nowrap flex-md-wrap align-items-stretch overflow-hidden" role="tablist">
             <li class="nav-item" role="presentation">
                 <h2 class="nav-link bg-extralight-blue active" id="tab-role-public" data-toggle="tab" href="#public" role="tab" aria-controls="public" aria-selected="true">Pre verejnosť</h2>
             </li>
@@ -168,13 +170,13 @@ Sme tím profesionálov pôsobiacich v rôznych odboroch od prírodovedy cez inf
 
 <!--
 <div class="row">
-  <a href="/o-nas" class="btn btn-primary btn-lg col"><i class="fas fa-fw fa-info"></i> Viac o projekte</a>
-  <a href="{{ site.fundraising }}" class="btn btn-primary btn-lg col"><i class="fas fa-fw fa-heart"></i> Podporte nás</a>
+  <a href="/o-nas" class="btn btn-primary btn-md-lg col"><i class="fas fa-fw fa-info"></i> Viac o projekte</a>
+  <a href="{{ site.fundraising }}" class="btn btn-primary btn-md-lg col"><i class="fas fa-fw fa-heart"></i> Podporte nás</a>
 </div>
 -->
 
-<a href="https://www.climate-kic.org/" class="no-ext-link-icon"><img class="index-logos float-right" src="/assets-local/img/logo-climate-kic.png" alt="Climate-KIC logo"/></a>
-<a href="https://climatechallenge.impacthub.cz/" class="no-ext-link-icon"><img class="index-logos float-right" src="/assets-local/img/logo-climate-challenge.png" alt="Climate Challenge logo"/></a>
+<a href="https://www.climate-kic.org/" class="no-ext-link-icon"><img class="index-logos float-md-right" src="/assets-local/img/logo-climate-kic.png" alt="Climate-KIC logo"/></a>
+<a href="https://climatechallenge.impacthub.cz/" class="no-ext-link-icon"><img class="index-logos float-md-right" src="/assets-local/img/logo-climate-challenge.png" alt="Climate Challenge logo"/></a>
 
 {:.lead}
 V roku 2020 sme zvíťazili v akceleračnom programe [Climate Challenge](https://climatechallenge.impacthub.cz/) organizovanom sieťou podnikateľských inkubátorov [Impact Hub](https://impacthub.cz). V rámci toho náš projekt podporila európska iniciatíva [Climate-KIC](https://www.climate-kic.org/), ktorá hľadá inovatívne riešenia na klimatickú krízu.

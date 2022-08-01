@@ -8,6 +8,9 @@ navigation:
     failed: "Vyhľadávanie nefunguje. Možno je chyba v pripojení na internet?"
     hide: "Zrušiť"
     label: "Vyhľadať"
+  first-id: "uvod"
+  preview-boxes-expand: "Viac materiálov"
+  preview-boxes-collapse: "Menej materiálov"
 
 footer:
   get-newsletter: "Odoberajte newsletter"
@@ -19,6 +22,12 @@ licence:
   id: "CC BY 4.0"
   title: "Creative Commons Uvedenie Autora 4.0 Medzinárodný"
   link: "https://creativecommons.org/licenses/by/4.0/deed.sk"
+
+topic:
+  gauge-source: "Zdroj"
+  intro-title: "Úvod"
+  nutshell-id: "v-kocke"
+  nutshell-title: "V kocke"
 
 text:
   toc: "Obsah"
