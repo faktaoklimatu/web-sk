@@ -27,4 +27,10 @@
 
 @media screen and (max-width: 768px) {
     .support-block { padding-left: 0; }
+
+    .tab-content .btn {
+        font-size: 0.85rem;
+        padding: 0.3rem 0.5rem;
+        margin-inline: 0.05rem;
+    }
 }
