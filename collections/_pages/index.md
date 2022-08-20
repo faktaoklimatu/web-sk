@@ -2,67 +2,48 @@
 layout: empty
 title: Fakty o klíme
 slug: index
---- 
+---
 <div class="section intro">
     <div class="container">
         <h1 class="display-1" id="home">Fakty o zmene<br>klímy</h1>
-        <span class="tagline">Verejne dostupné<br>infografiky a datasety</span>
-        <p>Zhromažďujeme dáta o klíme a klimatickej zmene, ktoré poskytujú vedecké inštitúcie (SHMÚ, NASA, Eurostat a iné) a vytvárame z nich infografiky určené pre <a href="/{{ site.slugs.how-to-use }}" title="Ako používať naše materiály">ďalšie použitie</a>.<br/>
+        <span class="tagline">Verejne dostupné<br>infografiky, data a články</span>
+        <p>Sme tím nezávislých analytikov a expertov, ktorý sa usiluje o to, aby diskusia v našej krajine o klimatických zmenách bola vecná, kultivovaná a založená na vedeckých poznatkoch a overených dátach.
         </p>
         <p class="intro-buttons">
-            <a href="{{ site.fundraising }}" class="btn btn-primary"><i class="fas fa-fw fa-heart"></i> Podporte nás</a>
-            <a href="/aktuality" class="btn btn-secondary"><i class="fas fa-fw fa-newspaper"></i> Aktuality</a>
+            <a href="{{ site.fundraising }}" class="btn btn-primary d-md-none"><i class="fas fa-fw fa-heart"></i> Podporte nás</a>
+            <a href="https://2050podcast.cz/" class="btn btn-secondary no-ext-link-icon">Podcast 2050 [CZ] <i class="fas fa-fw fa-headphones"></i></a>
+            <a class="btn btn-secondary no-ext-link-icon" href="#newsletter-modal" id="newsletter-embed" data-toggle="modal" data-target="#newsletter-modal">
+            <span class="fas fa-fw fa-envelope-open-text"></span> Odebírejte newsletter</a>
             <a href="#about" class="btn btn-secondary"><i class="fas fa-fw fa-info"></i> O projekte</a>
         </p>
         <ul class="nav nav-tabs flex-nowrap flex-md-wrap align-items-stretch overflow-hidden" role="tablist">
             <li class="nav-item" role="presentation">
-                <h2 class="nav-link bg-extralight-blue active" id="tab-role-public" data-toggle="tab" href="#public" role="tab" aria-controls="public" aria-selected="true">Pre verejnosť</h2>
+                <h2 class="nav-link bg-extralight-blue active" id="tab-role-spotlight" data-toggle="tab" href="#public" role="tab" aria-controls="public" aria-selected="true">Vyberáme: Úvod do zmeny klimy</h2>
             </li>
             <li class="nav-item" role="presentation">
-                <h2 class="nav-link bg-extralight-green" id="tab-role-teachers" data-toggle="tab" href="#teachers" role="tab" aria-controls="teachers" aria-selected="false">Pre učiteľov</h2>
+                <h2 class="nav-link bg-extralight-lightblue" id="tab-role-recent" data-toggle="tab" href="#teachers" role="tab" aria-controls="teachers" aria-selected="false">Najnovšie</h2>
             </li>
             <li class="nav-item" role="presentation">
-                <h2 class="nav-link bg-extralight-red" id="tab-role-journalists" data-toggle="tab" href="#journalists" role="tab" aria-controls="journalists" aria-selected="false">Pre novinárov</h2>
+                <h2 class="nav-link bg-extralight-gray" id="tab-role-journalists" data-toggle="tab" href="#journalists" role="tab" aria-controls="journalists" aria-selected="false">Pre novinárov</h2>
             </li>
         </ul>
     </div>
 </div>
 
 <div class="tab-content" id="myTabContent">
-  <div class="section tab-pane fade show active bg-extralight-blue pt-4 pb-4" id="public" role="tabpanel" aria-labelledby="tab-role-public"><div class="container">
-    <p class="lead mb-0">Projekt Fakty o klíme nie je určený len pre odbornú verejnosť, ale pre každého so záujmom o tému klimatickej zmeny. Ak ste na našom webe prvýkrát a neviete, kde začať, môžete si pozrieť niektorú z úvodných infografík, ktoré uvádzame nižšie.</p>
+  <div class="section tab-pane fade show active bg-extralight-blue pt-4 pb-4" id="public" role="tabpanel" aria-labelledby="tab-role-spotlight"><div class="container">
+    <p class="lead mb-0">Ak ste na našom webe prvýkrát a neviete, kde začať, môžete si pozrieť niektorú z úvodných infografík, ktoré uvádzame nižšie.</p>
     {%- assign featured_slugs = "schema-klimatickej-zmeny, emisie-sr, koncentracia-co2, body-zlomu-1, teplota-22000-rokov" | split: ", " | sample: 3 %}
     {%- include preview-blocks-expandable.html slugs=featured_slugs rows=1 %}
-    <p class="lead">Ak chcete zostať informovaní o novinkách, môžete sledovať náš newsletter alebo Twitter.
-    <!-- Komplexný a zároveň dostupný pohľad na klimatickú zmenu obsahuje naša publikácia <a href="/atlas" target="_blank">Atlas klimatickej zmeny</a>. -->
-    Kvalitnú verejnú diskusiu o klimatických zmenách a projekt Fakty o klíme môžete tiež podporiť finančne alebo používaním a zdieľaním našich infografík a dát.</p>
-    <a href="#newsletter-modal" class="btn btn-primary" id="newsletter-embed" data-toggle="modal" data-target="#newsletter-modal"><i class="fas fa-fw fa-envelope-open-text"></i> Newsletter</a>
-    <a href="https://twitter.com/{{ site.twitter }}" target="_blank" class="btn btn-secondary"><i class="fab fa-fw fa-twitter"></i> Twitter</a>
-    <!-- <a href="/temata/emise/" class="btn btn-secondary"><i class="fas fa-fw fa-binoculars"></i> Explainery</a> -->
-    <a href="/slovnik" class="btn btn-secondary"><i class="fas fa-fw fa-book"></i> Slovník pojmov</a>
-    <!-- <a href="" class="btn btn-secondary"><i class="fas fa-fw fa-globe"></i> Ďalšie zdroje a odkazy</a> -->
-  </div></div>
-  
-  <div class="section tab-pane fade bg-extralight-green pt-4 pb-4" id="teachers" role="tabpanel" aria-labelledby="tab-role-teachers"><div class="container">
-    <p class="lead mb-0">Texty a grafiky projektu Fakty o klíme je možné použiť ako materiál pre prípravu rôznych vzdelávacích aktivít. Pri práci sa snažíme nerezignovať na vedeckú presnosť a komplexnosť, preto použitie našich textov a grafík odporúčame pre vyššie ročníky ZŠ alebo na SŠ a VŠ. Ak náš web navštevujete prvýkrát a neviete, kde začať, môžete si pozrieť niektoré z infografík, ktoré vidíte nižšie</p>
-    {%- assign featured_slugs = "schema-klimatickej-zmeny, emisie-sr, koncentracia-co2" | split: ", " %}
-    {%- include preview-blocks-expandable.html slugs=featured_slugs rows=1 %}
-    <!-- <div class="row justify-content-md">
-      <div class="col-md-6 col-lg-8">
-        <p class="lead">Jazykovo a obsahovo najdostupnejšia je naša publikácia Atlas klimatickej zmeny, ktorá ucelene vysvetľuje javy, ktoré spôsobujú a sprevádzajú klimatickú zmenu. Prácu s textami a grafikami sa snažíme uľahčiť pomocou slovníka pojmov a explainerov (vysvetľujúcich článkov).</p>
-        <a href="/atlas" class="btn btn-primary" target="_blank"><i class="fas fa-fw fa-atlas"></i> Atlas klimatickej zmeny</a>
-        <a href="/temata/emise/" class="btn btn-secondary"><i class="fas fa-fw fa-binoculars"></i> Explainery</a>
-        <br/> -->
-        <a href="/slovnik" class="btn btn-primary"><i class="fas fa-fw fa-book"></i> Slovník pojmov</a>
-        <a href="/{{ site.slugs.how-to-use }}" class="btn btn-secondary"><i class="fas fa-fw fa-book-reader"></i> Ako používať naše materiály</a>
-      <!-- </div>
-      <div class="col-md-6 col-lg-4">
-        <a href="/atlas" class="card"><img src="/assets-local/img/atlas-mockup.png" alt="Alas klimatické změny" class="img-fluid"></a>
-      </div>
-    </div> -->
   </div></div>
 
-  <div class="section tab-pane fade bg-extralight-red pt-4 pb-4" id="journalists" role="tabpanel" aria-labelledby="tab-role-journalists"><div class="container">
+  <div class="section tab-pane fade bg-extralight-lightblue pt-4 pb-4" id="teachers" role="tabpanel" aria-labelledby="tab-role-recent"><div class="container">
+    <p class="lead mb-0">Zaujímajú vás naše novinky? V tejto sekcii vždy nájdete naše najnovšie infografiky, zhrnutia štúdií a datasety.</p>
+    {% assign slugs = site.infographics | concat: site.studies | concat: site.datasets | concat: site.explainers | sort: "published" | reverse | map: "slug" | slice: 0, 6 %}
+    {% include preview-blocks-expandable.html slugs=slugs %}
+  </div></div>
+
+  <div class="section tab-pane fade bg-extralight-gray pt-4 pb-4" id="journalists" role="tabpanel" aria-labelledby="tab-role-journalists"><div class="container">
     <p class="lead">Ak pripravujete článok, diskusiu alebo rozhovor, naše materiály vám poskytnú aktuálne informácie a pomôžu vám získať prehľad. Aj ťažko zrozumiteľné problémy môžete vďaka našim infografikám prezentovať prehľadne a zrozumiteľne. Údaje čerpáme z overených a transparentných zdrojov, posúdenie ich faktickej správnosti sme urobili za vás.</p>
     <p class="lead">Naše údaje a grafiky možno ľahko zdieľať, upravovať a šíriť. Ak naše materiály plánujete využiť, nezabudnite sa prosím zoznámiť s pravidlami na ich použitie. Ak máte záujem o bližšie informácie o projekte alebo o spolupráci, môžete nás <a href="/{{ site.slugs.how-to-use }}#contact">kontaktovať</a>.</p>
     <a href="/{{ site.slugs.how-to-use }}" class="btn btn-primary"><i class="fas fa-fw fa-book-reader"></i> Ako používať naše materiály</a>
@@ -70,19 +51,6 @@ slug: index
     <a href="/slovnik" class="btn btn-secondary"><i class="fas fa-fw fa-book"></i> Slovník pojmov</a>
   </div></div>
 </div>
-
-<div class="section section-new"><div class="container" markdown="1">
-
-{:#new .display-2}
-## Najnovšie materiály
-
-{:.lead}
-Zaujímajú vás naše novinky? V tejto sekcii vždy nájdete naše najnovšie infografiky, zhrnutia štúdií a datasety. Úplný zoznam noviniek a aktualít nájdete aj v [prehľade na samostatnej stránke](/aktuality).
-
-{% assign slugs = site.infographics | concat: site.studies | concat: site.datasets | concat: site.explainers | sort: "published" | reverse | map: "slug" | slice: 0, 6 %}
-{% include preview-blocks-expandable.html slugs=slugs %}
-
-</div></div>
 
 {% assign sorted_index_tags = site.data.tags | where_exp: "item", "item.index-weight > 0" | sort: "index-weight" %}
 <div class="section"><div class="container" markdown="1">
@@ -98,7 +66,7 @@ Klimatická zmena je zložitý komplex navzájom previazaných javov. Údaje, s 
     <div class="accordion-header collapsed" id="heading_{{ index_tag.id }}" role="button" data-toggle="collapse" data-target="#collapse_{{ index_tag.id }}" aria-expanded="false" aria-controls="collapse_{{ index_tag.id }}">
         <h3 class="display-3">
         <span class="fa fa-fw fa-chevron-up"></span>
-        {{ index_tag.name-long | capitalize }}
+        {{ index_tag.name-long }}
         <small class="text-secondary d-none d-md-inline">({% include includes-local/object-stats.html tag=index_tag.id %})</small>
         </h3>
     </div>
