@@ -6,7 +6,7 @@ slug: index
 <div class="section intro">
     <div class="container">
         <h1 class="display-1" id="home">Fakty o zmene<br>klímy</h1>
-        <span class="tagline">Verejne dostupné<br>infografiky, data a články</span>
+        <span class="tagline">Verejne dostupné <span class="nobr">infografiky, data a články</span></span>
         <p>Sme tím nezávislých analytikov a expertov, ktorý sa usiluje o to, aby diskusia v našej krajine o klimatických zmenách bola vecná, kultivovaná a založená na vedeckých poznatkoch a overených dátach.
         </p>
         <p class="intro-buttons">
