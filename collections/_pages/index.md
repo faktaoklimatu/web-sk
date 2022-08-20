@@ -60,29 +60,16 @@ slug: index
 {:.lead}
 Klimatická zmena je zložitý komplex navzájom previazaných javov. Údaje, s ktorými pracujeme, sa preto dotýkajú rôznych oblastí ľudskej činnosti - od ekonomiky cez politiku až po energetiku. Pre uľahčenie orientácie na webe triedime naše materiály do nižšie uvedených kategórií.
 
-<div class="accordion" id="accordionExample">
-{% for topic in sorted_topics %}
-<div class="accordion-item">
-    <div class="accordion-header collapsed" id="heading_{{ topic.slug }}" role="button" data-toggle="collapse" data-target="#collapse_{{ topic.slug }}" aria-expanded="false" aria-controls="collapse_{{ topic.slug }}">
-        <h3 class="display-3">
-        <span class="fa fa-fw fa-chevron-up"></span>
-        {{ topic.title }}
-        <!-- <small class="text-secondary d-none d-md-inline">({% include includes-local/object-stats.html tag=index_tag.id %})</small> -->
-        </h3>
-    </div>
-    <div class="collapse" id="collapse_{{ topic.slug }}"  aria-labelledby="heading_{{ topic.slug }}" data-parent="#accordionExample">
-        {% assign content = "" %}
-        {%- for sub in topic.subtopics %}
-            {%- assign new_slugs = sub.content | join: "|" %}
-            {%- assign content = content | append: new_slugs | append: "|" %}
-        {%- endfor %}
-        {% assign slugs = content | split: "|"  %}
-        {% assign objects = site.infographics | concat: site.studies | concat: site.explainers | where_exp: "item", "slugs contains item.slug" | sort: "weight" %}
-        {% include preview-blocks.html blocks=objects link=topic limit=6 %}
-    </div>
+<div class="row topic-tiles">
+{%- for topic in sorted_topics %}
+<div class="topic-tile col-6 col-md-4 p-0">
+<a class="mb-3 my-md-3" href="{{ topic.url }}">
+  <img class="mx-3" loading="eager" src="/assets/topics/{{ topic.slug }}_mini.svg" alt="{{ topic.title }}">
+  <h3 class="mx-3">{{ topic.title | capitalize }}</h3>
+</a>
 </div>
-{% endfor %}
-</div> <!-- accordion end -->
+{%- endfor %}
+</div>
 
 </div></div>
 <!-- TODO temporary anchor till we don't have "about" page due to explainer author links -->
