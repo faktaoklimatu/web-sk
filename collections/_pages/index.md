@@ -85,66 +85,74 @@ Klimatická zmena je zložitý komplex navzájom previazaných javov. Údaje, s 
 </div></div>
 <div class="section"><div class="container clearfix" markdown="1">
 {:#about .display-2}
-## O nás a našej práci
+## O naší práci
+
+<div class="row about-us mt-3 mb-5 justify-content-between">
+<div class="col-12 col-md-6 pt-4" markdown="1">
 
 <!-- TODO temporary anchor till we don't have "about" page due to explainer author links -->
-
 {:#members .lead}
-Cieľom projektu Fakty o klíme je skvalitniť verejnú diskusiu v problematike klimatickej zmeny. Snažíme sa širokej verejnosti prinášať zrozumiteľné informácie a prispieť nielen k lepšiemu pochopeniu, ale tiež k lepšiemu rozhodovaniu v oblasti politík, ktoré by mali byť založené na aktuálnych a overených údajoch.
+**Robíme rešeršnú a analytickú prácu**. Hľadáme v dátach to relevantné pre hlbšie pochopenie klimatickej zmeny, jej vplyvu a možnostiach riešenia. Zameriavame sa na to podstatné pre slovenský kontext a slovenskú spoločnosť.
 
-<div id="carousel_successes" class="carousel slide mb-4 mt-4" data-ride="carousel">
-  <ol class="carousel-indicators">
-    {%- assign sorted_success = site.data.carousel | where_exp: "item", "item.display != false" -%}
-    {%- for item in sorted_success %}
-    <li data-target="#carousel_successes" data-slide-to="{{- forloop.index0 -}}"{%- if forloop.index0 == 0 %} class="active"{%- endif -%}> </li>
-    {%- endfor %}
-  </ol>
-  <div class="carousel-inner">
-    {%- for item in sorted_success -%}
-    {%- if item.link %}
-    <a href="{{ item.link }}" class="no-ext-link-icon carousel-item {%- if forloop.index0 == 0 %} active{% endif %}" data-interval="6000">
-    {%- else %}
-    <div class="carousel-item {%- if forloop.index0 == 0 %} active{% endif %}" data-interval="6000">
-    {%- endif %}
-      <img src="/assets-local/carousel/{{ item.img }}" class="d-block w-100" alt="{{- item.title -}}" />
-      <div class="carousel-caption d-none d-md-block">
-        <h5>{{ item.title }}</h5>
-        <p>{{ item.summary }}</p>
-      </div>
-    {%- if item.link %}
-    </a>
-    {%- else %}
-    </div>
-    {%- endif %}
-    {%- endfor %}
-  </div>
-  <a class="carousel-control-prev" href="#carousel_successes" role="button" data-slide="prev">
-    <span class="fas fa-chevron-left fa-3x" aria-hidden="true"></span>
-    <span class="sr-only">Predošlý</span>
-  </a>
-  <a class="carousel-control-next" href="#carousel_successes" role="button" data-slide="next">
-    <span class="fas fa-chevron-right fa-3x" aria-hidden="true"></span>
-    <span class="sr-only">Nasledujúci</span>
-  </a>
+**Komunikujeme ku kľúčovým skupinám**. Tvoríme dátové vizualizácie, články, podcasty alebo prednášky pre verejnosť aj klientov z firemnej a verejnej sféry.
+
+</div>
+<div class="col-12 col-md-6 col-lg-5 pt-4" markdown="1">
+### Usilujeme sa o
+
+{:.arrow}
+* **Prehľadné a všetkým dostupné informácie** o klimatickej zmene a možných cestách k bezemisnej spoločnosti
+* **Politické rozhodnutia zakotvené v dátach** a dôkladne spracovaných analýzach
+* **Vzdelanú a informovanú spoločnosť**, kultivovanú verejnú debatu a kvalitné spravodajstvo
 </div>
 
-{:.lead}
-Diskusia o klimatickej zmene je komplikovaná a nie je imúnna voči nepresným informáciám. Naším cieľom je upútať pozornosť na dôležité témy a chceme stavať mosty medzi vedcami a ľuďmi, ktorých sa zmeny klímy týkajú – nami všetkými.
-
-{:.lead}
-Sme tím profesionálov pôsobiacich v rôznych odboroch od prírodovedy cez informatiku, ekonomiku, pedagogiku či komunikáciu. Pracujeme na dobrovoľníckej báze a financie na prevádzku získavame od darcov; nepracujeme na objednávku žiadnej inštitúcie, firiem ani iných organizácií. Pri našej činnosti komunikujeme s politikmi, energetickými firmami aj aktivistickými hnutiami. Fakty o klíme sú však nezávislý projekt, ktorý môže podporiť každý.
-
-<!--
-<div class="row">
-  <a href="/o-nas" class="btn btn-primary btn-md-lg col"><i class="fas fa-fw fa-info"></i> Viac o projekte</a>
-  <a href="{{ site.fundraising }}" class="btn btn-primary btn-md-lg col"><i class="fas fa-fw fa-heart"></i> Podporte nás</a>
+<div class="col-12 mt-3">
+<a href="https://faktaoklimatu.cz/o-nas" class="btn btn-primary btn-md-lg"><i class="fas fa-fw fa-info"></i> Viac o projekte [CZ]</a>
 </div>
--->
+</div>
 
-<a href="https://www.climate-kic.org/" class="no-ext-link-icon"><img class="index-logos float-md-right" src="/assets-local/img/logo-climate-kic.png" alt="Climate-KIC logo"/></a>
-<a href="https://climatechallenge.impacthub.cz/" class="no-ext-link-icon"><img class="index-logos float-md-right" src="/assets-local/img/logo-climate-challenge.png" alt="Climate Challenge logo"/></a>
+{:.display-3}
+### Ocenění
+
+<div class="row about-us">
+<div class="col-12 col-md-6 col-lg-4 price">
+<div class="price-1"></div>
+<div>
+<strong>Cena za komunikáciu klimatickej zmeny</strong> (2020) od Českej učenej spoločnosti a OSN
+</div>
+</div>
+<div class="col-12 col-md-6 col-lg-4 price">
+<div class="price-2"></div>
+<div>
+Prvá cena v akcelerátore <strong>Climate Challenge</strong> (2020)
+</div>
+</div>
+<div class="col-12 col-md-6 col-lg-4 price">
+<div class="price-3"></div>
+<div>
+<strong>Cena AFO Olomouc</strong> za významný prínos popularizácii vedy (2022)
+</div>
+</div>
+</div>
+
+</div></div>
+<div class="section"><div class="container clearfix" markdown="1">
+
+{:.display-2 .mb-3}
+## Kto využíva naše materiály
 
 {:.lead}
-V roku 2020 sme zvíťazili v akceleračnom programe [Climate Challenge](https://climatechallenge.impacthub.cz/) organizovanom sieťou podnikateľských inkubátorov [Impact Hub](https://impacthub.cz). V rámci toho náš projekt podporila európska iniciatíva [Climate-KIC](https://www.climate-kic.org/), ktorá hľadá inovatívne riešenia na klimatickú krízu.
+Naše infografiky a texty využívajú slovenské i zahraničné inštitúcie, spravodajské portály, konzultačné spoločnosti, školy a ďalší aktéri.
+
+<div class="our-users mt-5 mb-4">
+<img loading="eager" class="small" src="/assets-local/o-nas/logo-sme.png" alt="SME">
+<img loading="eager" class="small" src="/assets-local/o-nas/logo-seznam-zpravy.png" alt="Seznam Zprávy">
+<img loading="eager" class="small" src="/assets-local/o-nas/logo-irozhlas.png" alt="iRozhlas">
+<img loading="eager" class="small" src="/assets-local/o-nas/logo-respekt.png" alt="Respekt">
+<br/>
+<img loading="eager" src="/assets-local/o-nas/logo-pwc.png" alt="PwC">
+<img loading="eager" src="/assets-local/o-nas/logo-mckinsey.png" alt="McKinsey">
+<img loading="eager" class="small" src="/assets-local/o-nas/logo-deloitte.png" alt="Deloitte">
+</div>
 
 </div></div>
