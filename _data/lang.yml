@@ -7,16 +7,16 @@ navigation:
     empty: "Nič sme nenašli"
     failed: "Vyhľadávanie nefunguje. Možno je chyba v pripojení na internet?"
     hide: "Zrušiť"
-    label: "Vyhľadať"
+    label: "Téma, kľúčové slovo"
   first-id: "uvod"
   preview-boxes-expand: "Viac materiálov"
   preview-boxes-collapse: "Menej materiálov"
 
 footer:
-  get-newsletter: "Odoberajte newsletter"
-  support-us: "Podporte nás"
+  follow-us: "Sledujte nás na sociálnych sieťach"
   last-change: "Posledná zmena"
   privacy-policy: "Zásady spracovania osobných údajov"
+  how-to-use: "Ako používať naše materiály"
 
 licence:
   id: "CC BY 4.0"
