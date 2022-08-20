@@ -85,7 +85,7 @@ Klimatická zmena je zložitý komplex navzájom previazaných javov. Údaje, s 
 </div></div>
 <div class="section"><div class="container clearfix" markdown="1">
 {:#about .display-2}
-## O naší práci
+## O našej práci
 
 <div class="row about-us mt-3 mb-5 justify-content-between">
 <div class="col-12 col-md-6 pt-4" markdown="1">
