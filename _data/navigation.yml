@@ -1,22 +1,47 @@
+- title: Úvod
+  link: /
+
 - title: Témy
   dropdown: temy
   list-topics: true
 
-- title: Ďalšie materiály
+# - title: Explainery
+#  link: /explainery
+
+# - title: O projekte
+#   link: /o-projekte
+
+- title: Viac
   dropdown:
-    - title: <i class="fas fa-fw fa-headphones mr-1"></i> Podcast 2050 [CZ]
-      link: https://2050podcast.cz/
+    - title: Aktuality
+      link: /aktuality
 
-    - title: <i class="fas fa-fw fa-envelope-open-text mr-1"></i> Odoberajte newsletter
-      link: "#newsletter-modal"
-      params: 'id="newsletter-embed" data-toggle="modal" data-target="#newsletter-modal"'
-
-    - title: <i class="fas fa-fw fa-book mr-1"></i> Slovník pojmov
+    - title: Slovník pojmov
       link: /slovnik
 
-- title: <i class="fab fa-fw fa-twitter"></i>
-  link: https://twitter.com/faktyoklime
-  class: no-ext-link-icon
+#    - title: Ďalšie zdroje a odkazy
+#      link: /zdroje
 
-- title: <i class="d-md-none d-lg-inline fas fa-fw fa-heart"></i> Podporte nás
-  fundraising: true
+    - title: Ako používať naše materiály
+      link: /ako-pouzivat
+
+#    - title: Atlas klimatickej zmeny
+#      link: /atlas
+
+    - title: Podporte nás <i class="fas fa-fw fa-heart"></i>
+      fundraising: true
+      class: no-ext-link-icon
+
+#    - title: O nás
+#      link: /o-nas
+
+- title: slovensky
+  lang: sk
+  dropdown:
+    - title: česky
+      lang: cs
+      link: https://faktaoklimatu.cz
+    - title: english
+      lang: en
+      link: https://factsonclimate.org
+
