@@ -52,7 +52,7 @@ slug: index
   </div></div>
 </div>
 
-{% assign sorted_index_tags = site.data.tags | where_exp: "item", "item.index-weight > 0" | sort: "index-weight" %}
+{% assign sorted_topics = site.topics | where_exp: "item", "item.weight > 0" | sort: "weight" %}
 <div class="section"><div class="container" markdown="1">
 {: .display-2}
 ## Oblasti, ktorým sa venujeme
@@ -61,23 +61,25 @@ slug: index
 Klimatická zmena je zložitý komplex navzájom previazaných javov. Údaje, s ktorými pracujeme, sa preto dotýkajú rôznych oblastí ľudskej činnosti - od ekonomiky cez politiku až po energetiku. Pre uľahčenie orientácie na webe triedime naše materiály do nižšie uvedených kategórií.
 
 <div class="accordion" id="accordionExample">
-{% for index_tag in sorted_index_tags %}
+{% for topic in sorted_topics %}
 <div class="accordion-item">
-    <div class="accordion-header collapsed" id="heading_{{ index_tag.id }}" role="button" data-toggle="collapse" data-target="#collapse_{{ index_tag.id }}" aria-expanded="false" aria-controls="collapse_{{ index_tag.id }}">
+    <div class="accordion-header collapsed" id="heading_{{ topic.slug }}" role="button" data-toggle="collapse" data-target="#collapse_{{ topic.slug }}" aria-expanded="false" aria-controls="collapse_{{ topic.slug }}">
         <h3 class="display-3">
         <span class="fa fa-fw fa-chevron-up"></span>
-        {{ index_tag.name-long }}
-        <small class="text-secondary d-none d-md-inline">({% include includes-local/object-stats.html tag=index_tag.id %})</small>
+        {{ topic.title }}
+        <!-- <small class="text-secondary d-none d-md-inline">({% include includes-local/object-stats.html tag=index_tag.id %})</small> -->
         </h3>
     </div>
-    <div class="collapse" id="collapse_{{ index_tag.id }}"  aria-labelledby="heading_{{ index_tag.id }}" data-parent="#accordionExample" markdown="1">
-{:.lead}
-{{ index_tag.description | markdownify }}
-
-{% assign objects = site.infographics | concat: site.studies | where_exp: "item", "item.tags contains index_tag.id" | sort: "weight" %}
-{% include preview-blocks.html blocks=objects link=index_tag limit=6 %}
-
-</div>
+    <div class="collapse" id="collapse_{{ topic.slug }}"  aria-labelledby="heading_{{ topic.slug }}" data-parent="#accordionExample">
+        {% assign content = "" %}
+        {%- for sub in topic.subtopics %}
+            {%- assign new_slugs = sub.content | join: "|" %}
+            {%- assign content = content | append: new_slugs | append: "|" %}
+        {%- endfor %}
+        {% assign slugs = content | split: "|"  %}
+        {% assign objects = site.infographics | concat: site.studies | concat: site.explainers | where_exp: "item", "slugs contains item.slug" | sort: "weight" %}
+        {% include preview-blocks.html blocks=objects link=topic limit=6 %}
+    </div>
 </div>
 {% endfor %}
 </div> <!-- accordion end -->
