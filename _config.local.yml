@@ -9,10 +9,12 @@ github: faktaoklimatu/web-sk
 twitter: "faktyoklime"
 facebook: "faktyoklime"
 linkedin: "68480136"
+instagram: "2050_podcast"
+youtube: "UCpW-nPyjH68BUfAjzhk7O_Q"
 newsletter: "10-b87b958d61baa85a6fa011ee4e3a4f75"
 fundraising: "https://www.darujme.cz/projekt/1203742"
 author: faktyoklime.sk
-copyright: "&copy; 2021 Otevřená data o klimatu, z. ú."
+copyright: "Otevřená data o klimatu, z. ú."
 description: Zhromažďujeme dáta o klíme a klimatickej zmene, ktoré poskytujú vedecké inštitúcie a spracovávame z nich grafy a infografiky pre ďalšie použitie.
 keywords: klíma, zmena klímy, infografiky
 
@@ -27,7 +29,6 @@ slugs:
   topics: temy
   glossary: slovnik
   how-to-use: ako-pouzivat
-  news: aktuality
   about: ""
 
 collections_dir: collections
