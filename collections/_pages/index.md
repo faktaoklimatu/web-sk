@@ -143,7 +143,7 @@ Prvá cena v akcelerátore <strong>Climate Challenge</strong> (2020)
 {:.lead}
 Naše infografiky a texty využívajú slovenské i zahraničné inštitúcie, spravodajské portály, konzultačné spoločnosti, školy a ďalší aktéri.
 
-<div class="our-users mt-5 mb-4">
+<div class="logos mt-5 mb-4">
 <img loading="eager" class="small" src="/assets-local/o-nas/logo-sme.png" alt="SME">
 <img loading="eager" class="small" src="/assets-local/o-nas/logo-seznam-zpravy.png" alt="Seznam Zprávy">
 <img loading="eager" class="small" src="/assets-local/o-nas/logo-irozhlas.png" alt="iRozhlas">
