@@ -88,8 +88,8 @@ Klimatická zmena je zložitý komplex navzájom previazaných javov. Údaje, s 
 {:#about .display-2}
 ## O našej práci
 
-<div class="row about-us mt-3 mb-5 justify-content-between">
-<div class="col-12 col-md-6 pt-4" markdown="1">
+<div class="row about-us lead mb-5 justify-content-between">
+<div class="col-12 col-md-6 pt-2 pt-md-4" markdown="1">
 
 **Robíme rešeršnú a analytickú prácu**. Hľadáme v dátach to relevantné pre hlbšie pochopenie klimatickej zmeny, jej vplyvu a možnostiach riešenia. Zameriavame sa na to podstatné pre slovenský kontext a slovenskú spoločnosť.
 
@@ -113,20 +113,20 @@ Klimatická zmena je zložitý komplex navzájom previazaných javov. Údaje, s 
 {:.display-3}
 ### Ocenění
 
-<div class="row about-us">
-<div class="col-12 col-md-6 col-lg-4 price">
+<div class="row about-us lead">
+<div class="col-12 col-md-6 col-lg-4 p-3 p-md-4 price">
 <div class="price-1"></div>
 <div>
 <strong>Cena za komunikáciu klimatickej zmeny</strong> (2020) od Českej učenej spoločnosti a OSN
 </div>
 </div>
-<div class="col-12 col-md-6 col-lg-4 price">
+<div class="col-12 col-md-6 col-lg-4 p-3 p-md-4 price">
 <div class="price-2"></div>
 <div>
 Prvá cena v akcelerátore <strong>Climate Challenge</strong> (2020)
 </div>
 </div>
-<div class="col-12 col-md-6 col-lg-4 price">
+<div class="col-12 col-md-6 col-lg-4 p-3 p-md-4 price">
 <div class="price-3"></div>
 <div>
 <strong>Cena AFO Olomouc</strong> za významný prínos popularizácii vedy (2022)
@@ -143,7 +143,7 @@ Prvá cena v akcelerátore <strong>Climate Challenge</strong> (2020)
 {:.lead}
 Naše infografiky a texty využívajú slovenské i zahraničné inštitúcie, spravodajské portály, konzultačné spoločnosti, školy a ďalší aktéri.
 
-<div class="logos mt-5 mb-4">
+<div class="logos mt-md-5 mb-md-4">
 <img loading="eager" class="small" src="/assets-local/o-nas/logo-sme.png" alt="SME">
 <img loading="eager" class="small" src="/assets-local/o-nas/logo-seznam-zpravy.png" alt="Seznam Zprávy">
 <img loading="eager" class="small" src="/assets-local/o-nas/logo-irozhlas.png" alt="iRozhlas">
