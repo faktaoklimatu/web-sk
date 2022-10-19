@@ -6,19 +6,19 @@ slug: index
 <div class="section intro">
     <div class="container">
         <h1 class="display-1" id="home">Fakty o zmene<br>klímy</h1>
-        <span class="tagline">Verejne dostupné <span class="nobr">infografiky, data a články</span></span>
-        <p>Sme tím nezávislých analytikov a expertov, ktorý sa usiluje o to, aby diskusia v našej krajine o klimatických zmenách bola vecná, kultivovaná a založená na vedeckých poznatkoch a overených dátach.
+        <span class="tagline">Verejne dostupné <span class="nobr">infografiky, dáta a články</span></span>
+        <p>Sme tím nezávislých analytikov a expertov, ktorý sa snaží, aby diskusia o klimatických zmenách v našej krajine bola vecná, kultivovaná a založená na vedeckých poznatkoch a overených dátach.
         </p>
         <p class="intro-buttons">
             <a href="{{ site.fundraising }}" class="btn btn-primary d-md-none"><i class="fas fa-fw fa-heart"></i> Podporte nás</a>
             <a href="https://2050podcast.cz/" class="btn btn-secondary no-ext-link-icon">Podcast 2050 [CZ] <i class="fas fa-fw fa-headphones"></i></a>
             <a class="btn btn-secondary no-ext-link-icon" href="#newsletter-modal" id="newsletter-embed" data-toggle="modal" data-target="#newsletter-modal">
-            <span class="fas fa-fw fa-envelope-open-text"></span> Odebírejte newsletter</a>
+            <span class="fas fa-fw fa-envelope-open-text"></span> Odoberajte newsletter</a>
             <a href="#about" class="btn btn-secondary"><i class="fas fa-fw fa-info"></i> O projekte</a>
         </p>
         <ul class="nav nav-tabs flex-nowrap flex-md-wrap align-items-stretch overflow-hidden" role="tablist">
             <li class="nav-item" role="presentation">
-                <h2 class="nav-link bg-extralight-blue active" id="tab-role-spotlight" data-toggle="tab" href="#public" role="tab" aria-controls="public" aria-selected="true">Vyberáme: Úvod do zmeny klimy</h2>
+                <h2 class="nav-link bg-extralight-blue active" id="tab-role-spotlight" data-toggle="tab" href="#public" role="tab" aria-controls="public" aria-selected="true">Vyberáme: Úvod do zmeny klímy</h2>
             </li>
             <li class="nav-item" role="presentation">
                 <h2 class="nav-link bg-extralight-lightblue" id="tab-role-recent" data-toggle="tab" href="#teachers" role="tab" aria-controls="teachers" aria-selected="false">Najnovšie</h2>
@@ -111,7 +111,7 @@ Klimatická zmena je zložitý komplex navzájom previazaných javov. Údaje, s 
 </div>
 
 {:.display-3}
-### Ocenění
+### Ocenenia
 
 <div class="row about-us lead">
 <div class="col-12 col-md-6 col-lg-4 p-3 p-md-4 price">

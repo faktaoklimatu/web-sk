@@ -10,7 +10,8 @@
 {%- endcase -%}
 {%- case num_studies -%}
     {%- when 0 -%}
-    {%- when 1, 2, 3, 4 -%}, {{num_studies}} štúdia/rešerš
+    {%- when 1 -%}, {{num_studies}} štúdia/rešerš
+    {%- when 2, 3, 4 -%}, {{num_studies}} štúdie/rešerše
     {%- else -%}, {{num_studies}} štúdií/rešerší
 {%- endcase -%}
 {%- case num_datasets -%}
