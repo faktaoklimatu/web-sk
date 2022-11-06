@@ -11,6 +11,7 @@ intro: |
 
   **Dopady zmeny klímy** na spoločnosť aj prírodu, s ktorými sa budeme stretávať v nasledujúcich desaťročiach, **budú priamo závislé od množstva skleníkových plynov, ktoré ešte do atmosféry vypustíme**, či už spaľovaním fosílnych palív alebo inými aktivitami, pri ktorých vzniká veľké množstvo emisií.
 
+
 subtopics:
 - id:          "data"
   title:       "Dáta a pozorované zmeny"
