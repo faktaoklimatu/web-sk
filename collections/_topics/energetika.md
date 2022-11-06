@@ -11,6 +11,7 @@ intro: |
 
   Práve energetika je z hľadiska dekarbonizácie kľúčovou oblasťou: **ťažba a spaľovanie fosílnych palív stojí za ¾ celosvetových emisií** skleníkových plynov. Nahradenie fosílnych palív však vyžaduje prechod na bezemisnú elektrinu (napríklad z obnoviteľných zdrojov) a elektrifikáciu dopravy, vykurovania aj priemyslu. Najviac pozornosti je preto v tejto sekcii venované **výrobe elektriny.**
 
+
 subtopics:
 - id:          "mix"
   title:       "Súčasný stav: Z čoho vyrábame elektrinu?"
