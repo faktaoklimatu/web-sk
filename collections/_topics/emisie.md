@@ -11,6 +11,7 @@ intro: |
 
   K zastaveniu klimatickej zmeny je kľúčové dosiahnuť celosvetovo tzv. klimatickú neutralitu – teda stav, keď ľudstvo už svojou činnosťou nebude pridávať do atmosféry žiadne skleníkové plyny.
 
+
 subtopics:
 - id:          "mnozstvo"
   title:       "Množstvo emisií skleníkových plynov"
