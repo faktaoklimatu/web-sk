@@ -11,7 +11,6 @@ intro: |
 
   **Dopady zmeny klímy** na spoločnosť aj prírodu, s ktorými sa budeme stretávať v nasledujúcich desaťročiach, **budú priamo závislé od množstva skleníkových plynov, ktoré ešte do atmosféry vypustíme**, či už spaľovaním fosílnych palív alebo inými aktivitami, pri ktorých vzniká veľké množstvo emisií.
 
-
 dashboard:
 - type:        "single"
   col-lg-size: "3-5"
@@ -27,7 +26,7 @@ dashboard:
   col-xl-size: 3
   value:       "**+ 1,2 °C**"
   subtitle:    "**oteplenie sveta** od druhej polovice 19. storočia"
-  # comment:     "(to je asi asi +0,2 °C za dekádu)"
+  # comment:     "(to je asi +0,2 °C za dekádu)"
   source:      "NASA, Goddard Institute for Space Studies"
   source-url:  "/teplotna-anomalia"
 - type:        "single"
@@ -63,25 +62,30 @@ dashboard:
   source-url:  "https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_TS.pdf#page=45"
 
 subtopics:
-  # Klimatická změna v kostce
+  # Klimatická zmena v kocke
 - lead: |
-    Jak se vyznat ve složité problematice klimatu a jeho změn? Pro začátek je určitě dobré vědět, že:
-  commented-content:
-  - slug: "schema-klimaticke-zmeny"
+    Ako sa vyznať v zložitej problematike klímy a jej zmien? Pre začiatok je určite dobré vedieť, že:
+     commented-content:
+  - slug: "schema-klimatickej-zmeny"
     comment-key: 1
     comment: |
-      Současná změna klimatu je **série příčin a následků**: lidstvo mění složení atmosféry, což zesiluje skleníkový efekt. Ten pak způsobuje oteplování, tání ledovců a další jevy.
-  - slug: "souvislost-koncentrace-oteplovani"
+      Súčasná zmena klímy je **séria príčin a následkov**: ľudstvo mení zloženie atmosféry, čím sa zosilňuje skleníkový efekt. Ten následne spôsobuje otepľovanie, topenie ľadovcov a ďalšie javy
+ # - slug: "souvislost-koncentrace-oteplovani"
     comment-key: 2
     comment: |
-      **Čím více skleníkových plynů** lidstvo vypustí do atmosféry, **tím více se planeta oteplí**.
-  - slug: "mapa-zmeny-teploty"
+      **Čím viac skleníkových plynov** ľudstvo vypustí do atmosféry, **tým viac sa planéta oteplí**.
+        - slug: "mapa-zmeny-teploty"
     comment-key: 3
     comment: |
-      Klimatická změna se neprojevuje všude stejně: **různé oblasti světa se oteplují různě rychle**.
+      Klimatická zmena sa neprejavuje všade rovnako: **rôzne oblasti sveta sa otepľujú rôznou rýchlosťou**.
   qa:
-  - q: "Může za rostoucí koncentrace CO<sub>2</sub> v atmosféře skutečně spalování fosilních paliv?"
+  - q: "Môže za rastúcu koncentráciu CO<sub>2</sub> v atmosfére naozaj spaľovanie fosilnych palív?"
     a: |
+      Často sa argumentuje, že pozorovaný nárast koncentrácie CO<sub>2</sub> začal okolo roku 1800, teda v období rozmachu parných strojov. Máme ale omnoho silnejšie dôkazy:
+      1. V dnešnej dobe **ročne spálime 8 miliárd ton uhlia a podobné množstvo ropy a zemného plynu**. Nárast koncentrácie CO<sub>2</sub> zodpovedá spaľovaniu takéhoto množstva fosílnych palív.
+      2. Od roku 1988 **vedci merajú koncentráciu O<sub>2</sub> a pozorujú jej pokles, ktorý zodpovedá zmiešavaciemu pomeru v reakcii horenia**. To dokazuje, že nárast koncentrácie CO<sub>2</sub> je skutočne spôsobený spaľovaním fosílnych palív a nie napr. dýchaním.
+      3. **Najpresvedčivejší dôkaz je založený na meraní izotopových pomeroch uhlíku v rôznych látkach.** Rôzne zdroje uhlíka obsahujú rôzne množstvo izotopov <sup>13</sup>C a <sup>14</sup>C. Oxid uhličitý v atmosfére je zmiešaný z týchto zdrojov a jeho podrobnou analýzou je možné zistiť, že súčasná rastúca koncentrácia CO<sub>2</sub>  
+
       Běžně se argumentuje, že pozorovaný nárůst začal okolo roku 1800, tedy v době rozmachu parních strojů. Máme ale mnohem pádnější důkazy:
       1. V dnešní době **lidstvo ročně spaluje 8 miliard tun uhlí a podobná množství ropy a zemního plynu**. Nárůst koncentrací CO<sub>2</sub> odpovídá spalování takového množství fosilních paliv.
       2. Od roku 1988 **měří vědci koncentrace O<sub>2</sub> a pozorují pokles, který odpovídá směšovacím poměrům v reakci hoření**. To potvrzuje, že nárůst koncentrací  CO<sub>2</sub> je skutečně způsoben spalováním.
