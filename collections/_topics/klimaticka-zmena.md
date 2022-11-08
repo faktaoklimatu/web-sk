@@ -65,7 +65,7 @@ subtopics:
   # Klimatická zmena v kocke
 - lead: |
     Ako sa vyznať v zložitej problematike klímy a jej zmien? Pre začiatok je určite dobré vedieť, že:
-     commented-content:
+  commented-content:
   - slug: "schema-klimatickej-zmeny"
     comment-key: 1
     comment: |
@@ -89,36 +89,32 @@ Merania tiež ukazujú, že prírodné zdroje ako výbuchy sopiek či lesné po�
 
   - q: "Ktoré plyny zadržiavajú najviac tepelného žiarenia a prispievajú tak ku skleníkovému efektu?"
     a: |
-      Okrem CO<sub>2</sub>, ktorý zohráva dominantnú rolu na skleníkovom efekte z dôvodu jeho vysokej koncentrácie v atmosfére, k otepľovaniu prispievajú aj ďalšie antropogénne skleníkové plyny (CH<sub>4</sub>, N<sub>2</sub>O a ďalšie). Vodná para tiež do veľkej miery zadržuje tepelné žiarenie. Jej množstvo v atmosfére je ale riadené teplotou planéty a výparom z oceánov, preto sa zaraďuje medzi spätné väzby klimatického systému a nie medzi antropogénne skleníkové plyny.
+      Okrem CO<sub>2</sub>, ktorý zohráva dominantnú rolu na skleníkovom efekte z dôvodu jeho vysokej koncentrácie v atmosfére, k otepľovaniu prispievajú aj ďalšie <glossary id="antropogénne skleníkové plyny">antropogennesklenikoveplyny</glossary> (CH<sub>4</sub>, N<sub>2</sub>O a ďalšie). Vodná para tiež do veľkej miery zadržiava tepelné žiarenie. Jej množstvo v atmosfére je ale riadené teplotou planéty a výparom z oceánov, preto sa zaraďuje medzi spätné väzby klimatického systému a nie medzi antropogénne skleníkové plyny.
       
   - q: "Je globálne oteplenie ovplyvnené aj ďalšími faktormi okrem skleníkových plynov?"
     a: |
       **Skleníkové plyny** hrajú v energetickej rovnováhe planéty najväčšiu rolu, ale faktorov ovplyvňujúcich oteplenie je samozrejme viac. Z hľadiska celkového vplyvu sú ale významné len ďalšie dva:
-      - **Zmeny albeda**, alias odrazivosti zemského povrchu, sú spôsobené sčasti ľudskou činnosťou (napr. odlesňovanie) a sčasti spätnými väzbami klimatického systému (napr. menšou plochou snehu a ľadu, ktorá žiarenie odráža).
+      - **Zmeny <glossary id="albeda">albedo</glossary>**, alias odrazivosti zemského povrchu, sú spôsobené sčasti ľudskou činnosťou (napr. odlesňovanie) a sčasti spätnými väzbami klimatického systému (napr. menšou plochou snehu a ľadu, ktorá žiarenie odráža).
       - **Aerosóly**, čo sú pevné a kvapalné častice v atmosfére (smog a pod.), zosilňujú odraz slnečného žiarenia, a preto majú významný ochladzujúci efekt. Niektoré aerosóly sú prirodzené (napr. prach z púští), niektoré vznikajú počas ľudskej činnosti (napr. oxidy síry a dusíka, ktoré vznikajú pri spaľovaní uhlia).
 Ďalšie faktory ako napríklad výbuchy sopiek alebo slnečné cykly majú na súčasné otepľovanie len nepatrný vplyv.  
 
-- id:          "data"
-  title:       "Data a pozorované změny"
+ - id:          "data"
+  title:       "Dáta a pozorované zmeny"
   lead: |
-     Měření teploty z meteorologických stanic i družic, měření koncentrací skleníkových plynů ze současné atmosféry i z ledovcových vrtů, data o každoročních změnách v množství sněhu a ledu i data o vzestupu hladin oceánů – všechny tyto údaje umožňují představit si rychlost a rozsah probíhající klimatické změny a porovnat ji se změnami, kterými planeta procházela v minulosti.
+     Meranie teploty z meteorologických staníc a družíc, meranie koncentrácií skleníkových plynov zo súčasnej atmosféry a z ľadovcových vrtov, každoročné zmeny množstva snehu a ľadu či údaje o náraste hladín oceánov – všetky tieto dáta umožňujú predstaviť si rýchlosť a rozsah prebiehajúcej klimatickej zmeny a porovnať ju so zmenami, ktorými planéta prechádzala v minulosti
   content:
-  - teplotni-anomalie
-  - teplota-cr
-  - teplota-22000-let
+  - teplotna-anomalia
+  - teplota-22000-rokov
   - mapa-zmeny-teploty
-  - koncentrace-co2
-  - cykly-koncentrace-co2
-  - souvislost-koncentrace-oteplovani
-  - teplota-cr-mesice
-  - trend-teplot-cr
+  - koncentracia-co2
+  - cykly-koncentracie-co2
 
 - id:          "fyzika"
-  title:       "Fyzikální základy a principy"
+  title:       "Fyzikálne základy a princípy"
   lead: |
-    Planetární klima vzniká souhrou velkého množství fyzikálních procesů: **sluneční záření** je hlavním zdrojem energie, **skleníkové plyny** mění prostup tepelného záření atmosférou a ovlivňují tak celkovou energetickou rovnováhu planety, **oceánské a atmosférické proudy** distribuují teplo do různých oblastí planety. V této dynamice také hrají důležitou roli **zpětné vazby** a koloběhy vody a uhlíku.
+    Planetárna klíma vzniká súhrou veľkého množstva fyzikálnych procesov: **slnečné žiarenie** je hlavným zdrojom energie, **skleníkové plyny** menia prestupovanie tepelného žiarenia cez atmosféru a ovplyvňujú tak celkovú energetickú rovnováhu planéty, **oceánske a atmosférické prúdy** distribuujú teplo do rôznych oblastí planéty. V tejto planetárnej dynamike tiež majú dôležitú úlohu **spätné väzby** a kolobeh vody a uhlíka.
   qa:
-  - q: "Jak je klima citlivé na zvýšení koncentrací CO<sub>2</sub>?"
+  - q: "Ako citlivá je klíma na zvýšenie koncentrácie CO<sub>2</sub>?"
     a: |
       **Čím vyšší jsou koncentrace CO<sub>2</sub> v atmosféře, tím vyšší je teplota planety.** Zvýšení koncentrace oxidu uhličitého o 10 ppm způsobí oteplení planety asi o 0,1 °C –⁠ tento vztah je přibližný, ale dostatečně přesný, aby byl užitečný k odhadům budoucího vývoje. Často se jako **citlivost klimatu** nazývá oteplení, ke kterému by došlo při zdvojnásobení koncentrací CO<sub>2</sub>. Z dosavadních měření i z klimatických modelů vychází hodnota této veličiny okolo 3 °C.
   - q: "Co to je uhlíkový rozpočet?"
@@ -126,15 +122,9 @@ Merania tiež ukazujú, že prírodné zdroje ako výbuchy sopiek či lesné po�
       Podobně jako rodinný rozpočet na dovolenou udává, kolik peněz je celkově možné utratit v průběhu dovolené, globální uhlíkový rozpočet říká, jaké množství CO<sub>2</sub> může ještě lidstvo vypustit, aby nebyla překročena určitá hodnota globálního oteplení. Pro 50% pravděpodobnost udržení oteplování pod hranicí 1,5°C může lidstvo od roku 2020 vypustit jen asi 500 Gt CO<sub>2</sub>.
 
   content:
-  - dukazy-vlivu-co2
-  - souvislost-koncentrace-oteplovani
-  - otepleni-zvysenim-koncentrace-co2
-  - historie-sklenikoveho-efektu
-  - souvislost-emise-otepleni
-  - koncept-uhlikovy-rozpocet
-  - emise-dychani
-  - cykly-koncentrace-co2
-  - 8-ipcc-ar6-cast-1
+  - historia-sklenikoveho-efektu
+  - 1979-charneyho-sprava
+  - emisie-dychanie
 
 - id:          "dopady-budoucnost"
   title:       "Dopady a budoucí vývoj"
@@ -158,37 +148,7 @@ Merania tiež ukazujú, že prírodné zdroje ako výbuchy sopiek či lesné po�
   - 2019-science-vyjadreni-vedcu
   - 2019-klimaticke-podminky-cr-1
 
-- id:          "extremy"
-  title:       "Extrémní jevy"
-  lead: |
-    Vlny veder na pevnině i tzv. "mořské vlny veder", přívalové deště, dlouhé periody sucha, hurikány (odborně "tropické cyklóny") nebo počasí s rizikem lesních požárů (kombinace sucha a větru) patří mezi **extrémní projevy počasí**, které **se s postupující klimatickou změnou vyskytují častěji než dříve a přicházejí s větší intenzitou**.
-
-  content:
-  - vliv-klimatu-na-extremy
-  - vliv-klimatu-na-extremy-prirucka
-  - vliv-klimatu-na-extremy-cesko
-  - tropicke-dny-brno
-  - tropicke-dny-praha
-  - 2022-reserse-pozary
 ---
-
-
-subtopics:
-- id:          "data"
-  title:       "Dáta a pozorované zmeny"
-  content:
-  - teplotna-anomalia
-  - teplota-22000-rokov
-  - mapa-zmeny-teploty
-  - koncentracia-co2
-  - cykly-koncentracie-co2
-
-- id:          "fyzika"
-  title:       "Fyzikálne základy a princípy"
-  content:
-  - historia-sklenikoveho-efektu
-  - 1979-charneyho-sprava
-  - emisie-dychanie
 
 - id:          "dopady-buducnost"
   title:       "Dopady a budúci vývoj"
