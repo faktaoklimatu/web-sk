@@ -116,18 +116,18 @@ Merania tiež ukazujú, že prírodné zdroje ako výbuchy sopiek či lesné po�
   qa:
   - q: "Ako citlivá je klíma na zvýšenie koncentrácie CO<sub>2</sub>?"
     a: |
-      **Čím vyšší jsou koncentrace CO<sub>2</sub> v atmosféře, tím vyšší je teplota planety.** Zvýšení koncentrace oxidu uhličitého o 10 ppm způsobí oteplení planety asi o 0,1 °C –⁠ tento vztah je přibližný, ale dostatečně přesný, aby byl užitečný k odhadům budoucího vývoje. Často se jako **citlivost klimatu** nazývá oteplení, ke kterému by došlo při zdvojnásobení koncentrací CO<sub>2</sub>. Z dosavadních měření i z klimatických modelů vychází hodnota této veličiny okolo 3 °C.
-  - q: "Co to je uhlíkový rozpočet?"
+      **Čím vyššia je koncentrácia CO<sub>2</sub> v atmosfére, tým vyššia je teplota planéty.** Zvýšenie koncentrácie oxidu uhličitého o 10 ppm spôsobí oteplenie asi o 0,1 °C. Tento vzťah je síce približný, ale dostatočne presný na to, aby bol užitočný pre odhadnutie budúceho vývoja. Často sa ako **<glossary id="citlivosť klímy">citlivost</glossary>** označuje oteplenie, ku ktorému by došlo pri zdvojnásobení koncentrácie CO<sub>2</sub>. Z doterajších meraní aj z klimatických modelov vychádza táto miera oteplenia na zhruba 3 °C. 
+  - q: "Čo je to uhlíkový rozpočet?"
     a: |
-      Podobně jako rodinný rozpočet na dovolenou udává, kolik peněz je celkově možné utratit v průběhu dovolené, globální uhlíkový rozpočet říká, jaké množství CO<sub>2</sub> může ještě lidstvo vypustit, aby nebyla překročena určitá hodnota globálního oteplení. Pro 50% pravděpodobnost udržení oteplování pod hranicí 1,5°C může lidstvo od roku 2020 vypustit jen asi 500 Gt CO<sub>2</sub>.
+      Podobne ako rodinný rozpočet na dovolenku udáva, koľko peňazí celkovo môžeme počas dovolenky minúť, globálny uhlíkový rozpočet uvádza, aké množstvo CO<sub>2</sub> môže ešte ľudstvo vypustiť, aby nebola prekročená určitá hodnota globálneho otepľovania. Pre 50 % pravdepodobnosť udržania oteplenia pod hranicou 1,5 °C môžeme od roku 2020 vypustiť iba asi 500 Gt CO<sub>2</sub>.
 
   content:
   - historia-sklenikoveho-efektu
   - 1979-charneyho-sprava
   - emisie-dychanie
 
-- id:          "dopady-budoucnost"
-  title:       "Dopady a budoucí vývoj"
+- id:          "dopady-buducnost"
+  title:       "Dopady a budúci vývoj"
   lead: |
     Vyšší teploty a častější sucha nepříznivě ovlivňují zdraví lesů a pěstování potravin, vzestup hladin oceánů ohrožuje města na pobřeží a kvůli tání horských ledovců chybí voda v povodích, která jsou jimi napájena. To jsou příklady dopadů klimatické změny. **Velikost dopadů**, s nimiž se budeme setkávat v následujících desetiletích, přímo **závisí na tom, kolik skleníkových plynů do atmosféry ještě vypustíme**. Pro jednotlivé emisní scénáře pak vědci modelují další budoucí vývoj klimatické změny a její očekávané dopady.
   qa:
@@ -136,26 +136,8 @@ Merania tiež ukazujú, že prírodné zdroje ako výbuchy sopiek či lesné po�
       Každý ekosystém má svůj "bod zlomu", tedy moment, kdy začne být změna přírodních podmínek natolik významná, že už ji tento ekosystém není schopen dále zvládat a "zlomí se" – podobně jako větev stromu při příliš velkém zatížení. Zatímco oteplení o 1,5 °C bude fatální "jen" pro většinu korálových útesů v oceánech, hranicí 2 °C se již blížíme pravděpodobným bodům zlomu u mnoha velkých ekosystémů na naší planetě, jako jsou například severské jehličnaté lesy.
 
   content:  # U nového obsahu zvaž přidání také do ekonomika>ekonomicke-dopady.
-  - schema-klimaticke-zmeny
-  - body-zlomu-1
-  - body-zlomu-2
-  - body-zlomu-3
-  - ubyvani-biodiverzity
-  - vymirani-koralovych-utesu
-  - emisni-scenare-pariz
-  - souvislost-emise-otepleni
-  - 23-dopady-zmen-klimatu
-  - 2019-science-vyjadreni-vedcu
-  - 2019-klimaticke-podminky-cr-1
-
----
-
-- id:          "dopady-buducnost"
-  title:       "Dopady a budúci vývoj"
-  content:  # U nového obsahu zvaž přidání také do ekonomika>ekonomicke-dopady.
   - schema-klimatickej-zmeny
   - body-zlomu-1
   - body-zlomu-2
   - body-zlomu-3
   - emisne-scenare-pariz
----
