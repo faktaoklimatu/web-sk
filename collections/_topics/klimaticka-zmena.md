@@ -129,11 +129,11 @@ Merania tiež ukazujú, že prírodné zdroje ako výbuchy sopiek či lesné po�
 - id:          "dopady-buducnost"
   title:       "Dopady a budúci vývoj"
   lead: |
-    Vyšší teploty a častější sucha nepříznivě ovlivňují zdraví lesů a pěstování potravin, vzestup hladin oceánů ohrožuje města na pobřeží a kvůli tání horských ledovců chybí voda v povodích, která jsou jimi napájena. To jsou příklady dopadů klimatické změny. **Velikost dopadů**, s nimiž se budeme setkávat v následujících desetiletích, přímo **závisí na tom, kolik skleníkových plynů do atmosféry ještě vypustíme**. Pro jednotlivé emisní scénáře pak vědci modelují další budoucí vývoj klimatické změny a její očekávané dopady.
+    Vyššie teploty a častejšie suchá nepriaznivo ovplyvňujú zdravie lesov a pestovanie plodín, nárast hladín oceánov ohrozuje mestá na pobreží a kvôli topeniu horských ľadovcov chýba voda v povodiach, ktoré sú nimi napájané. To sú príklady dopadov klimatickej zmeny. **Veľkosť dopadov**, s ktorými sa budeme nasledujúce desaťročia stretávať, priamo **závisí na tom, koľko skleníkových plynov do atmosféry ešte vypustíme**. Vedci modelujú budúci vývoj klimatickej zmeny a jej očakávané dopady na základe rôznych emisných scenárov.
   qa:
-  - q: "Co to jsou body zlomu?"
+  - q: "Čo sú to body zlomu?"
     a: |
-      Každý ekosystém má svůj "bod zlomu", tedy moment, kdy začne být změna přírodních podmínek natolik významná, že už ji tento ekosystém není schopen dále zvládat a "zlomí se" – podobně jako větev stromu při příliš velkém zatížení. Zatímco oteplení o 1,5 °C bude fatální "jen" pro většinu korálových útesů v oceánech, hranicí 2 °C se již blížíme pravděpodobným bodům zlomu u mnoha velkých ekosystémů na naší planetě, jako jsou například severské jehličnaté lesy.
+      Každý ekosystém má svoj "bod zlomu", teda moment, keď začne byť zmena prírodných podmienok natoľko významná, že už ju tento ekosystém nie je schopný ďalej znášať a "zlomí sa" – podobne ako vetva stromu pri príliš veľkom zaťažení. Zatiaľ čo oteplenie o 1,5 °C bude fatálne "iba" pre väčšinu korálových útesov v oceánoch, hranicou 2 °C sa už blížime ku pravdepodobným bodom zlomu mnohých veľkých ekosystémov na našej planéte (napr. severské ihličnaté lesy).
 
   content:  # U nového obsahu zvaž přidání také do ekonomika>ekonomicke-dopady.
   - schema-klimatickej-zmeny
