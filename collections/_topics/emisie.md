@@ -9,20 +9,10 @@ weight:        20
 intro: |
   Ľuďmi spôsobené emisie skleníkových plynov zosilňujú v atmosfére skleníkový efekt, čo vedie k otepľovaniu planéty. Hlavným skleníkovým plynom je **oxid uhličitý** (CO<sub>2</sub>), ktorý k otepľovaniu prispieva približne zo 70 %. Jeho koncentrácia v atmosfére rastie predovšetkým kvôli spaľovaniu fosílnych palív, ale napríklad aj kvôli výrubu pralesov alebo výrobe ocele a cementu. Ďalším významným skleníkovým plynom je **metán** (CH<sub>4</sub>), ktorý do atmosféry uniká hlavne pri ťažbe fosílnych palív a chove dobytka. Ku skleníkovým plynom patrí aj **oxid dusný** (vznikajúci najmä pri používaní umelých dusíkatých hnojív) ⁠a rad synteticky vyrábaných **fluórovaných plynov**.
 
-  K zastaveniu klimatickej zmeny je kľúčové dosiahnuť celosvetovo tzv. klimatickú neutralitu – teda stav, keď ľudstvo už svojou činnosťou nebude pridávať do atmosféry žiadne skleníkové plyny.
+  Na zastavenie klimatickej zmeny je kľúčové dosiahnuť celosvetovo tzv. klimatickú neutralitu – teda stav, keď ľudstvo už svojou činnosťou nebude pridávať do atmosféry žiadne skleníkové plyny.
 
 
 subtopics:
-- id:          "mnozstvo"
-  title:       "Množstvo emisií skleníkových plynov"
-  content:
-  - emisie-sr
-  - emisie-svet
-  - emisie-svet-na-osobu
-  - emisie-svet-na-hdp
-  - emisie-eu-poradie
-  - emisie-dychanie
-
 - id:          "mitigacia"
   title:       "Opatrenia na znižovanie emisií"
   content:
@@ -36,73 +26,71 @@ subtopics:
 dashboard:
 - type:        "compare"
   col-xl-size: "3-5"
-  title:       "**Celkové emise** za rok 2018"
+  title:       "**Celkové emisie** za rok 2018"
   data:
   - region:    "world"
     value:     "**51,2**"   # Tohle je tricky -> IPCC uvádí cca 58 Gt CO2eq. EDGAR nepočítá LULUCF a tvrdí, že LULUCF je souhrnně net sink (~ 5 Gt CO2). Oproti tomu IPCC uvádí LULUCF emise cca 6.6 Gt CO2, protože odlišně definuje "antropogenní" (nezahrnuje pohlcování existujícími ekosystémy).
-    subtitle:  "mld. tun CO<sub>2</sub>eq"
-  - region:    "cz"
-    value:     "**131,4**"
-    subtitle:  "mil. tun CO<sub>2</sub>eq"
-  source:      "EDGAR, European Commission"
-  source-url:  "https://edgar.jrc.ec.europa.eu/report_2021?vis=ghgtot#emissions_table"
+    subtitle:  "mld. ton CO<sub>2</sub>eq"
+  - region:    "sr"
+    value:     "**43,5**"
+    subtitle:  "mil. ton CO<sub>2</sub>eq"
+  source:      "European Commission"
+  source-url:  "https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=env_air_gge&lang=en"
 - type:        "compare"
   col-xl-size: "3-5"
-  title:       "**Emise na osobu** za rok 2015"
+  title:       "**Emisie na osobu** za rok 2015"
   data:
   - region:    "world"
     value:     "**6,5**"
-    subtitle:  "tun CO<sub>2</sub>eq"
-  - region:    "cz"
-    value:     "**12,1**"
-    subtitle:  "tun CO<sub>2</sub>eq"
+    subtitle:  "ton CO<sub>2</sub>eq"
+  - region:    "sr"
+    value:     "**8**"
+    subtitle:  "ton CO<sub>2</sub>eq"
   source:      "Fakta o klimatu"
-  source-url:  "/emise-svet-na-osobu"
+  source-url:  "/emisie-svet-na-osobu"
 - type:        "single"
   col-xl-size: "3-5"
-  value:       "**87 %** emisí CO<sub>2</sub>"
-  subtitle:    "pochází ze **zemí směřujících k uhlíkové neutralitě**"
+  value:       "**87 %** emisií CO<sub>2</sub>"
+  subtitle:    "pochádza z **krajín smerujúcich k uhlíkovej neutralite**"
   source:      "Fakta o klimatu"
-  source-url:  "/emisni-zavazky"
+  source-url:  "https://faktaoklimatu.cz/infografiky/emisni-zavazky"
 
 subtopics:
-  # V kostce
+  # V kocke
 - lead: |
-    Skleníkové plyny se do atmosféry dostávají **spalováním fosilních paliv** a dalšími aktivitami spojenými s člověkem, jako je například **kácení lesů, produkce cementu, pěstování rýže či chov dobytka**. Při hledání rychlých a účinných opatření ke snižování emisí je třeba vzít v potaz při jakých lidských činnostech a ve kterých státech vzniká emisí nejvíce:
+    Skleníkové plyny sa do atmosféry dostávajú **spaľovaním fosílnych palív** a ďalšími aktivitami spojenými s človekom, ako sú napríklad **výrub lesov, produkcia cementu, pestovanie ryže či chov dobytka**. Pri hľadaní rýchlych a účinných opatrení na znižovanie emisií je potrebné vziať do úvahy, pri akých ľudských činnostiach a v ktorých štátoch vzniká najviac emisií:
   commented-content:
-  - slug: "emise-svet"
+  - slug: "emisie-svet"
     comment-key: 1
     comment: |
-      Polovina světových emisí pochází z Asie. Na tomto kontinentu žije asi 60 % světové populace.
-  - slug: "emise-svet-na-osobu"
+      Polovica svetových emisií pochádza z Ázie. Na tomto kontinente žije asi 60 % svetovej populácie.
+  - slug: "emisie-svet-na-osobu"
     comment-key: 2
     comment: |
-      **ČR** je v přepočtu na osobu **velkým producentem skleníkových plynů**: 12 tun CO<sub>2</sub>eq na osobu ročně. To je 2× více než světový průměr a 1,4× více než průměr EU.
-  - slug: "emise-cr-detail"
+      **SR** je v prepočte na osobu **nadpriemerným producentom skleníkových plynov**: 8,01 tony CO<sub>2</sub>eq na osobu ročne. To je 1,2× viac ako svetový priemer, ale o cca 8 % menej než priemer EÚ.
+  - slug: "emisie-sr"
     comment-key: 3
     comment: |
-      Hlavním zdrojem emisí v ČR jsou **elektrárny a teplárny** (40 %). Dále pak **průmysl** (20 %), **silniční doprava** (15 %) a **lokální plynové a uhelné kotle** (10 %).
-  qa:
-  - q: "Co můžeme pro snížení emisí udělat?"
+      Hlavným zdrojom emisií v SR sú **priemyselné procesy** (22 %). Ďalšími veľkými emitentmi sú sektory **dopravy, energetiky a spaľovania v priemysle**, každý zastúpený cca 17,6 %.
+      qa:
+  - q: "Čo môžeme urobiť pre zníženie emisií?"
     a: |
-      Klíčové je především **snížit emise skleníkových plynů v energetice a v průmyslu**, tedy transformovat tyto sektory směrem k nízkoemisním alternativám. Účinným opatřením pro snižování emisí je **zpoplatnění emisí skleníkových plynů**, například formou emisních povolenek nebo uhlíkové daně. Na individuální rovině lze přispět především **úsporami v domácnostech** (týkajících se vytápění, ohřevu teplé vody nebo spotřeby elektřiny), **omezením automobilové dopravy a snížením konzumace masa a mléčných výrobků**.
+      Kľúčové je predovšetkým **znížiť emisie skleníkových plynov v priemysle a v energetike** – transformovať tieto sektory smerom k nízkoemisným alternatívam. Účinným opatrením na znižovanie emisií je **spoplatnenie emisií skleníkových plynov** napr. formou emisných kvót alebo uhlíkovej dane. V individuálnej rovine môžete prispieť hlavne **úsporami v domácnostiach** týkajúcich sa kúrenia, ohrevu teplej vody či spotreby elektriny, **obmedzením individuálnej automobilovej dopravy a nižšou konzumáciou mäsa a mliečnych výrobkov**.
 
-- id:          "mnozstvi"
-  title:       "Množství emisí skleníkových plynů"
-  title-short: "Množství emisí"
+- id:          "mnozstvo"
+  title:       "Množstvo emisií skleníkových plynov"
+  title-short: "Množstvo emisií"
   lead: |
     **V roce 2018 celý svět vypustil do atmosféry 48,9 miliard tun CO<sub>2</sub>eq**. Tato jednotka přepočítává množství různých skleníkových plynů na množství CO<sub>2</sub>, které by mělo stejný příspěvek ke skleníkovému jevu. Například metan je 28× silnější skleníkový plyn než oxid uhličitý (při uvažovaném stoletém horizontu), tedy 1 tuna metanu představuje 28 tun CO<sub>2</sub>eq.
 
     Klimatická změna závisí na celkovém množství skleníkových plynů v atmosféře, při srovnávání jednotlivých zemí je však také vhodné vyjádření na obyvatele. Tím je možné porovnat, jak ke klimatické změně přispívají vzhledem k počtu obyvatel různě veliké státy.
   content:
-  - emise-svet
-  - emise-svet-na-osobu
-  - emise-eu
-  - emise-eu-poradi
-  - emise-vybrane-staty
-  - emise-eu-detail
-  - emise-eu-vyvoj
-  - emise-eu-na-osobu
+  - emisie-sr
+  - emisie-svet
+  - emisie-svet-na-osobu
+  - emisie-svet-na-hdp
+  - emisie-eu-poradie
+  - emisie-dychanie
   qa:
   - q: "Jaké jsou celkové světové emise?"
     a: |
