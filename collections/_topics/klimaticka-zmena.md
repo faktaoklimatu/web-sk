@@ -69,7 +69,7 @@ subtopics:
   - slug: "schema-klimatickej-zmeny"
     comment-key: 1
     comment: |
-      Súčasná zmena klímy je **séria príčin a následkov**: ľudstvo mení zloženie atmosféry, čím sa zosilňuje skleníkový efekt. Ten následne spôsobuje otepľovanie, topenie ľadovcov a ďalšie javy
+      Súčasná zmena klímy je **séria príčin a následkov**: meníme zloženie atmosféry, čím zosilňujeme skleníkový efekt. Následkom neho sa otepľuje, topia sa ľadovce a vzikajú ďalšie javy.
   - slug: "teplotna-anomalia"
     comment-key: 2
     comment: |
