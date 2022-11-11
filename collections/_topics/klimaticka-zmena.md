@@ -70,11 +70,11 @@ subtopics:
     comment-key: 1
     comment: |
       Súčasná zmena klímy je **séria príčin a následkov**: ľudstvo mení zloženie atmosféry, čím sa zosilňuje skleníkový efekt. Ten následne spôsobuje otepľovanie, topenie ľadovcov a ďalšie javy
- # - slug: "souvislost-koncentrace-oteplovani"
+  - slug: "teplotna-anomalia"
     comment-key: 2
     comment: |
       **Čím viac skleníkových plynov** ľudstvo vypustí do atmosféry, **tým viac sa planéta oteplí**.
-        - slug: "mapa-zmeny-teploty"
+  - slug: "mapa-zmeny-teploty"
     comment-key: 3
     comment: |
       Klimatická zmena sa neprejavuje všade rovnako: **rôzne oblasti sveta sa otepľujú rôznou rýchlosťou**.
@@ -85,20 +85,20 @@ subtopics:
       1. V dnešnej dobe **ročne spálime 8 miliárd ton uhlia a podobné množstvo ropy a zemného plynu**. Nárast koncentrácie CO<sub>2</sub> zodpovedá spaľovaniu takéhoto množstva fosílnych palív.
       2. Od roku 1988 **vedci merajú koncentráciu O<sub>2</sub> a pozorujú jej pokles, ktorý zodpovedá zmiešavaciemu pomeru v reakcii horenia**. To dokazuje, že nárast koncentrácie CO<sub>2</sub> je skutočne spôsobený spaľovaním fosílnych palív a nie napr. dýchaním.
       3. **Najpresvedčivejší dôkaz je založený na meraní zastúpenia izotopov uhlíka vo vzorkách fosílnych palív a atmosférického CO<sub>2</sub>.** Rôzne zdroje uhlíka obsahujú rôzne množstvo izotopov <sup>12</sup>C (najviac zastúpený), <sup>13</sup>C a <sup>14</sup>C. Oxid uhličitý v atmosfére je zmiešaný z týchto zdrojov a jeho podrobnou analýzou je možné zistiť, že jeho izotopové zloženie zodpovedá izotopovému zloženiu fosílnych palív, ktoré spaľujeme.
-Merania tiež ukazujú, že prírodné zdroje ako výbuchy sopiek či lesné požiare dlhodobo k nárastu vzdušnej koncentrácie CO<sub>2</sub> neprispievajú.
+      Merania tiež ukazujú, že prírodné zdroje ako výbuchy sopiek či lesné požiare dlhodobo k nárastu vzdušnej koncentrácie CO<sub>2</sub> neprispievajú.
 
   - q: "Ktoré plyny zadržiavajú najviac tepelného žiarenia a prispievajú tak ku skleníkovému efektu?"
     a: |
       Okrem CO<sub>2</sub>, ktorý zohráva dominantnú rolu na skleníkovom efekte z dôvodu jeho vysokej koncentrácie v atmosfére, k otepľovaniu prispievajú aj ďalšie <glossary id="antropogennesklenikoveplyny">antropogénne skleníkové plyny</glossary> (CH<sub>4</sub>, N<sub>2</sub>O a ďalšie). Vodná para tiež do veľkej miery zadržiava tepelné žiarenie. Jej množstvo v atmosfére je ale riadené teplotou planéty a výparom z oceánov, preto sa zaraďuje medzi spätné väzby klimatického systému a nie medzi antropogénne skleníkové plyny.
-      
+
   - q: "Je globálne oteplenie ovplyvnené aj ďalšími faktormi okrem skleníkových plynov?"
     a: |
       **Skleníkové plyny** hrajú v energetickej rovnováhe planéty najväčšiu rolu, ale faktorov ovplyvňujúcich oteplenie je samozrejme viac. Z hľadiska celkového vplyvu sú ale významné len ďalšie dva:
       - **Zmeny <glossary id="albedo">albeda</glossary>**, alias odrazivosti zemského povrchu, sú spôsobené sčasti ľudskou činnosťou (napr. odlesňovanie) a sčasti spätnými väzbami klimatického systému (napr. menšou plochou snehu a ľadu, ktorá žiarenie odráža).
       - **Aerosóly**, čo sú pevné a kvapalné častice v atmosfére (smog a pod.), zosilňujú odraz slnečného žiarenia, a preto majú významný ochladzujúci efekt. Niektoré aerosóly sú prirodzené (napr. prach z púští), niektoré vznikajú počas ľudskej činnosti (napr. oxidy síry a dusíka, ktoré vznikajú pri spaľovaní uhlia).
-Ďalšie faktory ako napríklad výbuchy sopiek alebo slnečné cykly majú na súčasné otepľovanie len nepatrný vplyv.  
+      Ďalšie faktory ako napríklad výbuchy sopiek alebo slnečné cykly majú na súčasné otepľovanie len nepatrný vplyv.
 
- - id:          "data"
+- id:          "data"
   title:       "Dáta a pozorované zmeny"
   lead: |
      Meranie teploty z meteorologických staníc a družíc, meranie koncentrácií skleníkových plynov zo súčasnej atmosféry a z ľadovcových vrtov, každoročné zmeny množstva snehu a ľadu či údaje o náraste hladín oceánov – všetky tieto dáta umožňujú predstaviť si rýchlosť a rozsah prebiehajúcej klimatickej zmeny a porovnať ju so zmenami, ktorými planéta prechádzala v minulosti
@@ -116,7 +116,7 @@ Merania tiež ukazujú, že prírodné zdroje ako výbuchy sopiek či lesné po�
   qa:
   - q: "Ako citlivá je klíma na zvýšenie koncentrácie CO<sub>2</sub>?"
     a: |
-      **Čím vyššia je koncentrácia CO<sub>2</sub> v atmosfére, tým vyššia je teplota planéty.** Zvýšenie koncentrácie oxidu uhličitého o 10 ppm spôsobí oteplenie asi o 0,1 °C. Tento vzťah je síce približný, ale dostatočne presný na to, aby bol užitočný pre odhadnutie budúceho vývoja. Často sa ako **<glossary id="citlivost">citlivosť klímy</glossary>** označuje oteplenie, ku ktorému by došlo pri zdvojnásobení koncentrácie CO<sub>2</sub>. Z doterajších meraní aj z klimatických modelov vychádza táto miera oteplenia na zhruba 3 °C. 
+      **Čím vyššia je koncentrácia CO<sub>2</sub> v atmosfére, tým vyššia je teplota planéty.** Zvýšenie koncentrácie oxidu uhličitého o 10 ppm spôsobí oteplenie asi o 0,1 °C. Tento vzťah je síce približný, ale dostatočne presný na to, aby bol užitočný pre odhadnutie budúceho vývoja. Často sa ako **<glossary id="citlivost">citlivosť klímy</glossary>** označuje oteplenie, ku ktorému by došlo pri zdvojnásobení koncentrácie CO<sub>2</sub>. Z doterajších meraní aj z klimatických modelov vychádza táto miera oteplenia na zhruba 3 °C.
   - q: "Čo je to uhlíkový rozpočet?"
     a: |
       Podobne ako rodinný rozpočet na dovolenku udáva, koľko peňazí celkovo môžeme počas dovolenky minúť, globálny uhlíkový rozpočet uvádza, aké množstvo CO<sub>2</sub> môže ešte ľudstvo vypustiť, aby nebola prekročená určitá hodnota globálneho otepľovania. Pre 50 % pravdepodobnosť udržania oteplenia pod hranicou 1,5 °C môžeme od roku 2020 vypustiť iba asi 500 Gt CO<sub>2</sub>.
@@ -141,3 +141,4 @@ Merania tiež ukazujú, že prírodné zdroje ako výbuchy sopiek či lesné po�
   - body-zlomu-2
   - body-zlomu-3
   - emisne-scenare-pariz
+---
