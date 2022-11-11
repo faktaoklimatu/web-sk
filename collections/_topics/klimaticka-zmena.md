@@ -96,6 +96,7 @@ subtopics:
       **Skleníkové plyny** hrajú v energetickej rovnováhe planéty najväčšiu rolu, ale faktorov ovplyvňujúcich oteplenie je samozrejme viac. Z hľadiska celkového vplyvu sú ale významné len ďalšie dva:
       - **Zmeny <glossary id="albedo">albeda</glossary>**, alias odrazivosti zemského povrchu, sú spôsobené sčasti ľudskou činnosťou (napr. odlesňovanie) a sčasti spätnými väzbami klimatického systému (napr. menšou plochou snehu a ľadu, ktorá žiarenie odráža).
       - **Aerosóly**, čo sú pevné a kvapalné častice v atmosfére (smog a pod.), zosilňujú odraz slnečného žiarenia, a preto majú významný ochladzujúci efekt. Niektoré aerosóly sú prirodzené (napr. prach z púští), niektoré vznikajú počas ľudskej činnosti (napr. oxidy síry a dusíka, ktoré vznikajú pri spaľovaní uhlia).
+
       Ďalšie faktory ako napríklad výbuchy sopiek alebo slnečné cykly majú na súčasné otepľovanie len nepatrný vplyv.
 
 - id:          "data"
