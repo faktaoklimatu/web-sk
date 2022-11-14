@@ -94,7 +94,7 @@ items:
 
 ---
 {% comment %}
-  Verze rešerše pro menší displeje: seznam kartiček pod sebou.
+  Verzia rešerše pre menšie displeje: zoznam kartičiek pod sebou.
 {% endcomment %}
 <div class="d-md-none mt-4">
   {% for item in page.items %}
@@ -103,7 +103,7 @@ items:
       <h3 class="card-title">{{ item.title }}</h3>
       <p class="card-text text-muted">{{ item.date }}</p>
       <dl>
-        <dt>Zpracovatel</dt>
+        <dt>Spracovateľ</dt>
         <dd>
         {% for author in item.authors -%}
         {%- if forloop.index > 1 %},{% endif %}
@@ -121,7 +121,7 @@ items:
       </dl>
       <div class="d-flex flex-column flex-sm-row justify-content-end">
         {% if item.study %}
-        <a href="/studie/{{ item.study }}" class="btn btn-sm btn-primary">Shrnutí studie</a>
+        <a href="/studie/{{ item.study }}" class="btn btn-sm btn-primary">Zhrnutie štúdie</a>
         {% endif %}
         {% if item.url %}
         <a href="{{ item.url }}" class="btn btn-sm btn-secondary">Zdroj</a>
@@ -133,14 +133,14 @@ items:
 </div>
 
 {% comment %}
-  Plná verze rešerše: tabulka s jednotlivými studiemi.
+  Plná verzia rešerše: tabuľka s jednotlivými štúdiami.
 {% endcomment %}
 <table class="table table-striped table-hover d-none d-md-table mt-4">
   <thead>
     <tr>
-      <th scope="col" class="text-uppercase align-middle">Studie</th>
-      <th scope="col" class="text-uppercase align-middle">Publikováno</th>
-      <th scope="col" class="text-uppercase align-middle">Zpracovatel</th>
+      <th scope="col" class="text-uppercase align-middle">Štúdia</th>
+      <th scope="col" class="text-uppercase align-middle">Publikovaná</th>
+      <th scope="col" class="text-uppercase align-middle">Spracovateľ</th>
       <th scope="col" class="text-uppercase align-middle">Časový horizont</th>
       <th scope="col" class="text-uppercase align-middle text-center">Odkaz</th>
     </tr>
@@ -163,7 +163,7 @@ items:
       <td class="align-middle">{% if item.timeframe %}{{ item.timeframe }}{% else %}—{% endif %}</td>
       <td class="align-middle text-center">
         {% if item.study %}
-        <a href="/studie/{{ item.study }}" class="btn btn-sm btn-primary">Shrnutí</a>
+        <a href="/studie/{{ item.study }}" class="btn btn-sm btn-primary">Zhrnutie</a>
         {% endif %}
         {% if item.url %}
         <a href="{{ item.url }}" class="btn btn-sm btn-secondary">Zdroj</a>
