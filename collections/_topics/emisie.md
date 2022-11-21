@@ -81,9 +81,9 @@ subtopics:
   title:       "Množstvo emisií skleníkových plynov"
   title-short: "Množstvo emisií"
   lead: |
-    **V roce 2018 celý svět vypustil do atmosféry 48,9 miliard tun CO<sub>2</sub>eq**. Tato jednotka přepočítává množství různých skleníkových plynů na množství CO<sub>2</sub>, které by mělo stejný příspěvek ke skleníkovému jevu. Například metan je 28× silnější skleníkový plyn než oxid uhličitý (při uvažovaném stoletém horizontu), tedy 1 tuna metanu představuje 28 tun CO<sub>2</sub>eq.
-
-    Klimatická změna závisí na celkovém množství skleníkových plynů v atmosféře, při srovnávání jednotlivých zemí je však také vhodné vyjádření na obyvatele. Tím je možné porovnat, jak ke klimatické změně přispívají vzhledem k počtu obyvatel různě veliké státy.
+    **V roku 2018 celý svet vypustil do atmosféry 48,9 miliárd ton <glossary id="co2eq">CO<sub>2</sub>eq</glossary>**. Táto jednotka prepočítava množstvá rôznych skleníkových plynov na množstvo CO<sub>2</sub>, ktoré by malo rovnaký príspevok ku skleníkovému efektu. Napríklad metán je 28× silnejší skleníkový plyn ako oxid uhličitý (ak uvažujeme jeho storočné pôsobenie, čo je typická štandardizovaná doba), a teda 1 tona metánu predstavuje 28 ton CO<sub>2</sub>eq.
+    
+    Klimatická zmena závisí na celkovom množstve skleníkových plynov v atmosfére, pri porovnávaní jednotlivých krajín je ale tiež vhodné vyjadrenie emisií CO<sub>2</sub>eq na obyvateľa. Takto je následne možné porovnať, ako ku klimatickej zmene prispievajú rôzne veľké štáty.
   content:
   - emisie-sr
   - emisie-svet
@@ -92,15 +92,15 @@ subtopics:
   - emisie-eu-poradie
   - emisie-dychanie
   qa:
-  - q: "Jaké jsou celkové světové emise?"
+  - q: "Aké sú celkové svetové emisie?"
     a: |
-      V roce 2012 byly celosvětové emise 46 miliard tun CO<sub>2</sub>eq, **dnes** již **dosahují hodnoty přes 50 miliard tun CO<sub>2</sub>eq ročně**.
-  - q: "Skleníkové plyny, CO<sub>2</sub>, CO<sub>2</sub>eq. Co to vlastně znamená a jaký je mezi těmito pojmy rozdíl?"
+      V roku 2012 boli celosvetové emisie 46 miliárd ton CO<sub>2</sub>eq, **v roku 2022 dosahujú hodnoty viac ako 50 miliárd ton CO<sub>2</sub>eq ročne**.
+  - q: "Skleníkové plyny, CO<sub>2</sub>, CO<sub>2</sub>eq. Čo to vlastne znamená a aký je medzi týmito pojmami rozdiel?"
     a: |
-      Skleníkových plynů je řada, **nejvýznamnější z nich je oxid uhličitý, tedy CO<sub>2</sub>**. Jednotka tuna CO<sub>2</sub> udává tedy výhradně množství oxidu uhličitého. Jednotka tuna **CO<sub>2</sub>eq** pak vyjadřuje **úhrnné množství** více <glossary id="antropogennisklenikoveplyny">skleníkových plynů</glossary> přepočtených na ekvivalentní množství CO<sub>2</sub>.
-  - q: "Jak se emise různých skleníkových plynů sčítají dohromady na CO<sub>2</sub>eq?"
+      Poznáme viacero skleníkových plynov, **najvýznamnejší z nich je oxid uhličitý – CO<sub>2</sub>**. Jednotka *tona CO<sub>2</sub>* teda udáva výhradne množstvo oxidu uhličitého. V porovnaní s tým jednotka *tona CO<sub>2</sub>eq* (CO<sub>2</sub> ekvivalent) vyjadruje súhrnné množstvo <glossary id="antropogennesklenikoveplyny">skleníkových plynov</glossary> prepočítaných na ekvivalentné množstvo CO<sub>2</sub>.
+  - q: "Ako sa emisie rôznych skleníkových plynov sčítajú dohromady na CO<sub>2</sub>eq?"
     a: |
-      **Jednotlivé skleníkové plyny se přepočítávají na tzv. CO<sub>2</sub>eq** (CO<sub>2</sub> ekvivalent), tedy na množství oxidu uhličitého, které by mělo stejný příspěvek ke skleníkovému jevu atmosféry jako množství těchto ostatních vypuštěných plynů. Vzhledem k různému poločasu života jednotlivých plynů v atmosféře se tento příspěvek uvažuje za určitou standardizovanou dobu, zpravidla uvažujeme horizont 100 let a používáme tzv. GWP (*Global Warming Potentital*) koeficienty. Zatímco CO<sub>2</sub> jakožto referenčními plynu náleží koeficient 1, pro metan se jedná o hodnotu 28 pro horizont 100 let, jinými slovy, jde 28× silnější skleníkový plyn než CO<sub>2</sub>.
+      **Jednotlivé skleníkové plyny sa prepočítavajú na tzv. CO<sub>2</sub>eq**, (CO<sub>2</sub> ekvivalent), čo je množstvo oxidu uhličitého, ktoré by malo rovnaký príspevok ku skleníkovému javu atmosféry ako množstvo týchto ostatných plynov. Vzhľadom na rôzne polčasy rozkladu jednotlivých plynov v atmosfére sa tento príspevok uvažuje za určitú štandardizovanú dobu (obvykle 100 rokov) a vypočíta sa pomocou tzv. GWP (*Global Warming Potential*) koeficientov. Zatiaľ čo CO<sub>2</sub> ako referenčnému plynu prináleží koeficent 1, pre metán je to 28 pre horizont 100 rokov. Inými slovami, metán je 28× silnejší skleníkový plyn ako CO<sub>2</sub>.
 
 - id:          "cesko"
   title:       "Emise skleníkových plynů v Česku"
