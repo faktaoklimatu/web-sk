@@ -96,10 +96,10 @@ subtopics:
   lead: |
     V porovnání s celosvětovými emisemi se mohou zdát emise Česka zanedbatelné – v roce 2018 Česká republika vypustila 129 milionů tun CO<sub>2</sub>eq. Pro relativní srovnávání s jinými státy je ale užitečné vyjádřit množství skleníkových plynů i v přepočtu na jednoho obyvatele – v takovém případě **jsou emise na osobu v Česku dvakrát vyšší, než je celosvětový průměr**.
   content:
-  - emise-cr
-  - emise-cr-detail
-  - emise-cr-vyvoj
-  - nejvetsi-emitenti-cr
+  # - emise-cr
+  # - emise-cr-detail
+  # - emise-cr-vyvoj
+  # - nejvetsi-emitenti-cr
   qa:
   - q: "Jak velké jsou emise Česka?"
     a: |
@@ -112,13 +112,13 @@ subtopics:
 
     Podíl jednotlivých sektorů na emisích se liší jak v čase, tak napříč zeměmi. V Česku jsou relativně vyšší emise z energetiky oproti ostatním zemím kvůli vyššímu podílu uhelných elektráren a skutečnosti, že Česko je vývozcem elektřiny. Naopak emise ze zemědělství jsou v Česku relativně nižší, neboť některé potraviny dovážíme.
   content:
-  - emise-fosilni-paliva
-  - nejvetsi-emitenti-cr
-  - emise-cr
-  - emise-vyroba-cementu
-  - emise-dychani
-  - emise-sr
-  - 2020-globalni-zprava-o-elektrine
+  # - emise-fosilni-paliva
+  # - nejvetsi-emitenti-cr
+  # - emise-cr
+  # - emise-vyroba-cementu
+  # - emise-dychani
+  # - emise-sr
+  # - 2020-globalni-zprava-o-elektrine
   qa:
   - q: "Uvolňují se skleníkové plyny nejen v důsledku lidské činnosti, ale také přírodních procesů?"
     a: |
@@ -135,21 +135,21 @@ subtopics:
 
     **Množství emisí, které lze ještě vypustit, abychom nepřekročili určitou teplotní hranici, se označuje jako uhlíkový rozpočet**. Cíl Pařížské dohody o udržení nárůstu teploty výrazně pod 2 °C lze tedy pomocí uhlíkového rozpočtu přeformulovat jako určité množství skleníkových plynů, které lidstvo ještě může vypustit, aby tohoto cíle dosáhlo.
   content:
-  - souvislost-emise-otepleni
-  - emisni-scenare-pariz
-  - uhlikovy-rozpocet-cr
-  - koncept-uhlikovy-rozpocet
-  - 1979-charneyho-zprava
-  - koncept-cesty-k-neutralite
+  # - souvislost-emise-otepleni
+  # - emisni-scenare-pariz
+  # - uhlikovy-rozpocet-cr
+  # - koncept-uhlikovy-rozpocet
+  # - 1979-charneyho-zprava
+  # - koncept-cesty-k-neutralite
 
 - id:          "neutralita"
   title:       "Klimatická neutralita"
   lead: |
     **Pro zastavení klimatické změny je nutné přestat vypouštět skleníkové plyny**, neboli dosáhnout tzv. net-zero či klimatické neutrality. Výraz "net-zero" můžeme přeložit jako "čistá nula" a je tím myšleno, že daný stát či firma je klimaticky neutrální, tedy odstraňuje z atmosféry stejné množství skleníkových plynů jako do atmosféry vypouští. Tato situace je také označována jako klimatická neutralita nebo uhlíková neutralita s tím, že druhý z pojmů se většinou týká pouze oxidu uhličitého, nikoli všech skleníkových plynů. **K dosažení uhlíkové neutrality se již přihlásily státy zodpovědné za téměř 90 % světových emisí oxidu uhličitého** (k únoru 2022).
   content:
-  - emisni-zavazky
-  - 2021-reserse-zavazky-statu
-  - uhlikova-neutralita
+  # - emisni-zavazky
+  # - 2021-reserse-zavazky-statu
+  # - uhlikova-neutralita
 
 - id:          "mitigace"
   title:       "Opatření ke snižování emisí"
@@ -157,15 +157,15 @@ subtopics:
   lead: |
     Podíl jednotlivých sektorů na emisích skleníkových plynů poskytuje užitečné vodítko pro zaměření mitigačních snah. Největších emisních úspor může Česko dosáhnout **proměnou** svého **energetického mixu**. Jednotlivci však také mohou přispět ke snížení emisí, například **snížením energetické náročnosti** svých domácností nebo **omezením automobilové dopravy**, případně také **nižší konzumací masa a mléčných výrobků**.
   content:  # U nového obsahu zvaž přidání také do dohody-legislativa>eu a ekonomika>opatreni.
-  - potencial-zpusobu-snizeni-emisi
-  - emisni-povolenky-ets
-  - zpoplatneni-emisi-svet
-  - mitigacni-opatreni-mmf
-  - 2019-mitigacni-opatreni-mmf
-  - fit-for-55
-  - fit-for-55-opatreni
-  - 2016-snizeni-emisi-cr
-  - 2022-reserse-ccs
+  # - potencial-zpusobu-snizeni-emisi
+  # - emisni-povolenky-ets
+  # - zpoplatneni-emisi-svet
+  # - mitigacni-opatreni-mmf
+  # - 2019-mitigacni-opatreni-mmf
+  # - fit-for-55
+  # - fit-for-55-opatreni
+  # - 2016-snizeni-emisi-cr
+  # - 2022-reserse-ccs
 
 - id:          "intenzity"
   title:       "Emise vs. HDP: emisní intenzity ekonomik"
@@ -175,8 +175,8 @@ subtopics:
 
     Hospodářsky rozvinutější země mají zpravidla méně emisně náročné ekonomiky, neboť služby tvoří větší podíl jejich hospodářství. Oproti tomu v rozvojových zemích tvoří větší podíl hospodářství emisně náročné sektory: zemědělství, průmysl a stavebnictví. Emisní intenzity ekonomik také vysvětlují, proč některé státy se srovnatelnými emisemi na osobu mohou mít velice odlišnou životní úroveň.
   content:  # U nového obsahu zvaž přidání také do ekonomika>pricina.
-  - emise-svet-na-hdp
-  - emisni-intenzity
+  # - emise-svet-na-hdp
+  # - emisni-intenzity
 
 - id:          "mitigacia"
   title:       "Opatrenia na znižovanie emisií"
