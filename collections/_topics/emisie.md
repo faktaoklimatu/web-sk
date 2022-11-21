@@ -72,7 +72,7 @@ subtopics:
     comment-key: 3
     comment: |
       Hlavným zdrojom emisií v SR sú **priemyselné procesy** (22 %). Ďalšími veľkými emitentmi sú sektory **dopravy, energetiky a spaľovania v priemysle**, každý zastúpený cca 17,6 %.
-      qa:
+  qa:
   - q: "Čo môžeme urobiť pre zníženie emisií?"
     a: |
       Kľúčové je predovšetkým **znížiť emisie skleníkových plynov v priemysle a v energetike** – transformovať tieto sektory smerom k nízkoemisným alternatívam. Účinným opatrením na znižovanie emisií je **spoplatnenie emisií skleníkových plynov** napr. formou emisných kvót alebo uhlíkovej dane. V individuálnej rovine môžete prispieť hlavne **úsporami v domácnostiach** týkajúcich sa kúrenia, ohrevu teplej vody či spotreby elektriny, **obmedzením individuálnej automobilovej dopravy a nižšou konzumáciou mäsa a mliečnych výrobkov**.
