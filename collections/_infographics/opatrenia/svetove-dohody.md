@@ -101,7 +101,7 @@ Parížska dohoda bola dohodnutá v decembri 2015 v Paríži a je to podobne ako
 - _Zvyšovanie schopnosti prispôsobiť sa a odolávať nepriaznivým účinkom zmeny klímy nízkoemisným spôsobom, ktorý neohrozí výrobu potravín._
 - _Zladenie finančných tokov s nízkoemisným rozvojom odolným voči zmene klímy._
 
-Táto dohoda, ktorú doteraz podpísalo 195 krajín, v roku 2020 nahradila vtedajší Kjótsky protokol z roku 1997. Európsky parlament dohodu schválil 4. októbra 2016 a k 5. októbru sa podarilo dosiahnuť cieľ, aby dohodu ratifikovalo 55 krajín, ktoré sa celkovo podieľajú na viac ako 55 percentách emisií skleníkových plynov sveta. Dohoda z Paríža je takzvanou zmiešanou dohodou, niektoré jej prvky sú v zodpovednosti celej EÚ, za iné sú zodpovedné členské štáty Únie. USA od Parížskej dohody odstúpili 4. novembra 2020 na základe rokovaní bývalého prezidenta D. Trumpa, avšak nastupujúci prezident Joe Biden USA k dohode znovu pripojil [v deň svojho nástupu do funkcie 20. januára 2021](https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/20/paris-climate-agreement/).
+Táto dohoda, ktorú doteraz podpísalo 195 krajín, v roku 2020 nahradila vtedajší Kjótsky protokol z roku 1997. Európsky parlament dohodu schválil 4. októbra 2016 a k 5. októbru sa podarilo dosiahnuť cieľ, aby dohodu ratifikovalo 55 krajín, ktoré sa celkovo podieľajú na viac ako 55 percentách emisií skleníkových plynov sveta. Dohoda z Paríža je takzvanou zmiešanou dohodou, niektoré jej prvky sú v zodpovednosti celej EÚ, za iné sú zodpovedné členské štáty únie. USA od Parížskej dohody odstúpili 4. novembra 2020 na základe rokovaní bývalého prezidenta D. Trumpa, avšak nastupujúci prezident Joe Biden USA k dohode znovu pripojil [v deň svojho nástupu do funkcie 20. januára 2021](https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/20/paris-climate-agreement/).
 
 Dohoda zaväzuje členské štáty k stanoveniu a dodržaniu tzv. národných záväzkov (Nationally Determined Targets) na znižovanie emisií skleníkových plynov a stanovuje proces, ktorým budú národné záväzky sledované a vyhodnocované. V článku 6 dohoda uznáva dôležitosť spolupráce a trhových mechanizmov na znižovaní emisií, avšak ich konkrétna podoba je predmetom [ďalších rokovaní](https://www.carbonbrief.org/in-depth-q-and-a-how-article-6-carbon-markets-could-make-or-break-the-paris-agreement).
 
@@ -151,4 +151,4 @@ EÚ bude tiež poskytovať **finančnú podporu a technickú pomoc tým, ktorýc
 
 **Zdroje:**
 
-- [Originálny dokument](https://eur-lex.europa.eu/legal-content/CS/TXT/?qid=1596443911913&uri=CELEX:52019DC0640#document2)
+- [Originálny dokument](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX:52019DC0640)
