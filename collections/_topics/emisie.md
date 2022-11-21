@@ -11,18 +11,6 @@ intro: |
 
   Na zastavenie klimatickej zmeny je kľúčové dosiahnuť celosvetovo tzv. klimatickú neutralitu – teda stav, keď ľudstvo už svojou činnosťou nebude pridávať do atmosféry žiadne skleníkové plyny.
 
-
-subtopics:
-- id:          "mitigacia"
-  title:       "Opatrenia na znižovanie emisií"
-  content:
-  - emisne-scenare-pariz
-  - spoplatnenie-emisii-svet
-  - emisne-povolenky-ets
-  - mitigacne-opatrenia-mmf
-  - 2019-mitigacne-opatrenia-mmf
----
-
 dashboard:
 - type:        "compare"
   col-xl-size: "3-5"
@@ -82,7 +70,7 @@ subtopics:
   title-short: "Množstvo emisií"
   lead: |
     **V roku 2018 celý svet vypustil do atmosféry 48,9 miliárd ton <glossary id="co2eq">CO<sub>2</sub>eq</glossary>**. Táto jednotka prepočítava množstvá rôznych skleníkových plynov na množstvo CO<sub>2</sub>, ktoré by malo rovnaký príspevok ku skleníkovému efektu. Napríklad metán je 28× silnejší skleníkový plyn ako oxid uhličitý (ak uvažujeme jeho storočné pôsobenie, čo je typická štandardizovaná doba), a teda 1 tona metánu predstavuje 28 ton CO<sub>2</sub>eq.
-    
+
     Klimatická zmena závisí na celkovom množstve skleníkových plynov v atmosfére, pri porovnávaní jednotlivých krajín je ale tiež vhodné vyjadrenie emisií CO<sub>2</sub>eq na obyvateľa. Takto je následne možné porovnať, ako ku klimatickej zmene prispievajú rôzne veľké štáty.
   content:
   - emisie-sr
@@ -139,8 +127,6 @@ subtopics:
     a: |
       Na přibližně 70 % světových emisí skleníkových plynů se podílí oxid uhličitý. Jeho hlavním zdrojem je **spalování fosilních paliv**, především v energetice, průmyslu a dopravě.
 
-
-
 - id:          "budouci-otepleni"
   title:       "Vztah mezi emisemi a budoucím oteplením"
   title-short: "Emise a oteplování"
@@ -191,3 +177,12 @@ subtopics:
   content:  # U nového obsahu zvaž přidání také do ekonomika>pricina.
   - emise-svet-na-hdp
   - emisni-intenzity
+
+- id:          "mitigacia"
+  title:       "Opatrenia na znižovanie emisií"
+  content:
+  - emisne-scenare-pariz
+  - mitigacne-opatrenia-mmf
+  - 2019-mitigacne-opatrenia-mmf
+  - emisne-povolenky-ets
+---
