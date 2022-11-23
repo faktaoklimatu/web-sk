@@ -90,19 +90,17 @@ subtopics:
     a: |
       **Jednotlivé skleníkové plyny sa prepočítavajú na tzv. CO<sub>2</sub>eq**, (CO<sub>2</sub> ekvivalent), čo je množstvo oxidu uhličitého, ktoré by malo rovnaký príspevok ku skleníkovému javu atmosféry ako množstvo týchto ostatných plynov. Vzhľadom na rôzne polčasy rozkladu jednotlivých plynov v atmosfére sa tento príspevok uvažuje za určitú štandardizovanú dobu (obvykle 100 rokov) a vypočíta sa pomocou tzv. GWP (*Global Warming Potential*) koeficientov. Zatiaľ čo CO<sub>2</sub> ako referenčnému plynu prináleží koeficent 1, pre metán je to 28 pre horizont 100 rokov. Inými slovami, metán je 28× silnejší skleníkový plyn ako CO<sub>2</sub>.
 
-- id:          "cesko"
-  title:       "Emise skleníkových plynů v Česku"
-  title-short: "Emise v ČR"
+- id:          "slovensko"
+  title:       "Emisie skleníkových plynov Slovenska"
+  title-short: "Emisie v SR"
   lead: |
-    V porovnání s celosvětovými emisemi se mohou zdát emise Česka zanedbatelné – v roce 2018 Česká republika vypustila 129 milionů tun CO<sub>2</sub>eq. Pro relativní srovnávání s jinými státy je ale užitečné vyjádřit množství skleníkových plynů i v přepočtu na jednoho obyvatele – v takovém případě **jsou emise na osobu v Česku dvakrát vyšší, než je celosvětový průměr**.
+    V porovnaní s celosvetovými emisiami sa môžu zdať emisie Slovenska zanedbateľné – v roku 2018 vypustilo Slovensko 43,5 miliónov ton CO<sub>2</sub>eq. Keď ale emisie vyjadríme v prepočte na jedného obyvateľa, aby sme mohli slovenské emisie porovnať s inými štátmi, **priemerný obyvateľ Slovenska vyprodukuje ročne zhruba o 20 % viac emisií ako je svetový priemer**.
   content:
-  # - emise-cr
-  # - emise-cr-detail
-  # - emise-cr-vyvoj
-  # - nejvetsi-emitenti-cr
+  - emisie-sr
   qa:
-  - q: "Jak velké jsou emise Česka?"
+  - q: "Ako veľké sú emisie Slovenska?"
     a: |
+      **V roku 2018 Slovensko vypustilo 43,5 miliónov ton CO<sub>2</sub>eq**, čo je priemerne 8 ton CO<sub>2</sub>eq na obyvateľa. Svetový priemer v roku 2015 bol 6,5 tony CO<sub>2</sub>eq na osobu, pričom na Slovensku to bolo 7,6 tony.
       **V roce 2018 Česko vypustilo 129 milionů tun CO<sub>2</sub>eq**, přepočteno na obyvatele jde o 12,2 tuny CO<sub>2</sub>eq na osobu. Světový průměr v roce 2015 byl 6,5 tun CO<sub>2</sub>eq na osobu. **Emise Česka na osobu jsou tedy dvakrát vyšší, než je celosvětový průměr**.
 
 - id:          "sektory"
