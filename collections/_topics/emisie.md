@@ -35,7 +35,7 @@ dashboard:
     value:     "**8,7**" # upravené podľa EDGAR
     subtitle:  "ton CO<sub>2</sub>eq"
   source:      "EDGAR, naša tabuľka s dátami"
-  source-url:  "(https://docs.google.com/spreadsheets/d/1A1DJVqQEbvs8PfQDrav1i56cfFUIzSL5CAg2jqmXALQ/)"
+  source-url:  "https://docs.google.com/spreadsheets/d/1A1DJVqQEbvs8PfQDrav1i56cfFUIzSL5CAg2jqmXALQ/"
 - type:        "single"
   col-xl-size: "3-5"
   value:       "**87 %** emisií CO<sub>2</sub>"
