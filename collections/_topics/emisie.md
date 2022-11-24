@@ -4,7 +4,7 @@ title:         "Emisie skleníkových plynov a emisné opatrenia"
 tag-name:      "emisie"
 slug:          "emisie"
 redirect_from: "/emisie"
-published:     2022-08-20
+published:     2022-11-20
 weight:        20
 intro: |
   Ľuďmi spôsobené emisie skleníkových plynov zosilňujú v atmosfére skleníkový efekt, čo vedie k otepľovaniu planéty. Hlavným skleníkovým plynom je **oxid uhličitý** (CO<sub>2</sub>), ktorý k otepľovaniu prispieva približne zo 70 %. Jeho koncentrácia v atmosfére rastie predovšetkým kvôli spaľovaniu fosílnych palív, ale napríklad aj kvôli výrubu pralesov alebo výrobe ocele a cementu. Ďalším významným skleníkovým plynom je **metán** (CH<sub>4</sub>), ktorý do atmosféry uniká hlavne pri ťažbe fosílnych palív a chove dobytka. Ku skleníkovým plynom patrí aj **oxid dusný** (vznikajúci najmä pri používaní umelých dusíkatých hnojív) ⁠a rad synteticky vyrábaných **fluórovaných plynov**.
@@ -20,22 +20,22 @@ dashboard:
     value:     "**51,2**"   # Tohle je tricky -> IPCC uvádí cca 58 Gt CO2eq. EDGAR nepočítá LULUCF a tvrdí, že LULUCF je souhrnně net sink (~ 5 Gt CO2). Oproti tomu IPCC uvádí LULUCF emise cca 6.6 Gt CO2, protože odlišně definuje "antropogenní" (nezahrnuje pohlcování existujícími ekosystémy).
     subtitle:  "mld. ton CO<sub>2</sub>eq"
   - region:    "sr"
-    value:     "**43,5**"
+    value:     "**47,6**" # upravené podľa EDGAR
     subtitle:  "mil. ton CO<sub>2</sub>eq"
   source:      "European Commission"
-  source-url:  "https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=env_air_gge&lang=en"
+  source-url:  "https://edgar.jrc.ec.europa.eu/report_2021?vis=ghgtot#emissions_table"
 - type:        "compare"
   col-xl-size: "3-5"
-  title:       "**Emisie na osobu** za rok 2015"
+  title:       "**Emisie na osobu** za rok 2018"  # update voči CZ verzii
   data:
   - region:    "world"
-    value:     "**6,5**"
+    value:     "**6,8**"
     subtitle:  "ton CO<sub>2</sub>eq"
   - region:    "sr"
-    value:     "**8**"
+    value:     "**8,7**" # upravené podľa EDGAR
     subtitle:  "ton CO<sub>2</sub>eq"
-  source:      "Fakta o klimatu"
-  source-url:  "/emisie-svet-na-osobu"
+  source:      "EDGAR, naša tabuľka s dátami"
+  source-url:  "(https://docs.google.com/spreadsheets/d/1A1DJVqQEbvs8PfQDrav1i56cfFUIzSL5CAg2jqmXALQ/)"
 - type:        "single"
   col-xl-size: "3-5"
   value:       "**87 %** emisií CO<sub>2</sub>"
@@ -94,13 +94,14 @@ subtopics:
   title:       "Emisie skleníkových plynov Slovenska"
   title-short: "Emisie v SR"
   lead: |
-    V porovnaní s celosvetovými emisiami sa môžu zdať emisie Slovenska zanedbateľné – v roku 2018 vypustilo Slovensko 43,5 miliónov ton CO<sub>2</sub>eq. Keď ale emisie vyjadríme v prepočte na jedného obyvateľa, aby sme mohli slovenské emisie porovnať s inými štátmi, **priemerný obyvateľ Slovenska vyprodukuje ročne zhruba o 20 % viac emisií ako je svetový priemer**.
+    V porovnaní s celosvetovými emisiami sa môžu zdať emisie Slovenska zanedbateľné – v roku 2018 vypustilo Slovensko 42,3 miliónov ton CO<sub>2</sub>eq. Keď ale emisie vyjadríme v prepočte na jedného obyvateľa, aby sme mohli slovenské emisie porovnať s inými štátmi, v roku 2015 priemerný obyvateľ Slovenska vyprodukoval 7,6 tony CO<sub>2</sub>eq, v roku 2018 to bolo 8 ton (priemerné svetové emisie na osobu boli v týchto rokoch ). 
+    **priemerný obyvateľ Slovenska vyprodukuje ročne zhruba o 20 – 25 % viac emisií ako je svetový priemer**.
   content:
   - emisie-sr
   qa:
   - q: "Ako veľké sú emisie Slovenska?"
     a: |
-      **V roku 2018 Slovensko vypustilo 43,5 miliónov ton CO<sub>2</sub>eq**, čo je priemerne 8 ton CO<sub>2</sub>eq na obyvateľa. Svetový priemer v roku 2015 bol 6,5 tony CO<sub>2</sub>eq na osobu, pričom na Slovensku to bolo 7,6 tony.
+      **V roku 2018 Slovensko vypustilo 42,3 miliónov ton CO<sub>2</sub>eq**, čo je priemerne 8 ton CO<sub>2</sub>eq na obyvateľa. Svetový priemer v roku 2018 bol ccaa 6,8 tony CO<sub>2</sub>eq na osobu, čo znamená, že **slovenské emisie na osobu sú zhruba o 20 % vyššie ako celosvetový priemer**.
       **V roce 2018 Česko vypustilo 129 milionů tun CO<sub>2</sub>eq**, přepočteno na obyvatele jde o 12,2 tuny CO<sub>2</sub>eq na osobu. Světový průměr v roce 2015 byl 6,5 tun CO<sub>2</sub>eq na osobu. **Emise Česka na osobu jsou tedy dvakrát vyšší, než je celosvětový průměr**.
 
 - id:          "sektory"
