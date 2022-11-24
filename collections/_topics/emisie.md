@@ -55,7 +55,7 @@ subtopics:
   - slug: "emisie-svet-na-osobu"
     comment-key: 2
     comment: |
-      **SR** je v prepočte na osobu **nadpriemerným producentom skleníkových plynov**: 8,01 tony CO<sub>2</sub>eq na osobu ročne. To je 1,2× viac ako svetový priemer, ale o cca 8 % menej než priemer EÚ.
+      **SR** je v prepočte na osobu **nadpriemerným producentom skleníkových plynov**: 7,8 tony CO<sub>2</sub>eq na osobu ročne. To je 1,2× viac ako svetový priemer, ale o cca 15 % menej než priemer EÚ.
   - slug: "emisie-sr"
     comment-key: 3
     comment: |
@@ -69,7 +69,7 @@ subtopics:
   title:       "Množstvo emisií skleníkových plynov"
   title-short: "Množstvo emisií"
   lead: |
-    **V roku 2018 celý svet vypustil do atmosféry 48,9 miliárd ton <glossary id="co2eq">CO<sub>2</sub>eq</glossary>**. Táto jednotka prepočítava množstvá rôznych skleníkových plynov na množstvo CO<sub>2</sub>, ktoré by malo rovnaký príspevok ku skleníkovému efektu. Napríklad metán je 28× silnejší skleníkový plyn ako oxid uhličitý (ak uvažujeme jeho storočné pôsobenie, čo je typická štandardizovaná doba), a teda 1 tona metánu predstavuje 28 ton CO<sub>2</sub>eq.
+    **V roku 2018 celý svet vypustil do atmosféry 51,2 miliardy ton <glossary id="co2eq">CO<sub>2</sub>eq</glossary>**. Táto jednotka prepočítava množstvá rôznych skleníkových plynov na množstvo CO<sub>2</sub>, ktoré by malo rovnaký príspevok ku skleníkovému efektu. Napríklad metán je 28× silnejší skleníkový plyn ako oxid uhličitý (ak uvažujeme jeho storočné pôsobenie, čo je typická štandardizovaná doba), a teda 1 tona metánu predstavuje 28 ton CO<sub>2</sub>eq.
 
     Klimatická zmena závisí na celkovom množstve skleníkových plynov v atmosfére, pri porovnávaní jednotlivých krajín je ale tiež vhodné vyjadrenie emisií CO<sub>2</sub>eq na obyvateľa. Takto je následne možné porovnať, ako ku klimatickej zmene prispievajú rôzne veľké štáty.
   content:
@@ -94,15 +94,13 @@ subtopics:
   title:       "Emisie skleníkových plynov Slovenska"
   title-short: "Emisie v SR"
   lead: |
-    V porovnaní s celosvetovými emisiami sa môžu zdať emisie Slovenska zanedbateľné – v roku 2018 vypustilo Slovensko 42,3 miliónov ton CO<sub>2</sub>eq. Keď ale emisie vyjadríme v prepočte na jedného obyvateľa, aby sme mohli slovenské emisie porovnať s inými štátmi, v roku 2015 priemerný obyvateľ Slovenska vyprodukoval 7,6 tony CO<sub>2</sub>eq, v roku 2018 to bolo 8 ton (priemerné svetové emisie na osobu boli v týchto rokoch ). 
-    **priemerný obyvateľ Slovenska vyprodukuje ročne zhruba o 20 – 25 % viac emisií ako je svetový priemer**.
+    V porovnaní s celosvetovými emisiami sa môžu zdať emisie Slovenska zanedbateľné – v roku 2018 vypustilo Slovensko [42,3 miliónov ton CO<sub>2</sub>eq](https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=env_air_gge&lang=en). Keď ale emisie vyjadríme v prepočte na jedného obyvateľa, aby sme mohli slovenské emisie porovnať s inými štátmi, v roku 2015 priemerný obyvateľ Slovenska vyprodukoval 7,5 tony CO<sub>2</sub>eq, v roku 2018 to bolo už 8 ton (priemerné svetové emisie na osobu boli v týchto rokoch 6,5 tony, resp. 6,8 tony). **Priemerný obyvateľ Slovenska teda vyprodukuje ročne zhruba o 15 – 20 % viac emisií ako je svetový priemer**.
   content:
   - emisie-sr
   qa:
   - q: "Ako veľké sú emisie Slovenska?"
     a: |
-      **V roku 2018 Slovensko vypustilo 42,3 miliónov ton CO<sub>2</sub>eq**, čo je priemerne 8 ton CO<sub>2</sub>eq na obyvateľa. Svetový priemer v roku 2018 bol ccaa 6,8 tony CO<sub>2</sub>eq na osobu, čo znamená, že **slovenské emisie na osobu sú zhruba o 20 % vyššie ako celosvetový priemer**.
-      **V roce 2018 Česko vypustilo 129 milionů tun CO<sub>2</sub>eq**, přepočteno na obyvatele jde o 12,2 tuny CO<sub>2</sub>eq na osobu. Světový průměr v roce 2015 byl 6,5 tun CO<sub>2</sub>eq na osobu. **Emise Česka na osobu jsou tedy dvakrát vyšší, než je celosvětový průměr**.
+      **V roku 2018 Slovensko vypustilo [42,3 miliónov ton CO<sub>2</sub>eq](https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=env_air_gge&lang=en)**, čo je priemerne 7,8 tony CO<sub>2</sub>eq na obyvateľa. Svetový priemer v roku 2018 bol ccaa 6,8 tony CO<sub>2</sub>eq na osobu, čo znamená, že **slovenské emisie na osobu boli zhruba o 15 % vyššie ako celosvetový priemer**.
 
 - id:          "sektory"
   title:       "Emise dle sektorů"
