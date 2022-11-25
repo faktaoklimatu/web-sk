@@ -20,9 +20,9 @@ dashboard:
     value:     "**51,2**"   # Tohle je tricky -> IPCC uvádí cca 58 Gt CO2eq. EDGAR nepočítá LULUCF a tvrdí, že LULUCF je souhrnně net sink (~ 5 Gt CO2). Oproti tomu IPCC uvádí LULUCF emise cca 6.6 Gt CO2, protože odlišně definuje "antropogenní" (nezahrnuje pohlcování existujícími ekosystémy).
     subtitle:  "mld. ton CO<sub>2</sub>eq"
   - region:    "sr"
-    value:     "**47,6**" # upravené podľa EDGAR
+    value:     "**42,3**" # Eurostat
     subtitle:  "mil. ton CO<sub>2</sub>eq"
-  source:      "European Commission"
+  source:      "EDGAR (svetové emisie), Eurostat (emisie SR)"
   source-url:  "https://edgar.jrc.ec.europa.eu/report_2021?vis=ghgtot#emissions_table"
 - type:        "compare"
   col-xl-size: "3-5"
@@ -32,10 +32,10 @@ dashboard:
     value:     "**6,8**"
     subtitle:  "ton CO<sub>2</sub>eq"
   - region:    "sr"
-    value:     "**8,7**" # upravené podľa EDGAR
+    value:     "**7,8**"
     subtitle:  "ton CO<sub>2</sub>eq"
-  source:      "EDGAR, naša tabuľka s dátami"
-  source-url:  "https://docs.google.com/spreadsheets/d/1A1DJVqQEbvs8PfQDrav1i56cfFUIzSL5CAg2jqmXALQ/"
+  source:      "Eurostat, World Bank (počet obyvateľov)"
+  source-url:  "https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=env_air_gge&lang=en"
 - type:        "single"
   col-xl-size: "3-5"
   value:       "**87 %** emisií CO<sub>2</sub>"
@@ -55,7 +55,7 @@ subtopics:
   - slug: "emisie-svet-na-osobu"
     comment-key: 2
     comment: |
-      **SR** je v prepočte na osobu **nadpriemerným producentom skleníkových plynov**: 7,8 tony CO<sub>2</sub>eq na osobu ročne. To je 1,2× viac ako svetový priemer, ale o cca 15 % menej než priemer EÚ.
+      **SR** je v prepočte na osobu **nadpriemerným producentom skleníkových plynov**: 7,8 tony CO<sub>2</sub>eq na osobu ročne. To je o 15 % viac ako svetový priemer, ale o cca 15 % menej než priemer EÚ.
   - slug: "emisie-sr"
     comment-key: 3
     comment: |
@@ -94,28 +94,25 @@ subtopics:
   title:       "Emisie skleníkových plynov Slovenska"
   title-short: "Emisie v SR"
   lead: |
-    V porovnaní s celosvetovými emisiami sa môžu zdať emisie Slovenska zanedbateľné – v roku 2018 vypustilo Slovensko [42,3 miliónov ton CO<sub>2</sub>eq](https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=env_air_gge&lang=en). Keď ale emisie vyjadríme v prepočte na jedného obyvateľa, aby sme mohli slovenské emisie porovnať s inými štátmi, v roku 2015 priemerný obyvateľ Slovenska vyprodukoval 7,5 tony CO<sub>2</sub>eq, v roku 2018 to bolo už 8 ton (priemerné svetové emisie na osobu boli v týchto rokoch 6,5 tony, resp. 6,8 tony). **Priemerný obyvateľ Slovenska teda vyprodukuje ročne zhruba o 15 – 20 % viac emisií ako je svetový priemer**.
+    V porovnaní s celosvetovými emisiami sa môžu zdať emisie Slovenska zanedbateľné – v roku 2018 vypustilo Slovensko [42,3 miliónov ton CO<sub>2</sub>eq](https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=env_air_gge&lang=en). Keď ale emisie vyjadríme v prepočte na jedného obyvateľa, aby sme mohli slovenské emisie porovnať s inými štátmi, v roku 2015 priemerný obyvateľ Slovenska vyprodukoval 7,5 tony CO<sub>2</sub>eq, v roku 2018 to bolo už 7,8 tony (priemerné svetové emisie na osobu boli v týchto rokoch 6,5 tony, resp. 6,8 tony). **Priemerný obyvateľ Slovenska teda vyprodukuje ročne zhruba o 15 % viac emisií ako je svetový priemer**.
   content:
   - emisie-sr
   qa:
   - q: "Ako veľké sú emisie Slovenska?"
     a: |
-      **V roku 2018 Slovensko vypustilo [42,3 miliónov ton CO<sub>2</sub>eq](https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=env_air_gge&lang=en)**, čo je priemerne 7,8 tony CO<sub>2</sub>eq na obyvateľa. Svetový priemer v roku 2018 bol ccaa 6,8 tony CO<sub>2</sub>eq na osobu, čo znamená, že **slovenské emisie na osobu boli zhruba o 15 % vyššie ako celosvetový priemer**.
+      **V roku 2018 Slovensko vypustilo [42,3 miliónov ton CO<sub>2</sub>eq](https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=env_air_gge&lang=en)**, čo je priemerne 7,8 tony CO<sub>2</sub>eq na obyvateľa. Svetový priemer v roku 2018 bol cca 6,8 tony CO<sub>2</sub>eq na osobu, čo znamená, že **slovenské emisie na osobu boli zhruba o 15 % vyššie ako celosvetový priemer**.
 
 - id:          "sektory"
-  title:       "Emise dle sektorů"
+  title:       "Emisie podľa sektorov"
   lead: |
-    Jednotlivá hospodářská odvětví přispívají ke klimatické změně v různé míře. Například **v Česku je energetika** (včetně tepláren) **zodpovědná za téměř 40 % emisí skleníkových plynů**, oproti tomu průmysl přispívá 20 %, doprava 16 % a zemědělství přibližně 7 %. Za téměř polovinu českých emisí (45 %) zodpovídá pouze několik desítek největších zdrojů (především elektráren a průmyslových závodů).
-
-    Podíl jednotlivých sektorů na emisích se liší jak v čase, tak napříč zeměmi. V Česku jsou relativně vyšší emise z energetiky oproti ostatním zemím kvůli vyššímu podílu uhelných elektráren a skutečnosti, že Česko je vývozcem elektřiny. Naopak emise ze zemědělství jsou v Česku relativně nižší, neboť některé potraviny dovážíme.
+    Jednotlivé hospodárske odvetvia prispievajú ku klimatickej zmene v rôznej miere. **Na Slovensku sú približne vyrovnanými zdrojmi skleníkových plynov priemyselné procesy, doprava, spaľovanie v priemysle a energetika**, ktoré dohromady reprezentujú zhruba 75 % celkových slovenských emisií. Na porovnanie, v susednom Česku za takmer 40 % emisií skleníkových plynov zodpovedá iba energetika, pretože sú tam v prevádzke veľké uhoľné elektrárne.
+    
+    Podiel jednotlivých sektorov na emisiách sa líši v čase aj naprieč krajinami. Napríklad v Írsku sú viac zastúpené emisie z poľnohospodárstva, v Luxembursku naopak tvorí veľkú časť emisií doprava. Počas pandémie COVID-19 svetové emisie skleníkových plynov klesli, no od jej konca opäť rastú.
   content:
-  # - emise-fosilni-paliva
-  # - nejvetsi-emitenti-cr
-  # - emise-cr
-  # - emise-vyroba-cementu
-  # - emise-dychani
-  # - emise-sr
-  # - 2020-globalni-zprava-o-elektrine
+  - emise-sr
+  - emisie-eu-poradie
+  - emisie-dychanie
+ 
   qa:
   - q: "Uvolňují se skleníkové plyny nejen v důsledku lidské činnosti, ale také přírodních procesů?"
     a: |
