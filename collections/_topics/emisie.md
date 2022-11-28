@@ -109,7 +109,7 @@ subtopics:
     
     Podiel jednotlivých sektorov na emisiách sa líši v čase aj naprieč krajinami. Napríklad v Írsku sú viac zastúpené emisie z poľnohospodárstva, v Luxembursku naopak tvorí veľkú časť emisií doprava. Počas pandémie COVID-19 svetové emisie skleníkových plynov klesli, no od jej konca opäť rastú.
   content:
-  - emise-sr
+  - emisie-sr
   - emisie-eu-poradie
   - emisie-dychanie
  
