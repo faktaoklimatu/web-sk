@@ -114,27 +114,23 @@ subtopics:
   - emisie-dychanie
  
   qa:
-  - q: "Uvolňují se skleníkové plyny nejen v důsledku lidské činnosti, ale také přírodních procesů?"
+  - q: "Uvoľňujú sa skleníkové plyny nielen dôsledkom ľudskej činnosti, ale aj počas prírodných procesov?"
     a: |
-      Mnohé přírodní jevy také uvolňují skleníkové plyny. Například dýcháním člověk vyprodukuje přibližně 300 kg CO<sub>2</sub> za rok, podobně oxid uhličitý vydechují také jiné organismy. Dýchání však nepřispívá ke klimatické změně, neboť se jedná o uzavřený cyklus uhlíku: veškerý vydechovaný uhlík byl dříve pohlcen z atmosféry při fotosyntéze rostlin. Silným skleníkovým plynem je vodní pára, avšak její cyklus v atmosféře je také uzavřený a množství vypařené vody je dáno teplotou. Ke skleníkovému jevu přispívá také sopečná činnost, avšak v mnohem menší míře než lidská činnost.
-  - q: "Co jsou hlavní zdroje lidských emisí?"
+      Mnohé prírodné javy tiež uvoľňujú skleníkové plyny. Napríklad dýchaním človek vyprodukuje približne 300 kg CO<sub>2</sub> ročne, podobne oxid uhličitý vydychujú aj iné organizmy. Dýchanie ale neprispieva ku klimatickej zmene, lebo je súčasťou uzavretého kolobehu uhlíka: vydychovaný CO<sub>2</sub> sa z atmosféry pohlcuje pri fotosyntéze rastlín alebo rozpúšťa v oceánoch. Silným skleníkovým plynom je vodná para, no jej cyklus v atmosfére je takisto uzavretý a množstvo odparenej vody závisí na teplote. Ku skleníkovému efektu tiež prispieva sopečná činnosť, avšak v omnoho menšej miere v porovnaní s ľudskou činnosťou.
+  - q: "Aké sú hlavné zdroje ľudských emisií?"
     a: |
-      Na přibližně 70 % světových emisí skleníkových plynů se podílí oxid uhličitý. Jeho hlavním zdrojem je **spalování fosilních paliv**, především v energetice, průmyslu a dopravě.
+      Približne 70 % svetových emisií <glossary id="antropogennesklenikoveplyny">skleníkových plynov</glossary> tvorí oxid uhličitý, ktorý vzniká hlavne **spaľovaním fosílnych palív** v energetike, priemysle a v doprave. 
 
-- id:          "budouci-otepleni"
-  title:       "Vztah mezi emisemi a budoucím oteplením"
-  title-short: "Emise a oteplování"
+- id:          "buduce-oteplenie"
+  title:       "Vzťah medzi emisiami a budúcim oteplením"
+  title-short: "Emisie a otepľovanie"
   lead: |
-    **Globální oteplení je** přibližně **přímo úměrné celkovému množství emisí skleníkových plynů**, které vypouštíme do atmosféry. Pro zastavení klimatické změny **je** tedy **nutné přestat vypouštět skleníkové plyny** a dosáhnout takzvané klimatické neutrality. Roli však nehraje pouze to, kdy skutečně snížíme množství vypouštěných plynů na nulu, ale také trajektorie, podle které toto snížení bude probíhat. Je velký rozdíl, pokud budeme až do roku 2050 vypouštět tolik emisí jako dnes, a pak náhle snížíme emise na nulu, nebo pokud je budeme snižovat rovnoměrně po celou dobu až do roku 2050 – první scénář by vedl přibližně k dvojnásobnému oteplení oproti druhému.
+    **Globálne oteplenie je** približne **priamo úmerné celkovému množstvu emisií skleníkových plynov**, ktoré vypúšťame do atmosféry. Na zastavenie klimatickej zmeny **je** teda **nevyhnutné prestať vypúšťať skleníkové plyny** a dosiahnuť tzv. uhlíkovú neutralitu. Nie je však dôležité iba to, kedy skutočne znížime množstvo vypúšťaných plynov na nulu, ale tiež cesta, akou toto zníženie bude prebiehať. Je veľký rozdiel, či budeme až do roku 2050 vypúšťať toľko skleníkových plynov ako dnes a potom náhle znížime emisie na nulu, alebo budeme emisie znižovať rovnomerne po celú dobu až do roku 2050 – prvý scenár by viedol približne k dvojnásobnému otepleniu v porovnaní s druhým scenárom.
 
-    **Množství emisí, které lze ještě vypustit, abychom nepřekročili určitou teplotní hranici, se označuje jako uhlíkový rozpočet**. Cíl Pařížské dohody o udržení nárůstu teploty výrazně pod 2 °C lze tedy pomocí uhlíkového rozpočtu přeformulovat jako určité množství skleníkových plynů, které lidstvo ještě může vypustit, aby tohoto cíle dosáhlo.
+    **Množstvo emisií, ktoré je ešte možné vypustiť, aby sme neprekročili určitú teplotnú hranicu, sa označuje ako uhlíkový rozpočet**. Cieľ Parížskej dohody o udržaní nárastu teploty výrazne pod 2 °C je teda možné pomocou uhlíkového rozpočtu preformulovať na určité množstvo <glossary id="antropogennesklenikoveplyny">skleníkových plynov</glossary>, ktoré môžeme ako ľudstvo vypustiť, aby sme tento cieľ dosiahli.
   content:
-  # - souvislost-emise-otepleni
-  # - emisni-scenare-pariz
-  # - uhlikovy-rozpocet-cr
-  # - koncept-uhlikovy-rozpocet
-  # - 1979-charneyho-zprava
-  # - koncept-cesty-k-neutralite
+  - emisne-scenare-pariz
+  - 1979-charneyho-sprava
 
 - id:          "neutralita"
   title:       "Klimatická neutralita"
