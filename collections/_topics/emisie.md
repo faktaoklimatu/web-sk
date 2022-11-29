@@ -7,7 +7,7 @@ redirect_from: "/emisie"
 published:     2022-11-20
 weight:        20
 intro: |
-  Ľuďmi spôsobené emisie skleníkových plynov zosilňujú v atmosfére skleníkový efekt, čo vedie k otepľovaniu planéty. Hlavným skleníkovým plynom je **oxid uhličitý** (CO<sub>2</sub>), ktorý k otepľovaniu prispieva približne zo 70 %. Jeho koncentrácia v atmosfére rastie predovšetkým kvôli spaľovaniu fosílnych palív, ale napríklad aj kvôli výrubu pralesov alebo výrobe ocele a cementu. Ďalším významným skleníkovým plynom je **metán** (CH<sub>4</sub>), ktorý do atmosféry uniká hlavne pri ťažbe fosílnych palív a chove dobytka. Ku skleníkovým plynom patrí aj **oxid dusný** (vznikajúci najmä pri používaní umelých dusíkatých hnojív) ⁠a rad synteticky vyrábaných **fluórovaných plynov**.
+  Ľuďmi spôsobené emisie skleníkových plynov zosilňujú v atmosfére skleníkový efekt, ktorý vedie k otepľovaniu planéty. Hlavným skleníkovým plynom je **oxid uhličitý** (CO<sub>2</sub>), ktorý k otepľovaniu prispieva približne zo 70 %. Jeho koncentrácia v atmosfére rastie predovšetkým kvôli spaľovaniu fosílnych palív, ale napríklad aj kvôli výrubu pralesov alebo výrobe ocele a cementu. Ďalším významným skleníkovým plynom je **metán** (CH<sub>4</sub>), ktorý do atmosféry uniká hlavne pri ťažbe fosílnych palív a chove dobytka. Ku skleníkovým plynom patrí aj **oxid dusný** (vznikajúci najmä pri používaní umelých dusíkatých hnojív) ⁠a rad synteticky vyrábaných **fluórovaných plynov**.
 
   Na zastavenie klimatickej zmeny je kľúčové dosiahnuť celosvetovo tzv. klimatickú neutralitu – teda stav, keď ľudstvo už svojou činnosťou nebude pridávať do atmosféry žiadne skleníkové plyny.
 
@@ -135,44 +135,26 @@ subtopics:
 - id:          "neutralita"
   title:       "Klimatická neutralita"
   lead: |
-    **Pro zastavení klimatické změny je nutné přestat vypouštět skleníkové plyny**, neboli dosáhnout tzv. net-zero či klimatické neutrality. Výraz "net-zero" můžeme přeložit jako "čistá nula" a je tím myšleno, že daný stát či firma je klimaticky neutrální, tedy odstraňuje z atmosféry stejné množství skleníkových plynů jako do atmosféry vypouští. Tato situace je také označována jako klimatická neutralita nebo uhlíková neutralita s tím, že druhý z pojmů se většinou týká pouze oxidu uhličitého, nikoli všech skleníkových plynů. **K dosažení uhlíkové neutrality se již přihlásily státy zodpovědné za téměř 90 % světových emisí oxidu uhličitého** (k únoru 2022).
-  content:
-  # - emisni-zavazky
-  # - 2021-reserse-zavazky-statu
-  # - uhlikova-neutralita
-
-- id:          "mitigace"
-  title:       "Opatření ke snižování emisí"
-  title-short: "Opatření"
-  lead: |
-    Podíl jednotlivých sektorů na emisích skleníkových plynů poskytuje užitečné vodítko pro zaměření mitigačních snah. Největších emisních úspor může Česko dosáhnout **proměnou** svého **energetického mixu**. Jednotlivci však také mohou přispět ke snížení emisí, například **snížením energetické náročnosti** svých domácností nebo **omezením automobilové dopravy**, případně také **nižší konzumací masa a mléčných výrobků**.
-  content:  # U nového obsahu zvaž přidání také do dohody-legislativa>eu a ekonomika>opatreni.
-  # - potencial-zpusobu-snizeni-emisi
-  # - emisni-povolenky-ets
-  # - zpoplatneni-emisi-svet
-  # - mitigacni-opatreni-mmf
-  # - 2019-mitigacni-opatreni-mmf
-  # - fit-for-55
-  # - fit-for-55-opatreni
-  # - 2016-snizeni-emisi-cr
-  # - 2022-reserse-ccs
-
-- id:          "intenzity"
-  title:       "Emise vs. HDP: emisní intenzity ekonomik"
-  title-short: "Emise vs. HDP"
-  lead: |
-    **Emisní intenzita ekonomiky označuje množství skleníkových plynů vyprodukovaných na jednotku HDP** a zpravidla se uvádí v gramech CO<sub>2</sub>eq na jeden dolar. Emisní intenzity tak vedle emisí na osobu slouží jako další relativní vyjádření a často poskytují detailnější vhled do emisí jednotlivých zemí.
-
-    Hospodářsky rozvinutější země mají zpravidla méně emisně náročné ekonomiky, neboť služby tvoří větší podíl jejich hospodářství. Oproti tomu v rozvojových zemích tvoří větší podíl hospodářství emisně náročné sektory: zemědělství, průmysl a stavebnictví. Emisní intenzity ekonomik také vysvětlují, proč některé státy se srovnatelnými emisemi na osobu mohou mít velice odlišnou životní úroveň.
-  content:  # U nového obsahu zvaž přidání také do ekonomika>pricina.
-  # - emise-svet-na-hdp
-  # - emisni-intenzity
+    **Na zastavenie klimatickej zmeny je nutné prestať vypúšťať skleníkové plyny**, čiže dosiahnuť tzv. *net-zero*, respektíve klimatickú neutralitu. Výraz *net-zero* môžeme preložiť ako "čistá nula" a myslí sa tým to, že daný štát či firma sú klimaticky neutrálne, čo znamená, že odstraňujú z atmosféry toľko skleníkových plynov, koľko sami vypustia. Táto situácia je tiež označovaná ako klimatická neutralita alebo uhlíková neutralita (tento pojem sa väčšinou týka iba oxidu uhličitého, nie všetkých <glossary id="antropogennesklenikoveplyny">skleníkových plynov</glossary>). **K cieľu dosiahnuť uhlíkovú neutralitu sa už prihlásily štáty zodpovedné za takmer 90 % svetových emisií oxicu uhličitého** (k februáru 2022).
 
 - id:          "mitigacia"
   title:       "Opatrenia na znižovanie emisií"
-  content:
+  title-short: "Opatrenia"
+  lead: |
+    Podiel jednotlivých sektorov na emisiách <glossary id="antropogennesklenikoveplyny">skleníkových plynov</glossary> poskytuje užitočné vodítko pri zameriavaní <glossary id="mitigacia">mitigačných</glossary> snáh. Najväčšie emisné úspory na Slovensku môžeme dosiahnuť dekarbonizáciou priemyselných procesov. Ako jednotlivci však tiež môžeme prispieť k zníženiu emisií, napríklad **znížením energetickej náročnosti** svojich domácností, **obmedzením individuálnej automobilovej dopravy** alebo **menšou konzumáciou mäsa a mliečnych výrobkov**.
+  content:  # U nového obsahu zvaž přidání také do dohody-legislativa>eu a ekonomika>opatreni.
   - emisne-scenare-pariz
   - mitigacne-opatrenia-mmf
   - 2019-mitigacne-opatrenia-mmf
   - emisne-povolenky-ets
+
+- id:          "intenzity"
+  title:       "Emisie vs. HDP: emisné intenzity ekonomík"
+  title-short: "Emisie vs. HDP"
+  lead: |
+    **Emisná intenzita ekonomiky označuje množstvo <glossary id="antropogennesklenikoveplyny">skleníkových plynov</glossary> vyprodukovaných na jednotku HDP** a obvykle sa uvádza v gramoch CO<sub>2</sub>eq na jeden dolár (USD). Emisné intenzity tak popri emisiách na osobu slúžia ako ďalšie relatívne vyjadrenie a často poskytujú detailnejší pohľad do emisií jednotlivých krajín.
+    
+    Hospodársky rozvinutejšie krajiny majú spravidla menej emisne náročné ekonomiky, pretože služby tvoria väčší podiel ich hospodárstva. V porovnaní s tým v rozvojových krajinách tvoria väčší podiel hospodárstva emisne náročné sektory: priemysel, poľnohospodárstvo a stavebníctvo. Emisné intenzity tým pádom tiež vysvetľujú, prečo niektoré štáty s porovnateľnými emisiami na osobu môžu mať podstatne odlišnú životnú úroveň.
+  content:  # U nového obsahu zvaž přidání také do ekonomika>pricina.
+  - emisie-svet-na-hdp
 ---
