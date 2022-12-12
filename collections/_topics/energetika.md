@@ -37,4 +37,162 @@ subtopics:
   - cena-energie
   - 2020-transformacia-energetiky-do-2050
 
+dashboard:
+- type:        "compare"
+  col-lg-size: "5"
+  col-xl-size: "4-5"
+  title:       "**Emisný faktor elektriny** <span class='nobr'>za rok 2019</span>"
+  data:
+  - region:    "sr"
+    value:     "**105** g CO<sub>2</sub>eq"
+    subtitle:  "na kWh elektriny"
+  - region:    "eu"
+    value:     "**212** g CO<sub>2</sub>eq"
+    subtitle:  "na kWh elektriny"
+  source:      "Fakty o klíme"
+  source-url:  "/elektrina-na-osobu-eu"
+- type:        "compare"
+  col-lg-size: "3-5"
+  title:       "**Podiel bezemisnej elektriny** (2019)"
+  data:
+  - region:    "sr"
+    value:     "**83** %"
+  - region:    "eu"
+    value:     "**61** %"
+  source:      "Fakty o klíme"
+  source-url:  "/elektrina-na-osobu-eu"
+- type:        "compare"
+  col-lg-size: "3-5"
+  title:       "**Rast výkonu solárnych zdrojov** <span class='nobr'>(2012–2021)</span>"
+  data:
+  - region:    "sr"
+    value:     "**+57** %" #https://www.iea.org/countries/slovak-republic; 667/424
+    subtitle:  "+243 GWh"
+  - region:    "world"
+    value:     "**+800** %"
+    subtitle:  "+794 000 MW"
+  source:      "IEA"
+  source-url:  "https://www.iea.org/articles/renewables-2021-data-explorer?mode=market&region=World&publication=2021&product=PV"
+
+subtopics:
+  # V kostce
+- lead: |
+    Výroba elektřiny v Evropě prochází v současnosti **rychlou transformací**. Vedou k ní tři tlaky: (1) za posledních 10 let prudce klesly [ceny elektřiny z obnovitelných zdrojů](/cena-energie), (2) výrazně zesílilo [zpoplatnění emisí skleníkových plynů](/zpoplatneni-emisi-svet) v energetice a (3) válka na Ukrajině připomněla nebezpečí velké závislosti na importovaných fosilních palivech.
+
+    Jak daleko jsme v této transformaci dnes? Jinými slovy: z jakých zdrojů se v současné době elektřina vyrábí?
+  commented-content:
+  - slug: elektrina-cr
+    comment-key: "ČR"
+    comment: |
+      **Více než polovina elektřiny** se u nás stále vyrábí **z fosilních zdrojů**.
+  - slug: elektrina-na-osobu-eu
+    comment-key: "EU"
+    comment: |
+      V mnoha zemích EU **obnovitelné zdroje postupně nahrazují stávající fosilní zdroje**.
+  - slug: elektrina-svet
+    comment-key: "<i class='fa-solid fa-earth-europe'></i>"
+    comment: |
+      **Celosvětově je dekarbonizace velká výzva. Dávno už ale začala**. Např. Indie chce do roku 2030 vyrábět 50 % elektřiny z obnovitelných zdrojů.
+  qa:
+  -
+    q: "Jak může Česko snížit svoje emise v energetice?"
+    a: |
+      České emise lze výrazně a poměrně rychle a levně snížit **rozvojem obnovitelných zdrojů energie**, obzvláště pak z větru a slunce. To způsobí, že uhelné a plynové elektrárny nebudou vyrábět nepřetržitě, ale budou pouze pokrývat mezery ve výrobě elektřiny ze slunce a větru. Při patřičném rozvoji obnovitelných zdrojů nám může stačit méně než třetina dnešní elektřiny z fosilních zdrojů. Bližší detaily ukazují [scénáře transformace české elektroenergetiky do roku 2030](#scenare-2030-cr) (níže).
+
+      Dalším možným způsobem snížení emisí v energetice je **rozvoj jaderných zdrojů**. V Česku ovšem nelze čekat žádný nový reaktor dříve než v roce 2036 (realisticky spíše kolem roku 2040), což je příliš pozdě vzhledem k našim emisním závazkům. Rozvoj jaderné energetiky tedy dává smysl pouze v kombinaci s rozvojem obnovitelných zdrojů.
+
+- id:          "mix"
+  title:       "Současný stav: Z čeho vyrábíme elektřinu?"
+  title-short: "Z čeho vyrábíme elektřinu?"
+  lead: |
+    Český mix zdrojů elektřiny má v současnosti dva pilíře: **hnědé uhlí** a **jádro**. Z obnovitelných zdrojů dnes pochází asi desetina elektřiny. Z toho zhruba polovinu tvoří bioplyn a biomasa, čtvrtinu slunce, o zbytek se starají vodní a větrné elektrárny. **Evropské země mají velmi rozdílné energetické mixy**, celkově pak mají fosilní, jaderné a obnovitelné zdroje v EU přibližně třetinové podíly. **V rozvojovém světě výroba elektřiny prudce stoupá**, převážně díky rozvoji uhelné energetiky. I tam ale v posledních letech znatelně roste role obnovitelných zdrojů.
+  content:
+  - elektrina-cr
+  - elektrina-sr
+  - elektrina-na-osobu-eu
+  - elektrina-na-osobu-svet
+  - elektrina-svet
+  - 2020-globalni-zprava-o-elektrine
+
+- id:          "emise-v-energetice"
+  title:       "Současný stav: Emise z energetiky"
+  title-short: "Emise z energetiky"
+  lead: |
+    Z elektroenergetiky a teplárenství pochází přibližně **40 % emisí skleníkových plynů v ČR**, z toho největší část tvoří uhelné zdroje.
+    V širším slova smyslu k energetice patří také doprava (16 % emisí), lokální vytápění a ohřev teplé vody v domácnostech, firmách a institucích (10 % emisí) a spalování v průmyslu (8 % emisí). Dohromady tedy zpracování a spalování fosilních paliv v Česku tvoří skoro tři čtvrtiny emisí skleníkových plynů. Podobný podíl mají fosilní paliva i v emisích celé EU.
+  qa:
+  - q: "Proč v posledních letech v Evropě klesají emise v energetice?"
+    a: |
+      **V Evropě v posledních 10 letech sledujeme jasný odklon od uhlí**, za kterým stojí primárně regulace EU: jednak [emisní povolenky](/explainery/emisni-povolenky-ets), jednak čím dál přísnější limity na znečištění vzduchu. Některé státy k tomu přidaly vlastní regulace, např. _[carbon price support](https://researchbriefings.files.parliament.uk/documents/SN05927/SN05927.pdf)_ ve Velké Británii, který tam od roku 2013 doplňoval emisní povolenky a dohromady zajišťoval cenu emisí, která motivovala k transformaci energetiky.
+
+      Uhlí v evropské energetice nahrazujeme z velké části obnovitelnými zdroji a z menší části zemním plynem, každá země ale [má tento poměr jinak](/infografiky/elektrina-na-osobu-eu). Pro [několik států včetně Česka](/infografiky/uhelny-phaseout-eu) je uhlí stále podstatnou součástí energetického mixu.
+
+  content:
+  - elektrina-cr
+  - emise-cr
+  - emise-cr-vyvoj
+  - emise-eu-vyvoj
+  - uhelny-phaseout-eu
+
+- id:          "legislativa"
+  title:       "Legislativní kontext"
+  lead: |
+    Evropskou energetiku zásadně ovlivňují dva koncepty: **liberalizovaný trh s elektřinou** a systém **obchodování s emisními povolenkami**.
+  qa:
+  - q: "Proč je cena elektřiny v Česku tak citlivá na cenu zemního plynu?"
+    a: |
+      Momentální **cenu silové elektřiny určuje nejdražší zdroj**, který je nutný k pokrytí momentální spotřeby elektřiny. Plynové elektrárny jsou (při velmi vysokých cenách zemního plynu) tímto nejdražším zdrojem, který je ještě často nutné používat (obzvláště v obdobích vyšší spotřeby, tedy v zimě a během dne). Tento zdroj pak táhne nahoru i průměrnou cenu silové elektřiny, která se propisuje do faktur koncových zákazníků.
+  - q: "Jaký smysl mají evropské emisní povolenky?"
+    a: |
+      Systém obchodování s emisními povolenkami narovnává tržní prostředí tím, že **zpoplatňuje zatěžování životního prostředí**. V ekonomickém jazyce jde o _internalizaci externalit_. Cena produktu (např. elektřiny z fosilních zdrojů) tak zahrnuje škody na životním prostředí (např. způsobené spalováním fosilních paliv). Emisní povolenky jsou jeden z možných způsobů **zpoplatnění emisí**, v některých státech se místo toho nebo jako doplněk používá uhlíková daň.
+  content:
+  - cena-elektriny-na-trhu
+  - emisni-povolenky-ets
+  - zpoplatneni-emisi-svet
+  - 21-rust-cen-elektriny
+
+- id:          "technologie"
+  title:       "Technologie: Potenciál a cena"
+  title-short: "Technologie"
+  lead: |
+    Při zvažování budoucího vývoje elektroenergetiky jsou klíčové tyto aspekty jednotlivých technologií: jaká je **cena**, tedy investiční a provozní náklady, příp. sdružené náklady na výrobu? Jaký je **potenciál technologie**, tj. kolik spotřeby dokáže pokrýt? Jaká je **flexibilita výroby**, tedy dokážeme výkon podle potřeby regulovat? Dále je při úvahách o budoucnosti elektroenergetiky důležitá i společenská přijatelnost, geopolitika a energetická bezpečnost.
+  qa:
+  - q: "Jak můžeme do sítě integrovat obnovitelné zdroje, když je jejich výroba proměnlivá a závislá na počasí?"
+    a: |
+      Elektrizační soustavu nelze postavit _pouze_ na slunci a větru. Je potřeba je doplnit dalšími technologiemi a nástroji, které zajistí neustálé balancování výroby a spotřeby: **flexibilní zdroje** (např. biomasa a bioplyn nebo uhlí a zemní plyn, ideálně s technologií _CCS_), **flexibilita spotřeby** (např. odkládání spotřeby v průmyslovém chlazení na období nadbytku obnovitelné elektřiny) a **ukládání elektřiny krátkodobě** (např. bateriemi nebo přečerpávacími elektrárnami) a **dlouhodobě** (např. vodíkem nebo syntetickými palivy).
+
+      V dnešní době se k tomuto vyrovnávání využívají hlavně existující fosilní elektrárny. V důsledku tak výroba z obnovitelných zdrojů ukrajuje z výroby z uhlí a zemního plynu.
+  content:
+  - cena-energie
+  - potencial-vetrne-energie-cr
+  - potencial-solarni-energie-cr-strechy
+
+- id:          "scenare-2030-cr"
+  title:       "Scénáře vývoje: Česká energetika v roce 2030"
+  title-short: "Energetika 2030"
+  lead: |
+    EU se zavázala **snížit emise skleníkových plynů do roku 2030 o 55 %** (oproti roku 1990). K dosažení tohoto cíle je klíčová právě transformace energetiky. **Jaké jsou scénáře pro transformaci tohoto sektoru v Česku?**
+  qa:
+  - q: "Proč žádný z těchto scénářů neuvažuje rozvoj jaderné energetiky?"
+    a: |
+      Do roku 2030 není možné postavit žádný nový velký jaderný reaktor. Pokud se pustíme do výstavby nových jaderných bloků, budou uvedeny do provozu nejdříve v druhé polovině třicátých let (realisticky spíše až kolem roku 2040), a v roce 2030 tak nijak neovlivní výrobu elektřiny.
+  content:
+  - srovnani-energetickych-scenaru-cr
+  - scenar-transformace-elektroenergetiky
+  - 2020-scenar-bloombergnef
+  - 2020-scenar-mckinsey
+  - 2020-scenar-ember
+  - 2018-scenar-energynautics
+  - 2019-scenar-necp
+  - 2020-reserse-transformace-energetiky
+
+- id:          "scenare-2050"
+  title:       "Scénáře vývoje: Energetika v roce 2050"
+  title-short: "Energetika 2050"
+  lead: |
+    Ve vzdálenější budoucnosti budeme potřebovat **elektřinu vyrábět klimaticky neutrálně**. Zároveň scénáře dekarbonizace stojí na výrazné elektrifikaci dalších oblastí našeho fungování, budeme tedy muset umět vyrobit **řádově dvojnásobek elektřiny oproti dnešku**.
+  content:
+  - 2020-transformace-energetiky-do-2050
+  - 2016-snizeni-emisi-cr
+  - 2-transformace-energetiky
 ---
