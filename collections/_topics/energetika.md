@@ -11,32 +11,6 @@ intro: |
 
   Práve energetika je z hľadiska dekarbonizácie kľúčovou oblasťou: **ťažba a spaľovanie fosílnych palív stojí za ¾ celosvetových emisií** skleníkových plynov. Nahradenie fosílnych palív však vyžaduje prechod na bezemisnú elektrinu (napríklad z obnoviteľných zdrojov) a elektrifikáciu dopravy, vykurovania aj priemyslu. Najviac pozornosti je preto v tejto sekcii venované **výrobe elektriny.**
 
-
-subtopics:
-- id:          "mix"
-  title:       "Súčasný stav: Z čoho vyrábame elektrinu?"
-  title-short: "Z čoho vyrábame elektrinu?"
-  content:
-  - elektrina-sr
-  - elektrina-na-osobu-eu
-  - elektrina-svet
-  - 2020-globalna-sprava-o-elektrine
-
-- id:          "emisie-z-energetiky"
-  title:       "Súčasný stav: Emisie z energetiky"
-  title-short: "Emisie z energetiky"
-  content:
-  - elektrina-sr
-  - emisie-sr
-  - uholny-phaseout-eu
-  - emisne-povolenky-ets
-
-- id:          "buducnost"
-  title:       "Budúca energetika"
-  content:
-  - cena-energie
-  - 2020-transformacia-energetiky-do-2050
-
 dashboard:
 - type:        "compare"
   col-lg-size: "5"
@@ -63,21 +37,21 @@ dashboard:
   source-url:  "/elektrina-na-osobu-eu"
 - type:        "compare"
   col-lg-size: "3-5"
-  title:       "**Rast výkonu solárnych zdrojov** <span class='nobr'>(2012–2021)</span>"
+  title:       "**Inštalovaný výkon solárnych zdrojov** <span class='nobr'>(2012–2020)</span>"
   data:
   - region:    "sr"
-    value:     "**+57** %" #https://www.iea.org/countries/slovak-republic; 667/424
-    subtitle:  "+243 GWh"
+    value:     "**+4** %" #https://ec.europa.eu/eurostat/databrowser/view/nrg_inf_epcrw/default/table?lang=en; 535/513
+    subtitle:  "+22 MW"
   - region:    "world"
-    value:     "**+800** %"
-    subtitle:  "+794 000 MW"
+    value:     "**+640** %"
+    subtitle:  "+640 400 MW"
   source:      "IEA"
   source-url:  "https://www.iea.org/articles/renewables-2021-data-explorer?mode=market&region=World&publication=2021&product=PV"
 
 subtopics:
-  # V kostce
+  # V kocke
 - lead: |
-    Výroba elektřiny v Evropě prochází v současnosti **rychlou transformací**. Vedou k ní tři tlaky: (1) za posledních 10 let prudce klesly [ceny elektřiny z obnovitelných zdrojů](/cena-energie), (2) výrazně zesílilo [zpoplatnění emisí skleníkových plynů](/zpoplatneni-emisi-svet) v energetice a (3) válka na Ukrajině připomněla nebezpečí velké závislosti na importovaných fosilních palivech.
+    Výroba elektriny v Európe prechádza za posledné roky **rýchlou transformáciou**. Vedú k nej 3 tlaky: (1) po roku 2010 prudko klesli [ceny elektriny z obnoviteľných zdrojov](/cena-energie), (2) výrazne sa zvýšilo [spoplatnenie emisií skleníkových plynov](/emisne-povolenky-ets) v energetike a (3) vojna na Ukrajine pripomenula hrozby vyplývajúce z veľkej závislosti na importovaných fosílnych palivách.
 
     Jak daleko jsme v této transformaci dnes? Jinými slovy: z jakých zdrojů se v současné době elektřina vyrábí?
   commented-content:
@@ -107,12 +81,10 @@ subtopics:
   lead: |
     Český mix zdrojů elektřiny má v současnosti dva pilíře: **hnědé uhlí** a **jádro**. Z obnovitelných zdrojů dnes pochází asi desetina elektřiny. Z toho zhruba polovinu tvoří bioplyn a biomasa, čtvrtinu slunce, o zbytek se starají vodní a větrné elektrárny. **Evropské země mají velmi rozdílné energetické mixy**, celkově pak mají fosilní, jaderné a obnovitelné zdroje v EU přibližně třetinové podíly. **V rozvojovém světě výroba elektřiny prudce stoupá**, převážně díky rozvoji uhelné energetiky. I tam ale v posledních letech znatelně roste role obnovitelných zdrojů.
   content:
-  - elektrina-cr
   - elektrina-sr
   - elektrina-na-osobu-eu
-  - elektrina-na-osobu-svet
   - elektrina-svet
-  - 2020-globalni-zprava-o-elektrine
+  - 2020-globalna-sprava-o-elektrine
 
 - id:          "emise-v-energetice"
   title:       "Současný stav: Emise z energetiky"
@@ -128,11 +100,10 @@ subtopics:
       Uhlí v evropské energetice nahrazujeme z velké části obnovitelnými zdroji a z menší části zemním plynem, každá země ale [má tento poměr jinak](/infografiky/elektrina-na-osobu-eu). Pro [několik států včetně Česka](/infografiky/uhelny-phaseout-eu) je uhlí stále podstatnou součástí energetického mixu.
 
   content:
-  - elektrina-cr
-  - emise-cr
-  - emise-cr-vyvoj
-  - emise-eu-vyvoj
-  - uhelny-phaseout-eu
+  - elektrina-sr
+  - emisie-sr
+  - uholny-phaseout-eu
+  - emisne-povolenky-ets
 
 - id:          "legislativa"
   title:       "Legislativní kontext"
@@ -186,13 +157,9 @@ subtopics:
   - 2019-scenar-necp
   - 2020-reserse-transformace-energetiky
 
-- id:          "scenare-2050"
-  title:       "Scénáře vývoje: Energetika v roce 2050"
-  title-short: "Energetika 2050"
-  lead: |
-    Ve vzdálenější budoucnosti budeme potřebovat **elektřinu vyrábět klimaticky neutrálně**. Zároveň scénáře dekarbonizace stojí na výrazné elektrifikaci dalších oblastí našeho fungování, budeme tedy muset umět vyrobit **řádově dvojnásobek elektřiny oproti dnešku**.
+- id:          "buducnost"
+  title:       "Budúca energetika"
   content:
-  - 2020-transformace-energetiky-do-2050
-  - 2016-snizeni-emisi-cr
-  - 2-transformace-energetiky
+  - cena-energie
+  - 2020-transformacia-energetiky-do-2050
 ---
