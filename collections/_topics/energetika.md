@@ -53,32 +53,26 @@ subtopics:
 - lead: |
     Výroba elektriny v Európe prechádza za posledné roky **rýchlou transformáciou**. Vedú k nej 3 tlaky: (1) po roku 2010 prudko klesli [ceny elektriny z obnoviteľných zdrojov](/cena-energie), (2) výrazne sa zvýšilo [spoplatnenie emisií skleníkových plynov](/emisne-povolenky-ets) v energetike a (3) vojna na Ukrajine pripomenula hrozby vyplývajúce z veľkej závislosti na importovaných fosílnych palivách.
 
-    Jak daleko jsme v této transformaci dnes? Jinými slovy: z jakých zdrojů se v současné době elektřina vyrábí?
+    Ako ďaleko sme v tejto transformácii dnes? Inými slovami, z akých zdrojov sa v súčasnej dobe vyrába elektrina?
   commented-content:
-  - slug: elektrina-cr
-    comment-key: "ČR"
+  - slug: elektrina-sr
+    comment-key: "SR"
     comment: |
-      **Více než polovina elektřiny** se u nás stále vyrábí **z fosilních zdrojů**.
+      **Asi 20 % elektriny** sa u nás stále vyrába **z fosílnych zdrojov**.
   - slug: elektrina-na-osobu-eu
-    comment-key: "EU"
+    comment-key: "EÚ"
     comment: |
-      V mnoha zemích EU **obnovitelné zdroje postupně nahrazují stávající fosilní zdroje**.
+      V mnohých krajinách EÚ **obnoviteľné zdroje postupne nahrádzajú dovtedajšie fosílne zdroje**.
   - slug: elektrina-svet
     comment-key: "<i class='fa-solid fa-earth-europe'></i>"
     comment: |
-      **Celosvětově je dekarbonizace velká výzva. Dávno už ale začala**. Např. Indie chce do roku 2030 vyrábět 50 % elektřiny z obnovitelných zdrojů.
-  qa:
-  -
-    q: "Jak může Česko snížit svoje emise v energetice?"
-    a: |
-      České emise lze výrazně a poměrně rychle a levně snížit **rozvojem obnovitelných zdrojů energie**, obzvláště pak z větru a slunce. To způsobí, že uhelné a plynové elektrárny nebudou vyrábět nepřetržitě, ale budou pouze pokrývat mezery ve výrobě elektřiny ze slunce a větru. Při patřičném rozvoji obnovitelných zdrojů nám může stačit méně než třetina dnešní elektřiny z fosilních zdrojů. Bližší detaily ukazují [scénáře transformace české elektroenergetiky do roku 2030](#scenare-2030-cr) (níže).
-
-      Dalším možným způsobem snížení emisí v energetice je **rozvoj jaderných zdrojů**. V Česku ovšem nelze čekat žádný nový reaktor dříve než v roce 2036 (realisticky spíše kolem roku 2040), což je příliš pozdě vzhledem k našim emisním závazkům. Rozvoj jaderné energetiky tedy dává smysl pouze v kombinaci s rozvojem obnovitelných zdrojů.
+      **Celosvetovo je dekarbonizácia energetiky veľká výzva. Už ale dávno začala**. Napr. India chce do roku 2030 vyrábať 50 % elektriny z obnoviteľných zdrojov.
 
 - id:          "mix"
-  title:       "Současný stav: Z čeho vyrábíme elektřinu?"
-  title-short: "Z čeho vyrábíme elektřinu?"
+  title:       "Súčasný stav: Z čoho elektrinu vyrábame?"
+  title-short: "Z čoho elektrinu vyrábame?"
   lead: |
+    Slovenská energetika je v súčasnosti založená hlavne na **jadre**. Z obnoviteľných zdrojov pochádza zhruba štvrtina elektriny – 16 % vyrábajú vodné elektrárne, 6 % elektrárne na biomasu a o zvyšok sa starajú solárne a veterné elektrárne. **Európske štáty majú veľmi rozdielne energetické mixy**
     Český mix zdrojů elektřiny má v současnosti dva pilíře: **hnědé uhlí** a **jádro**. Z obnovitelných zdrojů dnes pochází asi desetina elektřiny. Z toho zhruba polovinu tvoří bioplyn a biomasa, čtvrtinu slunce, o zbytek se starají vodní a větrné elektrárny. **Evropské země mají velmi rozdílné energetické mixy**, celkově pak mají fosilní, jaderné a obnovitelné zdroje v EU přibližně třetinové podíly. **V rozvojovém světě výroba elektřiny prudce stoupá**, převážně díky rozvoji uhelné energetiky. I tam ale v posledních letech znatelně roste role obnovitelných zdrojů.
   content:
   - elektrina-sr
