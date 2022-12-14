@@ -117,10 +117,10 @@ subtopics:
     a: |
       Systém obchodování s emisními povolenkami narovnává tržní prostředí tím, že **zpoplatňuje zatěžování životního prostředí**. V ekonomickém jazyce jde o _internalizaci externalit_. Cena produktu (např. elektřiny z fosilních zdrojů) tak zahrnuje škody na životním prostředí (např. způsobené spalováním fosilních paliv). Emisní povolenky jsou jeden z možných způsobů **zpoplatnění emisí**, v některých státech se místo toho nebo jako doplněk používá uhlíková daň.
   content:
-  - cena-elektriny-na-trhu
-  - emisni-povolenky-ets
-  - zpoplatneni-emisi-svet
-  - 21-rust-cen-elektriny
+#  - cena-elektriny-na-trhu
+#  - emisni-povolenky-ets
+#  - zpoplatneni-emisi-svet
+#  - 21-rust-cen-elektriny
 
 - id:          "technologie"
   title:       "Technologie: Potenciál a cena"
@@ -134,9 +134,9 @@ subtopics:
 
       V dnešní době se k tomuto vyrovnávání využívají hlavně existující fosilní elektrárny. V důsledku tak výroba z obnovitelných zdrojů ukrajuje z výroby z uhlí a zemního plynu.
   content:
-  - cena-energie
-  - potencial-vetrne-energie-cr
-  - potencial-solarni-energie-cr-strechy
+#  - cena-energie
+#  - potencial-vetrne-energie-cr
+#  - potencial-solarni-energie-cr-strechy
 
 - id:          "scenare-2030-cr"
   title:       "Scénáře vývoje: Česká energetika v roce 2030"
@@ -148,14 +148,14 @@ subtopics:
     a: |
       Do roku 2030 není možné postavit žádný nový velký jaderný reaktor. Pokud se pustíme do výstavby nových jaderných bloků, budou uvedeny do provozu nejdříve v druhé polovině třicátých let (realisticky spíše až kolem roku 2040), a v roce 2030 tak nijak neovlivní výrobu elektřiny.
   content:
-  - srovnani-energetickych-scenaru-cr
-  - scenar-transformace-elektroenergetiky
-  - 2020-scenar-bloombergnef
-  - 2020-scenar-mckinsey
-  - 2020-scenar-ember
-  - 2018-scenar-energynautics
-  - 2019-scenar-necp
-  - 2020-reserse-transformace-energetiky
+#  - srovnani-energetickych-scenaru-cr
+#  - scenar-transformace-elektroenergetiky
+#  - 2020-scenar-bloombergnef
+#  - 2020-scenar-mckinsey
+#  - 2020-scenar-ember
+#  - 2018-scenar-energynautics
+#  - 2019-scenar-necp
+#  - 2020-reserse-transformace-energetiky
 
 - id:          "buducnost"
   title:       "Budúca energetika"
