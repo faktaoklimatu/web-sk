@@ -72,26 +72,27 @@ subtopics:
   title:       "Súčasný stav: Z čoho elektrinu vyrábame?"
   title-short: "Z čoho elektrinu vyrábame?"
   lead: |
-    Slovenská energetika je v súčasnosti založená hlavne na **jadre**. Z obnoviteľných zdrojov pochádza zhruba štvrtina elektriny – 16 % vyrábajú vodné elektrárne, 6 % elektrárne na biomasu a o zvyšok sa starajú solárne a veterné elektrárne. **Európske štáty majú veľmi rozdielne energetické mixy**
-    Český mix zdrojů elektřiny má v současnosti dva pilíře: **hnědé uhlí** a **jádro**. Z obnovitelných zdrojů dnes pochází asi desetina elektřiny. Z toho zhruba polovinu tvoří bioplyn a biomasa, čtvrtinu slunce, o zbytek se starají vodní a větrné elektrárny. **Evropské země mají velmi rozdílné energetické mixy**, celkově pak mají fosilní, jaderné a obnovitelné zdroje v EU přibližně třetinové podíly. **V rozvojovém světě výroba elektřiny prudce stoupá**, převážně díky rozvoji uhelné energetiky. I tam ale v posledních letech znatelně roste role obnovitelných zdrojů.
+    Slovenská energetika je v súčasnosti založená hlavne na **jadre**. Z obnoviteľných zdrojov pochádza zhruba štvrtina elektriny – 16 % vyrábajú vodné elektrárne, 6 % elektrárne na biomasu a o zvyšok sa starajú solárne a veterné elektrárne. **Európske štáty majú veľmi rozdielne energetické mixy**, no celkovo sa dá povedať, že fosílne, jadrové a obnoviteľné zdroje majú v EÚ zhruba tretinový podiel. **V rozvojovom svete výroba elektriny prudko rastie** hlavne vďaka rozvoju uhoľnej energetiky. Aj v týchto krajinách však v posledných rokoch rastie podiel obnoviteľných zdrojov
   content:
   - elektrina-sr
   - elektrina-na-osobu-eu
   - elektrina-svet
   - 2020-globalna-sprava-o-elektrine
 
-- id:          "emise-v-energetice"
-  title:       "Současný stav: Emise z energetiky"
-  title-short: "Emise z energetiky"
+- id:          "emisie-v-energetike"
+  title:       "Súčasný stav: Emisie z energetiky"
+  title-short: "Emisie z energetiky"
   lead: |
+    Z elektroenergetiky a teplárenstva pochádza približne **17 % emisií skleníkových plynov Slovenska**, pričom uhoľné elektrárne Vojany a Nováky majú na nich približne rovnaký podiel ako všetky slovenské teplárne.
+    V širšom zmysle slova k energetike patrí tiež doprava (18 % emisií), lokálne kúrenie a ohrev teplej vody v domácnostiach, firmách a inštitúciách (11 % emisií) a spaľovanie v priemysle (18 %). Dohromady teda spracovanie a spaľovanie fosílnych palív na Slovensku tvorí takmer dve tretiny emisií skleníkových plynov. 
     Z elektroenergetiky a teplárenství pochází přibližně **40 % emisí skleníkových plynů v ČR**, z toho největší část tvoří uhelné zdroje.
     V širším slova smyslu k energetice patří také doprava (16 % emisí), lokální vytápění a ohřev teplé vody v domácnostech, firmách a institucích (10 % emisí) a spalování v průmyslu (8 % emisí). Dohromady tedy zpracování a spalování fosilních paliv v Česku tvoří skoro tři čtvrtiny emisí skleníkových plynů. Podobný podíl mají fosilní paliva i v emisích celé EU.
   qa:
   - q: "Proč v posledních letech v Evropě klesají emise v energetice?"
     a: |
-      **V Evropě v posledních 10 letech sledujeme jasný odklon od uhlí**, za kterým stojí primárně regulace EU: jednak [emisní povolenky](/explainery/emisni-povolenky-ets), jednak čím dál přísnější limity na znečištění vzduchu. Některé státy k tomu přidaly vlastní regulace, např. _[carbon price support](https://researchbriefings.files.parliament.uk/documents/SN05927/SN05927.pdf)_ ve Velké Británii, který tam od roku 2013 doplňoval emisní povolenky a dohromady zajišťoval cenu emisí, která motivovala k transformaci energetiky.
+      **V Evropě v posledních 10 letech sledujeme jasný odklon od uhlí**, za kterým stojí primárně regulace EU: jednak [emisné povolenky](/explainery/emisne-povolenky-ets), jednak čím dál přísnější limity na znečištění vzduchu. Některé státy k tomu přidaly vlastní regulace, např. _[carbon price support](https://researchbriefings.files.parliament.uk/documents/SN05927/SN05927.pdf)_ ve Velké Británii, který tam od roku 2013 doplňoval emisní povolenky a dohromady zajišťoval cenu emisí, která motivovala k transformaci energetiky.
 
-      Uhlí v evropské energetice nahrazujeme z velké části obnovitelnými zdroji a z menší části zemním plynem, každá země ale [má tento poměr jinak](/infografiky/elektrina-na-osobu-eu). Pro [několik států včetně Česka](/infografiky/uhelny-phaseout-eu) je uhlí stále podstatnou součástí energetického mixu.
+      Uhlí v evropské energetice nahrazujeme z velké části obnovitelnými zdroji a z menší části zemním plynem, každá země ale [má tento poměr jinak](/infografiky/elektrina-na-osobu-eu). Pro [několik států včetně Česka](/infografiky/uholny-phaseout-eu) je uhlí stále podstatnou součástí energetického mixu.
 
   content:
   - elektrina-sr
@@ -132,24 +133,6 @@ subtopics:
 #  - potencial-vetrne-energie-cr
 #  - potencial-solarni-energie-cr-strechy
 
-- id:          "scenare-2030-cr"
-  title:       "Scénáře vývoje: Česká energetika v roce 2030"
-  title-short: "Energetika 2030"
-  lead: |
-    EU se zavázala **snížit emise skleníkových plynů do roku 2030 o 55 %** (oproti roku 1990). K dosažení tohoto cíle je klíčová právě transformace energetiky. **Jaké jsou scénáře pro transformaci tohoto sektoru v Česku?**
-  qa:
-  - q: "Proč žádný z těchto scénářů neuvažuje rozvoj jaderné energetiky?"
-    a: |
-      Do roku 2030 není možné postavit žádný nový velký jaderný reaktor. Pokud se pustíme do výstavby nových jaderných bloků, budou uvedeny do provozu nejdříve v druhé polovině třicátých let (realisticky spíše až kolem roku 2040), a v roce 2030 tak nijak neovlivní výrobu elektřiny.
-  content:
-#  - srovnani-energetickych-scenaru-cr
-#  - scenar-transformace-elektroenergetiky
-#  - 2020-scenar-bloombergnef
-#  - 2020-scenar-mckinsey
-#  - 2020-scenar-ember
-#  - 2018-scenar-energynautics
-#  - 2019-scenar-necp
-#  - 2020-reserse-transformace-energetiky
 
 - id:          "buducnost"
   title:       "Budúca energetika"
