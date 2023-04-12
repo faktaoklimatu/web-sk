@@ -29,9 +29,11 @@ topic:
   intro-title: "Úvod"
   nutshell-id: "v-kocke"
   nutshell-title: "V kocke"
+  series-prefix: "Séria: "
 
 text:
   toc: "Obsah"
+  tldr: "Zhrnutie"
   study:
     study: "Štúdia"
     summary: "Hlavné závery"
@@ -47,6 +49,7 @@ text:
     licence-proof: "informácie o licencii"
   explainer:
     explainer: "Explainer"
+    series: "Diel série"
     source: "Zdroj"
     author: "Autor"
     licence: "Licencia"
@@ -59,6 +62,16 @@ text:
     all-tag: "Ďalšie infografiky, štúdie a datasety k téme"
   rss:
     more-online: "Viac informácií nájdete v plnej verzii na našom webe."
+  section-link: "Odkaz na sekciu"
+  series:
+    previous: "<< Predchádzajúci diel"
+    next: "Ďalší diel >>"
+  figure:
+    source: "Zdroj:"
+  publication:
+    publication: "Naše publikácie"
+    download: "Celý text publikácie v PDF"
+    sponsor: "Zadávateľ"
 
 sidebar:
   download:
