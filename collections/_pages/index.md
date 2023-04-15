@@ -80,9 +80,10 @@ Klimatická zmena je zložitý komplex navzájom previazaných javov. Údaje, s 
 <div class="row about-us lead mb-5 justify-content-between">
 <div class="col-12 col-md-6 pt-2 pt-md-4" markdown="1">
 
-**Robíme rešeršnú a analytickú prácu**. Hľadáme v dátach to relevantné pre hlbšie pochopenie klimatickej zmeny, jej vplyvu a možnostiach riešenia. Zameriavame sa na to podstatné pre slovenský kontext a slovenskú spoločnosť.
+**Robíme rešeršnú a analytickú prácu**. Hľadáme v dátach to relevantné v záujme hlbšieho pochopenia klimatickej zmeny, jej dopadoch a nacházadania možných riešení. Pri tomto sa zároveň zameriavame na slovenský kontext a slovenskú spoločnosť.
 
-**Komunikujeme ku kľúčovým skupinám**. Tvoríme dátové vizualizácie, články, podcasty alebo prednášky pre verejnosť aj klientov z firemnej a verejnej sféry.
+**Komunikujeme ku kľúčovým skupinám**.
+Tvoríme dátové vizualizácie, články, podcasty a prednášky pre laickú aj ako aj odbornú verejnosť, z médií, firemnej a verejnej sféry.
 
 </div>
 <div class="col-12 col-md-6 col-lg-5 pt-4" markdown="1">
