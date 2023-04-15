@@ -77,7 +77,7 @@ sidebar:
   download:
     title: "Na stiahnutie"
     caption: "Páči sa vám naša infografika? Stiahnite si ju a používajte ďalej!"
-    which-file-format: "Ktorý formát vybrať?"
+    which-file-format: "Aký formát si vybrať?"
   data:
     title: "Podkladové dáta"
     caption-dataset: "Chcete vidieť konkrétne čísla? Táto infografika je postavená na nami spracovanom datasete."
@@ -93,7 +93,7 @@ sidebar:
     usage: "Ako správne použiť?"
     button-facebook: "Zdieľať na Facebooku"
     button-twitter: "Zdieľať na Twitteri"
-    button-embed: "Vložiť na inú stránku"
+    button-embed: "Zdieľať na stránke"
     modal-title: "Ako správne odkazovať faktyoklime.sk?"
   mobile:
     title: "Dáta, licencia a zdieľanie"
@@ -109,7 +109,7 @@ sidebar:
     source-web: "Web štúdie"
     source-pdf: "PDF štúdie"
 
-tag:
+tag:  # To be deleted with obsolete tag.html (once web-en does not use it).
   all-tags-caption: "Prehľad oblastí a tém,<br/>ktorým se venujeme"
   back-to-homepage: "Zrušiť výber"
   scope: "Oblasť"
@@ -123,6 +123,6 @@ tag:
 
 fancybox:
   CLOSE: "Zavrieť"
-  NEXT: "Ďaľší"
+  NEXT: "Ďalší"
   PREV: "Predchádzajúci"
   ZOOM: "Priblížiť / Oddialiť"
