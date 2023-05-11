@@ -2,7 +2,7 @@
 layout:     empty
 title:      Ďakujeme za podporu!
 slug:       dakujeme
-extrascripts: thankyou
+extra-scripts: [ /assets/js/thankyou.js ]
 sitemap:    false
 ---
 <div class="section">
