@@ -10,13 +10,13 @@ tags-topics:   [ opatrenia, ekonomika ]
 caption:       "Fit for 55 je balíček legislatívnych návrhov Európskej komisie, ktoré majú viesť k 55 % zníženiu európskych emisií skleníkových plynov do roku 2030 v porovnaní s rokom 1990. Tento cieľ je medzikrokom k dosiahnutiu uhlíkovej neutrality do roku 2050, ku ktorému sa Európska únia právne zaviazala."
 ---
 
-{% include preview-box.html
+// {% include preview-box.html
     title="Co je balíček Fit for 55?"
     text="V související infografice přibližujeme širší kontext vzniku a obsahu balíčku."
     slug="fit-for-55"
-%}
+%} //
 
-Balík legislatívnych návrhov [Fit for 55](https://eur-lex.europa.eu/legal-content/cs/TXT/?uri=CELEX%3A52021DC0550), ktorý **podporuje zníženie emisií skleníkových plynov o 55 % do roku 2030 oproti roku 1990**, bol Európskou komisiou predstavený v júli 2021. Balíček obsahuje návrhy upravujúce existujúce smernice či nariadenia, ako i celkom nové legislatívne návrhy. Zameriava sa na oblasti, ako je obchodovanie s emisnými povolenkami (EU ETS),[emisne-povolenky-ets] uhlíkové kompenzácie na hraniciach, energetiku, palivá či využívanie pôdy a lesníctvo. V neposlednom rade prináša podporné opatrenia, ktorých cieľom je urobiť celú transformáciu sociálne spravodlivejšou. Navrhované opatrenia by mali priniesť nové príležitosti pre investície, inovácie a tvorbu pracovných miest. // [^fit-for-55]
+Balík legislatívnych návrhov [Fit for 55](https://eur-lex.europa.eu/legal-content/cs/TXT/?uri=CELEX%3A52021DC0550), ktorý **podporuje zníženie emisií skleníkových plynov o 55 % do roku 2030 oproti roku 1990**, bol Európskou komisiou predstavený v júli 2021. Balíček obsahuje návrhy upravujúce existujúce smernice či nariadenia, ako i celkom nové legislatívne návrhy. Zameriava sa na oblasti, ako je [obchodovanie s emisnými povolenkami (EU ETS)](/explainery/emisne-povolenky-ets), uhlíkové kompenzácie na hraniciach, energetiku, palivá či využívanie pôdy a lesníctvo. V neposlednom rade prináša podporné opatrenia, ktorých cieľom je urobiť celú transformáciu sociálne spravodlivejšou. Navrhované opatrenia by mali priniesť nové príležitosti pre investície, inovácie a tvorbu pracovných miest. // [^fit-for-55]
 
 Nižšie uvádzame prehľad navrhovaných opatrení vrátane odkazov na pôvodné legislatívne návrhy Európskej komisie:
 
