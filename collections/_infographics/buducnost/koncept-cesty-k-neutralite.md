@@ -12,42 +12,42 @@ data-our:    "https://docs.google.com/spreadsheets/d/1J2QcNjXzsRrf8Z8Y3Xh41R_EHl
 data-orig:   [ [ "Global Carbon Budget", "https://www.icos-cp.eu/science-and-impact/global-carbon-budget/2020" ], [ "IPCC SR15", "https://www.ipcc.ch/site/assets/uploads/sites/2/2019/06/SR15_Full_Report_Low_Res.pdf#page=122" ] ]
 ---
 
-V posledných rokoch si rôzne krajiny a spoločnosti kladú za cieľ dosiahnuť uhlíkovú neutralitu.[^11] Výsledné globálne oteplenie je však priamo úmerné celkovým vypusteným emisiám skleníkových plynov a dátum, kedy vypustíme poslednú tonu CO<sub>2</sub>, nie je pre toto výsledné oteplenie rozhodujúci. Táto grafika pomáha vysvetliť, prečo je koncept uhlíkového rozpočtu oveľa vhodnejší pre úvahy o znižovaní emisií a súvisiace politické rozhodnutia ako koncept uhlíkovej neutrality.
+V posledných rokoch si rôzne krajiny a spoločnosti kladú za cieľ dosiahnuť uhlíkovú neutralitu.[^11] Výsledné globálne oteplenie je však priamo úmerné celkovým vypusteným emisiám skleníkových plynov a dátum, kedy vypustíme poslednú tonu CO<sub>2</sub>, nie je pre toto výsledné oteplenie rozhodujúci. Táto grafika pomáha vysvetliť, prečo je koncept uhlíkového rozpočtu oveľa vhodnejší pre úvahy o znižovaní emisií a súvisiace politické rozhodnutia ako koncept <glossary id="carbon-neutrality">uhlíkovej neutrality</glossary>.
 
 ## Čo vidíme v grafike?
 
-Grafika porovnává čtyři různé varianty snižování emisí a výsledná oteplení, ke kterým by tyto rozdílné cesty vedly:
+Grafika porovnáva štyri rôzne varianty znižovania emisií a výsledné oteplenie, ku ktorým by tieto rozdielne cesty viedli:
 
-1. Dosažení uhlíkové neutrality v roce 2050, kdy je současná roční hodnota celosvětových emisí 40 Gt CO<sub>2</sub> snížena každý rok o 1,3 Gt (*lineární pokles*). Celkově by v takovém případě bylo do roku 2050 vypuštěno přibližně 600 Gt CO<sub>2</sub> a výsledné oteplení by dosáhlo hodnoty 1,7 °C.
-2. Dosažení uhlíkové neutrality v roce 2050, kdy emise každý rok klesnou o 11,5 %, tedy zpočátku klesají výrazně rychleji než u první varianty (*exponenciální pokles*). Celkově by v takovém případě bylo do roku 2050 vypuštěno jen asi 350 Gt CO<sub>2</sub> a výsledné oteplení by nepřesáhlo hodnotu 1,5 °C.
-3. Dosažení uhlíkové neutrality v roce 2075 s lineárním poklesem emisí o 0,7 Gt CO<sub>2</sub> za rok. Celkové emise dosáhnou 1120 Gt CO<sub>2</sub> a globální oteplení bude blízko hranice 2 °C.
-4. Dosažení uhlíkové neutrality v roce 2075 s exponenciálním poklesem o 6,5 %. Celkové emise dosáhnou asi 620 Gt CO<sub>2</sub>, tedy zhruba stejně jako u varianty 2, a globální oteplení bude také stejné, tj. přibližně 1,7 °C.
+1. Dosiahnutie uhlíkovej neutrality v roku 2050, keď sa súčasné ročné globálne emisie 40 Gt CO<sub>2</sub> znížia každý rok o 1,3 Gt (*lineárny pokles*). V tomto prípade by sa do roku 2050 vypustilo celkovo približne 600 Gt CO<sub>2</sub> a výsledné oteplenie by dosiahlo 1,7 °C.
+2. Dosiahnutie uhlíkovej neutrality v roku 2050, pričom emisie klesnú každoročne o 11,5 %, teda spočiatku klesajú v absolútnych číslach oveľa rýchlejšie ako v prvom variante (*exponenciálny pokles*). Celkovo by sa v tomto prípade do roku 2050 vypustilo len zhruba 350 Gt CO<sub>2</sub> a výsledné oteplenie by neprekročilo 1,5 °C.
+3. Dosiahnutie uhlíkovej neutrality v roku 2075 s lineárnym poklesom emisií o 0,7 Gt CO<sub>2</sub> ročne. Celkové emisie dosiahnu 1120 Gt CO<sub>2</sub> a globálne oteplenie sa priblíži k hranici 2 °C.
+4. Dosiahnutie uhlíkovej neutrality v roku 2075 s exponenciálnym poklesom o 6,5 %. Celkové emisie budú približne 620 Gt CO<sub>2</sub>, čo je zhruba rovnako ako v 2. variante, a globálne oteplenie bude tiež rovnaké, t. j. približne 1,7 °C.
 
-## Jak souvisí uhlíkový rozpočet s cílem dosažení uhlíkové neutrality?
+## Ako súvisí uhlíkový rozpočet s cieľom uhlíkovej neutrality?
 
 {% include preview-box.html
     title="Koncept: uhlíkový rozpočet"
-    text="Globální oteplení je přibližně přímo úměrné celkovému množství CO<sub>2</sub>, které bylo vypuštěno do atmosféry"
+    text="Globálne oteplenie je približne priamo úmerné celkovému množstvu CO<sub>2</sub>, ktoré bolo vypustené do atmosféry"
     slug="koncept-uhlikovy-rozpocet"
 %}
 
-Uhlíkový rozpočet a dosažení uhlíkové neutrality jsou dva různé způsoby, jak je možné přemýšlet o snižování emisí skleníkových plynů. **Uhlíková neutralita** označuje stav, kdy lidstvo svým působením nepřidává CO<sub>2</sub> do atmosféry. Cíl *dosáhnout uhlíkové neutrality do určitého data* je srozumitelný a dobře formulovaný, a proto řada států a firem svůj závazek staví právě na něm.[^11]
+Uhlíkový rozpočet a dosiahnutie uhlíkovej neutrality sú dva rôzne spôsoby, ako uvažovať o znižovaní emisií <glossary id="antropogennesklenikoveplyny">skleníkových plynov</glossary>. **Uhlíková neutralita** označuje stav, kedy ľudstvo svojím pôsobením nepridáva CO<sub>2</sub> do atmosféry. Cieľ *dosiahnuť uhlíkovú neutralitu do určitého dátumu* je zrozumiteľný a dobre formulovaný, preto práve na ňom zakladajú mnohé štáty a firmy svoje záväzky.[^11]
 
-Cíl uhlíkové neutrality zjednodušeně řečeno říká, kdy spálíme poslední tunu fosilních paliv – nijak už ale neřeší, kolik fosilních paliv do té doby spálíme. Naproti tomu **uhlíkový rozpočet** vychází ze stanoveného cíle oteplení a na jeho základě určuje, kolik fosilních paliv celkem ještě můžeme spálit – aniž by určoval, kdy přesně má dojít ke spálení poslední tuny.
+Zjednodušene povedané, cieľ uhlíkovej neutrality hovorí, kedy spálime poslednú tonu fosílnych palív – už sa ale nezaoberá tým, koľko fosílnych palív dovtedy spálime. V porovnaní s tým **uhlíkový rozpočet** vychádza zo stanoveného cieľa oteplenia a na jeho základe určuje, koľko fosílnych palív môžeme ešte celkovo spáliť bez toho, aby stanovil, kedy presne by sa mala spáliť posledná tona.
 
-Rozdíl mezi uhlíkovým rozpočtem a uhlíkovou neutralitou dobře ukazuje metafora kuřáka, který se snaží skončit s kouřením. Kdy vykouří svou poslední cigaretu (uhlíková neutralita) a celkový počet cigaret, který do té doby vykouří (uhlíkový rozpočet), jsou dvě velmi různé věci. Přitom je intuitivně jasné, že dopad na jeho zdraví bude odpovídat celkovému počtu cigaret, nikoli datu, kdy s kouřením přestane.
+Rozdiel medzi uhlíkovým rozpočtom a uhlíkovou neutralitou dobre ilustruje metafora fajčiara, ktorý sa snaží prestať fajčiť. Kedy vyfajčí svoju poslednú cigaretu (uhlíková neutralita) a celkový počet cigariet, ktoré dovtedy vyfajčí (uhlíkový rozpočet), sú dve veľmi odlišné veci. Pritom je intuitívne jasné, že dosah na jeho zdravie bude zodpovedať celkovému počtu vyfajčených cigariet a nie dátumu, kedy prestane fajčiť.
 
-## Jak uhlíkový rozpočet pomáhá uvažovat o potřebných opatřeních?
+## Ako nám uhlíkový rozpočet pomáha uvažovať o potrebných opatreniach?
 
-Představa celkového množství emisí, které můžeme jako lidstvo vypustit, abychom nepřekročili určitou hranici globálního oteplení, byla použita ke komunikaci naléhavosti klimatické změny i k formulacím závazků snižování emisí:
+Predstava celkového množstva emisií, ktoré môžeme ako ľudstvo vypustiť, aby sme neprekročili určitú hranicu globálneho oteplenia, sa používa na komunikáciu naliehavosti zmeny klímy a na formulovanie záväzkov na zníženie emisií:
 
-* Zvláštní zpráva IPCC ke globálnímu oteplení o 1,5 °C z roku 2018 uvádí, že pro 50% pravděpodobnost nepřekročení hranice oteplení o 1,5 °C může lidstvo vypustit už pouze 580 Gt CO<sub>2</sub>. V současnosti se vypouští přibližně 40 Gt CO₂ ročně, a tímto tempem by se uvedený uhlíkový rozpočet vyčerpal přibližně za čtrnáct let, tedy zhruba v roce 2032. Tyto úvahy pak vedly k zjednodušeným sdělením typu *máme jen 14 let k záchraně planety!* Emisní scénáře, které počítají s postupným snižováním emisí, vyznívají o něco mírněji: pro dosažení oteplení pod 1,5 °C je třeba snížit emise na polovinu do roku 2030 a dosáhnout uhlíkové neutrality do roku 2050.[^56]
+* Osobitná správa IPCC z roku 2018 uvádza, že na to, aby ľudstvo s 50 % pravdepodobnosťou neprekročilo hranicu oteplenia o 1,5 °C, môže vypustiť už iba 580 Gt CO<sub>2</sub>. V súčasnosti sa vypúšťa približne 40 Gt CO<sub>2</sub> ročně a týmto tempom by sa uvedený uhlíkový rozpočet vyčerpal približne v roku 2032. Tieto úvahy potom vedú k zjednodušeným posolstvám typu *na záchranu planéty máme iba X rokov!* Emisné scenáre, ktoré predpokladajú postupné znižovanie emisií, vyznievajú o niečo umiernenejšie: na dosiahnutie oteplenia pod 1,5 °C je potrebné znížiť emisie do roku 2030 na polovicu a do roku 2050 dosiahnuť uhlíkovú neutralitu.[^56]
 
-* Koncept zbývajícího uhlíkového rozpočtu používá pro formulaci závazků například Velká Británie[^88] nebo Praha.[^89]
+* Koncept zostávajúceho uhlíkového rozpočtu používajú na formulovanie záväzkov napríklad Veľká Británia[^88] a Praha.[^89]
 
-* Možnému využití konceptu zbývajícího uhlíkového rozpočtu jako vodítka pro stanovení potřebných opatření se věnují autoři článku [Opportunities and challenges in using remaining carbon budgets to guide climate policy.](https://www.nature.com/articles/s41561-020-00663-3) Podrobně diskutují předpoklady celého přístupu, zdroje nejistot v určení uhlíkového rozpočtu i problematiku alokace uhlíkových rozpočtů pro jednotlivé státy.
+* Možnému využitiu konceptu zostatkového uhlíkového rozpočtu ako návodu na určovanie potrebných opatrení sa venuje článok [Opportunities and challenges in using remaining carbon budgets to guide climate policy.](https://www.nature.com/articles/s41561-020-00663-3) Podrobne rozoberá predpoklady tohto prístupu, zdroje neistôt v určovaní uhlíkového rozpočtu a otázku prideľovania uhlíkových rozpočtov jednotlivým štátom.
 
-## Čím je určeno výsledné globální oteplení?
+## Čo určuje výsledné globálne oteplenie?
 
 {% include preview-box.html
     title="Souvislost koncentrace CO<sub>2</sub> a globálního oteplování"
@@ -55,13 +55,13 @@ Představa celkového množství emisí, které můžeme jako lidstvo vypustit, 
     slug="souvislost-koncentrace-oteplovani"
 %}
 
-Měření i klimatické modely ukazují, že **globální oteplení je přibližně přímo úměrné celkovému množství CO<sub>2</sub>, jež bylo do atmosféry vypuštěno**.[^58] [^55] [^56] [^57] Jinak řečeno: čím více emisí skleníkových plynů vypustíme, tím vyšší bude průměrná světová teplota. Když si tedy stanovíme určitou hranici oteplení, kterou nechceme překročit, dá se vypočítat, **kolik CO<sub>2</sub> ještě jako lidstvo můžeme v budoucnu vypustit, abychom se pod danou hranicí udrželi**. Mluvíme pak o zbývajícím uhlíkovém rozpočtu pro danou hranici. Konkrétně například pro 66% pravděpodobnost udržení oteplení pod hranicí 1,5 °C (oproti průměru z let 1850-1900) byl v roce 2021 zbývající uhlíkový rozpočet řádově 300 Gt CO<sub>2</sub> a pro udržení oteplení pod hranicí 2°C je zbývající uhlíkový rozpočet řádově 1050 Gt CO<sub>2</sub>.[^56]
+Merania aj klimatické modely ukazujú, že **globálne oteplenie je približne priamo úmerné celkovému množstvu CO<sub>2</sub> vypustenému do atmosféry**.[^58] [^55] [^56] [^57] Inými slovami, čím viac skleníkových plynov vypustíme, tým vyššia bude priemerná globálna teplota. Keď si teda stanovíme určitú hranicu oteplenia, ktorú nechceme prekročiť, vieme vypočítať, **koľko CO<sub>2</sub> ešte môžeme ako ľudstvo v budúcnosti vypustiť, aby sme sa udržali pod touto hranicou. Potom hovoríme o zostávajúcom uhlíkovom rozpočte pre danú hranicu.** Konkrétne napríklad pri 66 % pravdepodobnosti udržania oteplenia pod 1,5 °C (v porovnaní s priemerom rokov 1850 - 1900) bol zostávajúci uhlíkový rozpočet v roku 2021 rádovo 300 Gt CO<sub>2</sub> a pre udržanie oteplenia pod 2 °C je zostávajúci uhlíkový rozpočet rádovo 1050 Gt CO<sub>2</sub>.[^56]
 
-Označení *rozpočet* je přitom třeba brát jako metaforu: podobně jako rodinný rozpočet na dovolenou udává, kolik peněz je celkově možné utratit v průběhu dovolené, uhlíkový rozpočet říká, jaké množství CO<sub>2</sub> ještě lidstvo může vypustit, aby nedošlo k překročení určité hranice globálního oteplení.
+Pojem *rozpočet* treba chápať ako metaforu: podobne ako rodinný rozpočet na dovolenku udáva, koľko peňazí možno celkovo minúť počas dovolenky, uhlíkový rozpočet nám hovorí, aké množstvo CO<sub>2</sub> môže ľudstvo ešte vypustiť, aby globálne oteplenie neprekročilo určitú hranicu.
 
 ## Další zdroje a poznámky
 
-[^11]: Více o závazcích států a firem vysvětlujeme v textu [Co přesně znamená uhlíková neutralita](/explainery/uhlikova-neutralita) a srovnáváme v rešerši [Emisní závazky států](/studie/2021-reserse-zavazky-statu).
+[^11]: Viac o záväzkoch štátov a firiem píšeme v texte [Čo presne znamená uhlíková neutralita](/explainery/uhlikova-neutralita) a porovnávame ich v rešerši [Emisní závazky států](https://faktaoklimatu.cz/studie/2021-reserse-zavazky-statu).
 
 [^55]: Matthews, H. D., Tokarska, K. B., Nicholls, Z. R. J. et al. [Opportunities and challenges in using remaining carbon budgets to guide climate policy.](https://www.nature.com/articles/s41561-020-00663-3) Nature Geoscience 13, str. 769–779 (2020). https://doi.org/10.1038/s41561-020-00663-3
 
