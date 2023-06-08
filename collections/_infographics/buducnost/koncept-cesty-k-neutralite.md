@@ -16,7 +16,7 @@ V posledných rokoch si rôzne krajiny a spoločnosti kladú za cieľ dosiahnuť
 
 ## Čo vidíme v grafike?
 
-Grafika porovnáva štyri rôzne varianty znižovania emisií a výsledné oteplenie (v porovnaní s referenčným obdobím 1850 - 1900), ku ktorým by tieto rozdielne cesty viedli:
+Grafika porovnáva štyri rôzne varianty znižovania emisií a výsledné oteplenie (v porovnaní s referenčným obdobím 1850 – 1900), ku ktorým by tieto rozdielne cesty viedli:
 
 1. Dosiahnutie uhlíkovej neutrality v roku 2050, keď sa súčasné ročné globálne emisie 40 Gt CO<sub>2</sub> znížia každý rok o 1,3 Gt (*lineárny pokles*). V tomto prípade by sa do roku 2050 vypustilo celkovo približne 600 Gt CO<sub>2</sub> a výsledné oteplenie by dosiahlo 1,7 °C.
 2. Dosiahnutie uhlíkovej neutrality v roku 2050, pričom emisie klesnú každoročne o 11,5 %, teda spočiatku klesajú v absolútnych číslach oveľa rýchlejšie ako v prvom variante (*exponenciálny pokles*). Celkovo by sa v tomto prípade do roku 2050 vypustilo len zhruba 350 Gt CO<sub>2</sub> a výsledné oteplenie by neprekročilo 1,5 °C.
@@ -55,7 +55,7 @@ Predstava celkového množstva emisií, ktoré môžeme ako ľudstvo vypustiť, 
     slug="[souvislost-koncentrace-oteplovani](https://faktaoklimatu.cz/infografiky/souvislost-koncentrace-oteplovani)"
 %}
 
-Merania aj klimatické modely ukazujú, že **globálne oteplenie je približne priamo úmerné celkovému množstvu CO<sub>2</sub> vypustenému do atmosféry**.[^58] [^55] [^56] [^57] Inými slovami, čím viac skleníkových plynov vypustíme, tým vyššia bude priemerná globálna teplota. Keď si teda stanovíme určitú hranicu oteplenia, ktorú nechceme prekročiť, vieme vypočítať, **koľko CO<sub>2</sub> ešte môžeme ako ľudstvo v budúcnosti vypustiť, aby sme sa udržali pod touto hranicou. Potom hovoríme o zostávajúcom uhlíkovom rozpočte pre danú hranicu.** Konkrétne napríklad pri 66 % pravdepodobnosti udržania oteplenia pod 1,5 °C (v porovnaní s priemerom rokov 1850 - 1900) bol zostávajúci uhlíkový rozpočet v roku 2021 rádovo 300 Gt CO<sub>2</sub> a pre udržanie oteplenia pod 2 °C je zostávajúci uhlíkový rozpočet rádovo 1050 Gt CO<sub>2</sub>.[^56]
+Merania aj klimatické modely ukazujú, že **globálne oteplenie je približne priamo úmerné celkovému množstvu CO<sub>2</sub> vypustenému do atmosféry**.[^58] [^55] [^56] [^57] Inými slovami, čím viac skleníkových plynov vypustíme, tým vyššia bude priemerná globálna teplota. Keď si teda stanovíme určitú hranicu oteplenia, ktorú nechceme prekročiť, vieme vypočítať, **koľko CO<sub>2</sub> ešte môžeme ako ľudstvo v budúcnosti vypustiť, aby sme sa udržali pod touto hranicou. Potom hovoríme o zostávajúcom uhlíkovom rozpočte pre danú hranicu.** Konkrétne napríklad pri 66 % pravdepodobnosti udržania oteplenia pod 1,5 °C (v porovnaní s priemerom rokov 1850 – 1900) bol zostávajúci uhlíkový rozpočet v roku 2021 rádovo 300 Gt CO<sub>2</sub> a pre udržanie oteplenia pod 2 °C je zostávajúci uhlíkový rozpočet rádovo 1050 Gt CO<sub>2</sub>.[^56]
 
 Pojem *rozpočet* treba chápať ako metaforu: podobne ako rodinný rozpočet na dovolenku udáva, koľko peňazí možno celkovo minúť počas dovolenky, uhlíkový rozpočet nám hovorí, aké množstvo CO<sub>2</sub> môže ľudstvo ešte vypustiť, aby globálne oteplenie neprekročilo určitú hranicu.
 
