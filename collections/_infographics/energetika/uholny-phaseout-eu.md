@@ -7,8 +7,8 @@ published:  2022-01-04
 weight:     90
 tags-scopes: [ eu ]
 tags-topics: [ energetika, opatrenia ]
-caption:    "Stav uhoľného phase-outu v krajinách EÚ ku koncu mája 2020. Hodnoty produkcie elektriny z uhlia sú uvádzané v kWh na osobu za rok."
-data-our:   "https://docs.google.com/spreadsheets/d/1oIeGtP4AFbNi3Dv-8AojfeptYoDYu0LGRaHEB4nPh2U"
+caption:    "Stav uhoľného phase-outu v krajinách EÚ ku koncu januára 2022. Hodnoty produkcie elektriny z uhlia sú uvádzané v kWh na osobu za rok."
+data-our:   "https://docs.google.com/spreadsheets/d/1uLijA3LFRBn-6V26g2iLkRupLiln3333uhhNW6A4OLg/edit?usp=sharing"
 data-orig:  [["Ember (výroba a spotreba elektriny)", "https://ember-climate.org/project/data-global-electricity-review/"], ["Europe Beyond Coal (termíny phase-outov)", "https://beyond-coal.eu/coal-exit-tracker/?type=maps&layer=4"], ["OSN (populace)", "https://population.un.org/wpp/Download/Files/1_Indicators%20(Standard)/EXCEL_FILES/1_Population/WPP2019_POP_F01_1_TOTAL_POPULATION_BOTH_SEXES.xlsx"]]
 ---
 
