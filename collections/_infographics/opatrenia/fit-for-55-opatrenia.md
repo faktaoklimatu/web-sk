@@ -61,9 +61,9 @@ Nižšie uvádzame prehľad navrhovaných opatrení vrátane odkazov na pôvodn�
 #### Krajina a ekosystémy
 
 * [Lesná stratégia EÚ](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021DC0572)
-* [Revízia nariadenia o využívaní pôdy a lesníctva](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021PC0554)
+* [Revízia nariadenia o využívaní pôdy a lesníctve](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021PC0554)
 
-### Podpůrná opatření
+### Podporné opatrenia
 
 * Vznik [Sociálneho klimatického fondu](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021PC0568)
 * Posilnenie [Modernizačného](https://ec.europa.eu/clima/eu-action/funding-climate-action/modernisation-fund_en) a [Inovačného fondu](https://ec.europa.eu/clima/eu-action/funding-climate-action/innovation-fund_en)
