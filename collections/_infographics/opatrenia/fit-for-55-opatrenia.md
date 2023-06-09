@@ -83,5 +83,3 @@ Balíčkom Fit for 55 sa viac zaoberá napríklad [Klimatická koalícia](https:
 
 [^explainer-emisni-povolenky]: Viac v našom texte [Ako fungujú európske emisné povolenky?](/explainery/emisne-povolenky-ets)
 
-// [^explainer-lesni-strategie-eu]: Více v našem textu [Co přináší nová Lesnická strategie EU do roku 2030?](/explainery/lesnicka-strategie-eu) //
-
