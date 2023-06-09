@@ -26,7 +26,7 @@ Nižšie uvádzame prehľad navrhovaných opatrení vrátane odkazov na pôvodn�
 
 * [Revízia obchodovania s emisnými kvótami](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021PC0551) (*European Emissions Trading System*, EU ETS)
 * Zahrnutie [leteckej](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021PC0552) a [námornej dopravy](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021PC0551) do EU ETS
-* [Rozšírenie EÚ ETS o cestnú dopravu a budovy](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021PC0551)
+* [Rozšírenie EU ETS o cestnú dopravu a budovy](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021PC0551)
 
 #### Ďalšie trhové mechanizmy
 
@@ -42,7 +42,7 @@ Nižšie uvádzame prehľad navrhovaných opatrení vrátane odkazov na pôvodn�
 #### Energetika
 
 * [Revízia smernice o obnoviteľných zdrojoch](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021PC0557) (*Renewable Energy Directive*, RED)
-* [Revízia znižovania emisií metánu v odvetví energetiky a o zmene nariadenia (EU) 2019/942](https://eur-lex.europa.eu/legal-content/cs/TXT/?uri=CELEX%3A52021PC0805)
+* [Revízia znižovania emisií metánu v odvetví energetiky a o zmene nariadenia EÚ 2019/942](https://eur-lex.europa.eu/legal-content/cs/TXT/?uri=CELEX%3A52021PC0805)
 * [Revízia nariadenia o vnútornom trhu s plynmi z obnoviteľných zdrojov, so zemným plynom a s vodíkom](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=COM%3A2021%3A804%3AFIN)
 * [Revízia smernice o spoločných pravidlách pre vnútorný trh s plynmi z obnoviteľných zdrojov, so zemným plynom a s vodíkom](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=COM%3A2021%3A803%3AFIN)
 
