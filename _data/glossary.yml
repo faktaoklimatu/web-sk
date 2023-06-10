@@ -7,16 +7,24 @@
 
 - id: albedo
   name-short: "Albedo"
-  description: "Albedo vyjadruje odrazivosť povrchu – podiel prichádzajúceho žiarenia, ktorý povrch odrazí späť do atmosféry. Povrch, ktorý všetko žiarenie pohltí, má albedo 0 a povrch, ktorý všetko žiarenie odrazí, má albedo 1. V klimatológii hrá albedo dôležitú úlohu v úvahách o energetickej bilancii planéty a pri určovaní množstva slnečného žiarenia, ktoré povrch planéty odrazí.
-Priemerné albedo Zeme je v rozmedzí 0,30 – 0,35, čo znamená, že približne tretina prijatého žiarenia sa odrazí a dve tretiny sa premenia na teplo. Rôzne oblasti planéty však majú rôzne albedo, ktoré sa môže navyše meniť počas roka na základe typu vegetácie, množstva snehu alebo  rozsahu zaľadnenia – čerstvý sneh má albedo 0,8 (teda odráža 80 % žiarenia), albedo ľadovcov je medzi 0,5 – 0,7. Naopak oceán alebo čierny asfalt pohltí skoro všetko žiarenie, ktoré na nich dopadne – oceán má albedo 0,06 a asfalt 0,04."
+  description: "Albedo vyjadruje odrazivosť povrchu – podiel prichádzajúceho žiarenia, ktorý povrch odrazí späť do atmosféry. Povrch, ktorý všetko žiarenie pohltí, má albedo 0 a povrch, ktorý všetko žiarenie odrazí, má albedo 1. V klimatológii hrá albedo dôležitú úlohu v úvahách o energetickej bilancii planéty a pri určovaní množstva slnečného žiarenia, ktoré povrch planéty odrazí. Priemerné albedo Zeme je v rozmedzí 0,30 – 0,35, čo znamená, že približne tretina prijatého žiarenia sa odrazí a dve tretiny sa premenia na teplo. Rôzne oblasti planéty však majú rôzne albedo, ktoré sa môže navyše meniť počas roka na základe typu vegetácie, množstva snehu alebo  rozsahu zaľadnenia – čerstvý sneh má albedo 0,8 (teda odráža 80 % žiarenia), albedo ľadovcov je medzi 0,5 – 0,7. Naopak oceán alebo čierny asfalt pohltí skoro všetko žiarenie, ktoré na nich dopadne – oceán má albedo 0,06 a asfalt 0,04."
 
 - id: antropogennesklenikoveplyny
   name-short: "Antropogénne skleníkové plyny"
   description: "V súčasnosti majú štáty viazané _UNFCCC_ a _Kjótskym protokolom_ povinnosť inventarizovať emisie siedmych skleníkových plynov [[ghgprotocol.org](https://ghgprotocol.org/sites/default/files/standards_supporting/Required%20gases%20and%20GWP%20values.pdf)]: _antropogénny CO<sub>2</sub>_ (oxid uhličitý), _CH<sub>4</sub>_ (metán), _N<sub>2</sub>O_ (oxid dusný), _PFCs_ (plnofluórované uhľovodíky), _HFCs_ (hydrofluórované uhľovodíky), _SF<sub>6</sub>_ (fluorid sírový) a _NF<sub>3</sub>_ (fluorid dusitý), čo sú plyny, ktoré prispievajú veľkou mierou ku skleníkovému efektu (viď _CO<sub>2</sub>eq_ nižšie)."
 
+- id: cfchfc
+  name-short: "Halogenderiváty uhľovodíkov"
+  description: "Ide o plyny, známe tiež často ako **freóny**. Väčšina z nich poškodzuje ozónovú vrstvu a zároveň sú silnými skleníkovými plynmi. V chemickom názvosloví sa označujú ako [CFCs](https://en.wikipedia.org/wiki/Chlorofluorocarbon) (chloro-fluoro-carbons), HCFCs (hydro-chloro-fluoro-carbons) alebo [HFCs](https://en.wikipedia.org/wiki/Hydrofluorocarbon) (hydro-fluoro-carbons), a používajú sa ako rozpúšťadlá, plnidlá alebo ako chladiace plyny v chladničkách a klimatizačných jednotkách."
+
 - id: citlivost
   name-short: "Citlivosť klímy"
   description: "_Citlivosť klímy_ (z angl. „climate sensitivity“) udáva, o koľko stupňov Celzia sa zvýši priemerná globálna teplota vzduchu, ak dôjde k zdvojnásobeniu koncentrácie skleníkových plynov v atmosfére. Klimatologické modely predpovedajú hodnoty citlivosti v intervale 2 – 4,5 °C s najpravdepodobnejšou hodnotou 3 °C. To znamená, že pri zvýšení koncentrácie skleníkových plynov na dvojnásobok predindustriálnej hodnoty (z 280 ppm na 560 ppm) môžeme očakávať nárast priemernej globálnej teploty o 3 °C s tým, že oteplenie bude spoľahlivo aspoň 2 °C a nemôžeme vylúčiť zvýšenie teploty až o 4,5 °C. Koncentrácia CO<sub>2</sub> v atmosfére roku 2019 bola 411 ppm a v prípade scenára RCP8.5 (bez obmedzovania emisií) koncentráciu 560 ppm dosiahneme zhruba v roku 2050. Podrobnejšiu diskusiu dôvodov, ktoré fundamentálne znemožňujú spresniť interval odhadu, ponúkajú prehľadové články [Knutti & Hegerl, 2008](https://ethz.ch/content/dam/ethz/special-interest/usys/iac/iac-dam/documents/group/climphys/knutti/publications/knutti08natgeo.pdf) a [Knutti, Rugenstein & Hegerl, 2017](https://www.research-collection.ethz.ch/handle/20.500.11850/197761). Vo všeobecnej rovine sa jedná o odozvu klimatického systému na zmeny v radiačnom pôsobení (z angl. [radiative forcing](https://en.wikipedia.org/wiki/Radiative_forcing)), podrobnú diskusiu konceptu citlivosti klímy z pohľadu rôznych časových škál obsahuje [en.wikipedia](https://en.wikipedia.org/wiki/Climate_sensitivity)."
+
+- id: cop
+  name-short: "COP"
+  name-long: "Conference of the Parties"
+  description: "V súvislosti s rámcovými dohovormi OSN sa konajú následné konferencie zmluvných strán (COP). Konferencia zmluvných strán je najvyšším správnym orgánom dohovoru OSN. Jej úlohou je dosiahnuť konsenzus o riešeniach a plniť ciele dohovoru prostredníctvom konkrétnych právnych úprav. Existuje viacero dohovorov OSN a na našom webovom sídle sa najčastejšie odvolávame na [Rámcový dohovor OSN o zmene klímy](/slovnik#unfccc) a jeho následné konferencie zmluvných strán. Príkladom je UNFCCC:COP3, kde bol podpísaný [Kjótsky protokol](/slovnik#kjotskyprotokol), alebo UNFCCC:COP21, kde bola podepísaná [Parížska dohoda](/slovnik#parizskadohoda)."
 
 - id: co2eq
   name-short: "CO<sub>2</sub>eq"
@@ -31,7 +39,12 @@ Priemerné albedo Zeme je v rozmedzí 0,30 – 0,35, čo znamená, že približn
 - id: emisnaintenzitaekonomiky
   name-short: "Emisná intenzita ekonomiky"
   description: "Intenzita skleníkových plynov v hospodárstve je definovaná ako pomer medzi emisiami CO<sub>2</sub>eq a HDP danej ekonomiky. HDP sa spravidla vyjadruje pomocou parity kúpnej sily, kedy sú zohľadnené rôzne cenové hladiny v jednotlivých krajinách. K emisiám skleníkových plynov dochádza pri hospodárskej aktivite. Emisnú intenzitu možno teda chápať ako ukazovateľ efektivity alebo čistoty danej ekonomiky vzhľadom na množstvo vypúšťaných skleníkových plynov. Spravidla sa udáva v kg CO<sub>2</sub>eq na $ HDP. Medzi štátmi s najnižšou a najvyššou emisnou intenzitou sú až desaťnásobné rozdiely."
-  
+ 
+ - id: euets
+  name-short: "EU ETS"
+  name-long: "EU Emissions Trading System"
+  description: "Európsky systém obchodovania s emisiami (EU ETS) reguluje a postupne znižuje množstvo emisií skleníkových plynov, ktoré vypúšťajú vybrané podniky v EÚ - najmä veľké elektrárne, ropné rafinérie atď. EÚ každoročne uvoľňuje určitý počet emisných kvót, ktoré potom vybrané podniky predávajú v aukciách a obchodujú s nimi, aby pokryli svoju produkciu skleníkových plynov. Zníženie počtu vydaných kvót alebo ich zdraženie na voľnom trhu má za cieľ povzbudiť veľkých znečisťovateľov k inováciám v oblasti čistých technológií. Viac informácií nájdete v našom [texte o systéme EU ETS](/explainery/emisne-povolenky-ets)."
+ 
 - id: externalita
   name-short: "Externalita"
   description: "Externalita predstavuje vedľajší, nechcený efekt hospodárskej činnosti. Tento efekt môže byť pozitívny alebo negatívny (pozitívna, resp. negatívna externalita). Príkladom negatívnej externality je továreň vypúšťajúca toxický odpad do rieky alebo autá uvoľňujúce splodiny s negatívnym dopadom na zdravie obyvateľov. Príkladom pozitívnej externality je včelár, ktorého včely prispievajú k vyššej úrode poľnohospodárov v okolí, alebo firma, ktorá uvoľní svoj softvér ako *open source*. Externalita predstavuje mimotrhový faktor, pri ktorom nedochádza ku kompenzácii – napr. továreň vypúšťajúca odpad neplatí okolitým obyvateľom, ktorí už rieku nemôžu využívať. Klimatické zmeny možno považovať za negatívnu externalitu spotreby s globálnym dosahom."
@@ -50,6 +63,10 @@ Priemerné albedo Zeme je v rozmedzí 0,30 – 0,35, čo znamená, že približn
   name-long: "The Intergovernmental Panel on Climate Change"
   description: "_Medzivládny panel o zmene klímy_ je vedecký orgán založený v roku 1988 poverený vyhodnocovaním rizík zmeny klímy, potvrdený Valným zhromaždením OSN rezolúciou 43/53. Poslaním IPCC je poskytovať komplexné vedecké posúdenie súčasných vedeckých, technických a sociálno-ekonomických informácií z celého sveta o nebezpečenstve klimatickej zmeny spôsobenej ľudskou činnosťou, o jej potenciálnych environmentálnych a sociálno-ekonomických dôsledkoch a o možnostiach prispôsobenia sa týmto dôsledkom alebo o možnostiach zmiernenia ich účinkov. IPCC predstavuje medzinárodne uznávanú autoritu v oblasti klimatických zmien, vytvára správy, ktoré sú dohodou popredných klimatológov a konsenzu zúčastnených vlád. To poskytuje smerodajné politické poradenstvo s ďalekosiahlymi dôsledkami pre ekonomiku a životný štýl [[cs.wikipedia](https://cs.wikipedia.org/wiki/IPCC)]."
 
+- id: kjotskyprotokol
+  name-short: "Kjótsky protokol"
+  description: "Ide o medzinárodnú dohodu, ktorá bola dojednaná v roku 1997 na konferencii [UNFCCC:COP3](/slovnik#cop) v japonskom Kjóte a ktorá je rovnako ako Parížska dohoda právne záväzná. Protokol pôvodne podpísalo 83 signatárov vrátane väčšiny krajín Európy, Ruska, Kazachstanu, Austrálie, Nového Zélandu, USA a Kanady. Spojené štáty však dokument nepodpísali a Kanada neskôr od zmluvy odstúpila. Signatári sa v ňom zaviazali znížiť emisie skleníkových plynov v priemere o 5,2 %, pričom cieľ každej krajiny bol stanovený individuálne podľa jej možností. Medzi sledované plyny patrili okrem CO<sub>2</sub> aj metán, N<sub>2</sub>O, HFC, PFC a SF<sub>6</sub>."
+
 - id: mitigacia
   name-short: "Mitigácia"
   description: "Opatrenia zamerané na zmiernenie klimatických zmien, predovšetkým na znižovanie emisií skleníkových plynov (teda nielen _CO<sub>2</sub>_, ale aj metánu, _N<sub>2</sub>O_ a ďalších). Príkladom mitigačných opatrení je uhlíková daň, využívanie obnoviteľných zdrojov energie, elektrifikácia dopravy alebo udržateľné hospodárenie v lesoch a znižovanie ťažby."
@@ -58,6 +75,10 @@ Priemerné albedo Zeme je v rozmedzí 0,30 – 0,35, čo znamená, že približn
   name-short: "NASA"
   name-long: "National Aeronautics and Space Administration"
   description: "NASA je americká vládna agentúra zodpovedná za americký kozmický program, všeobecný výskum v oblasti letectva a lepšie porozumenie prírodným zložkám Zeme [[en.wikipedia](https://en.wikipedia.org/wiki/NASA)]."
+
+- id: parizskadohoda
+  name-short: "Parížska dohoda"
+  description: "Ide o medzinárodnú dohodu, o ktorej sa rokovalo v roku 2015 v Paríži a ktorá je rovnako ako Kjótsky protokol právne záväzná. V dohode sa deklaruje najmä cieľ *Udržať nárast priemernej globálnej teploty výrazne pod 2 °C v porovnaní s predindustriálnou úrovňou a snaha udržať nárast teploty pod 1,5 °C v porovnaní s predindustriálnou úrovňou.* Parížska dohoda je súčasťou Rámcového dohovoru OSN o zmene klímy (UNFCCC) a podpísalo ju 193 krajín. Členské štáty sa v nej zaväzujú stanoviť a plniť tzv. národne stanovené príspevky (*Nationally Determined Contributions*, NDCs) na zníženie emisií skleníkových plynov a stanovuje sa v nej proces, v rámci ktorého sa budú národné záväzky monitorovať a vyhodnocovať."
 
 - id: ppm
   name-short: "ppm"
@@ -97,7 +118,21 @@ Priemerné albedo Zeme je v rozmedzí 0,30 – 0,35, čo znamená, že približn
   name-short: "Uhlíková neutralita"
   description: "Stav, kedy sú všetky vypúšťané emisie uhlíka (tzv. skleníkové plyny) eliminované prírodnými alebo technologickými procesmi. Ak máme udržať úroveň globálneho oteplenia pod 1,5 – 2 °C, musia rozvinuté krajiny dosiahnuť uhlíkovú neutralitu do roku 2050. Praktické opatrenia smerujúce k zníženiu vypúšťaných emisií zahŕňajú najmä prechod na obnoviteľné zdroje energie, zníženie spotreby a zvyšovanie energetickej účinnosti. Pre lepšiu predstavu, v roku 2017 bolo vyprodukovaných 37,1 gigaton CO<sub>2</sub>, pričom prírodnými procesmi z atmosféry bolo odstránených len 9,5 – 11 gigaton CO<sub>2</sub> (viac v článku [Uhlíková neutralita](https://www.europarl.europa.eu/news/cs/headlines/society/20190926STO62270/uhlikova-neutralita-dosahneme-ji-do-roku-2050)). Technológie zamerané na pohlcovanie skleníkových plynov zatiaľ nemajú na dosiahnutie uhlíkovej neutrality podstatný vplyv."
 
+- id: unfccc
+  name-short: "UNFCCC"
+  name-long: "United Nations Framework Convention on Climate Change"
+  description: "Rámcový dohovor Organizácie Spojených národov o zmene klímy (UNFCCC) je základným dokumentom globálnej spolupráce v oblasti znižovania koncentrácie skleníkových plynov v atmosfére a s tým súvisiacej zmeny klímy. Dohovor bol podpísaný v roku 1992 na konferencii OSN o životnom prostredí v Riu de Janeiro a odvtedy sa jeho právny rozsah rozšíril prostredníctvom tzv.[Konferencií zmluvných strán](/slovnik#cop) (COP) dokumenty ako [Kjotsky Protokol](/slovnik#kjotskyprotokol) alebo [Parížska dohoda](/slovnik#parizskadohoda). [[Enviroportál](https://www.enviroportal.sk/dokumenty/medzinarodne-dohovory/dohovor/1)]"
+
+- id: uzamknutie-uhlika
+  name-short: "Uzamknutie uhlíka"
+  description: "Uzamknutie uhlíka (_carbon lock-in_) , alebo uzamknutie uhlíkových emisií, sa vzťahuje na situáciu, kedy veľké investície do znečisťujúcej infraštruktúry bránia prechodu na nízkouhlíkové technológie v blízkej budúcnosti, aby sa zabránilo znehodnoteniu predtým vynaložených zdrojov. Typickým príkladom sú investície do veľkej infraštruktúry fosílnych palív, ako sú plynovody, uhoľné elektrárne alebo infraštruktúra ťažby a dobývania, ktoré vzhľadom na svoj dlhodobý charakter môžu produkovať emisie ešte mnoho desaťročí. Tieto investície môžu tiež uľahčiť budúce investície do podobnej infraštruktúry vďaka úsporám z rozsahu (_economy of scale_). [[en.wikipedia]](https://en.wikipedia.org/wiki/Carbon_lock-in)"
+
 - id: w
   name-short: "W a Wh (kW, MW… a kWh, MWh…)"
   name-long: "watt, watthodina a ich násobky"
   description: "V našom kontexte sa s wattmi (a ich násobkami) stretávame najčastejšie v rámci energetiky pri opise výkonu elektrární. Príklad: výkon uhoľnej elektrárne Nováky je 266 MW (1 MW = milión W) [[sk.wikipedia](https://sk.wikipedia.org/wiki/Elektr%C3%A1re%C5%88_Nov%C3%A1ky)] a za rok vyrobí zhruba 1000 GWh elektriny [[energoklub.sk](https://energoklub.sk/sk/clanky/od-uhlia-k-biomase-a-plynu-pozname-detaily-premeny-elektrarne-novaky/)]. Jedna štandardná LED \"žiarovka\" má príkon okolo 9 W, jej klasický starý ekvivalent s žeraveným vláknom cca 60 W - ak ju necháte svietiť hodinu, spotrebujete cca 9, resp. 60 Wh (watthodín) energie. Spotreba elektriny v domácnostiach SR je cca 4900 GWh/rok [[Štatistický úrad SR](https://slovak.statistics.sk/wps/wcm/connect/df330cc3-d70d-4805-bcc2-04e0d7c65065/Energetika_2017.pdf)]."
+
+- id: wmo
+  name-short: "WMO"
+  name-long: "World Meteorology Organization"
+  description: "Svetová meteorologická organizácia (WMO) je orgán OSN, ktorý sa špecializuje na koordináciu výskumu a zhromažďovanie poznatkov o zemskej atmosfére. Hlavnými oblasťami záujmu sú počasie, klíma a voda na Zemi. [[sk.wikipedia](https://sk.wikipedia.org/wiki/Svetov%C3%A1_meteorologick%C3%A1_organiz%C3%A1cia)]"
