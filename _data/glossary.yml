@@ -13,6 +13,12 @@
   name-short: "Antropogénne skleníkové plyny"
   description: "V súčasnosti majú štáty viazané _UNFCCC_ a _Kjótskym protokolom_ povinnosť inventarizovať emisie siedmych skleníkových plynov [[ghgprotocol.org](https://ghgprotocol.org/sites/default/files/standards_supporting/Required%20gases%20and%20GWP%20values.pdf)]: _antropogénny CO<sub>2</sub>_ (oxid uhličitý), _CH<sub>4</sub>_ (metán), _N<sub>2</sub>O_ (oxid dusný), _PFCs_ (plnofluórované uhľovodíky), _HFCs_ (hydrofluórované uhľovodíky), _SF<sub>6</sub>_ (fluorid sírový) a _NF<sub>3</sub>_ (fluorid dusitý), čo sú plyny, ktoré prispievajú veľkou mierou ku skleníkovému efektu (viď _CO<sub>2</sub>eq_ nižšie)."
 
+- id: ccs
+  name-short: "CCS"
+  name-long: "Carbon capture and storage"
+  description: |
+   Sada technológií a infraštruktúry, ktorých cieľom je zachytenie CO<sub>2</sub> a jeho trvalé uloženie v geologicky stabilnom úložisku. Tieto technológie sú zatiaľ celosvetovo vo fáze (veľkých) pilotných prevádzok. Najčastejšie sa o CCS hovorí v súvislosti s veľkými bodovými zdrojmi emisií, ako sú elektrárne na fosílne zdroje alebo biomasu, cementárne alebo oceliarne. Alternatívou na ukladanie uhlíka je jeho využitie v priemysle, napr. na výrobu syntetických palív. Takýto postup sa potom označuje ako CCU (Carbon capture and utilization).
+
 - id: cfchfc
   name-short: "Halogenderiváty uhľovodíkov"
   description: "Ide o plyny, známe tiež často ako **freóny**. Väčšina z nich poškodzuje ozónovú vrstvu a zároveň sú silnými skleníkovými plynmi. V chemickom názvosloví sa označujú ako [CFCs](https://en.wikipedia.org/wiki/Chlorofluorocarbon) (chloro-fluoro-carbons), HCFCs (hydro-chloro-fluoro-carbons) alebo [HFCs](https://en.wikipedia.org/wiki/Hydrofluorocarbon) (hydro-fluoro-carbons), a používajú sa ako rozpúšťadlá, plnidlá alebo ako chladiace plyny v chladničkách a klimatizačných jednotkách."
@@ -75,6 +81,16 @@
   name-short: "NASA"
   name-long: "National Aeronautics and Space Administration"
   description: "NASA je americká vládna agentúra zodpovedná za americký kozmický program, všeobecný výskum v oblasti letectva a lepšie porozumenie prírodným zložkám Zeme [[en.wikipedia](https://en.wikipedia.org/wiki/NASA)]."
+
+- id: NDCs
+  name-short: "NDCs"
+  name-long: "Národné záväzky (Nationally Determined Contributions)"
+  description: "V rámci Parížskej dohody sa štáty zaviazali vypracovať a aktualizovať národné ciele pre znižovanie emisií skleníkových plynov, teda takzvané *Nationally Determined Contributions*. [[UNFCCC.int](https://unfccc.int/process-and-meetings/the-paris-agreement/nationally-determined-contributions-ndcs/nationally-determined-contributions-ndcs)]"
+
+- id: noaa
+  name-short: "NOAA"
+  name-long: "National Oceanic and Atmospheric Administration"
+  description: "NOAA, čiže Národný úrad pre oceán a atmosféru, je americká vládna agentúra zodpovedná za sledovanie a výskum oceánov a atmosféry a všeobecnejšie životného prostredia. [[cs.wikipedia](https://cs.wikipedia.org/wiki/N%C3%A1rodn%C3%AD_%C3%BA%C5%99ad_pro_oce%C3%A1n_a_atmosf%C3%A9ru)]"
 
 - id: parizskadohoda
   name-short: "Parížska dohoda"
