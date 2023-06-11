@@ -7,12 +7,17 @@
 
 - id: albedo
   name-short: "Albedo"
-  description: "Albedo vyjadruje odrazivosť povrchu – podiel prichádzajúceho žiarenia, ktorý povrch odrazí späť do atmosféry. Povrch, ktorý všetko žiarenie pohltí, má albedo 0 a povrch, ktorý všetko žiarenie odrazí, má albedo 1. V klimatológii hrá albedo dôležitú úlohu v úvahách o energetickej bilancii planéty a pri určovaní množstva slnečného žiarenia, ktoré povrch planéty odrazí.
-Priemerné albedo Zeme je v rozmedzí 0,30 – 0,35, čo znamená, že približne tretina prijatého žiarenia sa odrazí a dve tretiny sa premenia na teplo. Rôzne oblasti planéty však majú rôzne albedo, ktoré sa môže navyše meniť počas roka na základe typu vegetácie, množstva snehu alebo  rozsahu zaľadnenia – čerstvý sneh má albedo 0,8 (teda odráža 80 % žiarenia), albedo ľadovcov je medzi 0,5 – 0,7. Naopak oceán alebo čierny asfalt pohltí skoro všetko žiarenie, ktoré na nich dopadne – oceán má albedo 0,06 a asfalt 0,04."
+  description: "Albedo vyjadruje odrazivosť povrchu – podiel prichádzajúceho žiarenia, ktorý povrch odrazí späť do atmosféry. Povrch, ktorý všetko žiarenie pohltí, má albedo 0 a povrch, ktorý všetko žiarenie odrazí, má albedo 1. V klimatológii hrá albedo dôležitú úlohu v úvahách o energetickej bilancii planéty a pri určovaní množstva slnečného žiarenia, ktoré povrch planéty odrazí. Priemerné albedo Zeme je v rozmedzí 0,30 – 0,35, čo znamená, že približne tretina prijatého žiarenia sa odrazí a dve tretiny sa premenia na teplo. Rôzne oblasti planéty však majú rôzne albedo, ktoré sa môže navyše meniť počas roka na základe typu vegetácie, množstva snehu alebo  rozsahu zaľadnenia – čerstvý sneh má albedo 0,8 (teda odráža 80 % žiarenia), albedo ľadovcov je medzi 0,5 – 0,7. Naopak oceán alebo čierny asfalt pohltí skoro všetko žiarenie, ktoré na nich dopadne – oceán má albedo 0,06 a asfalt 0,04."
 
 - id: antropogennesklenikoveplyny
   name-short: "Antropogénne skleníkové plyny"
   description: "V súčasnosti majú štáty viazané _UNFCCC_ a _Kjótskym protokolom_ povinnosť inventarizovať emisie siedmych skleníkových plynov [[ghgprotocol.org](https://ghgprotocol.org/sites/default/files/standards_supporting/Required%20gases%20and%20GWP%20values.pdf)]: _antropogénny CO<sub>2</sub>_ (oxid uhličitý), _CH<sub>4</sub>_ (metán), _N<sub>2</sub>O_ (oxid dusný), _PFCs_ (plnofluórované uhľovodíky), _HFCs_ (hydrofluórované uhľovodíky), _SF<sub>6</sub>_ (fluorid sírový) a _NF<sub>3</sub>_ (fluorid dusitý), čo sú plyny, ktoré prispievajú veľkou mierou ku skleníkovému efektu (viď _CO<sub>2</sub>eq_ nižšie)."
+
+- id: ccs
+  name-short: "CCS"
+  name-long: "Carbon capture and storage"
+  description: |
+   Sada technológií a infraštruktúry, ktorých cieľom je zachytenie CO<sub>2</sub> a jeho trvalé uloženie v geologicky stabilnom úložisku. Tieto technológie sú zatiaľ celosvetovo vo fáze (veľkých) pilotných prevádzok. Najčastejšie sa o CCS hovorí v súvislosti s veľkými bodovými zdrojmi emisií, ako sú elektrárne na fosílne zdroje alebo biomasu, cementárne alebo oceliarne. Alternatívou na ukladanie uhlíka je jeho využitie v priemysle, napr. na výrobu syntetických palív. Takýto postup sa potom označuje ako CCU (Carbon capture and utilization).
 
 - id: citlivost
   name-short: "Citlivosť klímy"
@@ -58,6 +63,17 @@ Priemerné albedo Zeme je v rozmedzí 0,30 – 0,35, čo znamená, že približn
   name-short: "NASA"
   name-long: "National Aeronautics and Space Administration"
   description: "NASA je americká vládna agentúra zodpovedná za americký kozmický program, všeobecný výskum v oblasti letectva a lepšie porozumenie prírodným zložkám Zeme [[en.wikipedia](https://en.wikipedia.org/wiki/NASA)]."
+
+- id: NDCs
+  name-short: "NDCs"
+  name-long: "Národné záväzky (Nationally Determined Contributions)"
+  description: "V rámci Parížskej dohody sa štáty zaviazali vypracovať a aktualizovať národné ciele pre znižovanie emisií skleníkových plynov, teda takzvané *Nationally Determined Contributions*. [[UNFCCC.int](https://unfccc.int/process-and-meetings/the-paris-agreement/nationally-determined-contributions-ndcs/nationally-determined-contributions-ndcs)]"
+
+- id: noaa
+  name-short: "NOAA"
+  name-long: "National Oceanic and Atmospheric Administration"
+  description: "NOAA, čiže Národný úrad pre oceán a atmosféru, je americká vládna agentúra zodpovedná za sledovanie a výskum oceánov a atmosféry a všeobecnejšie životného prostredia. [[cs.wikipedia](https://cs.wikipedia.org/wiki/N%C3%A1rodn%C3%AD_%C3%BA%C5%99ad_pro_oce%C3%A1n_a_atmosf%C3%A9ru)]"
+
 
 - id: ppm
   name-short: "ppm"
