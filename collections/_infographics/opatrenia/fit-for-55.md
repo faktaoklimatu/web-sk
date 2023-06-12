@@ -18,114 +18,106 @@ caption:       "Fit for 55 je balík legislatívnych návrhov Európskej komisie
 
 Balík legislatívnych návrhov [Fit for 55](https://eur-lex.europa.eu/legal-content/cs/TXT/?uri=CELEX%3A52021DC0550), ktorý podporuje **zníženie emisií skleníkových plynov o 55 % do roku 2030 oproti roku 1990**, predstavila Európska komisia v júli 2021. Balík obsahuje návrhy na úpravu existujúcich smerníc a nariadení, ako aj úplne nové legislatívne návrhy zamerané na oblasti ako obchodovanie s emisiami (EU ETS), uhlíkové vyrovnanie na hraniciach, energetiku a palivá či využívanie pôdy a lesné hospodárstvo. V neposlední řadě pak přináší podpůrná opatření, jejichž cílem je učinit transformaci sociálně spravedlivější. V neposlednom rade prináša podporné opatrenia s cieľom urobiť transformáciu sociálne spravodlivejšou. Navrhované opatrenia by mali priniesť nové príležitosti pre investície, inovácie a tvorbu pracovných miest.[^fit-for-55]
 
-Balíček se aktuálně nachází ve fázi legislativních návrhů ze strany Evropské komise, které se dále projednávají v Evropském parlamentu a Radě Evropské unie, tedy s účastí ministrů vlád členských zemí a národních pracovních skupin. Pro Českou republiku je v tomto kontextu zásadní **předsednictví Radě EU**,[^predsednictvi-eu] které převezme v druhé polovině roku 2022 a bude tak mít možnost ovlivnit směr jednání. Očekává se, že by vyjednávání o finální podobě legislativy mohla trvat až do roku 2024.[^fit-for-55-q-a]
+// Balíček se aktuálně nachází ve fázi legislativních návrhů ze strany Evropské komise, které se dále projednávají v Evropském parlamentu a Radě Evropské unie, tedy s účastí ministrů vlád členských zemí a národních pracovních skupin. Pro Českou republiku je v tomto kontextu zásadní **předsednictví Radě EU**,[^predsednictvi-eu] které převezme v druhé polovině roku 2022 a bude tak mít možnost ovlivnit směr jednání. Očekává se, že by vyjednávání o finální podobě legislativy mohla trvat až do roku 2024.[^fit-for-55-q-a] //
 
 ## Kontext vzniku
 
-Fit for 55 je součástí širší strategie Evropské unie (EU) k dosažení **<glossary id="carbon-neutrality">uhlíkové (klimatické) neutrality</glossary>** do roku 2050 známé jako [**Zelená dohoda pro Evropu (*European Green Deal*)**](https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal_cs). Zelená dohoda byla představena Evropskou komisí v roce 2019, načež byla v roce 2020 odsouhlasena členskými zeměmi. V létě 2021 pak nabyl účinnosti [**Evropský právní rámec pro klima**](https://eur-lex.europa.eu/legal-content/cs/TXT/?uri=CELEX%3A32021R1119), známý též jako Evropský klimatický zákon (*European Climate Law*), který činí dosažení uhlíkové neutrality do roku 2050 právně závazným. Součástí tohoto zákona je i střednědobý cíl, který EU zavazuje ke snížení emisí skleníkových plynů o 55 % do roku 2030 oproti roku 1990, přičemž jeho dosažení má zajistit právě balíček Fit for 55 (volně přeloženo jako "připraveni pro 55 %").
+Fit for 55 je súčasťou širšej stratégie Európskej únie (EÚ) na dosiahnutie **<glossary id="carbon-neutrality">uhlíkovej (klimatickej) neutrality</glossary>** do roku 2050 známej jko [**Európska zelená dohoda (*European Green Deal*)**](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/european-green-deal_sk). Zelenú dohodu predstavila Európska komisia v roku 2019 a následne ju v roku 2020 schválili členské štáty. V lete 2021 nadobudol platnosť [**Európsky právny predpis v oblasti klímy**](https://eur-lex.europa.eu/legal-content/cs/TXT/?uri=CELEX%3A32021R1119), známy aj ako európsky klimatický zákon (*European Climate Law*), ktorým sa dosiahnutie uhlíkovej neutrality do roku 2050 stalo právne záväzným. Tento zákon obsahuje aj strednodobý cieľ, ktorý zaväzuje EÚ znížiť do roku 2030 emisie skleníkových plynov o 55 % v porovnaní s rokom 1990, čo má zabezpečiť práve balík Fit for 55 (voľne preložené ako „pripravení na 55 %“).
 
-**Pro udržení globálního oteplení pod hranicí 1,5 °C** vzhledem k předindustriálnímu období **je potřeba do roku 2030 snížit emise skleníkových plynů na polovinu celosvětově**, nejen v rámci EU. Evropská unie (EU-27, bez Spojeného království) se v roce 2020 na těchto emisích podílela 7,5 %. V absolutních číslech země EU v témže roce vyprodukovaly 2,6 miliardy tun emisí CO<sub>2</sub>, čímž se zařadily na třetí místo za Čínu a USA.[^emise-co2]
+**Aby sa globálne oteplenie udržalo pod 1,5 °C** v porovnaní s predindustriálnym obdobím, **treba do roku 2030 znížiť celosvetovo emisie skleníkových plynov na polovicu**, nielen v EÚ. Európska únia (EU-27, bez Spojeného kráľovstva) sa v roku 2020 podieľala na týchto emisiách 7,5 %. V absolútnom vyjadrení vypustili krajiny EÚ v tom istom roku 2,6 miliardy ton CO<sub>2</sub>, čím sa zaradili na tretie miesto za Čínu a USA.[^emisie-co2]
 
-Ač Evropskou unii i svět čeká patrně největší transformace hospodářství a společnosti v historii, podle dat Eurobarometru z roku 2021 vnímá většina občanů EU (93 %) změnu klimatu jako závažný problém. V Česku je to 85 %. Zároveň 90 % Evropanů a 87 % Čechů souhlasí s výrokem: „Měli bychom snížit emise skleníkových plynů na minimum a zároveň kompenzovat zbývající emise například rozšířením zalesněné plochy, aby se hospodářství EU stalo do roku 2050 klimaticky neutrálním.“[^eurobarometr]
+Hoci Európsku úniu a svet čaká pravdepodobne najväčšia hospodárska a spoločenská transformácia v histórii, podľa údajov Eurobarometra z roku 2021 väčšina občanov a občianok EÚ (93 %) považuje zmenu klímy za vážny problém. Na Slovensku je to 95 %. Zároveň 88 % Slovákov a Sloveniek súhlasí s tvrdením "Mali by sme znížiť emisie skleníkových plynov na minimum a zároveň kompenzovať zvyšné emisie napríklad rozšírením lesných porastov, aby sa hospodárstvo EÚ stalo do roku 2050 klimaticky neutrálnym"[^eurobarometer]
 
-## Principy
+## Princípy
 
-Navrhovanými opatřeními v balíčku Fit for 55 prostupují následující principy:
+Navrhované opatrenia v balíku Fit for 55 stoja na týchto princípoch:
 
-* **Přiměřenost a účinnost opatření** – navrhovaná opatření jsou založena na tržních mechanismech i regulacích.
+* **Primeranosť a účinnosť opatrení** – navrhované opatrenia sú založené na trhových mechanizmoch a reguláciách.
 
-* **Znečišťovatel platí** – firmy nesou náklady emisí, které produkují, což je motivuje k zavádění čistých technologií. Tento princip podporuje zejména systém obchodování s emisními povolenkami. Pro více informací o emisních povolenkách doporučujeme náš [text](/explainery/emisni-povolenky-ets).
+* **Znečisťovateľ platí** – firmy znášajú náklady na emisie, ktoré produkujú, čo ich motivuje k zavádzaniu čistých technológií. Túto zásadu podporuje najmä systém obchodovania s emisiami. Viac informácií o emisných kvótach nájdete v našom [texte](/explainery/emisne-povolenky-ets).
 
-* **Solidarita** – cílená a systematická podpora skupin obyvatel, které mohou být opatřeními nepřiměřeně zasaženy (např. zdražováním energií, ztrátou zaměstnání apod.).
+* **Solidarita** – cielená a systematická podpora skupín ľudí, ktoré môžu byť opatreniami (napr. zdražovaním energií, stratou zamestnania a pod.) neúmerne postihnuté.
 
-## Konkrétní návrhy opatření
+## Konkrétne návrhy opatrení
 
 {% include preview-box.html
-    title="Jak fungují evropské emisní povolenky?"
-    text="V článku popisujeme kontext vzniku a účel obchodování s emisnimí povolenkami."
-    slug="emisni-povolenky-ets"
+    title="Ako fungujú európske emisné povolenky?"
+    text="V článku popisujeme kontext vzniku a účel obchodovanoa s emisnýmí kvótami."
+    slug="emisne-povolenky-ets"
 %}
 
-Jednotlivá navrhovaná opatření lze rozdělit do tří skupin. První skupinu tvoří tzv. **tržní mechanismy**, které zahrnují zejména evropský **systém obchodování s emisními povolenkami** (EU ETS), kde Komise navrhuje zahrnutí dalších odvětví (námořní dopravy, silniční dopravy a budov), rozšíření povolenek v oblasti letecké dopravy a rychlejší snižování množství povolenek v oběhu. Zároveň Komise stanovuje, že všechny výnosy z povolenek budou členské státy povinny použít na opatření související se změnou klimatu (dosud šlo o 50 %). Dále Komise navrhuje zavedení mechanismu **uhlíkového vyrovnání na hranicích** (*Carbon Border Adjustment Mechanism*, CBAM), který by měl zajistit zpoplatnění vysokouhlíkových dovozů. To se má týkat zejména například cementu nebo oceli tak, aby dovozci ze třetích zemí byli zatíženi stejnými poplatky za emise jako výrobci v EU. Tyto dovozy aktuálně tvoří 2 % všech dovozů. Dovozci do EU by si tedy museli zakoupit certifikáty podle emisní náročnosti komodit (pokud je již neuhradili ve třetí zemi). Zmíněná opatření reflektují princip **znečišťovatel platí**.
+Jednotlivé navrhované opatrenia je možné rozdeliť do troch skupín. Prvú skupinu tvoria tzv. **trhové mechanizmy**, medzi ktoré patrí najmä európsky **systém obchodovania s emisnými kvótami** (EU ETS), do ktorého Komisia navrhuje zahrnúť ďalšie odvetvia (námorná doprava, cestná doprava a budovy), rozšíriť kvóty pre leteckú dopravu a rýchlejšie znižovať ich množstvo v obehu. Komisia zároveň ustanovuje, že členské štáty budú povinné použiť všetky výnosy z kvót na opatrenia v oblasti zmeny klímy (predtým to bolo 50 %). Komisia tiež navrhuje zaviesť mechanizmus **uhlíkového vyrovnania na hraniciach** (*Carbon Border Adjustment Mechanism*, CBAM), ktorý by mal zabezpečiť spoplatnenie dovozu komodít s vysokým obsahom uhlíka. Týkalo by sa to najmä napríklad cementu alebo ocele, aby dovozcovia z tretích krajín platili rovnaké poplatky za emisie ako výrobcovia v EÚ. Tento dovoz v súčasnosti predstavuje 2 % celkového dovozu. Dovozcovia do EÚ by si preto museli kupovať certifikáty podľa emisnej náročnosti komodít (ak ich už nezaplatili v tretej krajine). Tieto opatrenia odrážajú zásadu **znečisťovateľ platí**.
 
-Další sada opatření spadá pod **cíle a regulace**, které zahrnují revizi stávající **směrnice o obnovitelných zdrojích energie**, kdy by mělo dojít k navýšení jejich požadovaného podílu na výrobě energie na 40 % do roku 2030, a **směrnice o energetické účinnosti**, která upravuje cíl snížit spotřebu primární energie oproti očekávaným hodnotám v roce 2030 na 39 %. Další návrhy zahrnují **přísnější emisní předpisy pro osobní automobily a dodávky**, budování **nové infrastruktury pro alternativní paliva** a **iniciativy pro udržitelnější letecká paliva** a **čistší námořní paliva**. Součástí balíčku je rovněž **revize nařízení o sdílení úsilí**, která navyšuje cíl snížení emisí v sektorech mimo systém EU ETS o 40 % do roku 2030 oproti roku 2005. Dále se návrhy týkají **lesní strategie EU** a **revize nařízení o využívání půdy a lesnictví**. Podrobnější vhled do lesní strategie EU nabízí [náš text](/explainery/lesnicka-strategie-eu). V prosinci 2021 Komise představila návrhy zaměřující se na **energetickou náročnost budov**, **snižování v metanu v energetice** a **vnitřní trh s plyny z obnovitelných zdrojů, se zemním plynem a s vodíkem**.
+Ďalší súbor opatrení spadá pod **ciele a reguláciee**, kam patrí revízia existujúcej **smernice o obnoviteľných zdrojoch energie**, podľa ktorej by sa mal zvýšiť ich požadovaný podiel na výrobe energie na 40 % do roku 2030, a **smernica o energetickej efektívnosti**, ktorá upravuje cieľ znížiť spotrebu primárnej energie na 39 % v porovnaní s očakávanými hodnotami v roku 2030. Medzi ďalšie návrhy patria **prísnejšie emisné predpisy pre osobné automobily a dodávky**, budovanie **novej infraštruktúry pre alternatívne palivá** a **iniciatívy za udržateľnejšie letecké palivá** a **čistejšie námorné palivá**. Súčasťou balíka je aj **revízia nariadenia o spoločnom úsilí**, ktorá zvyšuje cieľ zníženia emisií v sektoroch mimo systému EU ETS o 40 % do roku 2030 v porovnaní s rokom 2005. Ďalšie návrhy sa týkajú **stratégie lesného hospodárstva EÚ** a **revízie nariadenia o využívaní pôdy a lesníctve**. V decembri 2021 Komisia predstavila návrhy zamerané na **energetickú náročnosť budov**, **znižovanie emisií v metánu v energetike** a **vnútorný trh s obnoviteľnými plynmi, zemným plynom a s vodíkom**.
 
-Třetí skupinu návrhů tvoří **podpůrná opatření**. K zajištění sociálně spravedlivé a solidární transformace Komise navrhuje vznik nového **Sociálního klimatického fondu**, jehož prostředky budou namířeny ke skupinám obyvatel, které budou z důsledku transformace hospodářství zranitelnější. Část příjmů fondu bude tvořena výnosy z obchodování s emisními povolenkami, část budou tvořit příspěvky členských zemí. Solidarita je namířena i směrem k zemím s vyšší závislostí na fosilních palivech a nižším HDP, pro které budou k dispozici prostředky z posíleného **Modernizačního a Inovačního fondu**.
+Tretiu skupinu návrhov tvoria **podporné opatrenia**. S cieľom zabezpečiť sociálne spravodlivú a solidárnu transformáciu Komisia navrhla vytvoriť nový **Sociálny klimatický fond**, ktorého prostriedky budú slúžiť pre skupiny obyvateľov, ktoré budú v dôsledku hospodárskej transformácie zraniteľnejšie. Časť príjmov fondu budú tvoriť výnosy z obchodovania s emisnými kvótami a časť príspevky členských štátov. Solidarita je zameraná aj na krajiny s vyššou závislosťou od fosílnych palív a nižším HDP, pre ktoré budú k dispozícii zdroje z posilneného **Modernizačného fondu** a **Inovačného fondu**.
 
-Jak uvádí Komise,[^fit-for-55] legislativní návrhy vychází z analýzy posouzení dopadů, která ukazuje, že "přílišné spoléhání na posílené regulační politiky by vedlo ke zbytečně vysoké ekonomické zátěži, zatímco samotné stanovování cen uhlíku by neodstranilo přetrvávající selhání trhu a netržní překážky." Proto je balíček tvořen kombinací tržních mechanismů i regulací a zároveň nezbytných podpůrných opatření. Návrhy ve většině případů neobsahují jednu konkrétní technologii, ale zpravidla podporují paletu několika technologií, případně stanovují pouze cíl a způsob jeho dosažení nechávají volný.
+Ako uvádza Komisia,[^fit-for-55] legislatívne návrhy vychádzajú z analýzy posúdenia vplyvov, ktorá ukazuje, že "prílišné spoliehanie sa na posilnené regulačné politiky by viedlo k zbytočne vysokému ekonomickému zaťaženiu, zatiaľ čo samotné stanovovanie cien uhlíka by neodstránilo pretrvávajúce zlyhania trhu a netrhové prekážky". Balík preto pozostáva z kombinácie trhových mechanizmov a regulácií, ako aj nevyhnutných podporných opatrení. Vo väčšine prípadov návrhy nezahŕňajú jednu konkrétnu technológiu, ale spravidla podporujú celý rad technológií, prípadne stanovujú len cieľ a spôsob jeho dosiahnutia nechávajú otvorený.
 
-Níže uvádíme přehled navrhovaných opatření včetně odkazů na původní legislativní návrhy Evropské komise:
+Nižšie uvádzame prehľad navrhovaných opatrení vrátane odkazov na pôvodné legislatívne návrhy Európskej komisie:
 
-### Tržní mechanismy
+### Trhové mechanizmy
 
-#### Emisní povolenky
+#### Emisné kvóty
 
-* [Revize obchodování s emisními povolenkami](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021PC0551) (*European Emissions Trading System*, EU ETS)
-* Zahrnutí [letecké](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021PC0552) a [námořní dopravy](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021PC0551) do EU ETS
-* [Rozšíření EU ETS o silniční dopravu a budovy](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021PC0551)
+* [Revízia európskeho systému obchodovania s emisnými kvótami](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021PC0551) (*European Emissions Trading System*, EU ETS)
+* Zahrnutie [letecké](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021PC0552) a [námornej dopravy](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021PC0551) do EU ETS
+* [Rozšírenie EU ETS o cestnú dopravu a budovy](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021PC0551)
 
-#### Další tržní mechanismy
+#### Iné trhové mechanizmy
 
-* [Uhlíkové vyrovnání na hranicích](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021PC0564) (*Carbon Border Adjustment Mechanism*, CBAM)
-* [Revize směrnice o zdanění energie](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021PC0563) (*Energy Taxation Directive*, ETD)
+* [Uhlíkové vyrovnanie na hraniciach](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021PC0564) (*Carbon Border Adjustment Mechanism*, CBAM)
+* [Revízia smernice o zdaňovaní energie](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021PC0563) (*Energy Taxation Directive*, ETD)
 
-### Cíle a regulace
+### Ciele a regulácie
 
-#### Závazky pro snižování emisí (v sektorech nezatížených tržními mechanismy)
+#### Záväzky na zníženie emisií (v sektoroch, na ktoré sa nevzťahujú trhové mechanizmy)
 
-* [Revize nařízení o sdílení úsilí](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021PC0555)
+* [Revízia nariadenia o spoločnom úsilí](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021PC0555)
 
 #### Energetika
 
-* [Revize směrnice o obnovitelných zdrojích](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021PC0557) (*Renewable Energy Directive*, RED)
-* [Revize o snižování emisí metanu v odvětví energetiky a o změně nařízení (EU) 2019/942](https://eur-lex.europa.eu/legal-content/cs/TXT/?uri=CELEX%3A52021PC0805)
-* [Revize nařízení o vnitřním trhu s plyny z obnovitelných zdrojů, se zemním plynem a s vodíkem](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=COM%3A2021%3A804%3AFIN)
-* [Revize směrnice o společných pravidlech pro vnitřní trh s plyny z obnovitelných zdrojů, se zemním plynem a s vodíkem](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=COM%3A2021%3A803%3AFIN)
+* [Revízia smernice o obnoviteľných zdrojoch energie](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021PC0557) (*Renewable Energy Directive*, RED)
+* [Revízia nariadenia o znižovaní emisií metánu v odvetví energetiky a o zmene nariadenia EU 2019/942](https://eur-lex.europa.eu/legal-content/cs/TXT/?uri=CELEX%3A52021PC0805)
+* [Revízia nariadenia o vnútornom trhu s obnoviteľnými plynmi a zemným plynom a s vodíkom](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=COM%3A2021%3A804%3AFIN)
+* [Revízia smernice o spoločných pravidlách pre vnútorný trh s obnoviteľnými plynmi, zemným plynom a s vodíkom](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=COM%3A2021%3A803%3AFIN)
 
-#### Energetická účinnost
+#### Energetická účinnosť
 
-* [Revize směrnice o energetické účinnosti](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021PC0558) (*Energy Efficiency Directive*, EED)
-* [Revize směrnice o energetické náročnosti budov](https://eur-lex.europa.eu/legal-content/cs/TXT/?uri=COM%3A2021%3A802%3AFIN) (*Energy Performance of Buildings Directive*, EPBD)
+* [Revízia smernice o energetickej účinnosti](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021PC0558) (*Energy Efficiency Directive*, EED)
+* [Revízia smernice o energetickej hospodárnosti budov](https://eur-lex.europa.eu/legal-content/cs/TXT/?uri=COM%3A2021%3A802%3AFIN) (*Energy Performance of Buildings Directive*, EPBD)
 
 #### Doprava
 
-* [Přísnější emisní předpisy pro osobní automobily a dodávky](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021PC0556)
-* [Nová infrastruktura pro alternativní paliva](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021PC0559)
-* [Iniciativa pro udržitelnější letecká paliva ReFuelEU](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021PC0561)
-* [Iniciativa pro čistší námořní paliva FuelEU](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021PC0562)
+* [Prísnejšie emisné predpisy pre osobné automobily a dodávky](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021PC0556)
+* [Nová infraštruktúra pre alternatívne palivá](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021PC0559)
+* [Iniciatíva ReFuelEU za udržateľnejšie letecké palivá](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021PC0561)
+* [Iniciatíva za čistejšie námorné palivá FuelEU](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021PC0562)
 
 #### Krajina a ekosystémy
 
-* [Lesní strategie EU](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021DC0572)
-* [Revize nařízení o využívání půdy a lesnictví](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021PC0554)
+* [Stratégia lesného hospodárstva EÚ](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021DC0572)
+* [Revízia nariadenia o využívaní pôdy a lesníctve](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021PC0554)
 
-### Podpůrná opatření
+### Podporné opatrenia
 
-* Vznik [Sociálního klimatického fondu](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021PC0568)
-* Posílení [Modernizačního](https://ec.europa.eu/clima/eu-action/funding-climate-action/modernisation-fund_en) a [Inovačního fondu](https://ec.europa.eu/clima/eu-action/funding-climate-action/innovation-fund_en)
+* Zriadenie [Sociálneho klimatického fondu](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021PC0568)
+* Posilnenie [Modernizačného fondu](https://www.minzp.sk/klima/modernizacny-fond/) a [Inovačného fondu](https://www.minzp.sk/klima/inovacny-fond/)
 
-Pro více informací o navrhovaných opatřeních přejděte na naši infografiku [Fit for 55: přehled navrhovaných opatření](/infografiky/fit-for-55-opatreni).
+Viac informácií o navrhovaných opatreniach nájdete v našej infografike [Fit for 55: prehľad navrhovaných opatrení](/infografiky/fit-for-55-opatrenia).
 
 ## Zdroje a poznámky
 
-### Na koho se dále obrátit
+### Na koho sa ďalej obrátiť
 
-Uvádíme některé z expertů a expertek, kteří se balíčkem Fit for 55 zabývají:
 
-[Kateřina Davidová](https://www.cde-org.cz/cs/kontakt), Centrum pro dopravu a energetiku
-[Štěpán Vizi](https://www.cde-org.cz/cs/kontakt), Centrum pro dopravu a energetiku
-[Michal Hrubý](https://www.europeum.org/user/default/132), Institut pro evropskou politiku EUROPEUM
-[Tomáš Trubačík](https://sanceprobudovy.cz/o-nas/), Šance pro budovy
-[Tomáš Jungwirth](https://www.amo.cz/autor/tomas-jungwirth/), Asociace pro mezinárodní otázky
 
 ### Zdroje
 
-[^fit-for-55]: [„Fit for 55": plnění klimatického cíle EU pro rok 2030 na cestě ke klimatické neutralitě](https://eur-lex.europa.eu/legal-content/cs/TXT/?uri=CELEX%3A52021DC0550)
-
-[^predsednictvi-eu]: [Předsednictví Česka Radě Evropské unie](https://www.eu2022.cz/)
+[^fit-for-55]: [„Fit for 55": plnenie cieľa EÚ v oblasti klímy do roku 2030 na ceste ku klimatickej neutralite](https://eur-lex.europa.eu/legal-content/cs/TXT/?uri=CELEX%3A52021DC0550)
 
 [^fit-for-55-q-a]: Carbon Brief: [Q&A: How ‘Fit for 55’ reforms will help EU meet its climate goals](https://www.carbonbrief.org/qa-how-fit-for-55-reforms-will-help-eu-meet-its-climate-goals)
 
-[^emise-co2]: Our World in Data: [CO<sub>2</sub> emissions by region](https://ourworldindata.org/co2-emissions#co2-emissions-by-region)
+[^emisie-co2]: Our World in Data: [CO<sub>2</sub> emissions by region](https://ourworldindata.org/co2-emissions#co2-emissions-by-region)
 
-[^eurobarometr]: [Eurobarometr 2021](https://europa.eu/eurobarometer/api/deliverable/download/file?deliverableId=75845). Procento těch, co vnímají změnu klimatu jako závažný problém zahrnuje respondenty, kteří ji vnímají jako *velmi* nebo *dost* závažný problém. Procento souhlasících s výrokem zahrnuje respondenty, kteří s ním *rozhodně* nebos *spíše* souhlasí.
+[^eurobarometer]: [Eurobarometer 2021](https://climate.ec.europa.eu/system/files/2021-06/sk_climate_2021_sk.pdf). Percento tých, ktorí vnímajú zmenu klímy ako závážny problém, zahŕňa respondentov a respondentky, ktorí ju vnímajú ako *veľmi* nebo *dosť* závažný problém. Percento súhlasiacich s výrokom zahŕňa respondentov a respondentky, ktorí s ním *rozhodne* alebo *skôr* súhlasia.
