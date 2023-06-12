@@ -45,12 +45,12 @@
 - id: emisnaintenzitaekonomiky
   name-short: "Emisná intenzita ekonomiky"
   description: "Intenzita skleníkových plynov v hospodárstve je definovaná ako pomer medzi emisiami CO<sub>2</sub>eq a HDP danej ekonomiky. HDP sa spravidla vyjadruje pomocou parity kúpnej sily, kedy sú zohľadnené rôzne cenové hladiny v jednotlivých krajinách. K emisiám skleníkových plynov dochádza pri hospodárskej aktivite. Emisnú intenzitu možno teda chápať ako ukazovateľ efektivity alebo čistoty danej ekonomiky vzhľadom na množstvo vypúšťaných skleníkových plynov. Spravidla sa udáva v kg CO<sub>2</sub>eq na $ HDP. Medzi štátmi s najnižšou a najvyššou emisnou intenzitou sú až desaťnásobné rozdiely."
- 
- - id: euets
+
+- id: euets
   name-short: "EU ETS"
   name-long: "EU Emissions Trading System"
   description: "Európsky systém obchodovania s emisiami (EU ETS) reguluje a postupne znižuje množstvo emisií skleníkových plynov, ktoré vypúšťajú vybrané podniky v EÚ - najmä veľké elektrárne, ropné rafinérie atď. EÚ každoročne uvoľňuje určitý počet emisných kvót, ktoré potom vybrané podniky predávajú v aukciách a obchodujú s nimi, aby pokryli svoju produkciu skleníkových plynov. Zníženie počtu vydaných kvót alebo ich zdraženie na voľnom trhu má za cieľ povzbudiť veľkých znečisťovateľov k inováciám v oblasti čistých technológií. Viac informácií nájdete v našom [texte o systéme EU ETS](/explainery/emisne-povolenky-ets)."
- 
+
 - id: externalita
   name-short: "Externalita"
   description: "Externalita predstavuje vedľajší, nechcený efekt hospodárskej činnosti. Tento efekt môže byť pozitívny alebo negatívny (pozitívna, resp. negatívna externalita). Príkladom negatívnej externality je továreň vypúšťajúca toxický odpad do rieky alebo autá uvoľňujúce splodiny s negatívnym dopadom na zdravie obyvateľov. Príkladom pozitívnej externality je včelár, ktorého včely prispievajú k vyššej úrode poľnohospodárov v okolí, alebo firma, ktorá uvoľní svoj softvér ako *open source*. Externalita predstavuje mimotrhový faktor, pri ktorom nedochádza ku kompenzácii – napr. továreň vypúšťajúca odpad neplatí okolitým obyvateľom, ktorí už rieku nemôžu využívať. Klimatické zmeny možno považovať za negatívnu externalitu spotreby s globálnym dosahom."
@@ -100,7 +100,7 @@
   name-short: "ppm"
   name-long: "parts per million"
   description: "Jednotka koncentrácie, ktorá vyjadruje počet častíc v milióne, ide teda o iný zápis jednotky μmol/mol. Podobne ako percento (_per cento_) znamená počet v stovke a promile (_per mīlle_) znamená počet v tisícke, ppm je počet v milióne. Príklad: koncentrácia 400 ppm CO<sub>2</sub> zodpovedá 0,4 ‰ alebo 0,04 % a znamená, že v jednom milióne molekúl vzduchu je 400 molekúl CO<sub>2</sub>."
-  
+
 - id: rcp
   name-short: "RCP"
   name-long: "Representative Concentration Pathway"
