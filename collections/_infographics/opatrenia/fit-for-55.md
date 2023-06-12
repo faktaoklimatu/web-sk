@@ -110,7 +110,7 @@ Viac informácií o navrhovaných opatreniach nájdete v našej infografike [Fit
 
 ### Na koho sa ďalej obrátiť
 
-
+Balíčkom Fit for 55 sa viac zaoberá napríklad [Klimatická koalícia](https://klimatickakoalicia.sk/kontakty/).
 
 ### Zdroje
 
