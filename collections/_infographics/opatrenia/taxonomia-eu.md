@@ -1,9 +1,9 @@
 ---
 layout:     infographic
-title:      "Porovnanie mitigačných opatrení"
-slug:       "mitigacne-opatrenia-mmf"
-redirect_from: "/mitigacne-opatrenia-mmf"
-published:  2021-11-03
+title:      "Taxonómia EÚ"
+slug:       "taxonomia-eu"
+redirect_from: "/taxonomia-eu"
+published:  2023-06-12
 weight:     99
 tags-scopes: [ svet ]
 tags-topics: [ opatrenia, ekonomika ]

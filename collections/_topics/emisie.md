@@ -143,6 +143,7 @@ subtopics:
   content:  # U nového obsahu zvaž přidání také do dohody-legislativa>eu a ekonomika>opatreni.
   - spoplatnenie-emisii-svet
   - emisne-povolenky-ets
+  - taxonomia-eu
   - mitigacne-opatrenia-mmf
   - 2019-mitigacne-opatrenia-mmf
 
