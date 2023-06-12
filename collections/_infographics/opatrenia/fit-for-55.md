@@ -16,7 +16,7 @@ caption:       "Fit for 55 je balík legislatívnych návrhov Európskej komisie
     slug="fit-for-55-opatrenia"
 %}
 
-Balík legislatívnych návrhov [Fit for 55](https://eur-lex.europa.eu/legal-content/cs/TXT/?uri=CELEX%3A52021DC0550), ktorý podporuje **zníženie emisií skleníkových plynov o 55 % do roku 2030 oproti roku 1990**, predstavila Európska komisia v júli 2021. Balík obsahuje návrhy na úpravu existujúcich smerníc a nariadení, ako aj úplne nové legislatívne návrhy zamerané na oblasti ako obchodovanie s emisiami (EU ETS), uhlíkové vyrovnanie na hraniciach, energetiku a palivá či využívanie pôdy a lesné hospodárstvo. V neposlední řadě pak přináší podpůrná opatření, jejichž cílem je učinit transformaci sociálně spravedlivější. V neposlednom rade prináša podporné opatrenia s cieľom urobiť transformáciu sociálne spravodlivejšou. Navrhované opatrenia by mali priniesť nové príležitosti pre investície, inovácie a tvorbu pracovných miest.[^fit-for-55]
+Balík legislatívnych návrhov [Fit for 55](https://eur-lex.europa.eu/legal-content/cs/TXT/?uri=CELEX%3A52021DC0550), ktorý podporuje **zníženie emisií skleníkových plynov o 55 % do roku 2030 oproti roku 1990**, predstavila Európska komisia v júli 2021. Balík obsahuje návrhy na úpravu existujúcich smerníc a nariadení, ako aj úplne nové legislatívne návrhy zamerané na oblasti ako obchodovanie s emisiami (EU ETS), uhlíkové vyrovnanie na hraniciach, energetiku a palivá či využívanie pôdy a lesné hospodárstvo. V neposlednom rade prináša podporné opatrenia s cieľom urobiť transformáciu sociálne spravodlivejšou. Navrhované opatrenia by mali priniesť nové príležitosti pre investície, inovácie a tvorbu pracovných miest.[^fit-for-55]
 
 // Balíček se aktuálně nachází ve fázi legislativních návrhů ze strany Evropské komise, které se dále projednávají v Evropském parlamentu a Radě Evropské unie, tedy s účastí ministrů vlád členských zemí a národních pracovních skupin. Pro Českou republiku je v tomto kontextu zásadní **předsednictví Radě EU**,[^predsednictvi-eu] které převezme v druhé polovině roku 2022 a bude tak mít možnost ovlivnit směr jednání. Očekává se, že by vyjednávání o finální podobě legislativy mohla trvat až do roku 2024.[^fit-for-55-q-a] //
 
@@ -66,7 +66,7 @@ Nižšie uvádzame prehľad navrhovaných opatrení vrátane odkazov na pôvodn�
 
 #### Iné trhové mechanizmy
 
-* [Uhlíkové vyrovnanie na hraniciach](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021PC0564) (*Carbon Border Adjustment Mechanism*, CBAM)
+* [Kompenzácia uhlíka na hraniciach (uhlíkové vyrovnanie)](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021PC0564) (*Carbon Border Adjustment Mechanism*, CBAM)
 * [Revízia smernice o zdaňovaní energie](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021PC0563) (*Energy Taxation Directive*, ETD)
 
 ### Ciele a regulácie
