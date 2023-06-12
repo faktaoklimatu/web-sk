@@ -76,12 +76,12 @@ text:
 sidebar:
   download:
     title: "Na stiahnutie"
-    caption: "Páči sa vám naša infografika? Stiahnite si ju a používajte ďalej!"
+    caption: "Páči sa vám naša infografika? Môžete si ju stiahnuť a používať ju pod voľnou licenciou."
     which-file-format: "Aký formát si vybrať?"
   data:
     title: "Podkladové dáta"
-    caption-dataset: "Chcete vidieť konkrétne čísla? Táto infografika je postavená na nami spracovanom datasete."
-    caption-data: "Chcete vidieť konkrétne čísla? Pozrite sa na našu tabuľku s dátami alebo na pôvodné zdroje."
+    caption-dataset: "Zaujímajú vás podkladové dáta? Táto infografika je postavená na nami spracovanom datasete."
+    caption-data: "Zaujímajú vás podkladové dáta? Pozrite sa na našu tabuľku s dátami alebo na pôvodné zdroje."
     button-dataset: "Náš dataset"
     button-data: "Naša tabuľka s dátami"
     button-data-orig: "Pôvodné zdroje dát"
