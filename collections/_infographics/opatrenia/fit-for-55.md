@@ -42,7 +42,7 @@ Navrhované opatrenia v balíku Fit for 55 stoja na týchto princípoch:
 
 {% include preview-box.html
     title="Ako fungujú európske emisné povolenky?"
-    text="V článku popisujeme kontext vzniku a účel obchodovanoa s emisnýmí kvótami."
+    text="V článku popisujeme kontext vzniku a účel obchodovania s emisnýmí kvótami."
     slug="emisne-povolenky-ets"
 %}
 
