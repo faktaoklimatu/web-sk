@@ -15,12 +15,12 @@ V súvislosti so znižovaním emisií skleníkových plynov sa často hovorí o 
 
 ## Čo je uhlíkový rozpočet?
 
-{% include preview-box.html
-    title="Souvislost koncentrace CO<sub>2</sub> a globálního oteplování"
-    text="Měření ukazují, že globální oteplení je přibližně přímo úměrné koncentracím CO<sub>2</sub> v atmosféře."
-    slug="souvislost-koncentrace-oteplovani"
+//{% include preview-box.html
+    title="Súvislosť koncentrácie CO<sub>2</sub> a globálneho otepľovania"
+    text="Merania ukazujú, že globálne oteplenie je približne priamo úmerné koncentrácii CO<sub>2</sub> v atmosfére."
+    slug="suvislost-koncentracia-oteplovanie"
 %}
-
+//
 Merania aj klimatické modely ukazujú, že **globálne oteplenie je približne priamo úmerné celkovému množstvu CO<sub>2</sub> vypustenému do atmosféry.**.[^58] [^55] [^56] [^57] Inými slovami, čím viac skleníkových plynov vypustíme, tým vyššia bude priemerná globálna teplota. Ak si teda stanovíme určitú hranicu oteplenia, ktorú nechceme prekročiť, dá sa vypočítať, **koľko CO<sub>2</sub> ešte môžeme ako ľudstvo v budúcnosti vypustiť, aby sme sa udržali pod touto hranicou**. Hovoríme potom o zostávajúcom uhlíkovom rozpočte pre danú hranicu. Konkrétne, aby sa oteplenie udržalo pod hranicou 1,5 °C (v porovnaní s priemerom z rokov 1850 – 1900), zostávajúci uhlíkový rozpočet v roku 2020 bol rádovo 400 Gt CO<sub>2</sub> a pre udržanie oteplenia pod 2 °C je zostávajúci uhlíkový rozpočet rádovo 1150 Gt CO<sub>2</sub>[^1] (oba údaje sú pre 67 % pravdepodobnosť, že sa neprekročí daná teplotná hranica).
 
 Označenie *rozpočet* treba pritom chápať ako metaforu: podobne ako rodinný dovolenkový rozpočet udáva, koľko peňazí možno celkovo minúť počas dovolenky, uhlíkový rozpočet hovorí, aké množstvo CO<sub>2</sub> môže ľudstvo ešte vypustiť, aby neprekročilo určitú hranicu globálneho oteplenia.
@@ -29,7 +29,7 @@ Označenie *rozpočet* treba pritom chápať ako metaforu: podobne ako rodinný 
 
 {% include preview-box.html
     title="Ako rôzne varianty znižovania emisií ovplyvnia otepľovanie"
-    text="Merania ukazujú, že globálne oteplenie je približne priamo úmerné koncentrácii CO<sub>2</sub> v atmosfére."
+    text="Uhlíkový rozpočet je z hľadiska diskusie o opatreniach na zníženie emisií oveľa dôležitejší uhlíková neutralita."
     slug="koncept-cesty-k-neutralite"
 %}
 
@@ -49,35 +49,35 @@ Myšlienka celkového množstva emisií, ktoré môžeme ako ľudstvo vypustiť,
 
 * Možnému využitiu konceptu zostávajúceho uhlíkového rozpočtu ako návodu na stanovenie potrebných opatrení sa venuje článok [Opportunities and challenges in using remaining carbon budgets to guide climate policy.](https://www.nature.com/articles/s41561-020-00663-3) Podrobne rozoberá predpoklady tohto prístupu, zdroje neistôt v určovaní uhlíkového rozpočtu aj otázku prideľovania uhlíkových rozpočtov jednotlivým štátom.
 
-## Nejistoty při určování uhlíkového rozpočtu
+## Neistoty pri určovaní uhlíkového rozpočtu
 
-{% include preview-box.html
-    title="Závislost oteplení na budoucích emisích CO<sub>2</sub>"
-    text="Měření ukazují, že globální oteplení je přibližně přímo úměrné koncentracím CO<sub>2</sub> v atmosféře."
-    slug="souvislost-emise-otepleni"
+//{% include preview-box.html
+    title="Súvislosť oteplenia na budúcich emisiách"
+    text="Merania ukazujú, že globálne oteplenie je približne priamo úmerné koncentrácii CO<sub>2</sub> v atmosfére."
+    slug="suvislost-emisie-oteplovanie"
 %}
+//
+Modelovanie budúceho vývoja globálneho otepľovania vychádza z veličín, ktorých hodnoty sú známe len s určitou neistotou. Preto sa aj uhlíkový rozpočet vzťahuje na určitú pravdepodobnosť, že daná hranica oteplenia nebude prekročená. Napríklad, ak chceme mať aspoň 50 % šancu, že neprekročíme hranicu oteplenia 2 °C, môžeme vypustiť už len 1400 Gt Gt CO<sub>2</sub>. Ak si chceme byť istí na 67 %, nemali by sme vypustiť viac ako 1100 Gt CO<sub>2</sub>. Čím väčšiu istotu chceme mať, tým menej oxidu uhličitého si môžeme dovoliť vypustiť. Tieto súvislosti podrobnejšie zobrazujeme v grafike [Závislost oteplení na budoucích emisích CO<sub>2</sub>](https://faktaoklimatu.cz/infografiky/souvislost-emise-otepleni)
 
-Modelování budoucího vývoje globálního oteplení vychází z veličin, jejichž hodnoty známe pouze s určitou nejistotou. Proto se i uhlíkový rozpočet vztahuje k určité pravděpodobnosti, že daná hranice oteplení nebude překročena. Pokud například chceme mít alespoň 50% šanci, že nepřekročíme hranici oteplení 2 °C, můžeme vypustit již pouze 1400 Gt CO<sub>2</sub>. Chceme-li si být jistí na 67 %, pak bychom neměli vypustit více než 1100 Gt CO<sub>2</sub>. Čím vyšší chceme mít jistotu, tím méně oxidu uhličitého si můžeme dovolit vypustit. Podrobněji tyto souvislosti ukazujeme v grafice [Závislost oteplení na budoucích emisích CO<sub>2</sub>](souvislost-emise-otepleni)
+Hlavnou neistotou pri určovaní uhlíkového rozpočtu je citlivosť klímy, ktorá vyjadruje, "o koľko stupňov Celzia sa svet oteplí, keď zdvojnásobíme koncentráciu CO<sub>2</sub>". Pri zmene klímy totiž nespôsobia nárast globálnej teploty len samotné skleníkové plyny, ale aj prírodné spätné väzby, ktoré sa v klíme odohrávajú. Príkladom môže byť spätná väzba vodnej pary: čím vyššia je teplota, tým viac vody sa vyparuje z povrchu oceánov. Viac vodnej pary v atmosfére zároveň ďalej zvyšuje teplotu, pretože vodná para silne pohlcuje tepelné žiarenie. Inými slovami: *spätná väzba vodnej pary zosilňuje skleníkový efekt antropogénnych skleníkových plynov*. Podobne funguje spätná väzba topenia ľadovcov: vyššia teplota spôsobuje, že ľadovce sa topia, čím sa odkrýva povrch pod nimi. Ten pohlcuje viac slnečného žiarenia, čo vedie k ďalšiemu zvyšovaniu teploty. Naopak, existujú aj tzv. negatívne spätné väzby, ktoré otepľovanie spomaľujú, napríklad nízka oblačnosť. Ak zmena klímy (napríklad v dôsledku vyššieho vyparovania) vedie v niektorej oblasti k zvýšeniu oblačnosti, v tejto oblasti dôjde súčasne k ochladeniu (v dôsledku vyššieho zatienenia slnka).
 
-Hlavní nejistotou při určování uhlíkového rozpočtu je citlivost klimatu, která vyjadřuje "o kolik stupňů Celsia se svět oteplí, když zdvojnásobíme koncentraci CO<sub>2</sub>". Při změně klimatu totiž nepůsobí nárůst globální teploty jen samotné skleníkové plyny, ale také přírodní zpětné vazby, které se v klimatu odehrávají. Příkladem může být zpětná vazba vodní páry: čím vyšší je teplota, tím více vody se vypaří z povrchu oceánů. Zároveň více vodní páry v atmosféře dále působí na zvyšování teploty, protože vodní pára silně pohlcuje tepelné záření. Jinak řečeno: *zpětná vazba vodní páry zesiluje skleníkový efekt antropogenních skleníkových plynů*. Podobně funguje zpětná vazba tání ledovců: vyšší teplota způsobuje, že ledovce tají, čímž se odkrývá povrch pod nimi. Ten pak pohlcuje více slunečního záření, což vede k dalšímu zvyšování teploty. Naopak existují i takzvané negativní zpětné vazby, které oteplování zpomalují, příkladem může být nízká oblačnost. Pokud změna klimatu (například kvůli vyššímu vypařování) vede v některé oblasti ke zvýšení oblačnosti, dojde současně v dané oblasti k ochlazení (kvůli vyššímu zastínění slunce).
+Podobných spätných väzieb je v klíme veľké množstvo a silu všetkých z nich zatiaľ presne nepoznáme. Preto existuje neistota, ako veľmi sa Zem oteplí pri vypustení určitého množstva skleníkových plynov. Táto neistota sa potom odráža v neistej hodnote citlivosti klímy. Očakávame, že pri zdvojnásobení koncentrácie CO<sub>2</sub> v atmosfére by sa teplota planéty mala zvýšiť o 2,6 – 4,1 °C. Ak chceme mať väčšiu istotu, že určitá hranica oteplenia nebude prekročená, musíme počítať s možnou vyššou citlivosťou klímy. Okrem neistoty v hodnote citlivosti klímy sa do uhlíkového rozpočtu premietajú napríklad aj neistoty v účinku iných skleníkových plynov alebo aerosólov (napríklad oxidov síry a sadzí).
 
-Podobných zpětných vazeb existuje v klimatu velké množství a u všech zatím nemáme přesně zjištěnou jejich sílu. Proto existuje nejistota v tom, jak moc se Země oteplí při vypuštění určitého množství skleníkových plynů. Tato nejistota se pak odráží v nejistoté hodnotě citlivosti klimatu. Očekáváme, že při zdvojnásobení koncentrace CO<sub>2</sub> v atmosféře by se teplota planety měla zvýšit o 2,6–4,1 °C. Chceme-li mít větší jistotu, že určitá hranice oteplení nebude překročena, musíme počítat s možnou vyšší citlivostí klimatu. Vedle nejistoty v hodnotě citlivosti klimatu se do uhlíkového rozpočtu promítají například nejistoty v efektu dalších skleníkových plynů či aerosolů (oxidy síry a saze).
+Podrobnejšiu diskusiu o jednotlivých predpokladoch a zdrojoch neistôt uhlíkového rozpočtu poskytuje článok Matthews, H. D., Tokarska, K. B., Nicholls, Z. R. J. et al. [Opportunities and challenges in using remaining carbon budgets to guide climate policy.](https://www.nature.com/articles/s41561-020-00663-3)
 
-Podrobnější diskuzi jednotlivých předpokladů a zdrojů nejistot uhlíkového rozpočtu poskytuje článek Matthews, H. D., Tokarska, K. B., Nicholls, Z. R. J. et al. [Opportunities and challenges in using remaining carbon budgets to guide climate policy.](https://www.nature.com/articles/s41561-020-00663-3)
+## Ďalší kontext pre úvahy o hraniciach otepľovania
 
-## Další kontexty pro úvahy o hranicích oteplení
+### Prečo bol v rámci Parížskej dohody stanovený cieľ neprekročiť oteplenie o 1,5 °C, resp. o 2 °C?
 
-### Proč byl v rámci Pařížské dohody stanoven cíl nepřekročit oteplení o 1,5 °C, resp. 2 °C?
+**Úplný citát z Parížskej dohody** znie: "Táto dohoda (…) sa usiluje posilniť celosvetovú odozvu na hrozbu zmeny klímy (…) vrátane nasledujúcich nástrojov: (a) udržať zvýšenie globálnej priemernej teploty výrazne pod hodnotou 2 °C v porovnaní s hodnotami predindustriálneho obdobia a vynaložiť úsilie na obmedzenie zvýšenia teploty na 1,5 °C v porovnaní s hodnotami predindustriálneho obdobia, čo by významne znížilo riziká a dôsledky zmeny klímy."[^99]
 
-**Plná citace Pařížské dohody** zní: "Cílem této dohody je zlepšit globální reakci na hrozby změny klimatu mimo jiné pomocí udržení nárůstu průměrné globální teploty výrazně pod hranicí 2 °C oproti hodnotám před průmyslovou revolucí a úsilí o to, aby nárůst teploty nepřekročil hranici 1,5 °C oproti hodnotám před průmyslovou revolucí…"[^99]
+Vzhľadom na to, že v súčasnosti už oteplenie dosiahlo približne 1,2 °C oproti predindustriálnemu obdobiu a emisie naďalej rastú, cieľ udržať nárast teploty pod 1,5 °C je na hranici dosiahnuteľnosti a cieľ udržať nárast teploty pod 2 °C sa zdá ako veľmi ambiciózny. Zároveň však oteplenie o približne 2 °C už môže prekročiť mnoho ekosystémových bodov zlomu, čo bude mať na ľudstvo veľký negatívny dopad. V [správe IPCC SR15](https://www.ipcc.ch/sr15/) sa podrobnejšie porovnávajú dôsledky oteplenia o 1,5 °C, 2 °C a 3 °C a v [našich grafikách](/infografiky/body-zlomu-1) sú zhrnuté poznatky o bodoch zlomu.
 
-Vzhledem k tomu, že v současnosti už oteplení dosáhlo hodnoty přibližně 1,2 °C oproti předindustriálnímu období a emise dále rostou, je cíl udržet nárůst teploty pod 1,5 °C na hranici dosažitelnosti a cíl udržet nárůst teploty pod hranicí 2 °C se jeví jako velmi ambiciózní. Zároveň však oteplení okolo 2 °C již může překročit mnoho ekosystémových bodů zlomu, což bude mít na lidstvo velký negativní dopad. Podrobněji se srovnání dopadů oteplení o 1,5 °C, 2 °C a 3 °C věnuje [zpráva IPCC SR15](https://www.ipcc.ch/sr15/) a poznání o bodech zlomu shrnují [naše grafiky](/infografiky/body-zlomu-1).
+### Priemerné globálne oteplenie verzus lokálne extrémy
 
-### Průměrné globální oteplení vs. lokální extrémy
+V súčasnosti dosiahlo priemerné globálne oteplenie 1,2 °C oproti teplotám v rokoch 1850 – 1900. Nie všetky časti sveta sa však otepľujú rovnako rýchlo. Vo všeobecnosti platí, že pevnina sa otepľuje rýchlejšie ako oceány a oblasti severnej pologule sa otepľujú rýchlejšie ako oblasti južnej pologule. Slovensko sa za posledných 60 rokov oteplilo o viac ako 2,5 °C a napríklad Špicbergy sa oteplili o viac ako 4 °C. Tieto hodnoty oteplenia však stále porovnávajú len zmeny priemerov ročných teplôt. Pre ľudí a ekosystémy je ale dôležitejšie, že otepľovanie so sebou prináša častejšie a väčšie extrémy: silnejšie vlny horúčav, častejšie suchá a intenzívnejšie povodne. Pri globálnom oteplení o 2 °C by frekvencia a intenzita týchto extrémnych javov bola výrazne vyššia ako dnes.
 
-V současnosti dosáhlo průměrné globální oteplení hodnoty 1,2 °C oproti teplotám v letech 1850–1900. Nicméně ne všechny části světa se oteplují stejně rychle. Obecně platí, že pevnina se otepluje rychleji než oceány a oblasti severní polokoule se oteplují rychleji než oblasti jižní polokoule. Česká republika se za posledních 60 let oteplila o více než 2 °C a například Špicberky se oteplily o více než 4 °C. Tyto hodnoty oteplení však stále porovnávají pouze změny průměrů ročních teplot. Pro člověka i pro ekosystémy je ale důležitější, že oteplení s sebou nese častější a větší extrémy: silnější vlny veder, častější sucha i intenzivnější povodně. Při globálním oteplení o 2 °C by frekvence i intenzita těchto extrémních jevů byla výrazně větší než dnes.
-
-## Další zdroje a poznámky
+## Ďalšie zdroje a poznámky
 
 [^1]: [IPCC, 2021: Climate Change 2021: The Physical Science Basis.](https://www.ipcc.ch/report/ar6/wg1/) Contribution of Working Group I to the Sixth
 Assessment Report of the Intergovernmental Panel on Climate Change. Masson-Delmotte, V., P. Zhai, A. Pirani, S.
@@ -85,7 +85,7 @@ L. Connors, C. Péan, S. Berger, N. Caud, Y. Chen, L. Goldfarb, M. I. Gomis, M. 
 R. Matthews, T. K. Maycock, T. Waterfield, O. Yelekçi, R. Yu and B. Zhou (eds.)]. Cambridge University Press. In
 Press.
 
-[^11]: Více o závazcích států a firem vysvětlujeme v textu [Co přesně znamená uhlíková neutralita](/explainery/uhlikova-neutralita) a srovnáváme v rešerši [Emisní závazky států](/studie/2021-reserse-zavazky-statu).
+[^11]: Viac o záväzkoch štátov a firiem nájdete v našom (českom) texte [Co přesně znamená uhlíková neutralita](https://faktaoklimatu.cz/explainery/uhlikova-neutralita) a porovnávame ich v (českej) rešerši [Emisní závazky států](https://faktaoklimatu.cz/studie/2021-reserse-zavazky-statu).
 
 [^55]: Matthews, H. D., Tokarska, K. B., Nicholls, Z. R. J. et al. [Opportunities and challenges in using remaining carbon budgets to guide climate policy.](https://www.nature.com/articles/s41561-020-00663-3) Nature Geoscience 13, str. 769–779 (2020). https://doi.org/10.1038/s41561-020-00663-3
 
@@ -101,4 +101,4 @@ Press.
 
 [^89]: [Klimatický plán Hlavního města Prahy do roku 2030](https://www.praha.eu/jnp/cz/o_meste/magistrat/tiskovy_servis/tiskove_zpravy/praha_nasla_cestu_k_uhlikove_neutralite.html)
 
-[^99]: [Český překlad Pařížské dohody](https://www.mzp.cz/C1257458002F0DC7/cz/parizska_dohoda/$FILE/OEOK-Cesky_preklad_dohody-20160419.pdf)
+[^99]: [Slovenský preklad Parížskej dohody](https://www.minzp.sk/files/oblasti/politika-zmeny-klimy/paris-agreement_sk_final.pdf)
