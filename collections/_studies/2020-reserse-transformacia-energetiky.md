@@ -55,6 +55,7 @@ items:
       - name: Prognostický ústav Centra spoločenských a psychologických vied SAV
         url:  "http://www.prog.sav.sk/index.php/"
   - title:   "Scenáre pre prírodu Slovenska. Príroda a biodiverzita Slovenska do roku 2050: Alternatívne scenáre a implikácie pre verejné politiky"
+    url:     "https://www.enviroportal.sk/uploads/report/10621.pdf"
     date:    2020
     authors:
       - name: Prognostický ústav Centra spoločenských a psychologických vied SAV
