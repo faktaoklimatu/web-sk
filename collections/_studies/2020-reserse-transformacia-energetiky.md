@@ -1,6 +1,6 @@
 ---
 layout:      survey
-title:       "Rešerše: Štúdie transformácie energetiky"
+title:       "Štúdie transformácie energetiky"
 slug:        2020-reserse-transformacie-energetiky
 redirect_from: "/2020-reserse-transformacie-energetiky"
 weight:      300
