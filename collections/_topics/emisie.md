@@ -29,4 +29,5 @@ subtopics:
   - mitigacne-opatrenia-mmf
   - 2019-mitigacne-opatrenia-mmf
   - emisne-povolenky-ets
+  - spoplatnenie-emisii-svet
 ---
