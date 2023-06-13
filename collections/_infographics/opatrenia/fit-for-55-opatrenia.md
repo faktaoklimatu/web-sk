@@ -3,7 +3,7 @@ layout:        infographic
 title:         "Fit for 55: prehľad navrhovaných opatrení"
 slug:          "fit-for-55-opatrenia"
 redirect_from: "/fit-for-55-opatrenia"
-published:     2023-06-20
+published:     2023-06-13
 weight:        94
 tags-scopes:   [ eu ]
 tags-topics:   [ opatrenia, ekonomika ]
