@@ -4,12 +4,12 @@ title:       "Rešerše: Štúdie transformácie energetiky"
 slug:        2020-reserse-transformacie-energetiky
 redirect_from: "/2020-reserse-transformacie-energetiky"
 weight:      300
-published:   2021-11-18
+published:   2023-06-13
 tags-scopes: [ sr ]
 tags-topics: [ energetika, opatrenia ]
 caption:     "Rešerš kľúčových štúdií venujúcich sa transformácii slovenskej energetiky"
 intro: |
-  Štúdií skúmajúcich transformáciu energetiky je veľa a prístupov, ako takéto štúdie spracovávať, je taktiež nemalé množstvo. Táto rešerš ponúka prehľadné zhrnutie kľúčových štúdií v oblasti energetiky týkajúcich sa Slovenskej republiky. Štúdie sú zoradené chronologicky od najnovšej po najstaršiu. 
+  Štúdií skúmajúcich transformáciu energetiky je veľa a prístupov, ako takéto štúdie spracovávať, je taktiež nemalé množstvo. Táto rešerš ponúka prehľadné zhrnutie kľúčových štúdií v oblasti energetiky týkajúcich sa Slovenskej republiky. Štúdie sú zoradené chronologicky od najnovšej po najstaršiu.
 items:
   - title:   "Publikácie Inštitútu environmentálnej politiky"
     date:    2014 – 2021
