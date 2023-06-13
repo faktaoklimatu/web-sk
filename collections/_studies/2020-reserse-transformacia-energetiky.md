@@ -121,9 +121,6 @@ items:
         {% endif %}
       </dl>
       <div class="d-flex flex-column flex-sm-row justify-content-end">
-        {% if item.study %}
-        <a href="/studie/{{ item.study }}" class="btn btn-sm btn-primary">Zhrnutie štúdie</a>
-        {% endif %}
         {% if item.url %}
         <a href="{{ item.url }}" class="btn btn-sm btn-secondary">Zdroj</a>
         {% endif %}
@@ -163,9 +160,6 @@ items:
       </td>
       <td class="align-middle">{% if item.timeframe %}{{ item.timeframe }}{% else %}—{% endif %}</td>
       <td class="align-middle text-center">
-        {% if item.study %}
-        <a href="/studie/{{ item.study }}" class="btn btn-sm btn-primary">Zhrnutie</a>
-        {% endif %}
         {% if item.url %}
         <a href="{{ item.url }}" class="btn btn-sm btn-secondary">Zdroj</a>
         {% endif %}
