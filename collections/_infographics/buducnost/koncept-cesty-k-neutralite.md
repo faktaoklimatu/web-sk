@@ -48,20 +48,20 @@ Predstava celkového množstva emisií, ktoré môžeme ako ľudstvo vypustiť, 
 * Možnému využitiu konceptu zostatkového uhlíkového rozpočtu ako návodu na určovanie potrebných opatrení sa venuje článok [Opportunities and challenges in using remaining carbon budgets to guide climate policy.](https://www.nature.com/articles/s41561-020-00663-3) Podrobne rozoberá predpoklady tohto prístupu, zdroje neistôt v určovaní uhlíkového rozpočtu a otázku prideľovania uhlíkových rozpočtov jednotlivým štátom.
 
 ## Čo určuje výsledné globálne oteplenie?
-
+//
 {% include preview-box.html
     title="Súvislosť koncentrácie CO<sub>2</sub> a globálneho otepľovania"
     text="Merania ukazujú, že globálne oteplenie je približne priamo úmerné koncentrácii CO<sub>2</sub> v atmosfére."
-    slug="[souvislost-koncentrace-oteplovani](https://faktaoklimatu.cz/infografiky/souvislost-koncentrace-oteplovani)"
+    slug="[suvislost-koncentracie-oteplovania](https://faktaoklimatu.cz/infografiky/souvislost-koncentrace-oteplovani)"
 %}
-
+//
 Merania aj klimatické modely ukazujú, že **globálne oteplenie je približne priamo úmerné celkovému množstvu CO<sub>2</sub> vypustenému do atmosféry**.[^58] [^55] [^56] [^57] Inými slovami, čím viac skleníkových plynov vypustíme, tým vyššia bude priemerná globálna teplota. Keď si teda stanovíme určitú hranicu oteplenia, ktorú nechceme prekročiť, vieme vypočítať, **koľko CO<sub>2</sub> ešte môžeme ako ľudstvo v budúcnosti vypustiť, aby sme sa udržali pod touto hranicou. Potom hovoríme o zostávajúcom uhlíkovom rozpočte pre danú hranicu.** Konkrétne napríklad pri 66 % pravdepodobnosti udržania oteplenia pod 1,5 °C (v porovnaní s priemerom rokov 1850 – 1900) bol zostávajúci uhlíkový rozpočet v roku 2021 rádovo 300 Gt CO<sub>2</sub> a pre udržanie oteplenia pod 2 °C je zostávajúci uhlíkový rozpočet rádovo 1050 Gt CO<sub>2</sub>.[^56]
 
 Pojem *rozpočet* treba chápať ako metaforu: podobne ako rodinný rozpočet na dovolenku udáva, koľko peňazí možno celkovo minúť počas dovolenky, uhlíkový rozpočet nám hovorí, aké množstvo CO<sub>2</sub> môže ľudstvo ešte vypustiť, aby globálne oteplenie neprekročilo určitú hranicu.
 
-## Další zdroje a poznámky
+## Ďalšie zdroje a poznámky
 
-[^11]: Viac o záväzkoch štátov a firiem píšeme v texte [Čo presne znamená uhlíková neutralita](/explainery/uhlikova-neutralita) a porovnávame ich v rešerši [Emisní závazky států](https://faktaoklimatu.cz/studie/2021-reserse-zavazky-statu).
+[^11]: Viac o záväzkoch štátov a firiem píšeme v (českom) texte [Co přesně znamená uhlíková neutralita?](https://faktaoklimatu.cz/explainery/uhlikova-neutralita) a porovnávame ich v (českej) rešerši [Emisní závazky států](https://faktaoklimatu.cz/studie/2021-reserse-zavazky-statu).
 
 [^55]: Matthews, H. D., Tokarska, K. B., Nicholls, Z. R. J. et al. [Opportunities and challenges in using remaining carbon budgets to guide climate policy.](https://www.nature.com/articles/s41561-020-00663-3) Nature Geoscience 13, str. 769–779 (2020). https://doi.org/10.1038/s41561-020-00663-3
 
