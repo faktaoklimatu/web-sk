@@ -12,9 +12,9 @@ data-our:   "https://docs.google.com/spreadsheets/d/1KnjFmzFuK7Ssg-DRavuMJ2l9C7Y
 data-orig:	[ [ "Správa MMF", "https://www.imf.org/en/Publications/FM/Issues/2019/09/12/fiscal-monitor-october-2019" ] ]
 ---
 
-## Opatrenia ku zmierneniu klimatickej zmeny
+## Opatrenia na zmiernenie klimatickej zmeny
 
-Medzinárodný menový fond v roku 2019 publikoval [štúdiu](https://www.imf.org/en/Publications/FM/Issues/2019/09/12/fiscal-monitor-october-2019 ), v ktorej hodnotí štyri rôzne nástroje, pomocou ktorých môžu vlády znižovať emisie skleníkových plynov a prispievať tak ku zmierneniu klimatickej zmeny. Infografika porovnáva tieto nástroje v siedmich vybraných kritériách a ukazuje, že najefektívnejšie sú opatrenia spoplatňuje uhlíkové emisie – uhlíková daň nasledovaná systémami pre obchodovanie s emisnými povolenkami.
+Medzinárodný menový fond v roku 2019 publikoval [štúdiu](https://www.imf.org/en/Publications/FM/Issues/2019/09/12/fiscal-monitor-october-2019 ), v ktorej hodnotí štyri rôzne nástroje, pomocou ktorých môžu vlády znižovať emisie skleníkových plynov a prispievať tak ku zmierneniu klimatickej zmeny. Infografika porovnáva tieto nástroje v siedmich vybraných kritériách a ukazuje, že najefektívnejšie sú opatrenia spoplatňujúce uhlíkové emisie – uhlíková daň nasledovaná systémami na obchodovanie s emisnými povolenkami.
 
 ## Popis jednotlivých nástrojov
 
@@ -25,9 +25,9 @@ Medzinárodný menový fond v roku 2019 publikoval [štúdiu](https://www.imf.or
 
 ## Popis kritérií
 
-* **Rozsah opatrení:** aké množstvo aktivít a produktov, ktoré prispievajú k emisiám skleníkových plynov bude ovplyvnené opatrením. Širší rozsah znižuje emisie účinnejšie.
+* **Rozsah opatrení:** aké množstvo aktivít a produktov, ktoré prispievajú k emisiám skleníkových plynov, bude ovplyvnené opatrením. Širší rozsah znižuje emisie účinnejšie.
 * **Tržný mechanizmus:** tržné opatrenia prevádzajú informáciu o emisiách skleníkových plynov do ceny. Z ekonomického pohľadu sú ceny kľúčovým mechanizmom, ktorý sprostredkováva informáciu v ekonómii. Keď majú spotrebitelia o niečo záujem, potom vyšší dopyt vedie k vyššej cene, vyššia cena k vyšším ziskom výrobcov a dodávateľov a následne k vstupu nových firiem do odvetvia. Podobne vyššia cena na strane ponuky vedie k nižšiemu záujmu zákazníkov. Pokiaľ bude cena produktov a služieb odrážať produkciu skleníkových plynov pri ich uvedení na trh, firmy aj domácnosti budú prirodzene motivované ku zníženiu emisií.
-* **Prejavenie sa opatrení v praxi:** do akej miery sa môžu firmy a ľudia rozhodnúť, akým spôsobom emisie znížia. V prípade regulácií je možnosť rozhodovania zachovaná len v rámci dielčích oblastí alebo sú niektoré produkty a aktivity úplne zakázané (alebo naopak prikázané) vládou. Oproti tomu uhlíková daň iba zvyšuje cenu aktivít vedúcich k emisiám skleníkových plynov a firmy a ľudia majú úplnú slobodu rozhodnúť sa, akým spôsobom budú šetriť – či znížením spotreby energií alebo prejdú na efektívnejšie technológie. Väčšia sloboda pre rozhodovanie firiem a jednotlivcov znamená nájdenie efektívnejšieho spôsobu zníženia emisií.
+* **Prejav opatrení v praxi:** do akej miery sa môžu firmy a ľudia rozhodnúť, akým spôsobom emisie znížia. V prípade regulácií je možnosť rozhodovania zachovaná len v rámci dielčích oblastí alebo sú niektoré produkty a aktivity úplne zakázané (alebo naopak prikázané) vládou. Oproti tomu uhlíková daň iba zvyšuje cenu aktivít vedúcich k emisiám skleníkových plynov a firmy a ľudia majú úplnú slobodu rozhodnúť sa, akým spôsobom budú šetriť – či znížením spotreby energií alebo prejdú na efektívnejšie technológie. Väčšia sloboda pre rozhodovanie firiem a jednotlivcov znamená nájdenie efektívnejšieho spôsobu zníženia emisií.
 * **Prijateľnosť dopadu na ceny energií:** niektoré opatrenia môžu viesť k vyššiemu nárastu cien energií. V takom prípade je možné očakávať silnejšiu opozíciu proti zavedeniu daného opatrenia. Vhodnou implementáciou je možné kompenzovať negatívne dopady na nízkopríjmové skupiny obyvateľstva.
 * **Predvídateľnosť cien:** do akej miery sa dajú predvídať budúce ceny energií (a prípadne ďalších produktov ovplyvnených opatrením). Stabilnejšie a predvídateľnejšie prostredie je lepšie pre firmy aj pre domácnosti.
 * **Príjem do štátneho rozpočtu:** niektoré opatrenia prinášajú peniaze do rozpočtu. Vláda môže využiť takto vybranú čiastku ku zníženiu iných daní, ku kompenzácii niektorých negatívnych dopadov opatrenia alebo k podpore investícií do čistejších technológií.
@@ -37,7 +37,7 @@ Medzinárodný menový fond v roku 2019 publikoval [štúdiu](https://www.imf.or
 
 * Široký rozsah, tržný mechanizmus a možnosť samostatného rozhodovania sa firiem a jednotlivcov sú kľúčové kritériá pre efektívne zníženie emisií skleníkových plynov.
 * Regulácie a štandardy spravidla vylúčia niektoré aktivity alebo produkty, napríklad autá s príliš vysokými emisiami, avšak neovplyvnia mieru využívania ostatných áut. Oproti tomu môžu viesť tržné mechanizmy tiež ku zníženiu miery využívania vozidiel, ktoré prispievajú k emisiám skleníkových plynov.
-* Konkrétna implementácia je dôležitá, vhodným nastavením parametrov opatrenia je spravidla možné kompenzovať niektoré nevýhody. Zavedenie menej účinných opatrení je výrazne lepšie ako nezavedenie žiadnych opatrení.
+* Konkrétna implementácia je dôležitá – vhodným nastavením parametrov opatrenia je spravidla možné kompenzovať niektoré nevýhody. Zavedenie menej účinných opatrení je výrazne lepšie ako nezavedenie žiadnych opatrení.
 * Účinnosť všetkých opatrení môže byť ďalej posilnená medzinárodnou spoluprácou a podporou investícií do čistých technológií.
 
 ## Ďalšie zdroje
