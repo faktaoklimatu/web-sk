@@ -152,6 +152,8 @@ subtopics:
   - emisne-povolenky-ets
   - mitigacne-opatrenia-mmf
   - 2019-mitigacne-opatrenia-mmf
+  - fit-for-55
+  - fit-for-55-opatrenia
 
 - id:          "intenzity"
   title:       "Emisie vs. HDP: emisné intenzity ekonomík"
