@@ -26,7 +26,7 @@ Fit for 55 je súčasťou širšej stratégie Európskej únie (EÚ) na dosiahnu
 
 **Aby sa globálne oteplenie udržalo pod 1,5 °C** v porovnaní s predindustriálnym obdobím, **treba do roku 2030 znížiť celosvetovo emisie skleníkových plynov na polovicu**, nielen v EÚ. Európska únia (EU-27, bez Spojeného kráľovstva) sa v roku 2020 podieľala na týchto emisiách 7,5 %. V absolútnom vyjadrení vypustili krajiny EÚ v tom istom roku 2,6 miliardy ton CO<sub>2</sub>, čím sa zaradili na tretie miesto za Čínu a USA.[^emisie-co2]
 
-Hoci Európsku úniu a svet čaká pravdepodobne najväčšia hospodárska a spoločenská transformácia v histórii, podľa údajov Eurobarometra z roku 2021 väčšina občanov a občianok EÚ (93 %) považuje zmenu klímy za vážny problém. Na Slovensku je to 95 %. Zároveň 88 % Slovákov a Sloveniek súhlasí s tvrdením "Mali by sme znížiť emisie skleníkových plynov na minimum a zároveň kompenzovať zvyšné emisie napríklad rozšírením lesných porastov, aby sa hospodárstvo EÚ stalo do roku 2050 klimaticky neutrálnym"[^eurobarometer]
+Hoci Európsku úniu a svet čaká pravdepodobne najväčšia hospodárska a spoločenská transformácia v histórii, podľa údajov Eurobarometra z roku 2021 väčšina občanov a občianok EÚ (93 %) považuje zmenu klímy za vážny problém. Na Slovensku je to 95 %. Zároveň 88 % Slovákov a Sloveniek súhlasí s tvrdením "Mali by sme znížiť emisie skleníkových plynov na minimum a zároveň kompenzovať zvyšné emisie napríklad rozšírením lesných porastov, aby sa hospodárstvo EÚ stalo do roku 2050 klimaticky neutrálnym."[^eurobarometer]
 
 ## Princípy
 
@@ -78,7 +78,7 @@ Nižšie uvádzame prehľad navrhovaných opatrení vrátane odkazov na pôvodn�
 #### Energetika
 
 * [Revízia smernice o obnoviteľných zdrojoch energie](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A52021PC0557) (*Renewable Energy Directive*, RED)
-* [Revízia nariadenia o znižovaní emisií metánu v odvetví energetiky a o zmene nariadenia EU 2019/942](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A52021PC0805)
+* [Revízia nariadenia o znižovaní emisií metánu v odvetví energetiky a o zmene nariadenia (EÚ) 2019/942](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A52021PC0805)
 * [Revízia nariadenia o vnútornom trhu s obnoviteľnými plynmi a zemným plynom a s vodíkom](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=COM%3A2021%3A804%3AFIN)
 * [Revízia smernice o spoločných pravidlách pre vnútorný trh s obnoviteľnými plynmi, zemným plynom a s vodíkom](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=COM%3A2021%3A803%3AFIN)
 
