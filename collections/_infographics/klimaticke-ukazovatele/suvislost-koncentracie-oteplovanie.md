@@ -1,8 +1,8 @@
 ---
 layout:     infographic
 title:      "Súvislosť koncentrácie CO₂ a globálneho otepľovania"
-slug:       "suvislost-koncentracia-oteplovanie"
-redirect_from: "/suvislost-koncentracia-oteplovanie"
+slug:       "suvislost-koncentracie-oteplovanie"
+redirect_from: "/suvislost-koncentracie-oteplovanie"
 published:  2023-06-15
 weight:     90
 tags-scopes: [ svet ]
@@ -11,13 +11,13 @@ caption:    "Z historických dát aj z modelovania budúceho vývoja vyplýva, �
 data-our:   "https://docs.google.com/spreadsheets/d/1aVn3Uz1wLUtmATagtZHEpeayiee6uy_BRAivZPwfb2s/edit?usp=sharing"
 data-orig:  [ [ "Zdrojové dáta NASA", "https://data.giss.nasa.gov/gistemp/" ], [ "Keelingova krivka", "https://scripps.ucsd.edu/programs/keelingcurve/" ] ]
 ---
-//
+{% comment %}
 {% include preview-box.html
     title="Podrobnější popis souvislostí"
     text="Přímou úměrnost mezi oteplením a zvýšením koncentrace CO<sub>2</sub> a také vliv dalších skleníkových plynů a aerosolů nebo vliv setrvačnosti klimatu podrobněji vysvětlujeme v tomto textu."
     slug="otepleni-zvysenim-koncentrace-co2"
 %}
-//
+{% endcomment %}
 ## Čo je zobrazené v grafe
 
 Farebné body reprezentujú jednotlivé roky medzi rokmi 1884 a 2020. Umiestnenie týchto bodov zodpovedá koncentrácii CO<sub>2</sub> (na vodorovnej osi) a teplotnej anomálii (na zvislej osi) v danom roku. Z grafu je zrejmé, že závislosť týchto dvoch veličín je približne priamo úmerná a **každé zvýšenie koncentrácie CO<sub>2</sub> o 10 ppm vedie k nárastu teploty o zhruba 0,1 °C**. Túto závislosť podrobnejšie popisujeme nižšie a tiež v našom súvisiacom (českom) texte [Jak moc se oteplí, když se zvýší koncentrace CO₂?](https://faktaoklimatu.cz/explainery/otepleni-zvysenim-koncentrace-co2)
