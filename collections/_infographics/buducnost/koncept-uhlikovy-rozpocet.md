@@ -18,7 +18,7 @@ V súvislosti so znižovaním emisií skleníkových plynov sa často hovorí o 
 {% include preview-box.html
     title="Súvislosť koncentrácie CO<sub>2</sub> a globálneho otepľovania"
     text="Merania ukazujú, že globálne oteplenie je približne priamo úmerné koncentrácii CO<sub>2</sub> v atmosfére."
-    slug="suvislost-koncentracia-oteplovanie"
+    slug="suvislost-koncentracie-oteplovanie"
 %}
 
 Merania aj klimatické modely ukazujú, že **globálne oteplenie je približne priamo úmerné celkovému množstvu CO<sub>2</sub> vypustenému do atmosféry.**[^58] [^55] [^56] [^57] Inými slovami, čím viac skleníkových plynov vypustíme, tým vyššia bude priemerná globálna teplota. Ak si teda stanovíme určitú hranicu oteplenia, ktorú nechceme prekročiť, dá sa vypočítať, **koľko CO<sub>2</sub> ešte môžeme ako ľudstvo v budúcnosti vypustiť, aby sme sa udržali pod touto hranicou**. Hovoríme potom o zostávajúcom uhlíkovom rozpočte pre danú hranicu. Konkrétne, aby sa oteplenie udržalo pod hranicou 1,5 °C (v porovnaní s priemerom z rokov 1850 – 1900), zostávajúci uhlíkový rozpočet v roku 2020 bol rádovo 400 Gt CO<sub>2</sub> a pre udržanie oteplenia pod 2 °C je zostávajúci uhlíkový rozpočet rádovo 1150 Gt CO<sub>2</sub>[^1] (oba údaje sú pre 67 % pravdepodobnosť, že sa neprekročí daná teplotná hranica).
@@ -27,12 +27,13 @@ Označenie *rozpočet* treba pritom chápať ako metaforu: podobne ako rodinný 
 
 ## Ako súvisí uhlíkový rozpočet s cieľom uhlíkovej neutrality?
 
+{% comment %}
 {% include preview-box.html
     title="Ako rôzne varianty znižovania emisií ovplyvnia otepľovanie"
     text="Uhlíkový rozpočet je z hľadiska diskusie o opatreniach na zníženie emisií dôležitejší uhlíková neutralita."
     slug="koncept-cesty-k-neutralite"
 %}
-
+{% endcomment %}
 Uhlíkový rozpočet a dosiahnutie uhlíkovej neutrality sú dva rôzne spôsoby, ako sa dá uvažovať o znižovaní emisií skleníkových plynov. **Uhlíková neutralita** označuje stav, kedy ľudstvo svojím pôsobením nepridáva CO<sub>2</sub> do atmosféry. Cieľ *dosiahnuť uhlíkovú neutralitu do určitého dátumu* je zrozumiteľný a dobre formulovaný, preto mnohé štáty a firmy zakladajú svoje záväzky práve na ňom.[^11]
 
 Zjednodušene povedané, cieľ uhlíkovej neutrality hovorí, kedy spálime poslednú tonu fosílnych palív – nijako už ale nerieši, koľko fosílnych palív dovtedy spálime. Naproti tomu **uhlíkový rozpočet** vychádza zo stanoveného cieľa oteplenia a na jeho základe určuje, koľko fosílnych palív ešte môžeme celkovo spáliť bez toho, aby špecifikoval, kedy presne sa môže spáliť posledná tona.
@@ -51,12 +52,13 @@ Myšlienka celkového množstva emisií, ktoré môžeme ako ľudstvo vypustiť,
 
 ## Neistoty pri určovaní uhlíkového rozpočtu
 
-//{% include preview-box.html
+{% comment %}
+{% include preview-box.html
     title="Súvislosť oteplenia na budúcich emisiách"
     text="Merania ukazujú, že globálne oteplenie je približne priamo úmerné koncentrácii CO<sub>2</sub> v atmosfére."
     slug="suvislost-emisie-oteplovanie"
 %}
-//
+{% endcomment %}
 Modelovanie budúceho vývoja globálneho otepľovania vychádza z veličín, ktorých hodnoty sú známe len s určitou neistotou. Preto sa aj uhlíkový rozpočet vzťahuje na určitú pravdepodobnosť, že daná hranica oteplenia nebude prekročená. Napríklad, ak chceme mať aspoň 50 % šancu, že neprekročíme hranicu oteplenia 2 °C, môžeme vypustiť už len 1400 Gt CO<sub>2</sub>. Ak si chceme byť istí na 67 %, nemali by sme vypustiť viac ako 1100 Gt CO<sub>2</sub>. Čím väčšiu istotu chceme mať, tým menej oxidu uhličitého si môžeme dovoliť vypustiť. Tieto súvislosti podrobnejšie zobrazujeme v (českej) grafike [Závislost oteplení na budoucích emisích CO<sub>2</sub>](https://faktaoklimatu.cz/infografiky/souvislost-emise-otepleni).
 
 Hlavnou neistotou pri určovaní uhlíkového rozpočtu je citlivosť klímy, ktorá vyjadruje, "o koľko stupňov Celzia sa svet oteplí, keď zdvojnásobíme koncentráciu CO<sub>2</sub>". Pri zmene klímy totiž nespôsobia nárast globálnej teploty len samotné skleníkové plyny, ale aj prírodné spätné väzby, ktoré sa v klíme odohrávajú. Príkladom môže byť spätná väzba vodnej pary: čím vyššia je teplota, tým viac vody sa vyparuje z povrchu oceánov. Viac vodnej pary v atmosfére zároveň ďalej zvyšuje teplotu, pretože vodná para silne pohlcuje tepelné žiarenie. Inými slovami: *spätná väzba vodnej pary zosilňuje skleníkový efekt <glossary id="antropogennesklenikoveplyny">antropogénnych skleníkových plynov</glossary>*. Podobne funguje spätná väzba topenia ľadovcov: vyššia teplota spôsobuje, že ľadovce sa topia, čím sa odkrýva povrch pod nimi. Ten pohlcuje viac slnečného žiarenia, čo vedie k ďalšiemu zvyšovaniu teploty. Naopak, existujú aj tzv. negatívne spätné väzby, ktoré otepľovanie spomaľujú, napríklad nízka oblačnosť. Ak zmena klímy (napr. v dôsledku vyššieho vyparovania) vedie v niektorej oblasti k zvýšeniu oblačnosti, v tejto oblasti dôjde súčasne k ochladeniu (v dôsledku vyššieho zatienenia slnka).
