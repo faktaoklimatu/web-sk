@@ -5,7 +5,7 @@ slug:        "scenar-transformacie-elektroenergetiky"
 redirect_from: "/scenar-transformacie-elektroenergetiky"
 published:   2021-11-10
 weight:      74
-tags-scopes: [ cr ]
+tags-scopes: [ sr ]
 tags-topics: [ energetika ]
 caption:     "Scenár transformácie elektronergetiky ukazuje potenciálny budúci stav produkcie elektriny, aké zdroje sa budú používať a aký bude potrebný inštalovaný výkon. Táto grafika ilustruje, ako vyzerá jeden z možných prístupov k tvorbe takéhoto scenára."
 ---
