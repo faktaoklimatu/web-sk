@@ -5,7 +5,7 @@ slug: index
 ---
 <div class="section intro">
     <div class="container">
-        <h1 class="display-1" id="home">Fakty o zmene<br>klímy</h1>
+        <h1 class="display" id="home">Fakty o zmene<br>klímy</h1>
         <span class="tagline">Verejne dostupné <span class="nobr">infografiky, dáta a články</span></span>
         <p>Sme tím nezávislých analytikov a expertov, ktorý sa snaží, aby diskusia o klimatických zmenách v našej krajine bola vecná, kultivovaná a založená na vedeckých poznatkoch a overených dátach.
         </p>
@@ -54,10 +54,10 @@ slug: index
 
 {% assign sorted_topics = site.topics | where_exp: "item", "item.weight > 0" | sort: "weight" %}
 <div class="section"><div class="container" markdown="1">
-{: .display-2}
+{: .display}
 ## Oblasti, ktorým sa venujeme
 
-{:.lead}
+{:.lead .narrow-text}
 Klimatická zmena je zložitý komplex navzájom previazaných javov. Údaje, s ktorými pracujeme, sa preto dotýkajú rôznych oblastí ľudskej činnosti - od ekonomiky cez politiku až po energetiku. Pre uľahčenie orientácie na webe triedime naše materiály do nižšie uvedených kategórií.
 
 <div class="row topic-tiles">
@@ -74,7 +74,7 @@ Klimatická zmena je zložitý komplex navzájom previazaných javov. Údaje, s 
 </div></div>
 <!-- TODO temporary anchor till we don't have "about" page due to explainer author links -->
 <div id="members" class="section"><div class="container clearfix" markdown="1">
-{:#about .display-2}
+{:#about .display}
 ## O našej práci
 
 <div class="row about-us lead mb-5 justify-content-between">
@@ -99,7 +99,7 @@ Klimatická zmena je zložitý komplex navzájom previazaných javov. Údaje, s 
 </div>
 </div>
 
-{:.display-3}
+{:.display}
 ### Ocenenia
 
 <div class="row about-us lead">
@@ -126,10 +126,10 @@ Prvá cena v akcelerátore <strong>Climate Challenge</strong> (2020)
 </div></div>
 <div class="section"><div class="container clearfix" markdown="1">
 
-{:.display-2 .mb-3}
+{:.display .mb-3}
 ## Kto využíva naše materiály
 
-{:.lead}
+{:.lead .narrow-text}
 Naše infografiky a texty využívajú slovenské i zahraničné inštitúcie, spravodajské portály, konzultačné spoločnosti, školy a ďalší aktéri.
 
 <div class="logos mt-md-5 mb-md-4">

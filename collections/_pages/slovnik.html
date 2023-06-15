@@ -6,7 +6,9 @@ intro:      "Stručný prehľad nejčastejšie používaných hesiel a skratiek 
 ---
 {%- assign sorted_glossary = site.data.glossary | sort_localized: "name-short" -%}
 
-<p class="lead">{{ page.intro }}</p>
+<div class="row"><div class="col-12 col-lg-10">
+
+<p class="perex">{{ page.intro }}</p>
 
 <ul class="inline-bullet-list">
     {%- for item in sorted_glossary %}
@@ -15,7 +17,8 @@ intro:      "Stručný prehľad nejčastejšie používaných hesiel a skratiek 
 </ul>
 
 {% for item in sorted_glossary %}
-<hr/>
 <h3 id="{{ item.id }}">{{ item.name-short }}{% if item.name-long %}<span class="lead"> ({{ item.name-long }})</span>{% endif %}</h3>
 {{ item.description | markdownify }}
 {% endfor %}
+
+</div></div>
