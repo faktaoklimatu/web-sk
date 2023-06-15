@@ -1,7 +1,7 @@
 # Local translations of core strings
 
 navigation:
-  dev-version: "Toto je vývojárska verzia webu."
+  dev-version: "Vývojárska verzia webu"
   dev-differences: "Oproti produkčnej verzii v nej chýba web analytika, platnosť cache je znížená na 5 minút a CSP violations nie sú odosielané na URIports."
   search:
     empty: "Nič sme nenašli"
@@ -30,6 +30,11 @@ topic:
   nutshell-id: "v-kocke"
   nutshell-title: "V kocke"
   series-prefix: "Séria: "
+  region:
+    cz: "ČR"
+    sk: "SR"
+    eu: "EU"
+    world: "svet"
 
 text:
   toc: "Obsah"
