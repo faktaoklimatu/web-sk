@@ -15,12 +15,12 @@ V súvislosti so znižovaním emisií skleníkových plynov sa často hovorí o 
 
 ## Čo je uhlíkový rozpočet?
 
-//{% include preview-box.html
+{% include preview-box.html
     title="Súvislosť koncentrácie CO<sub>2</sub> a globálneho otepľovania"
     text="Merania ukazujú, že globálne oteplenie je približne priamo úmerné koncentrácii CO<sub>2</sub> v atmosfére."
     slug="suvislost-koncentracia-oteplovanie"
 %}
-//
+
 Merania aj klimatické modely ukazujú, že **globálne oteplenie je približne priamo úmerné celkovému množstvu CO<sub>2</sub> vypustenému do atmosféry.**[^58] [^55] [^56] [^57] Inými slovami, čím viac skleníkových plynov vypustíme, tým vyššia bude priemerná globálna teplota. Ak si teda stanovíme určitú hranicu oteplenia, ktorú nechceme prekročiť, dá sa vypočítať, **koľko CO<sub>2</sub> ešte môžeme ako ľudstvo v budúcnosti vypustiť, aby sme sa udržali pod touto hranicou**. Hovoríme potom o zostávajúcom uhlíkovom rozpočte pre danú hranicu. Konkrétne, aby sa oteplenie udržalo pod hranicou 1,5 °C (v porovnaní s priemerom z rokov 1850 – 1900), zostávajúci uhlíkový rozpočet v roku 2020 bol rádovo 400 Gt CO<sub>2</sub> a pre udržanie oteplenia pod 2 °C je zostávajúci uhlíkový rozpočet rádovo 1150 Gt CO<sub>2</sub>[^1] (oba údaje sú pre 67 % pravdepodobnosť, že sa neprekročí daná teplotná hranica).
 
 Označenie *rozpočet* treba pritom chápať ako metaforu: podobne ako rodinný dovolenkový rozpočet udáva, koľko peňazí možno celkovo minúť počas dovolenky, uhlíkový rozpočet hovorí, aké množstvo CO<sub>2</sub> môže ľudstvo ešte vypustiť, aby neprekročilo určitú hranicu globálneho oteplenia.
