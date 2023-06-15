@@ -108,7 +108,7 @@ subtopics:
   - teplota-22000-rokov
   - mapa-zmeny-teploty
   - koncentracia-co2
-  - cykly-koncentracie-co2
+  - cykly-koncentracia-co2
 
 - id:          "fyzika"
   title:       "Fyzikálne základy a princípy"
