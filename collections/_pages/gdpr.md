@@ -3,7 +3,9 @@ layout: single-section-page
 title: Zásady spracovania osobných údajov
 slug: gdpr
 ---
-{:.lead}
+<div class="row"><div class="col-12 col-lg-10" markdown="1">
+
+{:.perex}
 Vytvorené v súlade s platnou legislatívou a Nariadením Európskeho Parlamentu a Rady (EU) 2016/679 o ochrane fyzických osôb v súvislosti so spracovaním osobných údajov a o voľnom pohybe týchto údajov. Platné od 6. októbra 2020.
 
 ## Správca osobných údajov
@@ -46,3 +48,5 @@ Osobné údaje subjektov spracovávame v rámci ústavu, prípadne pomocou tret�
 * [ECOMAIL.CZ, s.r.o.](https://ecomail.cz/), funguje ako spracovateľ pre dáta k newsletterom a rozesielkám
 * [Jaspar s.r.o.](https://www.ucetnictvijaspar.cz/), funguje ako spracovateľ pre účtovné dáta
 * [Google Ireland Limited](https://en.wikipedia.org/wiki/Google), funguje ako spracovateľ pre analytiku návštevnosti našich webov cez službu [Google Analytics](https://marketingplatform.google.com/about/analytics/)
+
+</div></div>
