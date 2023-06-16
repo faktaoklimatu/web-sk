@@ -6,7 +6,7 @@ published:   2023-06-20
 authors:
   - id: "katerina-kolouchova"
   - ids: ["jirka-lnenicka", "kristi-psorn-zakopcanova"]
-    minor-role: "editace"
+    minor-role: "editácia"
 weight:      74
 tags-scopes: [ eu ]
 tags-topics: [ opatrenia ]
@@ -169,88 +169,88 @@ V tejto oblasti bola vypracovaná stratégia s názvom [Vlna obnovy pre Európu]
 
 Podobne ako cestná doprava, aj sektor budov by mal byť zahrnutý do **systému obchodovania s emisnými povolenkami** (tzv. EU ETS 2). Súčasne s týmto opatrením sa má zriadiť [Sociálny klimatický fond](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX:52021PC0568), ktorý sa bude financovať práve z výnosov z predaja emisných kvót v sektore cestnej dopravy a v sektore budov. Fond by slúžil ako **finančná podpora pre domácnosti**, pre ktoré bude najťažšie vyrovnať sa s prípadným zdražovaním v týchto sektoroch. Tieto prostriedky by mali byť určené na podporu energetickej účinnosti budov, inštaláciu obnoviteľných zdrojov energie alebo bezemisnej dopravy.
 
-### Dekarbonizace průmyslu a oběhové hospodářství
+### Dekarbonizácia priemyslu a obehové hospodárstvo
 
 {% include lead-in-figure.html
     name="cs-prumysl.svg"
     alt="Piktogram ozubených kol a šipek v kruhu"
 %}
 
-Průmysl se v roce 2019 podílel na unijních emisích skleníkových plynů přibližně 21 %. Emise zde vznikají jednak spalováním fosilních paliv při procesech zahřívání, jednak v chemických reakcích při výrobě cementu, železa a oceli. Průmysl navíc nezatěžuje životní prostředí pouze skleníkovými plyny, ale i těžbou a zpracováním přírodních materiálů. To představuje další zátěž pro ekosystémy a je jednou z příčin ztráty biodiverzity. Místa s intenzivní těžbou se také často potýkají s nedostatkem vody.
+Priemysel sa v roku 2019 podieľal na emisiách skleníkových plynov v EÚ približne 21 %. Emisie tu vznikajú pri spaľovaní fosílnych palív v procesoch zahrievania, ako aj pri chemických reakciách pri výrobe cementu, železa a ocele. Okrem toho priemysel neznečisťuje životné prostredie len skleníkovými plynmi, ale aj ťažbou a spracovaním prírodných materiálov. To predstavuje ďalšiu záťaž pre ekosystémy a je jednou z príčin straty biodiverzity. Lokality s intenzívnou ťažbou sa často stretávajú aj s nedostatkom vody.
 
-Klíčovými díly skládačky dekarbonizace průmyslu jsou **rozvoj zeleného vodíku, technologií na zachytávání a ukládání uhlíku** (*Carbon Capture and Storage*, CCS) nebo **alternativních paliv**. Využitím zeleného vodíku[^vodik-vysvetleni] je možné nahradit spalování fosilních paliv. Naopak dekarbonizace chemických procesů při výrobě železa a oceli, cementu nebo v chemickém průmyslu pravděpodobně nebude možná bez využití technologií na zachytávání a ukládání uhlíku. Dekarbonizaci průmyslu napomůže i podpora **oběhového hospodářství**, tedy snížení objemu odpadu, znovupoužitelnost materiálů i produktů a jejich recyklace (což se někdy shrnuje anglickým heslem *reduce, reuse, recycle*). V praxi to znamená například konec jednorázových plastů, odpovědnost firem, aby nabízely odolné a opravitelné produkty, nebo udržitelnost a recyklovatelnost baterií používaných nejen v elektromobilech.[^akcni-plan]
+**Vývoj ekologického vodíka, zachytávania a ukladania uhlíka** (*Carbon Capture and Storage*, CCS) alebo alternatívnych palív sú kľúčovými časťami priemyselnej dekarbonizácie. Používanie zeleného vodíka[^vodik-vysvetlenie] môže nahradiť spaľovanie fosílnych palív. Naopak, dekarbonizácia chemických procesov v železiarskom, oceliarskom, cementárenskom alebo chemickom priemysle pravdepodobne nebude možná bez použitia technológií zachytávania a ukladania uhlíka. K dekarbonizácii priemyslu prispeje aj podpora **obehového hospodárstva**, t. j. znižovanie množstva odpadu, opätovné využívanie materiálov a výrobkov a ich recyklácia (niekedy zhrnuté do anglického sloganu 3R: *Reduce, Reuse, Recycle*). V praxi to znamená napríklad koniec jednorazových plastov, zodpovednosť firiem ponúkať trvanlivé a opraviteľné výrobky či udržateľnosť a recyklovateľnosť batérií používaných nielen v elektromobiloch.[^akcny-plan]
 
 {% include expander-figure.html
     name="prumysl-povolenky"
     expanded=false
     class="contrast-figure "
-    label="Kontext: Průmysl, emisní povolenky a uhlíkové clo"
+    label="Kontext: Priemysel, emisné kvóty a uhlíkové clo
     content="
-Energeticky náročná průmyslová odvětví jsou součástí **systému obchodování s emisními povolenkami**. V současnosti však dostávají velkou část povolenek zdarma, a to především ze dvou důvodů. Prvním z nich je obava ze ztráty konkurenceschopnosti. V zemích mimo EU totiž mnohdy neplatí tak přísné emisní standardy, což pro tamní výrobce představuje potenciální výhodu při dovozu do EU před domácími výrobci, kteří by museli nakupovat emisní povolenky a investovat do dekarbonizačních procesů. Druhým důvodem je riziko tzv. úniku uhlíku (*carbon leakage*) do zemí mimo EU. Domácí výrobci totiž mohou přesouvat emisně náročnou výrobu mimo území EU, aby se vyhnuli výdajům spojeným s nákupem povolenek. Obojí by mělo vyřešit zavedení [uhlíkového vyrovnání na hranicích](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021PC0564) (*Carbon Border Adjustment Mechanism*, CBAM), tzv. **uhlíkového cla**, které zpoplatní dovoz emisně náročných produktů i pro mimounijní země, a narovná tak podmínky pro unijní a zahraniční výrobce."
+Energeticky náročné odvetvia sú súčasťou **systému obchodovania s emisnými kvótami**. V súčasnosti však dostávajú veľkú časť svojich príspevkov zadarmo, a to najmä z dvoch dôvodov. Prvým je strach zo straty konkurencieschopnosti. Je to preto, že krajiny mimo EÚ často nemajú také prísne emisné normy, čo dáva miestnym výrobcom potenciálnu výhodu pri dovoze do EÚ oproti domácim výrobcom, ktorí by museli kupovať emisné kvóty a investovať do dekarbonizačných procesov. Druhým dôvodom je riziko úniku uhlíka do krajín mimo EÚ (*carbon leakage*), keďže domáci výrobcovia môžu presunúť výrobu náročnú na emisie mimo EÚ, aby sa vyhli nákladom na nákup kvót. Zavedenie mechanizmu [kompenzácie uhlíka na hraniciach](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A52021PC0564) (*Carbon Border Adjustment Mechanism*, CBAM), tzv. **uhlíkového cla**, ktorý spoplatní dovoz emisne náročných produktov z krajín mimo EÚ, vyrovná podmienky pre výrobcov z EÚ a zo zahraničia."
 %}
 
 {% include expander-figure.html
     name="zdroje"
     expanded=false
     class="contrast-figure "
-    label="Kontext: Udržitelnost a dostupnost vzácných kovů"
+    label="Kontext: Udržateľnosť a dostupnosť drahých kovov"
     content="
-S dekarbonizací průmyslu úzce souvisí i otázky spojené se surovinami či vzácnými kovy, jako jsou měď, nikl, grafit nebo zinek, které jsou potřeba k výrobě čistých technologií (elektromobily, větrné turbíny nebo solární panely). Kromě otázky udržitelnosti (dopadů těžby na životní prostředí či biodiverzitu) je důležitá i otázka dostupnosti těchto surovin, a tedy strategické bezpečnosti. Tyto kovy se totiž nacházejí a zpracovávají převážně v zemích mimo EU, především v Číně či Demokratické republice Kongo, Indonésii a Austrálii. Roli kritických minerálů v transformaci na čistou energii se podrobně věnuje [studie IEA](https://www.iea.org/reports/the-role-of-critical-minerals-in-clean-energy-transitions)."
+S dekarbonizáciou priemyslu úzko súvisia otázky týkajúce sa surovín a vzácnych kovov ako meď, nikel, grafit alebo zinok, ktoré sú potrebné na výrobu čistých technológií (elektromobily, veterné turbíny alebo solárne panely). Okrem otázky udržateľnosti (vplyv ťažby na životné prostredie alebo biodiverzitu) je dôležitá aj dostupnosť týchto surovín, a teda strategická bezpečnosť. Tieto kovy sa nachádzajú a spracúvajú najmä v krajinách mimo EÚ, najmä v Číne, Kongu, Indonézii a Austrálii. Úlohou kritických nerastných surovín pri prechode na čistú energiu sa podrobne zaoberá [štúdia IEA](https://www.iea.org/reports/the-role-of-critical-minerals-in-clean-energy-transitions)."
 %}
 
-### Udržitelné zemědělství
+### Udržateľné poľnohospodárstvo
 
 {% include lead-in-figure.html
     name="cs-zemedelstvi.svg"
     alt="Piktogram zeleniny"
 %}
 
-Zemědělství se v roce 2019 podílelo na celkových emisích skleníkových plynů v EU z 10 %.[^eurostat] Emise zde vznikají především při chovu dobytka (emise metanu) a při obdělávání zemědělské půdy (uvolňování oxidu dusného).
+Poľnohospodárstvo sa v roku 2019 podieľalo 10 % na celkových emisiách skleníkových plynov v EÚ.[^eurostat] Emisie pochádzajú najmä z chovu hospodárskych zvierat (emisie metánu) a obrábania poľnohospodárskej pôdy (uvoľňovanie oxidu dusného).
 
-Řešením je rozvoj udržitelného zemědělství, které podpoří **zachytávání uhlíku v půdě** a bude využívat **více přírodě blízkých postupů** (precizní zemědělství oproti plošnému, agrolesnictví, omezení chemických hnojiv a pesticidů a další). Přírodě bližší zemědělství je současně zásadní i pro **produkci zdravých, výživných a finančně dostupných potravin**.
+Riešením je rozvoj udržateľného poľnohospodárstva, ktoré bude podporovať **zachytávanie uhlíka v pôde** a bude využívať **viac prírode blízkych postupov** (presné poľnohospodárstvo v porovnaní s plošným, agrolesníctvo, obmedzovanie chemických hnojív a pesticídov atď.). Poľnohospodárstvo, ktoré je šetrnejšie k prírode, je tiež nevyhnutné na **výrobu zdravých, výživných a cenovo dostupných potravín**.
 
-Cíle a plány Zelené dohody vedoucí k rozvoji udržitelného zemědělství se odrážejí ve strategii [***Od zemědělce ke spotřebiteli***](https://food.ec.europa.eu/horizontal-topics/farm-fork-strategy_cs) (*Farm to Fork*), která se dotýká jak Společné zemědělské politiky (SZP), tak Společné rybářské politiky (SRP). Zemědělci a rybáři by měli být za udržitelné hospodaření odměňováni. Strategie proto počítá s navýšením podílu prostředků, které budou podporovat ekologicky prospěšné procesy, a přispějí tak ochraně klimatu i biodiverzity – 40 % prostředků v rámci SZP, 30 % v rámci SRP. Na strategii *Od zemědělce ke spotřebiteli* navazuje [reforma SZP](https://www.consilium.europa.eu/cs/policies/cap-introduction/cap-future-2020-common-agricultural-policy-2023-2027/) pro roky 2023 až 2027, která uvádí její cíle do praxe.
+Ciele zelenej dohody a plány na rozvoj udržateľného poľnohospodárstva sa odrážajú v stratégii [***Z farmy na stôl***](https://www.europarl.europa.eu/news/sk/press-room/20211014IPR14914/z-farmy-na-stol-nova-strategia-eu-pre-zdravsie-a-udrzatelnejsie-potraviny) (*Farm to Fork*), ktorá ovplyvňuje spoločnú poľnohospodársku politiku (SPP) aj spoločnú rybársku politiku (SRP). Poľnohospodári a rybári by mali byť odmeňovaní za udržateľné hospodárenie. Stratégia preto predpokladá zvýšenie podielu finančných prostriedkov, ktoré budú podporovať environmentálne prospešné procesy, a tým prispievať k ochrane klímy a biodiverzity – 40 % prostriedkov SPP, 30 % prostriedkov SRP. Na stratégiu *Z farmy na stôl* nadväzuje [reforma SPP](https://www.consilium.europa.eu/sk/policies/cap-introduction/cap-future-2020-common-agricultural-policy-2023-2027/) na roky 2023 až 2027, ktorá uvádza jej ciele do praxe.
 
-### Ochrana biodiverzity a ekosystémů
-
+### Biodiverzita a ochrana ekosystémov
+{% comment %}
 {% include preview-box.html
     title="Proč ubývá biodiverzity?"
     text="Shrnujeme hlavní faktory vedoucí k úbytku biodiverzity – klimatická změna je přitom jedním z nich."
     slug="ubyvani-biodiverzity"
 %}
-
+{% endcomment %}
 {% include lead-in-figure.html
     name="cs-biodiverzita.svg"
     alt="Piktogram fauny a flóry"
 %}
 
-Ochrana a obnova biodiverzity a ekosystémů je stejně velkým tématem jako změna klimatu, i když se jí zatím dostává méně pozornosti. Přitom klimatická a biodiverzitní krize spolu úzce souvisejí – změna klimatu je jednou z příčin ubývání biodiverzity. Mezi další příčiny patří mizení biotopů, nadměrná exploatace, vysoká míra znečištění a šíření nepůvodních druhů.
+Ochrana a obnova biodiverzity a ekosystémov je rovnako veľkým problémom ako zmena klímy, hoci sa jej venuje menej pozornosti. Klimatická kríza a kríza biodiverzity sú však úzko prepojené - zmena klímy je jednou z príčin straty biodiverzity. Medzi ďalšie príčiny patrí strata biotopov, ich nadmerné využívanie, vysoká miera znečistenia a šírenie nepôvodných druhov.
 
-I obnova biodiverzity by proto měla prostupovat unijními politikami a financovanými programy ([*biodiversity mainstreaming*](https://ec.europa.eu/info/strategy/eu-budget/performance-and-reporting/mainstreaming/biodiversity-mainstreaming_en)) a významná část prostředků z unijního rozpočtu na klima (30 %) by měla směřovat k podpoře biodiverzity. Obnova biodiverzity povede mimo jiné ke zvýšení odolnosti – přírody i lidské společnosti – vůči dopadům změny klimatu, lesním požárům či nedostatku potravin.
+Obnova biodiverzity by preto mala preniknúť aj do politík a programov financovania EÚ ([*biodiversity mainstreaming*](https://commission.europa.eu/strategy-and-policy/eu-budget/performance-and-reporting/mainstreaming/biodiversity-mainstreaming_sk)) a významná časť rozpočtu EÚ na ochranu klímy (30 %) by mala byť zameraná na podporu biodiverzity. Obnovenie biodiverzity povedie okrem iného k zvýšeniu odolnosti prírody a ľudskej spoločnosti voči dôsledkom zmeny klímy, lesným požiarom a nedostatku potravín.
 
-Jak toho dosáhnout, nastiňuje evropská [Strategie v oblasti biologické rozmanitosti do roku 2030](https://environment.ec.europa.eu/strategy/biodiversity-strategy-2030_cs). V návaznosti na ni pak představila Komise v červnu 2022 návrh přelomové legislativy – [zákon o obnově přírody](https://environment.ec.europa.eu/topics/nature-and-biodiversity/nature-restoration-law_cs) (*Nature Restoration Law*). V oblasti lesů představila Komise novou [Lesní strategii do roku 2030](https://environment.ec.europa.eu/strategy/forest-strategy_cs). Ta by měla zajistit, že evropské lesy budou zdravější a zároveň odolnější vůči novým klimatickým podmínkám. Její obsah přibližujeme v [samostatném textu](/explainery/lesnicka-strategie-eu). Obě zmíněné strategie pak úzce souvisejí s výše zmíněnou strategií v oblasti udržitelného zemědělství *Od zemědělce ke spotřebiteli* a všechny tři se pak propisují do legislativního návrhu [Revize nařízení o využívání půdy a lesnictví](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021PC0554) v balíčku Fit for 55.
+Európska [Stratégia pre biodiverzitu do roku 2030](https://environment.ec.europa.eu/strategy/biodiversity-strategy-2030_sk) ponúka náčrt, ako to je možné dosiahnuť. Nadväzujúc na ňu, v júni 2022 predložila Komisia návrh prelomového právneho predpisu – [zákona o obnove prírody](https://environment.ec.europa.eu/topics/nature-and-biodiversity/nature-restoration-law_sk) (*Nature Restoration Law*). V oblasti lesov predstavila Komisia novú [Lesnú stratégiu do roku 2030](https://environment.ec.europa.eu/strategy/forest-strategy_sk). Tá by mala zabezpečiť, že európske lesy budú zdravšie a odolnejšie voči novým klimatickým podmienkam. Jej obsah približujeme v [samostatnom (českom) texte](https://faktaoklimatu.cz/explainery/lesnicka-strategie-eu). Tieto dve stratégie sú tiež úzko prepojené s vyššie uvedenou stratégiou trvalo udržateľného poľnohospodárstva, stratégiou *Z farmy na stôl* a všetky tri sú zapracované do legislatívneho návrhu [Revízie nariadenia o využívaní pôdy a lesnom hospodárstve](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX:52021PC0554) v balíčku Fit for 55.
 
-### Nulové znečištění
+### Nulové znečistenie
 
 {% include lead-in-figure.html
     name="cs-znecisteni.svg"
     alt="Piktogram továrny, ze které jde dým"
 %}
 
-Poslední kapitola Zelené dohody se týká znečištění ovzduší, půd a vod. Významným nástrojem by mělo být zlepšení monitoringu tohoto znečištění. Ambicí EU není nic menšího než **do roku 2050 dosáhnout nulového znečištění**. Jinými slovy: mělo by dojít ke snížení znečištění na takovou úroveň, která již nebude pro zdraví a přírodní ekosystémy škodlivá a se kterou se příroda zvládne vypořádat sama. Konkrétní cesty k tomuto cíli představuje [akční plán pro nulové znečištění](https://environment.ec.europa.eu/strategy/zero-pollution-action-plan_cs).
+Posledná kapitola Zelenej dohody sa týka znečistenia ovzdušia, pôdy a vody. Dôležitým nástrojom by malo byť zlepšenie monitorovania tohto znečistenia. Ambíciou EÚ nie je nič menšie ako **dosiahnutie nulového znečistenia do roku 2050**. Inými slovami, znečistenie by sa malo znížiť na úroveň, ktorá už nebude škodlivá pre zdravie a prírodné ekosystémy a s ktorou sa príroda dokáže sama vyrovnať. Konkrétne cesty k tomuto cieľu predstavuje [Akčný plán nulového znečistenia](https://environment.ec.europa.eu/strategy/zero-pollution-action-plan_sk).
 
-## Jak to celé zafinancovat?
+## Ako to všetko financovať?
 
-Otázka, z čeho celou transformaci k bezemisní ekonomice zaplatit, zaznívá často. Nicméně **zdroje pro financování cílů Zelené dohody již existují** a o dalších se vyjednává. Klíčovým úkolem zůstává, jak tyto prostředky vhodně využít a rozdělit tam, kde mají smysl a mohou být využity nejefektivněji. Dostupné zdroje financí se dají rozdělit do tří skupin: na unijní zdroje, soukromý kapitál a vnitrostátní rozpočty.
+Často zaznieva otázka, ako zaplatiť celú transformáciu na hospodárstvo s nulovými emisiami. **Zdroje na financovanie cieľov Zelenej dohody však už existujú** a o ďalších sa rokuje. Hlavnou výzvou zostáva, ako tieto zdroje vhodne využiť a prideliť ich tam, kde majú zmysel a kde sa dajú využiť čo najefektívnejšie. Dostupné zdroje financovania možno rozdeliť do troch skupín: zdroje EÚ, súkromný kapitál a vnútroštátne rozpočty.
 
-### Unijní zdroje
+### Zdroje EÚ
 
-Finance na klimatická a dekarbonizační opatření pocházejí v EU především:
-- **z rozpočtu Unie**,
-- **z prodeje dluhopisů** (*NextGenerationEU*), kterými si státy EU společně půjčily na obnovu po koronavirové pandemii,
-- **z výnosů z prodeje emisních povolenek**.
+Financovanie opatrení v oblasti klímy a dekarbonizácie pochádza v EÚ predovšetkým:
+- **z rozpočtu Únie**,
+- **z predaja dlhopisov** (*NextGenerationEU*), ktorými si štáty EÚ spoločne požičali na obnovu pandémii COVID-19,
+- **z výnosov predaja emisných kvót**.
 
-Tyto prostředky jsou rozdělovány mezi několik fondů, v rámci kterých pak plynou členským státům. Alespoň [30 % unijního rozpočtu a příjmů z dluhopisů](https://ec.europa.eu/info/strategy/eu-budget/performance-and-reporting/mainstreaming_cs#climate) pro období 2021–2027 by mělo být využito na klimaticky prospěšná opatření.
+Tieto prostriedky sa rozdeľujú medzi niekoľko fondov, ktoré potom plynú členským štátom. Na opatrenia v oblasti klímy by sa malo použiť aspoň [30 % príjmov z unijného rozpočtu a dlhopisov](https://ec.europa.eu/info/strategy/eu-budget/performance-and-reporting/mainstreaming_cs#climate) na obdobie 2021 – 2027.
 
 Klíčovou součástí Zelené dohody je **mechanismus spravedlivé transformace**. Na něj navazuje zřízení [Fondu pro spravedlivou transformaci](https://ec.europa.eu/info/funding-tenders/find-funding/eu-funding-programmes/just-transition-fund_cs), jehož prostředky zamíří především do regionů nejvíce ohrožených dekarbonizací hospodářství – v rámci Česka jde o Karlovarský, Ústecký a Moravskoslezský kraj.
 
