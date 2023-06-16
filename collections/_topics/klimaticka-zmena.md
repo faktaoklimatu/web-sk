@@ -126,6 +126,7 @@ subtopics:
   - historia-sklenikoveho-efektu
   - 1979-charneyho-sprava
   - emisie-dychanie
+  - suvislost-koncentracie-oteplovanie
 
 - id:          "dopady-buducnost"
   title:       "Dopady a budúci vývoj"
