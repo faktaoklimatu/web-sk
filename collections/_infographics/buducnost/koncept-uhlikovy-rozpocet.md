@@ -27,13 +27,12 @@ Označenie *rozpočet* treba pritom chápať ako metaforu: podobne ako rodinný 
 
 ## Ako súvisí uhlíkový rozpočet s cieľom uhlíkovej neutrality?
 
-{% comment %}
 {% include preview-box.html
     title="Ako rôzne varianty znižovania emisií ovplyvnia otepľovanie"
     text="Uhlíkový rozpočet je z hľadiska diskusie o opatreniach na zníženie emisií dôležitejší uhlíková neutralita."
     slug="koncept-cesty-k-neutralite"
 %}
-{% endcomment %}
+
 Uhlíkový rozpočet a dosiahnutie uhlíkovej neutrality sú dva rôzne spôsoby, ako sa dá uvažovať o znižovaní emisií skleníkových plynov. **Uhlíková neutralita** označuje stav, kedy ľudstvo svojím pôsobením nepridáva CO<sub>2</sub> do atmosféry. Cieľ *dosiahnuť uhlíkovú neutralitu do určitého dátumu* je zrozumiteľný a dobre formulovaný, preto mnohé štáty a firmy zakladajú svoje záväzky práve na ňom.[^11]
 
 Zjednodušene povedané, cieľ uhlíkovej neutrality hovorí, kedy spálime poslednú tonu fosílnych palív – nijako už ale nerieši, koľko fosílnych palív dovtedy spálime. Naproti tomu **uhlíkový rozpočet** vychádza zo stanoveného cieľa oteplenia a na jeho základe určuje, koľko fosílnych palív ešte môžeme celkovo spáliť bez toho, aby špecifikoval, kedy presne sa môže spáliť posledná tona.
