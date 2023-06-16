@@ -87,11 +87,7 @@ V súčasnosti dosiahlo priemerné globálne oteplenie 1,2 °C oproti teplotám 
 
 ## Ďalšie zdroje a poznámky
 
-[^1]: [IPCC, 2021: Climate Change 2021: The Physical Science Basis.](https://www.ipcc.ch/report/ar6/wg1/) Contribution of Working Group I to the Sixth
-Assessment Report of the Intergovernmental Panel on Climate Change. Masson-Delmotte, V., P. Zhai, A. Pirani, S.
-L. Connors, C. Péan, S. Berger, N. Caud, Y. Chen, L. Goldfarb, M. I. Gomis, M. Huang, K. Leitzell, E. Lonnoy, J. B.
-R. Matthews, T. K. Maycock, T. Waterfield, O. Yelekçi, R. Yu and B. Zhou (eds.)]. Cambridge University Press. In
-Press.
+[^1]: [IPCC, 2021: Climate Change 2021: The Physical Science Basis.](https://www.ipcc.ch/report/ar6/wg1/) Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change. Masson-Delmotte, V., P. Zhai, A. Pirani, S. L. Connors, C. Péan, S. Berger, N. Caud, Y. Chen, L. Goldfarb, M. I. Gomis, M. Huang, K. Leitzell, E. Lonnoy, J. B. R. Matthews, T. K. Maycock, T. Waterfield, O. Yelekçi, R. Yu and B. Zhou (eds.). Cambridge University Press. In Press.
 
 [^11]: Viac o záväzkoch štátov a firiem nájdete v našom (českom) texte [Co přesně znamená uhlíková neutralita](https://faktaoklimatu.cz/explainery/uhlikova-neutralita) a porovnávame ich v (českej) rešerši [Emisní závazky států](https://faktaoklimatu.cz/studie/2021-reserse-zavazky-statu).
 
@@ -99,7 +95,7 @@ Press.
 
 [^56]: [IPCC, 2018: Global warming of 1.5°C.](https://www.ipcc.ch/site/assets/uploads/sites/2/2019/06/SR15_Full_Report_Low_Res.pdf), An IPCC Special Report on the impacts of global warming of 1.5 °C above pre-industrial levels and related global greenhouse gas emission pathways, in the context of strengthening the global response to the threat of climate change, sustainable development, and efforts to eradicate poverty, V. Masson-Delmotte, P. Zhai, H. O. Pörtner, D. Roberts, J. Skea, P. R. Shukla, A. Pirani, W. Moufouma-Okia, C. Péan, R. Pidcock, S. Connors, J. B. R. Matthews, Y. Chen, X. Zhou, M. I. Gomis, E. Lonnoy, T. Maycock, M. Tignor, T. Waterfield.
 
-[^57]:  [IPCC, 2013: Climate Change 2013: The Physical Science Basis](https://www.ipcc.ch/report/ar5/wg1/). Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change [Stocker, T. F., D. Qin, G.-K. Plattner, M. Tignor, S. K. Allen, J. Boschung, A. Nauels, Y. Xia, V. Bex and P. M. Midgley (eds.)]. Cambridge University Press.
+[^57]:  [IPCC, 2013: Climate Change 2013: The Physical Science Basis](https://www.ipcc.ch/report/ar5/wg1/). Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change. Stocker, T. F., D. Qin, G.-K. Plattner, M. Tignor, S. K. Allen, J. Boschung, A. Nauels, Y. Xia, V. Bex and P. M. Midgley (eds.). Cambridge University Press.
 
 [^58]: Matthews, H., Gillett, N., Stott, P. et al. [The proportionality of global warming to cumulative carbon emissions.](https://www.researchgate.net/publication/26282499_The_proportionality_of_global_warming_to_cumulative_carbon_emissions) Nature 459, str. 829–832 (2009). https://doi.org/10.1038/nature08047
 
