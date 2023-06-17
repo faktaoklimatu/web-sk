@@ -52,7 +52,7 @@ Predstava celkového množstva emisií, ktoré môžeme ako ľudstvo vypustiť, 
 {% include preview-box.html
     title="Súvislosť koncentrácie CO<sub>2</sub> a globálneho otepľovania"
     text="Merania ukazujú, že globálne oteplenie je približne priamo úmerné koncentrácii CO<sub>2</sub> v atmosfére."
-    slug="suvislost-koncentracie-oteplovania"
+    slug="suvislost-koncentracie-oteplovanie"
 %}
 
 Merania aj klimatické modely ukazujú, že **globálne oteplenie je približne priamo úmerné celkovému množstvu CO<sub>2</sub> vypustenému do atmosféry**.[^58] [^55] [^56] [^57] Inými slovami, čím viac skleníkových plynov vypustíme, tým vyššia bude priemerná globálna teplota. Keď si teda stanovíme určitú hranicu oteplenia, ktorú nechceme prekročiť, vieme vypočítať, **koľko CO<sub>2</sub> ešte môžeme ako ľudstvo v budúcnosti vypustiť, aby sme sa udržali pod touto hranicou. Potom hovoríme o zostávajúcom uhlíkovom rozpočte pre danú hranicu.** Konkrétne napríklad pri 66 % pravdepodobnosti udržania oteplenia pod 1,5 °C (v porovnaní s priemerom rokov 1850 – 1900) bol zostávajúci uhlíkový rozpočet v roku 2021 rádovo 300 Gt CO<sub>2</sub> a pre udržanie oteplenia pod 2 °C je zostávajúci uhlíkový rozpočet rádovo 1050 Gt CO<sub>2</sub>.[^56]
