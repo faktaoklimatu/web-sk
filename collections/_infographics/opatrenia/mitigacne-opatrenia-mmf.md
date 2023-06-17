@@ -7,9 +7,9 @@ published:  2021-11-03
 weight:     99
 tags-scopes: [ svet ]
 tags-topics: [ opatrenia, ekonomika ]
-caption:    Štyri mitigačné opatrenia (uhlíková daň, obchod s emisnými povolenkami, poplatky a príspevky, regulácia) sú porovnávané na základe siedmich kritérií. Správa Medzinárodného menového fondu ukazuje, že najúčinnejší opatreniami sú uhlíková daň a emisné povolenky.
+caption:    "Štyri mitigačné opatrenia (uhlíková daň, obchod s emisnými povolenkami, poplatky a príspevky, regulácia) sú porovnávané na základe siedmich kritérií. Správa Medzinárodného menového fondu ukazuje, že najúčinnejší opatreniami sú uhlíková daň a emisné povolenky."
 data-our:   "https://docs.google.com/spreadsheets/d/1KnjFmzFuK7Ssg-DRavuMJ2l9C7YU1uP6hQkScCyCRZE/edit?usp=sharing"
-data-orig:	[ [ "Správa MMF", "https://www.imf.org/en/Publications/FM/Issues/2019/09/12/fiscal-monitor-october-2019" ] ]
+data-orig:  [ [ "Správa MMF", "https://www.imf.org/en/Publications/FM/Issues/2019/09/12/fiscal-monitor-october-2019" ] ]
 ---
 
 ## Opatrenia na zmiernenie klimatickej zmeny
