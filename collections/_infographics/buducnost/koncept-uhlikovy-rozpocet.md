@@ -3,7 +3,7 @@ layout:      infographic
 title:       "Koncept: Uhlíkový rozpočet"
 slug:        "koncept-uhlikovy-rozpocet"
 redirect_from: "/koncept-uhlikovy-rozpocet"
-published:   2023-06-14
+published:   2023-06-17
 weight:      70
 tags-scopes: [ svet ]
 tags-topics: [ buducnost, emisie, opatrenia ]
