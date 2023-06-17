@@ -3,7 +3,7 @@ layout:      infographic
 title:       "Ako rôzne varianty znižovania emisií ovplyvnia otepľovanie"
 slug:        "koncept-cesty-k-neutralite"
 redirect_from: "/koncept-cesty-k-neutralite"
-published:   2023-06-14
+published:   2023-06-17
 weight:      90
 tags-scopes: [ svet ]
 tags-topics: [ buducnost, emisie, opatrenia ]

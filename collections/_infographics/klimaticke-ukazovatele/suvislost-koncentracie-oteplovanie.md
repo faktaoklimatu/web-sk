@@ -3,7 +3,7 @@ layout:     infographic
 title:      "Súvislosť koncentrácie CO₂ a globálneho otepľovania"
 slug:       "suvislost-koncentracie-oteplovanie"
 redirect_from: "/suvislost-koncentracie-oteplovanie"
-published:  2023-06-15
+published:  2023-06-17
 weight:     90
 tags-scopes: [ svet ]
 tags-topics: [ klima ]
