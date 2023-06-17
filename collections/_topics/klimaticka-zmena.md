@@ -124,9 +124,10 @@ subtopics:
 
   content:
   - historia-sklenikoveho-efektu
+  - suvislost-koncentracie-oteplovanie
+  - koncept-uhlikovy-rozpocet
   - 1979-charneyho-sprava
   - emisie-dychanie
-  - suvislost-koncentracie-oteplovanie
 
 - id:          "dopady-buducnost"
   title:       "Dopady a budúci vývoj"
@@ -143,6 +144,6 @@ subtopics:
   - body-zlomu-2
   - body-zlomu-3
   - emisne-scenare-pariz
-  - koncept-uhlikovy-rozpocet
   - koncept-cesty-k-neutralite
+  - koncept-uhlikovy-rozpocet
 ---
