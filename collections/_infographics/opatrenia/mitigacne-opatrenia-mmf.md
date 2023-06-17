@@ -3,7 +3,7 @@ layout:     infographic
 title:      "Porovnanie mitigačných opatrení"
 slug:       "mitigacne-opatrenia-mmf"
 redirect_from: "/mitigacne-opatrenia-mmf"
-published:  2019-12-03
+published:  2021-11-03
 weight:     99
 tags-scopes: [ svet ]
 tags-topics: [ opatrenia, ekonomika ]

@@ -3,7 +3,7 @@ layout:     infographic
 title:      "Spoplatnenie emisií: rozšírenie vo svete"
 slug:       "spoplatnenie-emisii-svet"
 redirect_from: "/spoplatnenie-emisi-svet"
-published:  2021-10-24
+published:  2023-06-17
 weight:     95
 tags-scopes: [ svet ]
 tags-topics: [ opatrenia, ekonomika ]
