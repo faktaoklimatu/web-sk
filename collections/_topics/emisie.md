@@ -26,8 +26,8 @@ subtopics:
   title:       "Opatrenia na znižovanie emisií"
   content:
   - emisne-scenare-pariz
+  - spoplatnenie-emisii-svet
+  - emisne-povolenky-ets
   - mitigacne-opatrenia-mmf
   - 2019-mitigacne-opatrenia-mmf
-  - emisne-povolenky-ets
-  - spoplatnenie-emisii-svet
 ---
