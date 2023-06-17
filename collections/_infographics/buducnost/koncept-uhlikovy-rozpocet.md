@@ -51,7 +51,7 @@ Myšlienka celkového množstva emisií, ktoré môžeme ako ľudstvo vypustiť,
 
 ## Neistoty pri určovaní uhlíkového rozpočtu
 
-{% comment %}
+{% comment %} TODO: zverejnit, az bude tato grafika + upravit odkaz v odstavci nize z CZ na SK verzi.
 {% include preview-box.html
     title="Súvislosť oteplenia na budúcich emisiách"
     text="Merania ukazujú, že globálne oteplenie je približne priamo úmerné koncentrácii CO<sub>2</sub> v atmosfére."

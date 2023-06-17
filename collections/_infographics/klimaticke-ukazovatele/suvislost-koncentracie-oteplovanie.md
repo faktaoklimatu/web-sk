@@ -11,7 +11,7 @@ caption:    "Z historických dát aj z modelovania budúceho vývoja vyplýva, �
 data-our:   "https://docs.google.com/spreadsheets/d/1aVn3Uz1wLUtmATagtZHEpeayiee6uy_BRAivZPwfb2s/edit?usp=sharing"
 data-orig:  [ [ "Zdrojové dáta NASA", "https://data.giss.nasa.gov/gistemp/" ], [ "Keelingova krivka", "https://scripps.ucsd.edu/programs/keelingcurve/" ] ]
 ---
-{% comment %}
+{% comment %} TODO: zverejnit, az bude tento explainer + upravit odkaz v odstavci nize z CZ na SK verzi.
 {% include preview-box.html
     title="Podrobnější popis souvislostí"
     text="Přímou úměrnost mezi oteplením a zvýšením koncentrace CO<sub>2</sub> a také vliv dalších skleníkových plynů a aerosolů nebo vliv setrvačnosti klimatu podrobněji vysvětlujeme v tomto textu."
