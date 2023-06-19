@@ -4,7 +4,7 @@ title:         "Energetika"
 tag-name:      "energetika"
 slug:          "energetika"
 redirect_from: "/energetika"
-published:     2022-08-20
+published:     2023-06-20
 weight:        30
 intro: |
   Energetika sa zaoberá **získavaním, premenou a distribúciou všetkých foriem energie.** V prvom rade ide o **ťažbu** a distribúciu uhlia, ropy, zemného plynu a ďalších palív. Na to nadväzuje ich spracovanie, teda **výroba a distribúcia elektriny, tepla a pohonných hmôt**. Okrem toho sa fosílne palivá tiež spaľujú priamo v priemysle, v domácnostiach a v službách.
@@ -84,14 +84,13 @@ subtopics:
   title-short: "Emisie z energetiky"
   lead: |
     Z elektroenergetiky a teplárenstva pochádza približne **17 % emisií skleníkových plynov Slovenska**, pričom uhoľné elektrárne Vojany a Nováky majú na nich približne rovnaký podiel ako všetky slovenské teplárne.
-    V širšom zmysle slova k energetike patrí tiež doprava (18 % emisií), lokálne kúrenie a ohrev teplej vody v domácnostiach, firmách a inštitúciách (11 % emisií) a spaľovanie v priemysle (18 %). Dohromady teda spracovanie a spaľovanie fosílnych palív na Slovensku tvorí takmer dve tretiny emisií skleníkových plynov. 
-    Z elektroenergetiky a teplárenství pochází přibližně **40 % emisí skleníkových plynů v ČR**, z toho největší část tvoří uhelné zdroje.
-    V širším slova smyslu k energetice patří také doprava (16 % emisí), lokální vytápění a ohřev teplé vody v domácnostech, firmách a institucích (10 % emisí) a spalování v průmyslu (8 % emisí). Dohromady tedy zpracování a spalování fosilních paliv v Česku tvoří skoro tři čtvrtiny emisí skleníkových plynů. Podobný podíl mají fosilní paliva i v emisích celé EU.
+    V širšom zmysle slova k energetike patrí tiež doprava (18 % emisií), lokálne kúrenie a ohrev teplej vody v domácnostiach, firmách a inštitúciách (11 % emisií) a spaľovanie v priemysle (18 %). Dohromady teda spracovanie a spaľovanie fosílnych palív na Slovensku tvorí takmer dve tretiny emisií skleníkových plynov. V porovnaní s priemerom EÚ je to asi o 15 % menej, pretože v EÚ spaľovaním fosílnych palív vznikajú [približne tri štvrtiny celkových emisií skleníkových plynov](https://faktaoklimatu.cz/infografiky/emise-eu-detail)
+ 
   qa:
-  - q: "Proč v posledních letech v Evropě klesají emise v energetice?"
+  - q: "Prečo v posledných rokoch klesajú v Európe emisie v energetike?"
     a: |
-      **V Evropě v posledních 10 letech sledujeme jasný odklon od uhlí**, za kterým stojí primárně regulace EU: jednak [emisné povolenky](/explainery/emisne-povolenky-ets), jednak čím dál přísnější limity na znečištění vzduchu. Některé státy k tomu přidaly vlastní regulace, např. _[carbon price support](https://researchbriefings.files.parliament.uk/documents/SN05927/SN05927.pdf)_ ve Velké Británii, který tam od roku 2013 doplňoval emisní povolenky a dohromady zajišťoval cenu emisí, která motivovala k transformaci energetiky.
-
+    **V posledných rokoch sledujeme v Európe jasný odklon od uhlia**, za ktorým stoja primárne unijné regulácie: jednak [emisné povolenky](/explainery/emisne-povolenky-ets), jednak čím viac prísne limity na znečistenie vzduchu. Niektoré európske štáty k tomu pridali vlastné regulácie, napr. _[carbon price support](https://researchbriefings.files.parliament.uk/documents/SN05927/SN05927.pdf)_ vo Veľkej Británii, ktorý od roku 2013 dopĺňal emisné kvóty a spoločne s nimi zaisťoval cenu emisií, ktorá motivovala k transformácii energetiky.
+      
       Uhlí v evropské energetice nahrazujeme z velké části obnovitelnými zdroji a z menší části zemním plynem, každá země ale [má tento poměr jinak](/infografiky/elektrina-na-osobu-eu). Pro [několik států včetně Česka](/infografiky/uholny-phaseout-eu) je uhlí stále podstatnou součástí energetického mixu.
 
   content:
@@ -113,7 +112,7 @@ subtopics:
       Systém obchodování s emisními povolenkami narovnává tržní prostředí tím, že **zpoplatňuje zatěžování životního prostředí**. V ekonomickém jazyce jde o _internalizaci externalit_. Cena produktu (např. elektřiny z fosilních zdrojů) tak zahrnuje škody na životním prostředí (např. způsobené spalováním fosilních paliv). Emisní povolenky jsou jeden z možných způsobů **zpoplatnění emisí**, v některých státech se místo toho nebo jako doplněk používá uhlíková daň.
   content:
 #  - cena-elektriny-na-trhu
-#  - emisni-povolenky-ets
+#  - emisne-povolenky-ets
 #  - zpoplatneni-emisi-svet
 #  - 21-rust-cen-elektriny
 
