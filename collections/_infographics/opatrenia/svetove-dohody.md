@@ -3,14 +3,14 @@ layout:     infographic
 title:      "Medzinárodné klimatické dohody"
 slug:       "svetove-dohody"
 redirect_from: "/svetove-dohody"
-published:  2021-01-23
+published:  2023-06-23
 weight:     95.5
 tags-scopes: [ svet ]
 tags-topics: [ opatrenia, dohody, buducnost ]
 caption:    "Časová os zachytáva kľúčové udalosti svetového úsilia v ochrane klímy."
 ---
 
-Infografika poskytuje prehľad o hlavných medzinárodných klimatických rokovaniach, o aktéroch, ktorí sa na nich podieľali a o výsledkoch ich rokovaní. Infografika obsahuje tiež prehľad o tom, ktoré dohody sú stále aktuálne a ktoré už nie.
+Infografika poskytuje prehľad o hlavných medzinárodných klimatických rokovaniach, o aktéroch, ktorí sa na nich podieľali a o výsledkoch ich rokovaní.
 
 ## Viac o jednotlivých udalostiach a dohodách
 
@@ -32,7 +32,7 @@ Konferencia sa uskutočnila v dňoch 12. – 23. februára 1979 v Ženeve, kde s
 
 ### 1988 – Vznik IPCC
 
-Svetová meteorologická organizácia (WMO) a Program OSN pre životné prostredie (UNEP) založili Medzivládny panel o zmene klímy (IPCC). Tento **vedecký panel od tej doby vydáva každých päť rokov <glossary id='ipccar'>súhrnnú hodnotiacu správu</glossary>**, ktorá obsahuje prehľad nových poznatkov v problematike klimatických zmien (a súvisiacich technických i sociálno-ekonomických odvetviach), ich potenciálnych dôsledkov a návrhov možných adaptačných a mitigačných opatrení. S každou správou vychádza zhrnutie pre tvorcov politík (Summary for Policymakers), ktoré sumarizuje obsah správy a má slúžiť ako podpora politikov pre tvorbu legislatívy riešiacej problémy spojené so zmenou klímy. Presné znenie tohto zhrnutia sa schvaľuje konsenzom zástupcami vlád zapojených krajín (cca 120 zástupcov).
+Svetová meteorologická organizácia (WMO) a Program OSN pre životné prostredie (UNEP) založili Medzivládny panel o zmene klímy (IPCC). Tento **vedecký panel od tej doby vydáva každých päť rokov <glossary id='ipccar'>súhrnnú hodnotiacu správu</glossary>**, ktorá obsahuje prehľad nových poznatkov v problematike klimatických zmien (a súvisiacich technických i sociálno-ekonomických odvetviach), ich potenciálnych dôsledkov a návrhov možných adaptačných a mitigačných opatrení. S každou správou vychádza zhrnutie pre tvorcov politík (*Summary for Policymakers*, SPM), ktoré sumarizuje obsah správy a má slúžiť ako podpora politikov pre tvorbu legislatívy riešiacej problémy spojené so zmenou klímy. Presné znenie tohto zhrnutia sa schvaľuje konsenzom zástupcami vlád zapojených krajín (cca 120 zástupcov).
 
 
 **Zdroje:**
@@ -126,17 +126,25 @@ Správa uvádza niekoľko významných výsledkov:
 
 - Doteraz vypustené emisie zatiaľ nepovedú k otepleniu vyššiemu než o 1,5 °C.
 - Negatívne dopady oteplenia o 2 °C alebo viac by boli výrazne vyššie než pri oteplení o 1,5 °C.
-- Emisné scenáre, ktoré obmedzia oteplenie na 1,5 °C, vyžadujú zníženie emisií skleníkových plynov na polovicu do roku 2030 a dosiahnutie uhlíkovej neutrality do roku 2050.
+- Emisné scenáre, ktoré obmedzia oteplenie na 1,5 °C, vyžadujú zníženie emisií skleníkových plynov na polovicu do roku 2030 a dosiahnutie <glossary id="carbon-neutrality">uhlíkovej neutrality</glossary> do roku 2050.
 
 **Zdroje:**
 
 - [Zvláštna správa IPCC SR15](https://www.ipcc.ch/sr15/), oficiálny web IPCC
 
-### 2020 – Zelená dohoda pre Európu
+### 2020 – Európska zelená dohoda
 
-Zelená dohoda pre Európu (European Green Deal) je balík opatrení Európskej komisie predstavený v decembri 2019 ako cesta k transformácii európskeho hospodárstva tak, aby bolo dlhodobo ekologicky udržateľné. Návrh zahŕňa **znižovanie emisií, investície do vedy a inovácií a ďalšie kroky k prechodu k bezuhlíkovej ekonomike** a kladie si za cieľ začleniť do právnych predpisov záväzok, aby Európska únia bola v roku 2050 uhlíkovo neutrálna.
+{% comment %} TODO: vrátiť box s mergom Green Deal branchu
+{% include preview-box.html
+    title="Explainer: Čo je Európska zelená dohoda"
+    text="Európskej zelenej dohode sa podrobnejšie venujeme v samostatnom texte."
+    slug="europska-zelena-dohoda"
+%}
+{% endcomment %}
 
-V tomto pláne sú uvedené potrebné investície a dostupné finančné nástroje. Rovnako je v ňom vysvetlené, ako zabezpečiť spravodlivú a inkluzívnu transformáciu. **EÚ sa chce do roku 2050 stať klimaticky neutrálnym územím.** Za týmto účelom Komisia predložila návrh európskeho právneho rámca pre klímu, čím má tento politický záväzok získať tiež právnu záväznosť.
+Európska zelená dohoda (European Green Deal) je balík opatrení Európskej komisie predstavený v decembri 2019 ako cesta k transformácii európskeho hospodárstva tak, aby bolo dlhodobo ekologicky udržateľné. Návrh zahŕňa **znižovanie emisií, investície do vedy a inovácií a ďalšie kroky k prechodu k bezuhlíkovej ekonomike** a kladie si za cieľ začleniť do právnych predpisov záväzok, aby Európska únia bola v roku 2050 <glossary id="carbon-neutrality">uhlíkovo neutrálna</glossary>.
+
+V tomto pláne sú uvedené potrebné investície a dostupné finančné nástroje. Rovnako je v ňom vysvetlené, ako zabezpečiť spravodlivú a inkluzívnu transformáciu. **EÚ sa chce do roku 2050 stať <glossary id="carbon-neutrality">klimaticky neutrálnym</glossary> územím.** 
 
 Na dosiahnutie tohto cieľa bude potrebné prijať zodpovedajúce opatrenia vo všetkých odvetviach hospodárstva:
 
@@ -152,3 +160,21 @@ EÚ bude tiež poskytovať **finančnú podporu a technickú pomoc tým, ktorýc
 **Zdroje:**
 
 - [Originálny dokument](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX:52019DC0640)
+
+### 2021 – Európsky klimatický zákon a Fit for 55
+
+V roku 2021 bol prijatý **Európsky klimatický zákon** (Európsky právny predpis v oblasti klímy), ktorým sa **stávajú klimatické ciele stanovené Zelenou dohodou právne záväznými**. EÚ tak má do roku 2050 dosiahnuť <glossary id="carbon-neutrality">klimatickú neutralitu</glossary>, teda stav, že ako celok nebude do atmosféry vypúšťať viac <glossary id="antropogennesklenikoveplyny">skleníkových plynov</glossary>, ako je z nej schopná odstrániť. Klimatický zákon EÚ zároveň obsahuje strednodobý cieľ – zníženie unijných emisií skleníkových plynov o 55 % do roku 2023 v porovnaní s rokom 1990.
+
+{% comment %} TODO: vrátiť box s mergom Fit For 55 branchu
+{% include preview-box.html
+    title="Čo je balíček Fit for 55"
+    text="Aké návrhy balík Fit for 55 obsahuje a čo je ich obsahom?"
+    slug="fit-for-55"
+%}
+{% endcomment %}
+Nadväzujúc na strednodobý cieľ zníženia emisií o 55 % do roku 2030, Európska komisia v rovnakom roku predstavila tiež balík legislatívnych návrhov s názvom **Fit For 55**, ktorý má prispieť k dosiahnutiu tohto cieľa. Balíček obsahuje návrhy na úpravu existujúcich smerníc a nariadení, ako aj úplne nové legislatívne návrhy. Zameriava sa napríklad na oblasti zvýšenia podielu obnoviteľných zdrojov na výrobe energie, energetickú účinnosť, obchodovanie s emisnými kvótami či upravuje pravidlá pre využívanie pôdy a pre lesníctvo. Okrem toho navrhuje aj vznik Sociálneho klimatického fondu, ktorého zmyslom je urobiť transformáciu sociálne spravodlivou.
+
+**Zdroje:**
+
+- [Úplné znenie Európskeho klimatického zákona](https://eur-lex.europa.eu/legal-content/SK/TXT/HTML/?uri=CELEX:32021R1119&from=EN)
+- Informácie o balíku Fit for 55 na [stránkach Rady EÚ](https://www.consilium.europa.eu/sk/policies/green-deal/fit-for-55-the-eu-plan-for-a-green-transition/)
