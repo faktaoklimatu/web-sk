@@ -5,8 +5,8 @@ slug:        "europska-zelena-dohoda"
 published:   2023-06-20
 authors:
   - id: "katerina-kolouchova"
-  - ids: ["jirka-lnenicka", "kristi-psorn-zakopcanova"]
-    minor-role: "editácia"
+  - ids: "Viera Minarovičová", "Lenka Sedlačková"
+    minor-role: "preklad"
 weight:      74
 tags-scopes: [ eu ]
 tags-topics: [ opatrenia ]
@@ -62,7 +62,7 @@ Formulácii konkrétnych smerníc a nariadení často predchádza všeobecnejši
 {% endcapture %}
 
 {% include expander-figure.html
-    name="legislatíva-eú"
+    name="legislativa-eu"
     expanded=false
     class="contrast-figure "
     label="Na okraj: Ako v EÚ prebieha prijímanie legislatívy alebo rozhoduje aj Slovensko"
@@ -112,7 +112,7 @@ NV nasledujúcej časti sú podrobnejšie predstavené **vybrané návrhy[^zozna
 
 {% include lead-in-figure.html
     name="cs-energetika.svg"
-    alt="Piktogram větrné elektrárny a solárního panelu na budově"
+    alt="Piktogram veternej elektrárne a solárneho panelu na budove"
 %}
 
 Sektor energetiky má najväčší podiel na celkových emisiách skleníkových plynov v EÚ – v roku 2019 to vyprodukoval 26 % emisií.[^eurostat] Emisie tu vznikajú najmä pri spaľovaní fosílnych palív (najmä uhlia a zemného plynu) počas výroby elektrickej energie a tepla.
@@ -145,7 +145,7 @@ Co se týče současného NECP v Česku z roku 2019, je v [porovnání](/infogra
 
 {% include lead-in-figure.html
     name="cs-doprava.svg"
-    alt="Piktogram tramvaje, kola a nabíjecí stanice"
+    alt="Piktogram električky, bicykla a nabíjacej stanice"
 %}
 
 Doprava je v rebríčku emisií skleníkových plynov v EÚ tesne za energetikou a v roku 2019 sa rovnako podieľala na 26 % z nich.[^eurostat] Na rozdiel od všetkých ostatných odvetví hospodárstva emisie z dopravy [stále rastú](https://faktaoklimatu.cz/infografiky/emise-eu-vyvoj) – v roku 2019 boli o 33 % vyššie než v roku 1990. Vznikajú pri spaľovaní fosílnych palív, najmä ropy, v motoroch vozidiel cestnej dopravy (81 % v roku 2019, zatiaľ čo na leteckú dopravu pripadlo 15 %).
@@ -158,7 +158,7 @@ Zelená dohoda preto zahŕňa **rozšírenie a úpravu systému na obchodovanie 
 
 {% include lead-in-figure.html
     name="cs-budovy.svg"
-    alt="Piktogram solárního panelu na budově"
+    alt="Piktogram solárneho panelu na budove"
 %}
 
 Sektor budov spotrebuje až 40 % energie vyrobenej v EÚ a prispieva k 36 % emisií skleníkových plynov.[^emisie-budovy] Tie vznikajú spaľovaním fosílnych palív v samotných budovách (na vykurovanie, ohrev vody alebo varenie) a v stavebnom sektore (na výrobu stavebných materiálov, výstavbu alebo renováciu).
@@ -173,7 +173,7 @@ Podobne ako cestná doprava, aj sektor budov by mal byť zahrnutý do **systému
 
 {% include lead-in-figure.html
     name="cs-prumysl.svg"
-    alt="Piktogram ozubených kol a šipek v kruhu"
+    alt="Piktogram ozubených kolies a šípok v kruhu"
 %}
 
 Priemysel sa v roku 2019 podieľal na emisiách skleníkových plynov v EÚ približne 21 %. Emisie tu vznikajú pri spaľovaní fosílnych palív v procesoch zahrievania, ako aj pri chemických reakciách pri výrobe cementu, železa a ocele. Okrem toho priemysel neznečisťuje životné prostredie len skleníkovými plynmi, ale aj ťažbou a spracovaním prírodných materiálov. To predstavuje ďalšiu záťaž pre ekosystémy a je jednou z príčin straty biodiverzity. Lokality s intenzívnou ťažbou sa často stretávajú aj s nedostatkom vody.
@@ -181,7 +181,7 @@ Priemysel sa v roku 2019 podieľal na emisiách skleníkových plynov v EÚ prib
 **Vývoj ekologického vodíka, zachytávania a ukladania uhlíka** (*Carbon Capture and Storage*, CCS) alebo alternatívnych palív sú kľúčovými časťami priemyselnej dekarbonizácie. Používanie zeleného vodíka[^vodik-vysvetlenie] môže nahradiť spaľovanie fosílnych palív. Naopak, dekarbonizácia chemických procesov v železiarskom, oceliarskom, cementárenskom alebo chemickom priemysle pravdepodobne nebude možná bez použitia technológií zachytávania a ukladania uhlíka. K dekarbonizácii priemyslu prispeje aj podpora **obehového hospodárstva**, t. j. znižovanie množstva odpadu, opätovné využívanie materiálov a výrobkov a ich recyklácia (niekedy zhrnuté do anglického sloganu 3R: *Reduce, Reuse, Recycle*). V praxi to znamená napríklad koniec jednorazových plastov, zodpovednosť firiem ponúkať trvanlivé a opraviteľné výrobky či udržateľnosť a recyklovateľnosť batérií používaných nielen v elektromobiloch.[^akcny-plan]
 
 {% include expander-figure.html
-    name="priemysel-kvóty"
+    name="priemysel-kvoty"
     expanded=false
     class="contrast-figure "
     label="Kontext: Priemysel, emisné kvóty a uhlíkové clo"
@@ -212,7 +212,7 @@ Riešením je rozvoj udržateľného poľnohospodárstva, ktoré bude podporova�
 Ciele zelenej dohody a plány na rozvoj udržateľného poľnohospodárstva sa odrážajú v stratégii [***Z farmy na stôl***](https://www.europarl.europa.eu/news/sk/press-room/20211014IPR14914/z-farmy-na-stol-nova-strategia-eu-pre-zdravsie-a-udrzatelnejsie-potraviny) (*Farm to Fork*), ktorá ovplyvňuje spoločnú poľnohospodársku politiku (SPP) aj spoločnú rybársku politiku (SRP). Poľnohospodári a rybári by mali byť odmeňovaní za udržateľné hospodárenie. Stratégia preto predpokladá zvýšenie podielu finančných prostriedkov, ktoré budú podporovať environmentálne prospešné procesy, a tým prispievať k ochrane klímy a biodiverzity – 40 % prostriedkov SPP, 30 % prostriedkov SRP. Na stratégiu *Z farmy na stôl* nadväzuje [reforma SPP](https://www.consilium.europa.eu/sk/policies/cap-introduction/cap-future-2020-common-agricultural-policy-2023-2027/) na roky 2023 až 2027, ktorá uvádza jej ciele do praxe.
 
 ### Biodiverzita a ochrana ekosystémov
-{% comment %}
+{% comment %} TODO: raz možno prehodiť na SK box
 {% include preview-box.html
     title="Proč ubývá biodiverzity?"
     text="Shrnujeme hlavní faktory vedoucí k úbytku biodiverzity – klimatická změna je přitom jedním z nich."
@@ -234,7 +234,7 @@ Európska [Stratégia pre biodiverzitu do roku 2030](https://environment.ec.euro
 
 {% include lead-in-figure.html
     name="cs-znecisteni.svg"
-    alt="Piktogram továrny, ze které jde dým"
+    alt="Piktogram továrne, z ktorej ide dym"
 %}
 
 Posledná kapitola Zelenej dohody sa týka znečistenia ovzdušia, pôdy a vody. Dôležitým nástrojom by malo byť zlepšenie monitorovania tohto znečistenia. Ambíciou EÚ nie je nič menšie ako **dosiahnutie nulového znečistenia do roku 2050**. Inými slovami, znečistenie by sa malo znížiť na úroveň, ktorá už nebude škodlivá pre zdravie a prírodné ekosystémy a s ktorou sa príroda dokáže sama vyrovnať. Konkrétne cesty k tomuto cieľu predstavuje [Akčný plán nulového znečistenia](https://environment.ec.europa.eu/strategy/zero-pollution-action-plan_sk).
@@ -276,7 +276,7 @@ Zelená dohoda pracuje s termínom *ekologizácia národných rozpočtov*, ktor�
 Do národných rozpočtov smeruje aj časť príjmov z aukcií emisných kvót. Podľa súčasných pravidiel sú členské štáty povinné použiť aspoň 50 % týchto príjmov na opatrenia v oblasti klímy.[^wwf-report] Návrh reformy trhu s emisnými kvótami v balíku Fit for 55 zahŕňa zvýšenie tohto podielu na 100 %. Všetky príjmy z emisných kvót tak pôjdu na opatrenia v oblasti zmeny klímy.
 
 ## Čo znamená Zelená dohoda pre Slovensko?
-{% comment %}
+{% comment %} TODO: vrátiť box, keď bude SK preklad
 {% include preview-box.html
     title="Jak EU financuje klimatická opatření v Česku?"
     text="V infografice přinášíme detailnější informace o jednotlivých zdrojích a fondech."
