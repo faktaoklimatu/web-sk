@@ -184,7 +184,7 @@ Priemysel sa v roku 2019 podieľal na emisiách skleníkových plynov v EÚ prib
     name="priemysel-kvóty"
     expanded=false
     class="contrast-figure "
-    label="Kontext: Priemysel, emisné kvóty a uhlíkové clo
+    label="Kontext: Priemysel, emisné kvóty a uhlíkové clo"
     content="
 Energeticky náročné odvetvia sú súčasťou **systému obchodovania s emisnými kvótami**. V súčasnosti však dostávajú veľkú časť svojich príspevkov zadarmo, a to najmä z dvoch dôvodov. Prvým je strach zo straty konkurencieschopnosti. Je to preto, že krajiny mimo EÚ často nemajú také prísne emisné normy, čo dáva miestnym výrobcom potenciálnu výhodu pri dovoze do EÚ oproti domácim výrobcom, ktorí by museli kupovať emisné kvóty a investovať do dekarbonizačných procesov. Druhým dôvodom je riziko úniku uhlíka do krajín mimo EÚ (*carbon leakage*), keďže domáci výrobcovia môžu presunúť výrobu náročnú na emisie mimo EÚ, aby sa vyhli nákladom na nákup kvót. Zavedenie mechanizmu [kompenzácie uhlíka na hraniciach](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A52021PC0564) (*Carbon Border Adjustment Mechanism*, CBAM), tzv. **uhlíkového cla**, ktorý spoplatní dovoz emisne náročných produktov z krajín mimo EÚ, vyrovná podmienky pre výrobcov z EÚ a zo zahraničia."
 %}
