@@ -62,7 +62,7 @@ Formulácii konkrétnych smerníc a nariadení často predchádza všeobecnejši
 {% endcapture %}
 
 {% include expander-figure.html
-    name="legislativa-eu"
+    name="legislatíva-eú"
     expanded=false
     class="contrast-figure "
     label="Na okraj: Ako v EÚ prebieha prijímanie legislatívy alebo rozhoduje aj Slovensko"
@@ -181,7 +181,7 @@ Priemysel sa v roku 2019 podieľal na emisiách skleníkových plynov v EÚ prib
 **Vývoj ekologického vodíka, zachytávania a ukladania uhlíka** (*Carbon Capture and Storage*, CCS) alebo alternatívnych palív sú kľúčovými časťami priemyselnej dekarbonizácie. Používanie zeleného vodíka[^vodik-vysvetlenie] môže nahradiť spaľovanie fosílnych palív. Naopak, dekarbonizácia chemických procesov v železiarskom, oceliarskom, cementárenskom alebo chemickom priemysle pravdepodobne nebude možná bez použitia technológií zachytávania a ukladania uhlíka. K dekarbonizácii priemyslu prispeje aj podpora **obehového hospodárstva**, t. j. znižovanie množstva odpadu, opätovné využívanie materiálov a výrobkov a ich recyklácia (niekedy zhrnuté do anglického sloganu 3R: *Reduce, Reuse, Recycle*). V praxi to znamená napríklad koniec jednorazových plastov, zodpovednosť firiem ponúkať trvanlivé a opraviteľné výrobky či udržateľnosť a recyklovateľnosť batérií používaných nielen v elektromobiloch.[^akcny-plan]
 
 {% include expander-figure.html
-    name="prumysl-povolenky"
+    name="priemysel-kvóty"
     expanded=false
     class="contrast-figure "
     label="Kontext: Priemysel, emisné kvóty a uhlíkové clo
