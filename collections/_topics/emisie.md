@@ -25,6 +25,7 @@ subtopics:
 - id:          "mitigacia"
   title:       "Opatrenia na znižovanie emisií"
   content:
+  - europska-zelena-dohoda
   - emisne-scenare-pariz
   - mitigacne-opatrenia-mmf
   - 2019-mitigacne-opatrenia-mmf
