@@ -42,15 +42,15 @@ Zelená dohoda je právne nezáväzný [dokument s rozsahom 25 strán](https://e
 
 Medzi konkrétne príklady politík úzko súvisiacich so Zelenou dohodou patrí legislatívny balík Fit For 55, [program Zelená domácnostiam](https://zelenadomacnostiam.sk/sk/) či [Fond na spravodlivú transformáciu](https://www.partnerskadohoda.gov.sk/21400-sk/459-milionov-eur-na-spravodlivu-klimaticku-transformaciu-slovenska/).
 
-Ciele Zelenej dohody vzápätí [podporila](https://www.consilium.europa.eu/en/meetings/european-council/2019/12/12-13/) aj Európska rada zložená z hláv členských štátov (Slovensko v nej zastupuje predseda vlády). Táto podpora na najvyššej politickej úrovni následne umožnila zakotviť ciele do právnych predpisov – v roku 2021 bol prijatý [**Európsky klimatický zákon**](https://eur-lex.europa.eu/legal-content/SK/TXT/HTML/?uri=CELEX:32021R1119), čím sa stali tieto ciele právne záväznými. Zároveň bol v tom istom roku predstavený balík legislatívnych návrhov [**Fit for 55**](/infografiky/fit-for-55), ktorý je už rozpracovaný podrobnejšie, aby sa ciele Zelenej dohody mohli realizovať v praxi. Tento balík stanovuje konkrétne ciele a opatrenia do roku 2030, t. j. aké zmeny je potrebné vykonať do konca tohto desaťročia.
+Ciele Zelenej dohody vzápätí [podporila](https://www.consilium.europa.eu/en/meetings/european-council/2019/12/12-13/) aj Európska rada zložená z hláv členských štátov (Slovensko v nej zastupuje premiér). Táto podpora na najvyššej politickej úrovni následne umožnila zakotviť ciele do právnych predpisov – v roku 2021 bol prijatý [**Európsky klimatický zákon**](https://eur-lex.europa.eu/legal-content/SK/TXT/HTML/?uri=CELEX:32021R1119), čím sa stali tieto ciele právne záväznými. Zároveň bol v tom istom roku predstavený balík legislatívnych návrhov [**Fit for 55**](/infografiky/fit-for-55), ktorý je už rozpracovaný podrobnejšie, aby sa ciele Zelenej dohody mohli realizovať v praxi. Tento balík stanovuje konkrétne ciele a opatrenia do roku 2030, t. j. aké zmeny je potrebné vykonať do konca tohto desaťročia.
 
 {% comment %}
 {% include figure.html
-    name="cs-schema-politik-des.svg"
-    name-mobile="cs-schema-politik-mob.svg"
-    alt="Schéma ukazuje provázanost Zelené dohody, Evropského klimatického zákona a balíčku Fit for 55. Zelená dohoda pro Evropu je strategickým dokumentem pro naplnění klimatických cílů. Na ni navazuje jak Evropský klimatický zákon, který EU právně zavazuje klimatických cílů dosáhnout, tak Fit for 55, tedy balíček opatření k dosažení cíle pro rok 2030."
-    source-text="Fakta o klimatu"
-    source-url="https://faktaoklimatu.cz/"
+    name="sk-schema-politik-des.svg"
+    name-mobile="sk-schema-politik-mob.svg"
+    alt="Schéma ukazuje previazanosť Zelenej dohody, Európskeho klimatického zákona a balíka Fit For 55. Európska zelená dohoda je strategickým dokumentom na naplnenie klimatických cieľov. Na ňu nadväzuje ako aj Európsky klimatický zákon, ktorý EÚ právne zaväzuje dosiahnuť klimatické ciele, tak aj Fit For 55, ktorý obsahuje opatrenia na dosiahnutie cieľa pre rok 2030."
+    source-text="Fakty o klíme"
+    source-url="https://faktyoklime.sk/"
 %}
 {% endcomment %}
 {% capture legislativa-eu %}
@@ -80,10 +80,10 @@ Na zastavenie globálneho otepľovania musia krajiny na celom svete dosiahnuť s
 Medzikrokom k dosiahnutiu klimatickej neutrality EÚ je zníženie emisií skleníkových plynov v EÚ o 55 % v porovnaní s rokom 1990.
 {% comment %}
 {% include figure.html
-    name="cs-vyvoj-emisi-trajektorie-des.svg"
-    name-mobile="cs-vyvoj-emisi-trajektorie-mob.svg"
-    alt="Emise skleníkových plynů v EU začaly významněji klesat po finanční krizi v roce 2008, přičemž od roku 1990 (4901 Mt CO2eq) do roku 2020 (3354 Mt CO2eq) poklesly o 32 %. Větší pokles v roce 2020 byl způsoben především útlumem ekonomiky kvůli pandemii koronaviru a podle všeho se emise vrátí na svou původní trajektorii. Graf naznačuje, jak by mohl vypadat vývoj emisí, pokud by bylo dosaženo klimatických cílů – poklesu o 55 % do roku 2030 oproti roku 1990 a dosažení klimatické neutrality v roce 2050."
-    source-text="Infografika Fakta o klimatu"
+    name="sk-vyvoj-emisii-trajektoria-des.svg"
+    name-mobile="sk-vyvoj-emisii-trajektoria-mob.svg"
+    alt="Emisie skleníkových plynov v EÚ začali významnejšie klesať po finančnej kríze v roku 2008, pričom od roku 1990 (4901 Mt CO2eq) do roku 2020 (3354 Mt CO2eq) klesli o 32 %. Väčší pokles v roku 2020 bol spôsobený hlavne útlmom ekonomiky kvôli pandémii COVID-19 a podľa všetkého sa emisie vrátia ku svojej pôvodnej trajektórii. Graf naznačuje, ako by mohol vyzerať vývoj emisií, keby boli dosiahnuté klimatické ciele – pokles o 55 % do roku 2030 v porovnaní s rokom 1990 a dosiahnutie klimatickej neutrality v roku 2050."
+    source-text="Infografika Faktov o klíme"
     source-url="https://faktaoklimatu.cz/infografiky/emise-eu-vyvoj"
 %}
 {% endcomment %}
@@ -94,7 +94,7 @@ Zelená dohoda nie je dokument, ktorý by nezohľadňoval sociálny a hospodárs
 1. **Hospodársky rast áno, ale oddelený od využívania zdrojov**<br>
   Cieľom Zelenej dohody nie je znížiť prosperitu. Jeho cieľom je hospodársky prosperujúca spoločnosť, zníženie emisií skleníkových plynov a ukončenie nadmerného využívania zdrojov.[^rastova-strategia]
 2. **Spravodlivá transformácia**<br>
-  Transformácia hospodárstva môže mať negatívny vplyv na regióny a domácnosti (vysoké ceny energie, strata pracovných miest atď.), preto je cieľom Zelenej dohody ich podporiť (napr. prostredníctvom financovania z Fondu pre spravodlivú transformáciu). Zároveň vytvára platformu pre účasť verejnosti prostredníctvom [Európskeho klimatického paktu](https://www.partnerskadohoda.gov.sk/europsky-klimaticky-pakt-posilnujeme-postavenie-obcanov-aby-mohli-vytvorit-ekologickejsiu-europu/).
+  Transformácia hospodárstva môže mať negatívny vplyv na regióny a domácnosti (vysoké ceny energie, strata pracovných miest atď.), preto je cieľom Zelenej dohody ich podporiť (napr. prostredníctvom financovania z Fondu na spravodlivú transformáciu). Zároveň vytvára platformu pre účasť verejnosti prostredníctvom [Európskeho klimatického paktu](https://www.partnerskadohoda.gov.sk/europsky-klimaticky-pakt-posilnujeme-postavenie-obcanov-aby-mohli-vytvorit-ekologickejsiu-europu/).
 3. **Rešpekt voči rozdielnej východiskovej pozícii jednotlivých štátov**<br>
    Klimatické ciele obsiahnuté v Zelenej dohode sa vo všeobecnosti vzťahujú na EÚ ako celok a v jednotlivých členských štátoch sa môžu líšiť. Napríklad dosiahnutie klimatickej neutrality na úrovni EÚ teoreticky znamená, že niektoré krajiny môžu mať aj v roku 2050 kladné emisie skleníkových plynov, ak v iných krajinách budú emisie záporné.[^klimaticka-neutralita-staty] Ďalším príkladom je návrh [nariadenia o zdieľanom úsilí](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX:52021PC0555). Tým sa stanovuje, o koľko by mali klesnúť emisie v sektoroch, na ktoré sa nevzťahujú emisné kvóty. Zatiaľ čo **Slovenská republika je povinná znížiť emisie do roku 2030 o 27 %** v porovnaní s rokom 2005, Dánsko, Nemecko, Luxembursko, Fínsko alebo Švédsko sú povinné znížiť emisie o 50 %. Krajiny sa líšia aj z hľadiska dostupných finančných prostriedkov – priemyselnejšie krajiny, ktoré sú viac závislé od fosílnych palív, majú viac prostriedkov určených na modernizáciu a dekarbonizáciu svojich ekonomík.
 4. **Ochrana klímy ako súčasť všetkých politík** (*climate mainstreaming, do no harm*[^klimaticky-mainstreaming])<br>
@@ -247,58 +247,57 @@ Posledná kapitola Zelenej dohody sa týka znečistenia ovzdušia, pôdy a vody.
 
 Financovanie opatrení v oblasti klímy a dekarbonizácie pochádza v EÚ predovšetkým:
 - **z rozpočtu Únie**,
-- **z predaja dlhopisov** (*NextGenerationEU*), ktorými si štáty EÚ spoločne požičali na obnovu pandémii COVID-19,
+- **z predaja dlhopisov** (*NextGenerationEU*) vydaných štátmi EÚ na obnovu pandémii COVID-19,
 - **z výnosov predaja emisných kvót**.
 
 Tieto prostriedky sa rozdeľujú medzi niekoľko fondov, ktoré potom plynú členským štátom. Na opatrenia v oblasti klímy by sa malo použiť aspoň [30 % príjmov z unijného rozpočtu a dlhopisov](https://ec.europa.eu/info/strategy/eu-budget/performance-and-reporting/mainstreaming_cs#climate) na obdobie 2021 – 2027.
 
-Klíčovou součástí Zelené dohody je **mechanismus spravedlivé transformace**. Na něj navazuje zřízení [Fondu pro spravedlivou transformaci](https://ec.europa.eu/info/funding-tenders/find-funding/eu-funding-programmes/just-transition-fund_cs), jehož prostředky zamíří především do regionů nejvíce ohrožených dekarbonizací hospodářství – v rámci Česka jde o Karlovarský, Ústecký a Moravskoslezský kraj.
+Kľúčovou súčasťou Zelenej dohody je **mechanizmus spravodlivej transformácie**. Naň nadväzuje zriadenie [Fondu na spravodlivú transformáciu](https://ec.europa.eu/info/funding-tenders/find-funding/eu-funding-programmes/just-transition-fund_sk), ktorého prostriedky budú smerovať do regiónov, ktoré stoja pred výzvou dekarbonizácie hospodárstva v najväčšej miere – na Slovensku ide o Hornonitriansky región, Banskobystrický a Košický kraj[^fond].
 
-**Výnosy z prodeje emisních povolenek** aktuálně plynou do [Modernizačního](https://climate.ec.europa.eu/eu-action/funding-climate-action/modernisation-fund_cs) nebo [Inovačního](https://climate.ec.europa.eu/eu-action/funding-climate-action/innovation-fund_en) fondu. Součástí návrhů v balíčku Fit for 55 je i zřízení tzv. [Sociálního klimatického fondu](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX%3A52021PC0568), který by sloužil k podpoře zranitelných domácností zasažených dekarbonizací, a to podporou energetické účinnosti, obnovitelných zdrojů energie nebo bezemisní dopravy. Vznik tohoto fondu je však úzce navázán na zavedení zpoplatnění emisí skleníkových plynů z budov a silniční dopravy (tzv. EU ETS 2), protože právě výnosy z tohoto opatření mají fond financovat.
+**Výnosy z predaja emisných kvót** v súčasnosti smerujú do [Modernizačného](https://climate.ec.europa.eu/eu-action/funding-climate-action/modernisation-fund_sk) alebo [Inovačného](https://climate.ec.europa.eu/eu-action/funding-climate-action/innovation-fund_sk) fondu. Návrhy v balíku Fit for 55 zahŕňajú aj zriadenie tzv. [Sociálneho klimatického fondu](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX:52021PC0568)na podporu zraniteľných domácností postihnutých dekarbonizáciou prostredníctvom podpory energetickej účinnosti, energie z obnoviteľných zdrojov alebo dopravy s nulovými emisiami. Vytvorenie tohto fondu však úzko súvisí so zavedením poplatku za emisie skleníkových plynov z budov a cestnej dopravy (tzv. EU ETS 2), keďže práve príjmy z tohto opatrenia majú slúžiť na financovanie fondu.
 
-### Soukromý kapitál
+### Súkromný kapitál
 
+{% comment %} TODO: vložiť, keď bude taxonomický branch merged a zmeniť link v texte nižšie (riadok 268)
 {% include preview-box.html
-    title="Co je taxonomie EU?"
-    text="Z jakých předpokladů taxonomie vychází a koho se týká?"
-    slug="taxonomie-eu"
+    title="Čo je taxonómia EÚ?"
+    text="Z akých ppredpokladov taxonómia vychádza a koho sa týka?"
+    slug="taxonomia-eu"
 %}
+{% endcomment %}
+Okrem verejných zdrojov je na dosiahnutie cieľov v oblasti klímy potrebné mobilizovať súkromný kapitál, t. j. finančné prostriedky, ktoré majú k dispozícii spoločnosti, banky alebo investičné fondy, a **nasmerovať ho do nízkouhlíkových projektov**. Krokom vpred v tomto smere je prijatie tzv. [**taxonómie**](https://faktaoklimatu.cz/infografiky/taxonomie-eu) udržateľných činností, ktorej cieľom je kategorizovať tieto činnosti podľa typu a poskytnúť tak investorom základ pre prijímanie informovaných a klimaticky zodpovedných rozhodnutí.
 
-K dosažení klimatických cílů je kromě veřejných zdrojů potřeba mobilizovat i soukromý kapitál – tedy finance, kterými disponují firmy, banky nebo investiční fondy – a **nasměrovat jej k nízkouhlíkovým projektům**. Krokem vpřed je v tomto ohledu přijetí tzv. [**taxonomie**](/infografiky/taxonomie-eu) udržitelných aktivit, jejímž cílem je rozdělit tyto aktivity podle typu a poskytnout tak podklady investorům, aby mohli dělat informovaná a klimaticky odpovědná rozhodnutí.
+Mnohí investori sa už teraz vyhýbajú investíciám s [rizikom uviaznutých aktív](https://en.wikipedia.org/wiki/Stranded_asset) (angl. *stranded assets*), t. j. do projektov, pri ktorých sa dá očakávať, že hodnota investovaných peňazí klesne vzhľadom na spoločenský a legislatívny vývoj. Príkladom sú investície do infraštruktúry fosílnych palív ako uhlie – keďže sa v Európe zatvárajú uhoľné bane, takéto aktíva sa môžu stať "uviaznutými" v projekte a stratiť značnú hodnotu.
 
-Mnozí investoři se už dnes vyhýbají investicím, u nichž existuje riziko tzv. [uvízlých aktiv](https://en.wikipedia.org/wiki/Stranded_asset) (angl. *stranded assets*), tedy do projektů, u kterých lze s ohledem na společenský a legislativní vývoj očekávat pokles hodnoty vložených finančních prostředků. Příkladem mohou být investice do fosilní infrastruktury, například uhelné – vzhledem k uzavírání uhelných dolů po celé Evropě mohou takové investice v projektu "uvíznout" a výrazně ztratit na hodnotě.
+### Vnútroštátne rozpočty
 
-### Vnitrostátní rozpočty
+Zelená dohoda pracuje s termínom *ekologizácia národných rozpočtov*, ktorý zahŕňa **presun zdaňovania - od práce k znečisťovaniu**, **ukončenie dotácií na fosílne palivá** a **rozpočtovanie s ohľadom na sociálne dopady**. [Únijná reforma DPH](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=celex%3A32022L0542) nariaďuje do roku 2030 postupne zrušiť preferenčné sadzby pre činnosti, ktoré poškodzujú životné prostredie (napríklad fosílne palivá), a namiesto toho zvýhodniť činnosti, ktoré sú k životnému prostrediu šetrné.
 
-Zelená dohoda pracuje s termínem *ekologizace vnitrostátních rozpočtů*, který zahrnuje **přesun zdanění – od práce ke znečištění**, **konec dotací na fosilní paliva** a **rozpočtování s ohledem na sociální dopady**. [Unijní reforma DPH](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=celex%3A32022L0542) ukládá postupně do roku 2030 ukončit zvýhodněné sazby pro aktivity negativně dopadající na životní prostředí (například fosilní paliva) a naopak umožňuje zvýhodňovat aktivity, které jsou k přírodě šetrné.
+Do národných rozpočtov smeruje aj časť príjmov z aukcií emisných kvót. Podľa súčasných pravidiel sú členské štáty povinné použiť aspoň 50 % týchto príjmov na opatrenia v oblasti klímy.[^wwf-report] Návrh reformy trhu s emisnými kvótami v balíku Fit for 55 zahŕňa zvýšenie tohto podielu na 100 %. Všetky príjmy z emisných kvót tak pôjdu na opatrenia v oblasti zmeny klímy.
 
-Do národních rozpočtů plyne i část výnosů z emisních povolenek získaných při jejich dražbě. Podle současných pravidel mají členské státy povinnost využít alespoň 50 % těchto výnosů na klimatická opatření.[^wwf-report] Součástí návrhu o reformě trhu s povolenkami v balíčku Fit for 55 je navýšení tohoto podílu na 100 %. Tedy všechny výnosy z povolenek půjdou na opatření spojená se změnou klimatu.
-
-## Co znamená Zelená dohoda pro Česko?
-
+## Čo znamená Zelená dohoda pre Slovensko?
+{% comment %}
 {% include preview-box.html
     title="Jak EU financuje klimatická opatření v Česku?"
     text="V infografice přinášíme detailnější informace o jednotlivých zdrojích a fondech."
     slug="fondy-eu"
 %}
+{% endcomment %}
+Zelená dohoda ako taká predstavuje rámec pre celú EÚ. Pre Slovensko sú dôležité najmä nasledujúce body:
 
-Zelená dohoda jako taková představuje rámec pro celou EU. Z hlediska jejího významu pro Česko jsou důležité především tyto body:
-
-- Transformace představuje pro Česko výzvu v technologické i sociální rovině.
-- V technologické rovině jde zejména o výrobu elektřiny a **změnu energetického mixu** ve prospěch většího zastoupení obnovitelných zdrojů energie (OZE) a o otázky spojené s budováním infrastruktury pro přeshraniční přenos elektřiny. (V současnosti vyrábíme v ČR 50 % elektřiny z uhlí a plynu, 37 % z jádra a 13 % z OZE.[^ember])
-- V sociální rovině jde hlavně o zvládnutí výzev spojených se **změnami na trhu práce** a **energetickou chudobou**. Bude nutné rekvalifikovat a podporovat obyvatele, kteří kvůli dekarbonizaci přijdou o zaměstnání, například v důsledku zavírání uhelných dolů nebo proměny automobilového průmyslu. Stejně tak bude nezbytná podpora ekonomicky zranitelných domácností, aby si mohly dovolit pořídit například solární panely nebo tepelná čerpadla.
-- Je nezbytné **najít způsob, jak dekarbonizovat české firmy**. Stát by jim měl k tomu poskytnout potřebnou podporu.
-- Do Česka proudí a bude proudit **bezprecedentní objem peněz**. Otázka tak není, kde získat finance, ale jak navrhnout a vybrat projekty, které budou mít kýžený dopad.
-- V kontextu výše zmíněného **je proto potřeba, aby si Česko definovalo a přijalo roli**, kterou chce v probíhající transformaci k bezemisnímu hospodářství hrát.
+- Táto transformácia predstavuje pre Slovensko technologickú aj sociálnu výzvu.
+- Na sociálnej úrovni ide najmä o zvládanie výziev súvisiacich so zmenami na trhu práce a energetickou chudobou. Bude potrebné rekvalifikovať a podporiť ľudí, ktorí stratia prácu v dôsledku dekarbonizácie, napríklad v dôsledku zatvárania uhoľných baní alebo transformácie automobilového priemyslu. Podobne bude potrebné podporiť ekonomicky slabšie domácnosti, aby si mohli dovoliť napríklad solárne panely alebo tepelné čerpadlá.
+- Je nevyhnutné **nájsť spôsob, ako dekarbonizovať slovenské podniky**. Štát by im mal na to poskytnúť potrebnú podporu.[^podpora]
+- Do Česka prúdi a bude prúdiť **nebývalé množstvo peňazí**. Otázkou nie je, kde získať peniaze, ale ako navrhnúť a vybrať projekty, ktoré budú mať žiadaný efekt.
+- V kontexte vyššie uvedeného je preto potrebné, aby Slovensko definovalo a prijalo úlohu, ktorú chce zohrávať v prebiehajúcej transformácii smerom k hospodárstvu s nulovými emisiami.
 
 ## Poznámky a zdroje
 
 [^rastova-strategia]: Zelená dohoda pre Európu je založená na myšlienke ekologického rastu, čo znamená, že HDP rastie a emisie skleníkových plynov klesajú. Oddelenie rastu HDP od rastu emisií skleníkových plynov sa označuje anglickým slovom *decoupling*. Spoločenská diskusia však zahŕňa aj kritické teórie, podľa ktorých nie je možné splniť klimatické ciele a zároveň hospodársky rásť – v tejto súvislosti možno odkázať napríklad na [princíp nerastu (*degrowth*)](https://cs.wikipedia.org/wiki/Nerůst).
 [^klimaticky-mainstreaming]: Termín *klimatický mainstreaming* sa používa na označenie implementácie a začlenenia klimatických cieľov do iných politík. Viac informácií o uplatňovaní hľadiska klímy na úrovni EÚ nájdete na [webovej stránke Európskej komisie](https://commission.europa.eu/strategy-and-policy/eu-budget/performance-and-reporting/mainstreaming_sk). Zásada *do no harm* (nepoškodzovať) vyžaduje, aby legislatívne akty v jednej oblasti, napríklad v oblasti klímy, nepoškodzovali inú oblasť, napríklad biodiverzitu. Je to dôležitá súčasť environmentálneho práva EÚ.
-[^slovensko-oteplenie]: SlovenskoČeská republika sa otepľuje približne 2-krát rýchlejšie, ako je svetový priemer. To znamená, že globálne oteplenie o 2 °C predstavuje pre SlovenskoČeskú republiku oteplenie o 4 °C. Viac informácií o rýchlosti otepľovania na rôznych miestach planéty nájdete v [našej infografike](/infografiky/mapa-zmeny-teploty).
+[^slovensko-oteplenie]: Slovensko sa otepľuje približne 2-krát rýchlejšie, ako je svetový priemer. To znamená, že globálne oteplenie o 2 °C predstavuje pre Slovensko oteplenie o 4 °C. Viac informácií o rýchlosti otepľovania na rôznych miestach planéty nájdete v [našej infografike](/infografiky/mapa-zmeny-teploty).
 [^pravni-zavaznost]: Právní závaznost klimatických cílů znamená, že EU (potažmo členské státy) odpovídají za jejich naplnění, a Komisi zavazuje k pravidelnému přezkoumávání, zda k tomuto naplňování skutečně dochází. Nedochází-li, je Komise povinna přijmout nezbytná opatření k nápravě.
 [^zoznam]: Zoznam navrhovaných opatrení nie je vyčerpávajúci; uvádzame najmä tie najdôležitejšie. Podrobnejšie informácie nájdete v samotnom [dokumente Zelenej dohody](https://eur-lex.europa.eu/legal-content/SK/TXT/?qid=1576150542719&uri=COM%3A2019%3A640%3AFIN).
-[^eu-ets-sektory]: Jde o elektrárny s tepelným příkonem nad 20 MW, ropné rafinérie, koksovny, železárny a ocelárny, cementárny a přibližně 600 provozovatelů letadel v rámci Evropského hospodářského prostoru.
 [^rozsirenie-eu-ets]: Obe úpravy sa zavádzajú do praxe prostredníctvom legislatívnych návrhov balíka Fit for 55: [prvá](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A52021PC0551) sa týka úpravy systému obchodovania s emisiami, [druhá](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A52021PC0552) je súčasťou revízie smernice o príspevku leteckej dopravy k znižovaniu emisií skleníkových plynov.
 [^trialog]: Konečné znenie závisí od výsledku rokovaní medzi Európskou komisiou, Parlamentom a Radou.
 [^referencny-scenar]: V [referenčnom scenári](https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_sk) EÚ na rok 2020 sa očakávalo, že spotreba primárnej energie v EÚ v roku 2030 klesne na 1124 Mtoe (megaton [ropného ekvivalentu](https://cs.wikipedia.org/wiki/Tuna_ropn%C3%A9ho_ekvivalentu)) a konečná spotreba energie na 864 Mtoe. Navrhované dodatočné zníženie o 9 % by viedlo k 1023 Mtoe v prípade spotreby primárnej energie a 787 Mtoe v prípade konečnej spotreby energie (13 % zníženie by viedlo k 978 Mtoe a 752 Mtoe).
@@ -308,7 +307,8 @@ Zelená dohoda jako taková představuje rámec pro celou EU. Z hlediska jejího
 [^renovacna-vlna]: Tieto priority v sektore budov sa odrážajú v legislatívnom návrhu [Smernice o energetickek hospodárnosti budov](
 https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX:52021PC0802) (*Energy Performance of Buildings Directive*, EPBD), ktorá je súčasťou balíka Fit for 55.
 [^vodik-vysvetlenie]: Zelený vodík sa vyrába elektrolýzou vody pomocou obnoviteľnej energie.
+[^fond]: Viac o spravodlivej klimatickej transformácii Slovenska nájdete na [stránke Úradu vlády SR](https://www.partnerskadohoda.gov.sk/21400-sk/459-milionov-eur-na-spravodlivu-klimaticku-transformaciu-slovenska/)
 [^akcny-plan]: Komisia nadviazala na tieto návrhy Zelenej dohody [akčným plánom pre obehové hospodárstvo](https://eur-lex.europa.eu/legal-content/SK/TXT/HTML/?uri=CELEX:52020DC0098).
-[^ember]: Data o energetických mixech států přehledně zpřístupňuje think tank [Ember](https://ember-climate.org/data/data-explorer/).
+[^podpora]: Štátna podpora môže byť vo forme vytvárania predvídateľného prostredia (strategickej a legislatívnej jasnosti a regulačnej stabilite), či vo forme finančnej pomoci (pôžičky, dotácie).
 [^klimaticka-neutralita-staty]: Je však žiaduce, aby sa jednotlivé krajiny zaviazali k zníženiu emisií skleníkových plynov alebo ku klimatickej neutralite aj na národnej úrovni, pričom bežnou formou sú národné klimatické zákony. Napríklad Dánsko sa zaviazalo dosiahnuť 70 % zníženie emisií do roku 2030 (v porovnaní s rokom 1990) a dosiahnuť klimatickú neutralitu najneskôr do roku 2050. Nemecko sa zaviazalo dosiahnuť klimatickú neutralitu do roku 2045. Slovenský klimatický zákon zatiaľ deklaruje dosiahnuť uhlíkovú neutralitu v roku 2050. Viac informácií o európskych klimatických zákonoch nájdete na stránke CAN Europe (2022): [Climate Laws in Europe. Essential for achieving climate neutrality](https://caneurope.org/climate-laws-in-europe-essential-for-achieving-climate-neutrality/).
-[^wwf-report]: Jak členské státy využívají výnosy z prodeje emisních povolenek a kolik podílu dávají na klimaticky prospěšná opatření, podrobně popisuje [studie WWF](https://www.wwf.eu/?8275441/ETS-revenues-report-2022).
+[^wwf-report]: Ako členské štáty využívajú príjmy z predaja emisných kvót a koľko vynakladajú na opatrenia v oblasti klímy, sa podrobne uvádza v [štúdii WWF](https://www.wwf.eu/?8275441/ETS-revenues-report-2022).
