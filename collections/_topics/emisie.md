@@ -4,7 +4,7 @@ title:         "Emisie skleníkových plynov a emisné opatrenia"
 tag-name:      "emisie"
 slug:          "emisie"
 redirect_from: "/emisie"
-published:     2022-11-20
+published:     2022-8-20
 weight:        20
 intro: |
   Ľuďmi spôsobené emisie skleníkových plynov zosilňujú v atmosfére skleníkový efekt, ktorý vedie k otepľovaniu planéty. Hlavným skleníkovým plynom je **oxid uhličitý** (CO<sub>2</sub>), ktorý k otepľovaniu prispieva približne zo 70 %. Jeho koncentrácia v atmosfére rastie predovšetkým kvôli spaľovaniu fosílnych palív, ale napríklad aj kvôli výrubu pralesov alebo výrobe ocele a cementu. Ďalším významným skleníkovým plynom je **metán** (CH<sub>4</sub>), ktorý do atmosféry uniká hlavne pri ťažbe fosílnych palív a chove dobytka. Ku skleníkovým plynom patrí aj **oxid dusný** (vznikajúci najmä pri používaní umelých dusíkatých hnojív) ⁠a rad synteticky vyrábaných **fluórovaných plynov**.
@@ -78,7 +78,6 @@ subtopics:
   - emisie-svet-na-osobu
   - emisie-svet-na-hdp
   - emisie-eu-poradie
-  - emisie-dychanie
   qa:
   - q: "Aké sú celkové svetové emisie?"
     a: |
@@ -107,7 +106,6 @@ subtopics:
     Podiel jednotlivých sektorov na emisiách sa líši v čase aj naprieč krajinami. Napríklad v Írsku sú viac zastúpené emisie z poľnohospodárstva, v Luxembursku naopak tvorí veľkú časť emisií doprava. Počas pandémie COVID-19 svetové emisie skleníkových plynov klesli, no od jej konca opäť rastú.
   content:
   - emisie-sr
-  - emisie-eu-poradie
   - emisie-dychanie
 
   qa:
