@@ -90,13 +90,14 @@ subtopics:
     a: |
       **Jednotlivé skleníkové plyny sa prepočítavajú na tzv. CO<sub>2</sub>eq**, (CO<sub>2</sub> ekvivalent), čo je množstvo oxidu uhličitého, ktoré by malo rovnaký príspevok ku skleníkovému javu atmosféry ako množstvo týchto ostatných plynov. Vzhľadom na rôzne polčasy rozkladu jednotlivých plynov v atmosfére sa tento príspevok uvažuje za určitú štandardizovanú dobu (obvykle 100 rokov) a vypočíta sa pomocou tzv. GWP (*Global Warming Potential*) koeficientov. Zatiaľ čo CO<sub>2</sub> ako referenčnému plynu prináleží koeficent 1, pre metán je to 28 pre horizont 100 rokov. Inými slovami, metán je 28× silnejší skleníkový plyn ako CO<sub>2</sub>.
 
-- id:          "slovensko"
-  title:       "Emisie skleníkových plynov Slovenska"
-  title-short: "Emisie v SR"
-  lead: |
-    V porovnaní s celosvetovými emisiami sa môžu zdať emisie Slovenska zanedbateľné – v roku 2018 vypustilo Slovensko [42,3 miliónov ton CO<sub>2</sub>eq](https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=env_air_gge&lang=en). Keď ale emisie vyjadríme v prepočte na jedného obyvateľa, aby sme mohli slovenské emisie porovnať s inými štátmi, v roku 2015 priemerný obyvateľ Slovenska vyprodukoval 7,5 tony CO<sub>2</sub>eq, v roku 2018 to bolo už 7,8 tony (priemerné svetové emisie na osobu boli v týchto rokoch 6,5 tony, resp. 6,8 tony). **Priemerný obyvateľ Slovenska teda vyprodukuje ročne zhruba o 15 % viac emisií, ako je svetový priemer**.
-  content:
-  - emisie-sr
+# TODO: Ukázat tuto sekci, až bude víc infografik.
+# - id:          "slovensko"
+#   title:       "Emisie skleníkových plynov Slovenska"
+#   title-short: "Emisie v SR"
+#   lead: |
+#     V porovnaní s celosvetovými emisiami sa môžu zdať emisie Slovenska zanedbateľné – v roku 2018 vypustilo Slovensko [42,3 miliónov ton CO<sub>2</sub>eq](https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=env_air_gge&lang=en). Keď ale emisie vyjadríme v prepočte na jedného obyvateľa, aby sme mohli slovenské emisie porovnať s inými štátmi, v roku 2015 priemerný obyvateľ Slovenska vyprodukoval 7,5 tony CO<sub>2</sub>eq, v roku 2018 to bolo už 7,8 tony (priemerné svetové emisie na osobu boli v týchto rokoch 6,5 tony, resp. 6,8 tony). **Priemerný obyvateľ Slovenska teda vyprodukuje ročne zhruba o 15 % viac emisií, ako je svetový priemer**.
+#   content:
+#   - emisie-sr
 
 - id:          "sektory"
   title:       "Emisie podľa sektorov"
