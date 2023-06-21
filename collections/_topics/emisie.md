@@ -90,7 +90,7 @@ subtopics:
     a: |
       **Jednotlivé skleníkové plyny sa prepočítavajú na tzv. CO<sub>2</sub>eq**, (CO<sub>2</sub> ekvivalent), čo je množstvo oxidu uhličitého, ktoré by malo rovnaký príspevok ku skleníkovému javu atmosféry ako množstvo týchto ostatných plynov. Vzhľadom na rôzne polčasy rozkladu jednotlivých plynov v atmosfére sa tento príspevok uvažuje za určitú štandardizovanú dobu (obvykle 100 rokov) a vypočíta sa pomocou tzv. GWP (*Global Warming Potential*) koeficientov. Zatiaľ čo CO<sub>2</sub> ako referenčnému plynu prináleží koeficent 1, pre metán je to 28 pre horizont 100 rokov. Inými slovami, metán je 28× silnejší skleníkový plyn ako CO<sub>2</sub>.
 
-# TODO: Ukázat tuto sekci, až bude víc infografik.
+# TODO: Ukázat tuto sekci, až bude víc infografik. Sladit celkové emise, aby text v `lead` byly stejné emise jako v infografice (možná se upravila data v eurostatu, opraví se aktualizací grafiky).
 # - id:          "slovensko"
 #   title:       "Emisie skleníkových plynov Slovenska"
 #   title-short: "Emisie v SR"
