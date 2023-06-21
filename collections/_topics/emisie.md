@@ -74,6 +74,7 @@ subtopics:
     Klimatická zmena závisí na celkovom množstve skleníkových plynov v atmosfére, pri porovnávaní jednotlivých krajín je ale tiež vhodné vyjadrenie emisií CO<sub>2</sub>eq na obyvateľa. Takto je následne možné porovnať, ako ku klimatickej zmene prispievajú rôzne veľké štáty.
   content:
   - emisie-sr
+  - emisie-eu
   - emisie-svet
   - emisie-svet-na-osobu
   - emisie-svet-na-hdp
