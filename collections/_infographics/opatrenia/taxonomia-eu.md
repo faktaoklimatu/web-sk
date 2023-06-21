@@ -25,7 +25,7 @@ Taxonómia EÚ je predovšetkým nástrojom na klasifikáciu udržateľných eko
 
 Taxonómia EÚ sa týka predovšetkým **aktérov na finančných trhoch**, ktorým uľahčí podávanie správ o environmentálnych cieľoch, ku ktorým prispievajú ich investície, a o podiele investícií, ktoré sú v súlade s taxonómiou. Má význam aj pre **podniky**, ktoré už podliehajú povinnostiam nefinančného vykazovania (environmentálna alebo sociálna výkonnosť), a pre **EÚ a členské štáty**, ktorým môže poskytnúť užitočné usmernenie pri stanovovaní noriem pre environmentálne udržateľné finančné produkty.
 
-Taxoóomia pracuje so **6 hlavnými cieľmi**:
+Taxonómia pracuje so **6 hlavnými cieľmi**:
 
 1. Zmierňovanie zmeny klímy (<glossary id="mitigacia">mitigácia</glossary>)
 2. Prispôsobovanie sa zmene klímy (<glossary id="adaptacia">adaptácia</glossary>)
