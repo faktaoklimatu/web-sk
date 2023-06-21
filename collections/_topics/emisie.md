@@ -131,10 +131,11 @@ subtopics:
   - koncept-cesty-k-neutralite
   - 1979-charneyho-sprava
 
-- id:          "neutralita"
-  title:       "Klimatická neutralita"
-  lead: |
-    **Na zastavenie klimatickej zmeny je nutné prestať vypúšťať skleníkové plyny**, čiže dosiahnuť tzv. *net-zero*, respektíve klimatickú neutralitu. Výraz *net-zero* môžeme preložiť ako "čistá nula" a myslí sa tým to, že daný štát či firma sú klimaticky neutrálne, čo znamená, že odstraňujú z atmosféry toľko skleníkových plynov, koľko sami vypustia. Táto situácia je tiež označovaná ako klimatická neutralita alebo uhlíková neutralita (tento pojem sa však väčšinou týka iba oxidu uhličitého, nie všetkých <glossary id="antropogennesklenikoveplyny">skleníkových plynov</glossary>). **K cieľu dosiahnuť uhlíkovú neutralitu sa už prihlásili štáty zodpovedné za takmer 90 % svetových emisií oxicu uhličitého** (k februáru 2022).
+# TODO: Ukázat tuto sekci, až budou nějaké infografiky.
+# - id:          "neutralita"
+#   title:       "Klimatická neutralita"
+#   lead: |
+#     **Na zastavenie klimatickej zmeny je nutné prestať vypúšťať skleníkové plyny**, čiže dosiahnuť tzv. *net-zero*, respektíve klimatickú neutralitu. Výraz *net-zero* môžeme preložiť ako "čistá nula" a myslí sa tým to, že daný štát či firma sú klimaticky neutrálne, čo znamená, že odstraňujú z atmosféry toľko skleníkových plynov, koľko sami vypustia. Táto situácia je tiež označovaná ako klimatická neutralita alebo uhlíková neutralita (tento pojem sa však väčšinou týka iba oxidu uhličitého, nie všetkých <glossary id="antropogennesklenikoveplyny">skleníkových plynov</glossary>). **K cieľu dosiahnuť uhlíkovú neutralitu sa už prihlásili štáty zodpovedné za takmer 90 % svetových emisií oxicu uhličitého** (k februáru 2022).
 
 - id:          "mitigacia"
   title:       "Opatrenia na znižovanie emisií"
