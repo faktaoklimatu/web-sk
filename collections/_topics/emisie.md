@@ -19,7 +19,7 @@ dashboard:
   - region:    "world"
     value:     "**51,2**"   # Tohle je tricky -> IPCC uvádí cca 58 Gt CO2eq. EDGAR nepočítá LULUCF a tvrdí, že LULUCF je souhrnně net sink (~ 5 Gt CO2). Oproti tomu IPCC uvádí LULUCF emise cca 6.6 Gt CO2, protože odlišně definuje "antropogenní" (nezahrnuje pohlcování existujícími ekosystémy).
     subtitle:  "mld. ton CO<sub>2</sub>eq"
-  - region:    "sr"
+  - region:    "sk"
     value:     "**42,3**" # Eurostat
     subtitle:  "mil. ton CO<sub>2</sub>eq"
   source:      "EDGAR (svetové emisie), Eurostat (emisie SR)"
@@ -31,7 +31,7 @@ dashboard:
   - region:    "world"
     value:     "**6,8**"
     subtitle:  "ton CO<sub>2</sub>eq"
-  - region:    "sr"
+  - region:    "sk"
     value:     "**7,8**"
     subtitle:  "ton CO<sub>2</sub>eq"
   source:      "Eurostat, World Bank (počet obyvateľov)"
@@ -106,20 +106,20 @@ subtopics:
   title:       "Emisie podľa sektorov"
   lead: |
     Jednotlivé hospodárske odvetvia prispievajú ku klimatickej zmene v rôznej miere. **Na Slovensku sú približne vyrovnanými zdrojmi skleníkových plynov priemyselné procesy, doprava, spaľovanie v priemysle a energetika**, ktoré dohromady reprezentujú zhruba 75 % celkových slovenských emisií. Na porovnanie, v susednom Česku za takmer 40 % emisií skleníkových plynov zodpovedá iba energetika, pretože sú tam v prevádzke veľké uhoľné elektrárne.
-    
+
     Podiel jednotlivých sektorov na emisiách sa líši v čase aj naprieč krajinami. Napríklad v Írsku sú viac zastúpené emisie z poľnohospodárstva, v Luxembursku naopak tvorí veľkú časť emisií doprava. Počas pandémie COVID-19 svetové emisie skleníkových plynov klesli, no od jej konca opäť rastú.
   content:
   - emisie-sr
   - emisie-eu-poradie
   - emisie-dychanie
- 
+
   qa:
   - q: "Uvoľňujú sa skleníkové plyny nielen dôsledkom ľudskej činnosti, ale aj počas prírodných procesov?"
     a: |
       Mnohé prírodné javy tiež uvoľňujú skleníkové plyny. Napríklad dýchaním človek vyprodukuje približne 300 kg CO<sub>2</sub> ročne, podobne oxid uhličitý vydychujú aj iné organizmy. Dýchanie ale neprispieva ku klimatickej zmene, lebo je súčasťou uzavretého kolobehu uhlíka: vydychovaný CO<sub>2</sub> sa z atmosféry pohlcuje pri fotosyntéze rastlín alebo rozpúšťa v oceánoch. Silným skleníkovým plynom je vodná para, no jej cyklus v atmosfére je takisto uzavretý a množstvo odparenej vody závisí na teplote. Ku skleníkovému efektu tiež prispieva sopečná činnosť, avšak v omnoho menšej miere v porovnaní s ľudskou činnosťou.
   - q: "Aké sú hlavné zdroje ľudských emisií?"
     a: |
-      Približne 70 % svetových emisií <glossary id="antropogennesklenikoveplyny">skleníkových plynov</glossary> tvorí oxid uhličitý, ktorý vzniká hlavne **spaľovaním fosílnych palív** v energetike, priemysle a v doprave. 
+      Približne 70 % svetových emisií <glossary id="antropogennesklenikoveplyny">skleníkových plynov</glossary> tvorí oxid uhličitý, ktorý vzniká hlavne **spaľovaním fosílnych palív** v energetike, priemysle a v doprave.
 
 - id:          "buduce-oteplenie"
   title:       "Vzťah medzi emisiami a budúcim oteplením"
@@ -153,7 +153,7 @@ subtopics:
   title-short: "Emisie vs. HDP"
   lead: |
     **Emisná intenzita ekonomiky označuje množstvo <glossary id="antropogennesklenikoveplyny">skleníkových plynov</glossary> vyprodukovaných na jednotku HDP** a obvykle sa uvádza v gramoch CO<sub>2</sub>eq na jeden dolár (USD). Emisné intenzity tak popri emisiách na osobu slúžia ako ďalšie relatívne vyjadrenie emisií jednotlivých krajín a často tiež na ne poskytujú detailnejší pohľad.
-    
+
     Hospodársky rozvinutejšie krajiny majú spravidla menej emisne náročné ekonomiky, pretože služby tvoria väčší podiel ich hospodárstva. V porovnaní s tým v rozvojových krajinách tvoria väčší podiel hospodárstva emisne náročné sektory: priemysel, poľnohospodárstvo a stavebníctvo. Emisné intenzity tým pádom tiež vysvetľujú, prečo niektoré štáty s porovnateľnými emisiami na osobu môžu mať podstatne odlišnú životnú úroveň.
   content:  # U nového obsahu zvaž přidání také do ekonomika>pricina.
   - emisie-svet-na-hdp
