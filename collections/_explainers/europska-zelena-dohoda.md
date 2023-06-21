@@ -256,14 +256,13 @@ Kľúčovou súčasťou Zelenej dohody je **mechanizmus spravodlivej transformá
 
 ### Súkromný kapitál
 
-{% comment %} TODO: vložiť, keď bude taxonomický branch merged a zmeniť link v texte nižšie (riadok 268)
 {% include preview-box.html
     title="Čo je taxonómia EÚ?"
     text="Z akých predpokladov taxonómia vychádza a koho sa týka?"
     slug="taxonomia-eu"
 %}
-{% endcomment %}
-Okrem verejných zdrojov je na dosiahnutie cieľov v oblasti klímy potrebné mobilizovať súkromný kapitál, t. j. finančné prostriedky, ktoré majú k dispozícii spoločnosti, banky alebo investičné fondy, a **nasmerovať ho do nízkouhlíkových projektov**. Krokom vpred v tomto smere je prijatie tzv. [**taxonómie**](https://faktaoklimatu.cz/infografiky/taxonomie-eu) udržateľných činností, ktorej cieľom je kategorizovať tieto činnosti podľa typu a poskytnúť tak investorom základ pre prijímanie informovaných a klimaticky zodpovedných rozhodnutí.
+
+Okrem verejných zdrojov je na dosiahnutie cieľov v oblasti klímy potrebné mobilizovať súkromný kapitál, t. j. finančné prostriedky, ktoré majú k dispozícii spoločnosti, banky alebo investičné fondy, a **nasmerovať ho do nízkouhlíkových projektov**. Krokom vpred v tomto smere je prijatie tzv. [**taxonómie**](/infografiky/taxonomia-eu) udržateľných činností, ktorej cieľom je kategorizovať tieto činnosti podľa typu a poskytnúť tak investorom základ pre prijímanie informovaných a klimaticky zodpovedných rozhodnutí.
 
 Mnohí investori sa už teraz vyhýbajú investíciám s [rizikom uviaznutých aktív](https://en.wikipedia.org/wiki/Stranded_asset) (angl. *stranded assets*), t. j. do projektov, pri ktorých sa dá očakávať, že hodnota investovaných peňazí klesne vzhľadom na spoločenský a legislatívny vývoj. Príkladom sú investície do infraštruktúry fosílnych palív ako uhlie – keďže sa v Európe zatvárajú uhoľné bane, takéto aktíva sa môžu stať "uviaznutými" v projekte a stratiť značnú hodnotu.
 
