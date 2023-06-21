@@ -129,7 +129,7 @@ V reakcii na ruskú inváziu na Ukrajinu a **potrebu zbaviť sa závislosti od f
 Na úrovni jednotlivých krajín EÚ sú **kľúčovými dokumentmi** tzv. [národné energetické a klimatické plány](https://energy.ec.europa.eu/topics/energy-strategy/national-energy-and-climate-plans_sk) (*National Energy and Climate Plans*, NECP; v slovenčine sa používa skratka NEKP), v ktorých každá krajina uvádza, ako prispeje k dosiahnutiu klimatických cieľov EÚ do roku 2030. Hoci tieto dokumenty nie sú samy o sebe právne záväzné, členské štáty sú povinné každé dva roky hodnotiť pokrok v ich plnení a podávať o ňom správy, čo im umožňuje sledovať, či je Únia na dobrej ceste k splneniu svojich klimatických záväzkov. V dôsledku pretrvávajúcej energetickej krízy, spôsobenej najmä ruskou agresiou na Ukrajine, sa má NEKP v roku 2023 aktualizovať, aby odrážal vyššie ambície v oblasti OZE, úspor energie a energetickej bezpečnosti.
 
 {% comment %} 
-Co se týče současného NECP v Česku z roku 2019, je v [porovnání](/infografiky/srovnani-energetickych-scenaru-cr) s ostatními scénáři podoby české energetiky v roce 2030 relativně málo ambiciózní. Navrhuje například zvýšit podíl OZE z 13 na 22 %, přitom podle dostupných studií je jejich potenciál mnohem vyšší (viz naše infografiky o potenciálu [větrné](/infografiky/potencial-vetrne-energie-cr) a [solární](/potencial-solarni-energie-cr-strechy) energie).
+Co se týče současného NECP v Česku z roku 2019, je v [porovnání](/infografiky/srovnani-energetickych-scenaru-cr) s ostatními scénáři podoby české energetiky v roce 2030 relativně málo ambiciózní. Navrhuje například zvýšit podíl OZE z 13 na 22 %, přitom podle dostupných studií je jejich potenciál mnohem vyšší (viz naše infografiky o potenciálu [větrné](/infografiky/potencial-vetrne-energie-cr) a [solární](/potencial-solarni-energie-cr-strechy) energie). {% endcomment %}
 
 {% endcapture %}
 
@@ -139,7 +139,7 @@ Co se týče současného NECP v Česku z roku 2019, je v [porovnání](/infogra
     class="contrast-figure "
     label="Kontext: Národné plány v oblasti energetiky a klímy"
     content=necp
-%} {% endcomment %}
+%} 
 
 ### Udržateľná mobilita
 
