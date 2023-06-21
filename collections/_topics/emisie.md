@@ -109,7 +109,7 @@ subtopics:
   - emisie-dychanie
 
   qa:
-  - q: "Uvoľňujú sa skleníkové plyny nielen dôsledkom ľudskej činnosti, ale aj počas prírodných procesov?"
+  - q: "Uvoľňujú sa skleníkové plyny len dôsledkom ľudskej činnosti alebo aj počas prírodných procesov?"
     a: |
       Mnohé prírodné javy tiež uvoľňujú skleníkové plyny. Napríklad dýchaním človek vyprodukuje približne 300 kg CO<sub>2</sub> ročne, podobne oxid uhličitý vydychujú aj iné organizmy. Dýchanie ale neprispieva ku klimatickej zmene, lebo je súčasťou uzavretého kolobehu uhlíka: vydychovaný CO<sub>2</sub> sa z atmosféry pohlcuje pri fotosyntéze rastlín alebo rozpúšťa v oceánoch. Silným skleníkovým plynom je vodná para, no jej cyklus v atmosfére je takisto uzavretý a množstvo odparenej vody závisí na teplote. Ku skleníkovému efektu tiež prispieva sopečná činnosť, avšak v omnoho menšej miere v porovnaní s ľudskou činnosťou.
   - q: "Aké sú hlavné zdroje ľudských emisií?"
