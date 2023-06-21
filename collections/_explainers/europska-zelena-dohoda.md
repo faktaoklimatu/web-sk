@@ -5,7 +5,9 @@ slug:        "europska-zelena-dohoda"
 published:   2023-06-20
 authors:
   - id: "katerina-kolouchova"
-  - ids: "Viera Minarovičová", "Lenka Sedlačková"
+  - ids: ["jirka-lnenicka", "kristi-psorn-zakopcanova"]
+    minor-role: "editácia"
+  - ids: ["Viera Minarovičová", "Lenka Sedlačková"]
     minor-role: "preklad"
 weight:      74
 tags-scopes: [ eu ]
