@@ -4,12 +4,12 @@ title:       "Emisné záväzky štátov"
 slug:        2021-resers-zavazky-statov
 redirect_from: "/2021-reserse-zavazky-statov"
 weight:      300
-published:   2021-05-12
+published:   2023-06-22
 tags-scopes: [ svet ]
 tags-topics: [ emisie, opatrenia ]
 caption:     "Prehľad štátov a štátnych celkov, ktoré sa najväčšou mierou podieľajú na svetových emisiách oxidu uhličitého a ich oficiálne záväzky k obmedzeniu emisií."
 intro: |
-  Európska únia a 194 ďalších signatárov Parížskej dohody predložili svoje národné záväzky na zníženie emisií skleníkových plynov na svojom území. Väčšina krajín deklarovala dlhodobejšie záväzky nad rámec týchto národných záväzkov, zvyčajne zamerané na rok 2030, najčastejšie na nulové čisté emisie (net-zero) v roku 2050. Medzi krajiny, ktoré zatiaľ nevyhlásili termín nulových čistých emisií, patria Irán a Mexiko.
+  Európska únia a 195 ďalších signatárov Parížskej dohody predložili svoje národné záväzky na zníženie emisií skleníkových plynov na svojom území. Väčšina krajín deklarovala dlhodobejšie záväzky nad rámec týchto národných záväzkov, zvyčajne zamerané na rok 2030, najčastejšie na nulové čisté emisie (net-zero) v roku 2050. Medzi krajiny, ktoré zatiaľ nevyhlásili termín nulových čistých emisií, patria Irán a Mexiko.
   
 items:
   - country:  "Čína"
@@ -93,7 +93,7 @@ items:
   - country:  "Irán"
     flag:     "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg"
     share:    "1,76 %"
-    pledge30: "Neratifikované; −4 % ročných emisií oproti statu quo"
+    pledge30: "Neratifikované; −4 % ročných emisií oproti statusu quo"
     links:
       - title:  CAT
         url:    "https://climateactiontracker.org/countries/iran/"
@@ -108,10 +108,10 @@ items:
     flag:     "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg"
     share:    "1,61 %"
     netzero:  "2060"
-    pledge30: "−31,89 % ročných emisií oproti statu quo, koniec nelegálnej ťažby dreva"
+    pledge30: "−31,89 % ročných emisií oproti statusu quo, koniec nelegálnej ťažby dreva"
     conditional: |
       Podmienený záväzok stanovuje, ako veľmi by bola krajina schopná znížiť emisie skleníkových plynov, ak by boli splnené ďalšie podmienky. Indonézia ako podmienky udáva výšku medzinárodnej finančnej podpory, transfer technológií a budovanie kapacít. 
-    other: −43,20 % ročných emisií oproti statu quo
+    other: −43,20 % ročných emisií oproti statusu quo
     ndc:      "https://unfccc.int/sites/default/files/NDC/2022-09/ENDC%20Indonesia.pdf"
     ndc-date: 2022-09-23
     links:
@@ -207,7 +207,7 @@ items:
     flag:     "https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_the_United_Kingdom_(3-5).svg"
     share:    "1,0 %"
     netzero:  "2050"
-    pledge30: "najmenej o 68 % ročných emisií menej v porovnaní s 1990 (vrchol produkcie)"
+    pledge30: "−68 % (minimálne) ročných emisií v porovnaní s 1990 (vrchol produkcie)"
     ndc:      "https://unfccc.int/sites/default/files/NDC/2022-09/UK%20NDC%20ICTU%202022.pdf"
     ndc-date: 2022-09-22
     links:
@@ -217,12 +217,12 @@ items:
   - country:  "Ostatné krajiny s emisnými záväzkami"
     share:    "8,76 %"
 ---
-Prehľad zahŕňa Európsku úniu a všetky ostatné krajiny, ktorých podiel na celosvetových emisiách CO<sub>2</sub> prekročil 1 % v roku 2018.[^edgar] Záväzky čistej nuly v niektorých prípadoch znamenajú uhlíkovú neutralitu (zahŕňajúcu emisie CO<sub>2</sub>), v iných klimatickú neutralitu (zahŕňajúcu emisie všetkých <glossary id="antropogennesklenikoveplyny">skleníkových plynov</glossary>). Okrem národne stanovených príspevkov (_Nationally Determined Contributions_, NDCs) nájdete v odkazoch aj národné profily na webe [Climate Action Tracker](https://climateactiontracker.org/countries) (CAT) a ďalšie zdroje informácií. Záväzky sa neustále menia, preto sme pre prehľadnosť ku každému zdroju pridali dátum poslednej aktualizácie, ktorý sa zobrazí po nabehnutí na tlačidlo zdroja.
+Prehľad zahŕňa Európsku úniu a všetky ostatné krajiny, ktorých podiel na celosvetových emisiách CO<sub>2</sub> prekročil 1 % v roku 2018.[^edgar] Záväzky čistej nuly v niektorých prípadoch znamenajú uhlíkovú neutralitu (zahŕňajúcu emisie CO<sub>2</sub>), v iných klimatickú neutralitu (zahŕňajúcu emisie všetkých <glossary id="antropogennesklenikoveplyny">skleníkových plynov</glossary>). Okrem národne stanovených príspevkov (_Nationally Determined Contributions_, NDCs) nájdete v odkazoch aj národné profily na webe [Climate Action Tracker](https://climateactiontracker.org/countries) (CAT) a ďalšie zdroje informácií. Záväzky sa neustále menia, preto sme pre prehľadnosť ku každému zdroju pridali dátum poslednej aktualizácie, ktorý sa zobrazí po nabehnutí na ikonu zdroja.
 
 ### Poznámky
 
 [^edgar]: Zdrojom dát o emisiách je databáza EDGAR (Emission Database for Global Atmospheric Research, Emisná databáza pre globálny výskum atmosféry) prevádzkovaná Európskou agentúrou pre životné prostredie.
-[^podmieneny-ndc]: Podmienený záväzok Podmíněný závazek udává, o kolik by země byla schopná emise skleníkových plynů snížit, kdyby byly splněny další podmínky. Například Indonésie jako podmínky uvádí výši mezinárodní finanční podpory, transfer technologií a budování kapacit.
+[^podmieneny-ndc]: Podmienený záväzok stanovuje, ako veľmi by bola krajina schopná znížiť emisie, ak by boli splnené ďalšie podmienky.
 
 {% comment %}
   Verzia prehľadu pre menšie displeje: zoznam kartičiek pod sebou.
