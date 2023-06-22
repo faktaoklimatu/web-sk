@@ -143,6 +143,7 @@ subtopics:
     Podiel jednotlivých sektorov na emisiách <glossary id="antropogennesklenikoveplyny">skleníkových plynov</glossary> poskytuje užitočné vodítko pri zameriavaní <glossary id="mitigacia">mitigačných</glossary> snáh. Najväčšie emisné úspory na Slovensku môžeme dosiahnuť dekarbonizáciou priemyselných procesov. Ako jednotlivci však tiež môžeme prispieť k zníženiu emisií, napríklad **znížením energetickej náročnosti** svojich domácností, **obmedzením individuálnej automobilovej dopravy** alebo **menšou konzumáciou mäsa a mliečnych výrobkov**.
   content:  # U nového obsahu zvaž přidání také do dohody-legislativa>eu a ekonomika>opatreni.
   - spoplatnenie-emisii-svet
+  - 2021-resers-zavazky-statov
   - emisne-povolenky-ets
   - mitigacne-opatrenia-mmf
   - 2019-mitigacne-opatrenia-mmf
