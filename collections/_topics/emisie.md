@@ -27,6 +27,7 @@ subtopics:
   content:
   - emisne-scenare-pariz
   - spoplatnenie-emisii-svet
+  - 2021-resers-zavazky-statov
   - emisne-povolenky-ets
   - mitigacne-opatrenia-mmf
   - 2019-mitigacne-opatrenia-mmf
