@@ -34,7 +34,7 @@ items:
       - title:  CAT
         url:    "https://climateactiontracker.org/countries/usa"
         date:   2022-08-16
-  - country:  "EU 27"
+  - country:  "EÚ 27"
     flag:     "https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg"
     share:    "8,15 %"
     netzero:  "2050"
@@ -110,7 +110,7 @@ items:
     netzero:  "2060"
     pledge30: "−31,89 % ročných emisií oproti statu quo, koniec nelegálnej ťažby dreva"
     conditional: |
-      Podmienený záväzok stanovuje, ako veľmi by bola krajina schopná znížiť emisie skleníkových plynov, ak by boli splnené ďalšie podmienky. Napríklad Indonézia ako podmienky udáva výšku medzinárodnej finančnej podpory, transfer technológií a budovanie kapacít. 
+      Podmienený záväzok stanovuje, ako veľmi by bola krajina schopná znížiť emisie skleníkových plynov, ak by boli splnené ďalšie podmienky. Indonézia ako podmienky udáva výšku medzinárodnej finančnej podpory, transfer technológií a budovanie kapacít. 
     other: −43,20 % ročných emisií oproti statu quo
     ndc:      "https://unfccc.int/sites/default/files/NDC/2022-09/ENDC%20Indonesia.pdf"
     ndc-date: 2022-09-23
@@ -122,7 +122,7 @@ items:
     flag:     "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg"
     share:    "1,57 %"
     netzero:  "2060"
-    pledge30: "−278 Mt CO<sub>2</sub>eq oproti statu quo; odpovídá −19% až +24% změně emisí v porovnaní s 2019"
+    pledge30: "−278 Mt CO<sub>2</sub>eq oproti statusu quo; zodpovedá −19 % až +24 % zmene emisií v porovnaní s 2019"
     ndc:      "https://unfccc.int/sites/default/files/resource/202203111154---KSA%20NDC%202021.pdf"
     ndc-date: 2021-10-23
     links:
@@ -135,25 +135,27 @@ items:
     netzero:  "2050"
     pledge30: "−40 % až −45 % ročných emisií v porovnaní s 2005"
     ndc:      "https://unfccc.int/sites/default/files/NDC/2022-06/Canada%27s%20Enhanced%20NDC%20Submission1_FINAL%20EN.pdf"
-    ndc-date: 2021-07-21
+    ndc-date: 2021-07-12
     links:
       - title:  CAT
         url:    "https://climateactiontracker.org/countries/canada"
-        date:   2021-09-15
-      - title:  Prohlášení
+        date:   2022-12-20
+      - title:  Prehlásenie
         url:    "https://www.canada.ca/en/services/environment/weather/climatechange/climate-plan/net-zero-emissions-2050/canadian-net-zero-emissions-accountability-act.html"
-        date:   2021-02-25
+        date:   2022-03-29
   - country:  "Mexiko"
     flag:     "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg"
     share:    "1,33 %"
-    pledge30: "−22 % ročných emisií oproti statu quo"
-    other:    "−50 % ročných emisií v r. 2050 v porovnaní s 2000"
-    ndc:      "https://unfccc.int/sites/default/files/NDC/2022-06/NDC-Esp-30Dic.pdf"
-    ndc-date: 2020-12-30
+    pledge30: "−35 % ročných emisií skleníkových plynov a −51 % emisií čierneho uhlíka v porovnaní so statusom quo"
+    conditional: |
+      Podmienený záväzok stanovuje, ako veľmi by bola krajina schopná znížiť emisie, ak by boli splnené ďalšie podmienky. Mexiko ako podmienky udáva výšku medzinárodnej finančnej podpory, inovácie a transfer technológií a väčšie úsilie najväčších emitentov dodržiavať ciele Parížskej dohody.
+    other:    "−40 % emisií skleníkových plynov a −70 % emisií čierneho uhlíka"
+    ndc:      "https://unfccc.int/sites/default/files/NDC/2022-11/Mexico_NDC_UNFCCC_update2022_FINAL.pdf"
+    ndc-date: 2022-11-17
     links:
       - title:  CAT
         url:    "https://climateactiontracker.org/countries/mexico"
-        date:   2022-07-05
+        date:   2022-12-12
   - country:  "Brazília"
     flag:     "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg"
     share:    "1,27 %"
@@ -172,7 +174,7 @@ items:
     flag:     "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg"
     share:    "1,22 %"
     netzero:  "2050"
-    pledge30: "350 až 420 Mt CO<sub>2</sub>eq ročně v r. 2030; odpovídá přibližně −23% až −0,1% změně emisí v porovnaní s 2019"
+    pledge30: "350 – 420 Mt CO<sub>2</sub>eq v 2030; čo zodpovedá 12 – 32 % zníženiu v porovnaní s 2015" 
     ndc:      "https://unfccc.int/sites/default/files/NDC/2022-06/South%20Africa%20updated%20first%20NDC%20September%202021.pdf"
     ndc-date: 2021-09-27
     links:
@@ -183,13 +185,13 @@ items:
     flag:     "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg"
     share:    "1,12 %"
     netzero:  "2053"
-    pledge30: "−21 % ročných emisií oproti statu quo"
-    ndc:      "https://unfccc.int/sites/default/files/NDC/2022-06/The_INDC_of_TURKEY_v.15.19.30.pdf"
-    ndc-date: 2021-10-11
+    pledge30: "−41 % ročných emisií v porovnaní s 2012"
+    ndc:      "https://unfccc.int/sites/default/files/NDC/2023-04/T%C3%9CRK%C4%B0YE_UPDATED%201st%20NDC_EN.pdf"
+    ndc-date: 2023-04-13
     links:
       - title:  CAT
         url:    "https://climateactiontracker.org/countries/turkey/"
-        date:   2022-09-20
+        date:   2023-05-12
   - country:  "Austrália"
     flag:     "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg"
     share:    "1,08 %"
@@ -205,7 +207,7 @@ items:
     flag:     "https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_the_United_Kingdom_(3-5).svg"
     share:    "1,0 %"
     netzero:  "2050"
-    pledge30: "−68 % ročných emisií v porovnaní s 1990 (vrchol produkcie)"
+    pledge30: "najmenej o 68 % ročných emisií menej v porovnaní s 1990 (vrchol produkcie)"
     ndc:      "https://unfccc.int/sites/default/files/NDC/2022-09/UK%20NDC%20ICTU%202022.pdf"
     ndc-date: 2022-09-22
     links:
