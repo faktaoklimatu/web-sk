@@ -219,11 +219,6 @@ items:
 ---
 Prehľad zahŕňa Európsku úniu a všetky krajiny, ktorých podiel na celosvetových emisiách CO<sub>2</sub> prekročil 1 % v roku 2018.[^edgar] Záväzky čistej nuly v niektorých prípadoch znamenajú uhlíkovú neutralitu (zahŕňajúcu emisie CO<sub>2</sub>), v iných klimatickú neutralitu (zahŕňajúcu emisie všetkých <glossary id="antropogennesklenikoveplyny">skleníkových plynov</glossary>). Okrem národne stanovených príspevkov (_Nationally Determined Contributions_, NDCs) nájdete v odkazoch aj národné profily na webe [Climate Action Tracker](https://climateactiontracker.org/countries) (CAT) a ďalšie zdroje informácií. Záväzky sa neustále menia, preto sme pre prehľadnosť ku každému zdroju pridali dátum poslednej aktualizácie, ktorý sa zobrazí po nabehnutí na ikonu zdroja.
 
-### Poznámky
-
-[^edgar]: Zdrojom dát o emisiách je databáza EDGAR (Emission Database for Global Atmospheric Research, Emisná databáza pre globálny výskum atmosféry) prevádzkovaná Európskou agentúrou pre životné prostredie.
-[^podmieneny-ndc]: Podmienený záväzok stanovuje, ako veľmi by bola krajina schopná znížiť emisie, ak by boli splnené ďalšie podmienky.
-
 {% comment %}
   Verzia prehľadu pre menšie displeje: zoznam kartičiek pod sebou.
 {% endcomment -%}
@@ -309,3 +304,8 @@ Prehľad zahŕňa Európsku úniu a všetky krajiny, ktorých podiel na celosvet
     {% endfor %}
   </tbody>
 </table>
+
+### Poznámky
+
+[^edgar]: Zdrojom dát o emisiách je databáza EDGAR (Emission Database for Global Atmospheric Research, Emisná databáza pre globálny výskum atmosféry) prevádzkovaná Európskou agentúrou pre životné prostredie.
+[^podmieneny-ndc]: Podmienený záväzok stanovuje, ako veľmi by bola krajina schopná znížiť emisie, ak by boli splnené ďalšie podmienky.
