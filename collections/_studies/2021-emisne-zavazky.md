@@ -308,4 +308,3 @@ Prehľad zahŕňa Európsku úniu a všetky krajiny, ktorých podiel na celosvet
 ### Poznámky
 
 [^edgar]: Zdrojom dát o emisiách je databáza EDGAR (Emission Database for Global Atmospheric Research, Emisná databáza pre globálny výskum atmosféry) prevádzkovaná Európskou agentúrou pre životné prostredie.
-[^podmieneny-ndc]: Podmienený záväzok stanovuje, ako veľmi by bola krajina schopná znížiť emisie, ak by boli splnené ďalšie podmienky.
