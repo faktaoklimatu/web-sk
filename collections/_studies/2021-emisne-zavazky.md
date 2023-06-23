@@ -217,6 +217,7 @@ items:
   - country:  "Ostatné krajiny s emisnými záväzkami"
     share:    "8,76 %"
 ---
+{:.narrow-text}
 Prehľad zahŕňa Európsku úniu a všetky krajiny, ktorých podiel na celosvetových emisiách CO<sub>2</sub> prekročil 1 % v roku 2018.[^edgar] Záväzky čistej nuly v niektorých prípadoch znamenajú uhlíkovú neutralitu (zahŕňajúcu emisie CO<sub>2</sub>), v iných klimatickú neutralitu (zahŕňajúcu emisie všetkých <glossary id="antropogennesklenikoveplyny">skleníkových plynov</glossary>). Okrem národne stanovených príspevkov (_Nationally Determined Contributions_, NDCs) nájdete v odkazoch aj národné profily na webe [Climate Action Tracker](https://climateactiontracker.org/countries) (CAT) a ďalšie zdroje informácií. Záväzky sa neustále menia, preto sme pre prehľadnosť ku každému zdroju pridali dátum poslednej aktualizácie, ktorý sa zobrazí po nabehnutí na ikonu zdroja.
 
 {% comment %}
