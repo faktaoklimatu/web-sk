@@ -16,7 +16,7 @@ items:
     flag:     "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People's_Republic_of_China.svg"
     share:    "29,95 %"
     netzero:  "2060"
-    pledge30: "−65 % emisií na jednotku HDP oproti 2005"
+    pledge30: "−65 % emisií na jednotku HDP v porovnaní 2005"
     ndc:      "https://unfccc.int/sites/default/files/NDC/2022-06/China%E2%80%99s%20Achievements%2C%20New%20Goals%20and%20New%20Measures%20for%20Nationally%20Determined%20Contributions.pdf"
     ndc-date: 2021-10-28
     links:
@@ -174,7 +174,7 @@ items:
     flag:     "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg"
     share:    "1,22 %"
     netzero:  "2050"
-    pledge30: "350 – 420 Mt CO<sub>2</sub>eq v 2030; čo zodpovedá 12 – 32 % zníženiu v porovnaní s 2015" 
+    pledge30: "350 – 420 Mt CO<sub>2</sub>eq v 2030; čo zodpovedá 18 – 31 % zníženiu v porovnaní s 2010" 
     ndc:      "https://unfccc.int/sites/default/files/NDC/2022-06/South%20Africa%20updated%20first%20NDC%20September%202021.pdf"
     ndc-date: 2021-09-27
     links:
@@ -217,7 +217,7 @@ items:
   - country:  "Ostatné krajiny s emisnými záväzkami"
     share:    "8,76 %"
 ---
-Prehľad zahŕňa Európsku úniu a všetky ostatné krajiny, ktorých podiel na celosvetových emisiách CO<sub>2</sub> prekročil 1 % v roku 2018.[^edgar] Záväzky čistej nuly v niektorých prípadoch znamenajú uhlíkovú neutralitu (zahŕňajúcu emisie CO<sub>2</sub>), v iných klimatickú neutralitu (zahŕňajúcu emisie všetkých <glossary id="antropogennesklenikoveplyny">skleníkových plynov</glossary>). Okrem národne stanovených príspevkov (_Nationally Determined Contributions_, NDCs) nájdete v odkazoch aj národné profily na webe [Climate Action Tracker](https://climateactiontracker.org/countries) (CAT) a ďalšie zdroje informácií. Záväzky sa neustále menia, preto sme pre prehľadnosť ku každému zdroju pridali dátum poslednej aktualizácie, ktorý sa zobrazí po nabehnutí na ikonu zdroja.
+Prehľad zahŕňa Európsku úniu a všetky krajiny, ktorých podiel na celosvetových emisiách CO<sub>2</sub> prekročil 1 % v roku 2018.[^edgar] Záväzky čistej nuly v niektorých prípadoch znamenajú uhlíkovú neutralitu (zahŕňajúcu emisie CO<sub>2</sub>), v iných klimatickú neutralitu (zahŕňajúcu emisie všetkých <glossary id="antropogennesklenikoveplyny">skleníkových plynov</glossary>). Okrem národne stanovených príspevkov (_Nationally Determined Contributions_, NDCs) nájdete v odkazoch aj národné profily na webe [Climate Action Tracker](https://climateactiontracker.org/countries) (CAT) a ďalšie zdroje informácií. Záväzky sa neustále menia, preto sme pre prehľadnosť ku každému zdroju pridali dátum poslednej aktualizácie, ktorý sa zobrazí po nabehnutí na ikonu zdroja.
 
 ### Poznámky
 
