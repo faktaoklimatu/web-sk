@@ -129,15 +129,17 @@ subtopics:
     **Množstvo emisií, ktoré je ešte možné vypustiť, aby sme neprekročili určitú teplotnú hranicu, sa označuje ako uhlíkový rozpočet**. Cieľ Parížskej dohody o udržaní nárastu teploty výrazne pod 2 °C je teda možné pomocou uhlíkového rozpočtu preformulovať na určité množstvo skleníkových plynov, ktoré môžeme ako ľudstvo vypustiť, aby sme tento cieľ dosiahli.
   content:
   - emisne-scenare-pariz
-  - koncept-uhlikovy-rozpocet
-  - koncept-cesty-k-neutralite
+  - suvislost-koncentracie-oteplenie
   - 1979-charneyho-sprava
 
-# TODO: Ukázat tuto sekci, až budou nějaké infografiky.
-# - id:          "neutralita"
-#   title:       "Klimatická neutralita"
-#   lead: |
-#     **Na zastavenie klimatickej zmeny je nutné prestať vypúšťať skleníkové plyny**, čiže dosiahnuť tzv. *net-zero*, respektíve klimatickú neutralitu. Výraz *net-zero* môžeme preložiť ako "čistá nula" a myslí sa tým to, že daný štát či firma sú klimaticky neutrálne, čo znamená, že odstraňujú z atmosféry toľko skleníkových plynov, koľko sami vypustia. Táto situácia je tiež označovaná ako klimatická neutralita alebo uhlíková neutralita (tento pojem sa však väčšinou týka iba oxidu uhličitého, nie všetkých <glossary id="antropogennesklenikoveplyny">skleníkových plynov</glossary>). **K cieľu dosiahnuť uhlíkovú neutralitu sa už prihlásili štáty zodpovedné za takmer 90 % svetových emisií oxicu uhličitého** (k februáru 2022).
+- id:          "neutralita"
+  title:       "Klimatická neutralita"
+  lead: |
+    **Na zastavenie klimatickej zmeny je nutné prestať vypúšťať skleníkové plyny**, čiže dosiahnuť tzv. *net-zero*, respektíve klimatickú neutralitu. Výraz *net-zero* môžeme preložiť ako "čistá nula" a myslí sa tým to, že daný štát či firma sú klimaticky neutrálne, čo znamená, že odstraňujú z atmosféry toľko skleníkových plynov, koľko sami vypustia. Táto situácia je tiež označovaná ako klimatická neutralita alebo uhlíková neutralita (tento pojem sa však väčšinou týka iba oxidu uhličitého, nie všetkých <glossary id="antropogennesklenikoveplyny">skleníkových plynov</glossary>). **K cieľu dosiahnuť uhlíkovú neutralitu sa už prihlásili štáty zodpovedné za takmer 90 % svetových emisií oxicu uhličitého** (k februáru 2022).
+  content:
+  - koncept-uhlikovy-rozpocet
+  - koncept-cesty-k-neutralite
+  - technologie-dekarbonizacie-priemyslu
 
 - id:          "mitigacia"
   title:       "Opatrenia na znižovanie emisií"
