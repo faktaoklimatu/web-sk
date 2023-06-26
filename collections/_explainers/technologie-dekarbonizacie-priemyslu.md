@@ -126,80 +126,79 @@ Zachytávanie CO<sub>2</sub> aj využitie vodíka sú v súčasnosti nákladné 
 
 Pokiaľ dôjde k zníženiu nákladov a k vybudovaniu súvisiacej infraštruktúry, **výrazne to pomôže pri dekarbonizácii priemyslu**. Na druhú stranu existuje aj riziko, že táto infraštruktúra nebude vznikať dostatočne rýchlo alebo že úspory z rozsahu budú obmedzené a vodík aj CCS zostanú ekonomicky nedostupné.
 
-### Elektrifikace
+### Elektrifikácia
 
 {% include lead-in-figure.html
     name="elektrifikace-animated.svg"
     class="leadin-figure-small"
-    alt="Piktogram elektrifikace"
+    alt="Piktogram elektrifikácie"
 %}
 
-Spalování v průmyslu lze částečně nahradit i využitím elektřiny – k **dodání potřebného tepla**. Toto řešení je nicméně vhodné spíše u nižších teplot, například v papírenském průmyslu, kde obvykle stačí teploty v rozmezí 50–250 °C.[^250]
+Spaľovanie v priemysle je možné čiastočne nahradiť aj využitím elektriny – na **dodanie potrebného tepla**. Toto riešenie je však vhodné skôr pri nižších teplotách, napríklad v papierenskom priemysle, kde obvykle stačia teploty v rozmedzí 50 – 250 °C.[^250]
 
-V některých odvětvích ovšem výroba vyžaduje tak vysoké teploty, že je zde elektrifikace technicky velmi složitá a zároveň značně neekonomická. Typickým příkladem je cement, při jehož produkci je zapotřebí dosáhnout teplot v rozmezí 1300–1450 °C.[^1450] V takových případech je ke zvážení varianta v podobě hybridního zařízení, které k dosažení uvedených teplot využívá elektřinu a (například) zemní plyn. Takovéto hybridní pece najdou uplatnění třeba ve sklářském průmyslu.[^hybrid]
+V niektorých odvetviach však výroba vyžaduje také vysoké teploty, že je tu elektrifikácia technicky veľmi zložitá a zároveň značne neekonomická. Typickým príkladom je cement, pri ktorého produkcii je potrebné dosiahnuť teploty v rozmedzí 1300 – 1450 °C.[^1450] V takýchto prípadoch prichádza do úvahy použitie hybridného zariadenia, ktoré na dosiahnutie uvedených teplôt využíva elektrinu a (napríklad) zemný plyn. Takéto hybridné pece nachádzajú uplatnenie napríklad v sklárskom priemysle[^hybrid].
 
-**U elektřiny zároveň záleží na její emisní intenzitě**. Pokud je vyrobena z fosilních paliv, nemusí náhrada těchto paliv v rámci spalování v průmyslu vycházet emisně lépe. Dojde-li naopak k rozvoji nízkoemisních zdrojů elektřiny, bude tento problém vyřešen a **elektrifikace může ke snižování průmyslových emisí významně přispět**.
+**Pri elektrine zároveň záleží na jej emisnej intenzite**. Pokiaľ je vyrobená z fosílnych palív, nemusí vychádzať nahradenie týchto palív pri priemyselnom spaľovaní z hľadiska emisií lepšie. V prípade, že dôjde k rozvoju nízkoemisných zdrojov elektriny, tento problém sa vyrieši a **elektrifikácia môže k znižovaniu priemyselných emisií významne prispieť**.
 
-## Doplňkové metody
+## Doplnkové metódy
 
-Mezi ně patří: recyklace, využívání biomasy a odpadů k vytápění, různé náhrady surovin či využívání alternativních produktů a také úspory díky zvyšující se efektivitě.
+Patrí medzi ne recyklácia, využívanie biomasy a odpadov na vykurovanie, rôzne náhrady surovín alebo využívanie alternatívnych produktov, ako aj úspory vďaka zvýšujúcej sa efektivite.
 
-Vědecký a technologický pokrok může do určité míry v rámci dekarbonizace průmyslu rovněž pomoci – je například možné, že budou objeveny nové, efektivnější technologie či postupy. Nicméně spoléhat na to příliš nelze. U průmyslových odvětví, kde je dekarbonizace největším oříškem, probíhá takový výzkum a vývoj už mnoho let. Nové technologie a postupy tak budou mít spíše podobu **drobných zlepšení**, pravděpodobnost radikálních změn není velká.
+Pri dekarbonizácii priemyslu môže do určitej miery pomôcť aj vedecký a technologický pokrok – môžu sa napríklad objaviť nové, účinnejšie technológie alebo postupy. Na to sa však nemožno príliš spoliehať. V priemyselných odvetviach, v ktorých je dekarbonizácia najväčšou výzvou, takýto výskum a vývoj prebieha už mnoho rokov.  Nové technológie a postupy tak budú mať skôr podobu **drobných zlepšení** a pravdepodobnosť radikálnych zmien nie je veľká.
 
-### Recyklace
+### Recyklácia
 
 {% include lead-in-figure.html
     name="recyklace.svg"
     class="leadin-figure-small"
-    alt="Piktogram recyklace"
+    alt="Piktogram recyklácie"
 %}
 
-V mnoha průmyslových odvětvích se v současnosti už využívá relativně vysoká míra recyklace, alespoň v rozvinutých zemích. Například u hliníku dosahuje v EU recyklace 76,3 %.[^76] Takže i když v některých sektorech[^recyklace-stavebnictvi] ještě určité snížení emisí díky recyklaci možné je, prostor pro další výrazný posun v tomto směru je často už omezený. Navíc recyklaci mnohdy paradoxně limituje také dlouhá životnost některých produktů (platí třeba u výrobků z oceli).
+V mnohých priemyselných odvetviach sa v súčasnosti už využíva relatívne vysoká miera recyklácie, aspoň v rozvinutých krajinách. Napríklad v prípade hliníka dosahuje v EÚ recyklácia 76,3 %.[^76] Takže aj keď v niektorých sektoroch[^recyklacia-stavebnictvo] ešte určité zníženie emisií vďaka recyklácii možné je, priestor pre ďalší výrazný posun v tomto smere je často už obmedzený. Navyše recykláciu často paradoxne limituje aj dlhá životnosť niektorých produktov (platí napríklad pri výrobkoch z ocele).
 
-Kromě toho recyklovaný materiál může být náročnější na zpracování nebo má omezenou využitelnost, někde se tedy jeho sběr a znovupoužití zatím ekonomicky nebo dokonce ani emisně nevyplácí.
+Okrem toho recyklovaný materiál môže byť náročnejší na spracovanie alebo má obmedzenú využiteľnosť, niekde sa teda jeho zber a znovupoužitie zatiaľ ekonomicky alebo dokonca ani emisne nevypláca.
 
-### Využití odpadů a biomasy jako paliv
+### Využitie odpadov a biomasy ako palív
 
 {% include lead-in-figure.html
     name="spalovani-odpadu.svg"
     class="leadin-figure-small"
-    alt="Piktogram využití odpadu a biomasy jako paliv"
+    alt="Piktogram využitia odpadu a biomasy ako palív"
 %}
+V súčasnej dobe už funguje mnoho podnikov, ktoré čiastočne využívajú odpad alebo biomasu, takže ani tu často nie je veľký priestor na zlepšenie. V konkrétnych prípadoch niektorých prevádzok (napr. u cementární) môže byť takýto postup výhodný ekonomicky aj pre prírodu, ale zďaleka ho nemožno uplatniť všade. Po prvé, nie je to technicky možné a po druhé, skutočne veľký prechod by čoskoro viedol k problému **nedostatku vhodného odpadu a environmentálne udržateľnej biomasy**. Okrem toho veľká časť uhlíka v spaľovanom odpade (vo forme takzvaných _tuhých alternatívnych palív_) je fosílneho pôvodu, takže jeho využívanie neprináša výrazné zníženie emisií.[^tap] Navyše ani spaľovanie biomasy nemusí mať takú nízku uhlíkovú stopu, ako sa často prezentuje.[^biomasa]
 
-V současné době už funguje mnoho podniků, které odpady nebo biomasu zčásti využívají, ani zde tedy často nebývá prostoru k dalšímu zlepšení mnoho. V konkrétních případech některých provozů (např. u cementáren) může být takový postup výhodný ekonomicky i pro přírodu, ale zdaleka jej nelze uplatnit všude. Jednak to není technicky možné a jednak by při opravdu velkém přechodu brzy došlo k problému s **nedostatkem vhodného odpadu i environmentálně udržitelné biomasy**. Ve spalovaném odpadu (v podobě tzv. _tuhých alternativních paliv_) je navíc velká část uhlíku fosilního původu, takže jeho využití významné snížení emisí nepřináší.[^tap] Kromě toho ani spalování biomasy nemusí mít tak nízkou uhlíkovou stopu, jak se často prezentuje.[^biomasa]
-
-### Náhrada surovin či produktu šetrnější alternativou
+### Náhrada surovín či produktu šetrnejšou alternatívou
 
 {% include lead-in-figure.html
     name="nahrada-surovin.svg"
     class="leadin-figure-small"
-    alt="Piktogram náhrady používaných surovin"
+    alt="Piktogram náhrady používaných surovín"
 %}
 
 {: .mt-md-5}
-O nahrazování jednotlivých částí výrobního řetězce se dá uvažovat zejména ve dvou rovinách:
+O nahradení jednotlivých častí výrobného reťazca sa dá uvažovať najmä v dvoch rovinách:
 
 {: .mt-md-4}
-- **Substituce vstupních surovin, z nichž vyrábíme.** Plasty nemusí být z ropných produktů, ale z biomasy; slínek (důležitý meziprodukt při výrobě cementu) lze zčásti nahradit odpadními materiály z jiných odvětví a podobně.
-- **Použití alternativy za výsledný produkt.** Místo betonu a oceli je možné ve stavebnictví více využívat dřevo, plastové obaly se leckde dají nahradit skleněnými nebo papírovými.
+- **Substitúcia vstupných surovín, z ktorých vyrábame.** Plasty nemusia byť z ropných produktov, ale z biomasy; slinok (dôležitý medziprodukt pri výrobe cementu) je možné sčasti nahradiť odpadovými materiálmi z iných odvetví a podobne.
+- **Použitie alternatívy za výsledný produkt.** Namiesto betónu a ocele sa v stavebníctve môže viac používať drevo a plastové obaly sa môžu na mnohých miestach nahradiť sklom alebo papierom.
 
-Nahrazování primárních zdrojů je považováno za součást možných řešení, pomůže ale jen s relativně malým procentem emisí nebo s ním jsou spojeny další problémy (např. jiné vlastnosti hotového výrobku). **Ve většině případů se alternativy základní vstupní suroviny nebo jiný katalyzátor reakce hledají jen velmi obtížně.** Třeba cement, jak jej známe dnes, nelze vyrobit bez vápence.
+Nahradenie primárnych zdrojov je považované za súčasť možných riešení, ale pomôže len pri relatívne malom percente emisií alebo je spojené s inými problémami (napr. odlišné vlastnosti konečného výrobku). **Vo väčšine prípadov sa alternatívy k základnej surovine alebo k reakčnému katalyzátoru hľadajú veľmi ťažko.** Napríklad cement, ako ho poznáme dnes, sa nedá vyrobiť bez vápenca.
 
-**Při úvahách o alternativě výsledného produktu** (typicky za plasty), **bývá často jedinou možnou náhražkou produkt z jiného průmyslového sektoru, který je také potřeba dekarbonizovat**. U nahrazování přírodními alternativami (ať už jde o surovinu nebo produkt) je opět nutné vzít v úvahu, že kvalitního dřeva a jiné biomasy není a nebude k dispozici neomezené množství.
+**Pri úvahách o alternatíve konečného produktu** (typicky plasty) **býva jedinou možnou náhradou často výrobok z iného priemyselného odvetvia, ktoré je tiež potrebné dekarbonizovať**. Pri náhrade prírodnými alternatívami (či už ide o surovinu alebo výrobok) je zase potrebné vziať do úvahy, že množstvo nie je a nebude neobmedzené či už v prípade kvalitného dreva, alebo inej biomasy.
 
-### Zvyšování efektivity a provozní úspory
+### Zvyšovanie efektivity a prevádzkové úspory
 
 {% include lead-in-figure.html
     name="zvysovani-efektivity.svg"
     class="leadin-figure-small"
-    alt="Piktogram zvyšování efektivity"
+    alt="Piktogram zvyšovania efektivity"
 %}
 
 Z hlediska zvyšování efektivity a maximálních provozních úspor už mnoho průmyslových odvětví došlo daleko. Každý další krok ke zvýšení efektivity tak znamená mnohem menší zlepšení než dříve. V minulosti nebyla snaha o optimalizaci postupů v průmyslu motivována snahou dekarbonizovat, často šlo spíše o úspory z ekonomických důvodů. Přesto stále určitý prostor pro další optimalizaci v průmyslu existuje, zejména v globálním měřítku (velké rozdíly jsou například mezi průmyslem v západní Evropě a v Číně).
 
 ## Pomohlo by, kdyby lidé snížili svou spotřebu?
 
-V souvislosti s dekarbonizací a transformaci průmyslu se často objevují také otázky ohledně celkového snižování spotřeby. Vzhledem ke stále rostoucí a urbanizující se světové populaci a fungování systému, který je založen na ekonomickém růstu[^nerust], jsou **rozsáhlejší úspory ve spotřebě v nejbližších dekádách nepravděpodobné**. Naopak **v klíčových průmyslových odvětvích očekáváme zvýšení globální poptávky** až o desítky procent (platí například pro ocel, cement, hliník či amoniak).[^poptavka]
+V souvislosti s dekarbonizací a transformaci průmyslu se často objevují také otázky ohledně celkového snižování spotřeby. Vzhledem ke stále rostoucí a urbanizující se světové populaci a fungování systému, který je založen na ekonomickém růstu[^nerast], jsou **rozsáhlejší úspory ve spotřebě v nejbližších dekádách nepravděpodobné**. Naopak **v klíčových průmyslových odvětvích očekáváme zvýšení globální poptávky** až o desítky procent (platí například pro ocel, cement, hliník či amoniak).[^dopyt]
 
 Dále lze v souvislosti s dekarbonizací průmyslu uvažovat o **zavedení principů [cirkulární ekonomiky](https://www.incien.sk/wp-content/uploads/2023/03/Cirkularne-Slovensko-2022-final.pdf)**. Zatímco v tradičním (lineárním) ekonomickém modelu se produkt vyrobí, použije a nakonec vyhodí jako odpad, v cirkulární ekonomice jde o to pracovat se zdroji a materiály co nejefektivněji a co nejvíce je recyklovat a znovu využívat. Nejde jen o zlepšení už zmíněného procesu recyklace, ale i o snahu navrhnout produkt tak, aby vydržel déle, aby se dal používat opakovaně, případně zavést systémy umožňující sdílené využívání produktů (např. aut či kol), které přispívají k tomu, že se vyrábí méně. Jinými slovy: **využití cirkulárních principů má za cíl minimalizovat odpad, snížit tlak na omezené zdroje a vytvořit udržitelnější a odolnější ekonomiku**. Tento přístup postupně získává na popularitě, mimo jiné díky tomu, že umožňuje také snížit náklady na zdroje a energii, redukovat emise skleníkových plynů a má řadu ekonomických i sociálních přínosů. Jeho hlavní uplatnění je ovšem spíše v segmentu koncových produktů (například u oblečení, osobních automobilů nebo ve stavebnictví) – daleko těžší je využít tyto principy přímo u výroby základních průmyslových surovin, například při výrobě oceli (kde je už dnes míra recyklace velmi vysoká). Koncept cirkulární ekonomiky tedy může být při snižování poptávky po základních průmyslových surovinách užitečný, ale má své limity.[^cirkularita]
 
@@ -234,11 +233,11 @@ Protože nelze čekat výrazný pokles poptávky po základních typech průmysl
 [^1450]: Takto vysoké teploty jsou nutné pro [tvorbu slínku](https://www.ametek-land.com/-/media/ameteklandinstruments/documentation/industries/cementlime/ametek_land_application_note_temperature_measurement_in_cement_manufacturing_rev1.pdf).
 [^hybrid]: Nejnovější pece ve vývoji [používají 80 % elektřiny a 20 % zemního plynu](https://www.britglass.org.uk/sites/default/files/British%20Glass%20-%20Net%20Zero%20Strategy.pdf).
 [^76]: Jedná se například o [recyklaci plechovek, ale i průmyslově využitého hliníku](https://www.csis.org/analysis/decarbonizing-aluminum-rolling-out-more-sustainable-sector).
-[^recyklace-stavebnictvi]: Velké rezervy jsou například v sektoru stavebnictví, který v EU produkuje [skoro 40 % odpadu](https://ec.europa.eu/eurostat/databrowser/view/env_wasgen/default/table?lang=en).
+[^recyklacia-stavebnictvo]: Velké rezervy jsou například v sektoru stavebnictví, který v EU produkuje [skoro 40 % odpadu](https://ec.europa.eu/eurostat/databrowser/view/env_wasgen/default/table?lang=en).
 [^tap]: Kromě cementářství je o tuhá alternativní paliva [dnes v Česku zájem](https://www.ekonews.cz/z-odpadu-je-zadane-palivo-pere-se-o-nej-kdekdo-zajem-maji-i-teplarny-a-elektrarny/) i ze strany tepláren a elektráren.
 [^biomasa]: Jedním z problémů při rozsáhlém získávání biomasy může být [vyčerpávání půdních zásob uhlíku či organického humusu](https://www.mdpi.com/1996-1073/15/24/9619).
-[^nerust]: Lze tak zaznamenat kritické hlasy [nerůstového hnutí](https://cs.wikipedia.org/wiki/Ner%C5%AFst), které poukazují na obtížnost či přímo nemožnost zkombinovat ekonomický růst s výrazným poklesem spotřeby a nutnost hledat nový ekonomický model. Oproti tomu Zelená dohoda pro Evropu (Green Deal) je založena na myšlence environmentálního a ekonomického [*decouplingu*](https://www.europarl.europa.eu/RegData/etudes/ATAG/2020/651916/EPRS_ATA(2020)651916_EN.pdf), což znamená, že ekonomický růst jako cíl zůstává, je však oddělen od zvyšování spotřeby (díky zlepšování efektivity či zavádění nových technologií).
-[^poptavka]: Největší růst se může týkat [Číny, Indie, zemí jihovýchodní Asie a Afriky](https://www3.weforum.org/docs/WEF_NetZero_Industry_Tracker_2022_Edition.pdf).
+[^nerast]: Lze tak zaznamenat kritické hlasy [nerůstového hnutí](https://cs.wikipedia.org/wiki/Ner%C5%AFst), které poukazují na obtížnost či přímo nemožnost zkombinovat ekonomický růst s výrazným poklesem spotřeby a nutnost hledat nový ekonomický model. Oproti tomu Zelená dohoda pro Evropu (Green Deal) je založena na myšlence environmentálního a ekonomického [*decouplingu*](https://www.europarl.europa.eu/RegData/etudes/ATAG/2020/651916/EPRS_ATA(2020)651916_EN.pdf), což znamená, že ekonomický růst jako cíl zůstává, je však oddělen od zvyšování spotřeby (díky zlepšování efektivity či zavádění nových technologií).
+[^dopyt]: Největší růst se může týkat [Číny, Indie, zemí jihovýchodní Asie a Afriky](https://www3.weforum.org/docs/WEF_NetZero_Industry_Tracker_2022_Edition.pdf).
 [^cirkularita]: [Mezi další problémy, které mohou stát v cestě většímu rozšíření principů cirkulární ekonomiky, patří například neochota měnit své chování či dosud používané postupy (jak u firem, tak u běžných spotřebitelů)](https://hbr.org/2021/06/the-limits-of-the-sustainable-economy).
 [^plan]: [Průmyslový plán Zelené dohody](https://ec.europa.eu/commission/presscorner/detail/cs/ip_23_510) má za cíl podpořit výrobu a rozvoj zelených technologií v EU.
 [^cbam]: Mechanismus CBAM ovšem řeší jen import do EU. Nepodporuje export mimo EU a tak nedokáže zajistit konkurenceschopnost (dražších dekarbonizovaných) evropských surovin mimo Evropu.
