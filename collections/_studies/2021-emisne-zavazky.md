@@ -146,10 +146,10 @@ items:
   - country:  "Mexiko"
     flag:     "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg"
     share:    "1,33 %"
-    pledge30: "−35 % ročných emisií skleníkových plynov a −51 % emisií čierneho uhlíka v porovnaní so statusom quo"
+    pledge30: "−35 % ročných emisií"
     conditional: |
       Podmienený záväzok stanovuje, ako veľmi by bola krajina schopná znížiť emisie, ak by boli splnené ďalšie podmienky. Mexiko ako podmienky udáva výšku medzinárodnej finančnej podpory, inovácie a transfer technológií a väčšie úsilie najväčších emitentov dodržiavať ciele Parížskej dohody.
-    other:    "−40 % emisií skleníkových plynov a −70 % emisií čierneho uhlíka"
+    other:    "−40 % ročných emisií"
     ndc:      "https://unfccc.int/sites/default/files/NDC/2022-11/Mexico_NDC_UNFCCC_update2022_FINAL.pdf"
     ndc-date: 2022-11-17
     links:
@@ -271,7 +271,7 @@ Prehľad zahŕňa Európsku úniu a všetky krajiny, ktorých podiel na celosvet
       <th scope="col" class="text-uppercase align-middle">Net-zero</th>
       <th scope="col" class="text-uppercase align-middle">Záväzok 2030</th>
       <th scope="col" class="text-uppercase align-middle">Ostatné záväzky</th>
-      <th scope="col" class="text-uppercase align-middle text-center">Odkazy</th>
+      <th scope="col" class="text-uppercase align-middle">Odkazy</th>
     </tr>
   </thead>
   <tbody>
