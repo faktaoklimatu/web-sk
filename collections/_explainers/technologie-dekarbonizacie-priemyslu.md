@@ -4,13 +4,13 @@ title:       "Aké sú technológie dekarbonizácie priemyslu?"
 slug:        "technologie-dekarbonizacie-priemyslu"
 published:   2023-06-26
 authors:
-  - id: "adam-bilek"
-  - id: "jirka-lnenicka"
+  - id: ["adam-bilek"]
+  - id: ["jirka-lnenicka"]
     minor-role: "editácia"
-  - id: "marcel-otruba"
+  - id: ["marcel-otruba"]
     minor-role: "ilustrácie"
-  - id: ["Viera Minarovičová, Lenka Sedlačková"]
-    minor-role: "preklad"
+  - id: ["Lenka Sedlačková, Viera Minarovičová"]
+    minor-role: "slovenský obsah"
 weight:      74
 tags-scopes: [  ]
 tags-topics: [  ]
@@ -87,9 +87,9 @@ Projekty zachytávania CO<sub>2</sub> často cielia na **zachytenie 90 % emisií
     alt="Piktogram využitia vodíka"
 %}
 
-**Môže nahradiť fosílne palivá**, ktoré sa v priemysle spaľujú kvôli dodaniu tepla. Jeho použitie je vhodné najmä v situáciách, kedy je nutné dosiahnuť veľmi vysokých teplôt (napr. pri výrobe železa to je okolo 1500 °C[^1500]). Zároveň môže v niektorých prípadoch slúžiť ako **náhrada vstupných surovín**, ktoré sa používajú pri chemických reakciách počas priemyselných procesov – napr. pri výrobe amoniaku by sa mohol používať zelený vodík namiesto vodíka produkovaného pomocou fosílnych palív alebo ako náhrada koksu pri redukcii železnej rudy.
+**Môže nahradiť fosílne palivá**, ktoré sa v priemysle spaľujú kvôli dodaniu tepla. Jeho použitie je vhodné najmä v situáciách, kedy je nutné dosiahnuť veľmi vysokých teplôt (napr. pri výrobe železa to je okolo 1500 °C[^1450] alebo viac). Zároveň môže v niektorých prípadoch slúžiť ako **náhrada vstupných surovín**, ktoré sa používajú pri chemických reakciách počas priemyselných procesov – napr. pri výrobe amoniaku by sa mohol používať zelený vodík namiesto vodíka produkovaného pomocou fosílnych palív alebo ako náhrada koksu pri redukcii železnej rudy.
 
-Dá sa preto očakávať, že zelený vodík bude pri dekarbonizácii priemyslu zohrávať kľúčovú úlohu. Miera jeho využitia bude však značne závislá od vývoja jeho ceny – tá je zatiaľ príliš vysoká. Platí to obzvlášť v porovnaní s cenou fosílnych palív, ktoré môže zelený vodík nahrádzať.
+Dá sa preto očakávať, že zelený vodík bude pri dekarbonizácii priemyslu zohrávať kľúčovú úlohu. Miera jeho využitia bude však značne závislá od vývoja jeho ceny – tá je zatiaľ príliš vysoká. Platí to obzvlášť v porovnaní s cenou fosílnych palív, ktoré môže zelený vodík nahradiť.
 
 V súčasnosti sa celosvetovo **95 % vodíku na priemyselné využitie vyrába zo zemného plynu**,[^plyn] o jeho nízkej emisnej intenzite teda zatiaľ nemožno hovoriť. To by sa však mohlo zmeniť, ak sa vodík bude vyrábať vo veľkom meradle s využitím obnoviteľnej elektrickej energie. Takýto vodík sa nazýva **zelený** a **považuje sa za jednu z hlavných metód dekarbonizácie priemyslu**. Treba však dodať, že na dekarbonizáciu priemyslu touto cestou by bolo potrebné obrovské množstvo zeleného vodíka, čo by si vyžadovalo naozaj výrazné zvýšenie výroby elektriny z obnoviteľných zdrojov.[^vodik]
 
@@ -136,7 +136,7 @@ Pokiaľ dôjde k zníženiu nákladov a k vybudovaniu súvisiacej infraštruktú
 
 Spaľovanie v priemysle je možné čiastočne nahradiť aj využitím elektriny – na **dodanie potrebného tepla**. Toto riešenie je však vhodné skôr pri nižších teplotách, napríklad v papierenskom priemysle, kde obvykle stačia teploty v rozmedzí 50 – 250 °C.[^250]
 
-V niektorých odvetviach však výroba vyžaduje také vysoké teploty, že je tu elektrifikácia technicky veľmi zložitá a zároveň značne neekonomická. Typickým príkladom je cement, pri ktorého produkcii je potrebné dosiahnuť teploty v rozmedzí 1300 – 1450 °C.[^1450] V takýchto prípadoch prichádza do úvahy použitie hybridného zariadenia, ktoré na dosiahnutie uvedených teplôt využíva elektrinu a (napríklad) zemný plyn. Takéto hybridné pece nachádzajú uplatnenie napríklad v sklárskom priemysle[^hybrid].
+V niektorých odvetviach však výroba vyžaduje také vysoké teploty, že je tu elektrifikácia technicky veľmi zložitá a zároveň značne neekonomická. Typickým príkladom je cement, pri ktorého produkcii je potrebné dosiahnuť teploty v rozmedzí 1300 – 1450 °C.[^1300] V takýchto prípadoch prichádza do úvahy použitie hybridného zariadenia, ktoré na dosiahnutie uvedených teplôt využíva elektrinu a (napríklad) zemný plyn. Takéto hybridné pece nachádzajú uplatnenie napríklad v sklárskom priemysle[^hybrid].
 
 **Pri elektrine zároveň záleží na jej emisnej intenzite**. Pokiaľ je vyrobená z fosílnych palív, nemusí vychádzať nahradenie týchto palív pri priemyselnom spaľovaní z hľadiska emisií lepšie. V prípade, že dôjde k rozvoju nízkoemisných zdrojov elektriny, tento problém sa vyrieši a **elektrifikácia môže k znižovaniu priemyselných emisií významne prispieť**.
 
@@ -224,13 +224,13 @@ Pretože nemožno čakať, že výrazne klesne dopyt po základných typoch prie
 [^ulozenie]: [Očakáva sa](https://iea.blob.core.windows.net/assets/deebef5d-0c34-4539-9d0c-10b13d840027/NetZeroby2050-ARoadmapfortheGlobalEnergySector_CORR.pdf), že 95 % zachyteného CO<sub>2</sub> bude uložených pod zem a zvyšných 5 % by bolo využitých na výrobu syntetických palív. Háčik ale spočíva v tom, že pokiaľ vyrobíme syntetické palivá zo zachyteného uhlíka, ktorý pochádza z fosílnych palív, tento uhlík sa pri spálení týchto syntetických palív zase uvoľní do atmosféry. Preto je dôležité zachytávať uhlík aj z biomasy, aby sme mohli dosiahnuť neutrálnu emisnú bilanciu.
 [^zachyt]: Je jednoduchšie zachytávať CO<sub>2</sub> pri jeho vyššej koncentrácii v atmosfére. Po odstránení väčšiny molekúl, teda po výraznom znížení koncentrácie, [sa proces zachytávania stáva náročnejším](https://climate.mit.edu/ask-mit/how-efficient-carbon-capture-and-storage).
 [^ccs]: [Energetické nároky CCS](https://www.sciencedirect.com/science/article/pii/S1876610213003603) znamenajú spotrebu 250 – 300 kWh na každú zachytenú tonu CO<sub>2</sub>. Stlačenie CO<sub>2</sub> vyžaduje ďalších 80 – 120 kWh na tonu CO<sub>2</sub>. Pri kalcináci počas výroby cementu sa na Slovensku ročne uvoľní asi 1,35 Mt CO<sub>2</sub>, jeho zachytenie a stlačenie by teda vyžadovalo asi 0,5 TWh elektriny ročne (približne 1,7 % spotreby celej SR).
-[^1500]: [Teplotu okolo 1400 – 1500 °C dosahuje tekuté železo po tom, čo opustí pec](https://ohaz.umet.fmmr.tuke.sk/inter/technologie/technologie_vp_proces.pdf).
+[^1450]: [Teplotu okolo 1450 °C dosahuje tekuté železo po tom, čo opustí pec](https://ohaz.umet.fmmr.tuke.sk/inter/technologie/technologie_vp_proces.pdf), no vo vysokej peci môže teplota dosahovať až [2000 – 2300 °C](https://en.wikipedia.org/wiki/Blast_furnace#Modern_applications_of_the_blast_furnace).
 [^plyn]:  [Ide o proces, kedy metán reaguje s vodnou parou](https://www.energy.gov/eere/fuelcells/hydrogen-fuel-basics). Pri tejto reakcii sa uvoľňuje CO<sub>2</sub>, podobne ako pri spaľovaní metánu.
 [^vodik]: Celosvetový dopyt po vodíku v roku 2050 sa odhaduje v stovkách Mt ročne (napr. podľa [IRENA](https://www.irena.org/publications/2022/Jul/Global-Hydrogen-Trade-Outlook) je to viac ako 600 Mt). Slovensko v roku 2050 bude potrebovať zhruba [0,5 Mt zeleného vodíku ročne](https://www.mhsr.sk/uploads/files/YBN0ndkU.pdf?csrt=2310365313461346377), čo by vyžadovalo cca 25 TWh zelenej elektriny ročne, čo je približne päťnásobok celkovej slovenskej produkcie vodných a solárnych elektrární v roku 2018(infografiky/elektrina-sr). Nedáva ale zmysel, aby sme takto využívali všetku obnoviteľnú elektrinu. Vyrábať zelený vodík má najväčší ekonomický zmysel z prebytkov elektrickej energie (keď je cena elektriny na burze veľmi nízka).
 [^253]: Tento proces je [výrazne energeticky a finančne náročný](https://www.energy.gov/eere/fuelcells/liquid-hydrogen-delivery).
 [^161]: Skvapalnený zemný plyn zaberá približne [1/600](https://portal.ct.gov/PURA/Gas-Pipeline-Safety/What-is-LNG) objemu, ktorý by mal v plynnom skupenstve.
 [^250]: [75 % energie](https://www.researchgate.net/figure/Processes-with-corresponding-temperatures-and-media-required-in-a-paper-industry_tbl2_285782158) je využitých práve na spaľovanie, aby sa dosiahli potrebné teploty.
-[^1450]: Takto vysoké teploty sú nutné pre [tvorbu slinku](https://sk.wikipedia.org/wiki/Cement_(stavebn%C3%ADctvo)#V%C3%BDroba).
+[^1300]: Takto vysoké teploty sú nutné pre [tvorbu slinku](https://sk.wikipedia.org/wiki/Cement_(stavebn%C3%ADctvo)#V%C3%BDroba).
 [^hybrid]: Najnovšie pece vo vývoji [používajú 80 % elektriny a 20 % zemného plynu](https://www.britglass.org.uk/sites/default/files/British%20Glass%20-%20Net%20Zero%20Strategy.pdf).
 [^76]: Ide napríklad o [recykláciu plechoviek, ale aj priemyselne využitého hliníku](https://www.csis.org/analysis/decarbonizing-aluminum-rolling-out-more-sustainable-sector).
 [^recyklacia-stavebnictvo]: Veľké rezervy sú napríklad v sektore stavebníctva, ktorý v EÚ produkuje [skoro 40 % odpadu](https://ec.europa.eu/eurostat/databrowser/view/env_wasgen/default/table?lang=en).
