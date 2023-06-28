@@ -35,5 +35,5 @@ subtopics:
   content:
   - cena-energie
   - 2020-transformacia-energetiky-do-2050
-  - 2020-reserse-transformacie-energetiky
+  - 2020-resers-transformacie-energetiky
 ---
