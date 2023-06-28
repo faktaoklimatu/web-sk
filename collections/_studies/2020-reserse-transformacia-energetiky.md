@@ -49,7 +49,7 @@ items:
         url:  "http://www.prog.sav.sk/index.php/"
     timeframe: —
   - title:   "The Potential and Challenges of Socially Sensitive, Low-carbon Regional Transition: The Case of Small and Medium Enterprises in Upper Nitra"
-    url:     "http://www.prog.sav.sk/index.php/potential-and-challenges-socially-sensitive-low-carbon-regional-transition-case-small-and-medium"
+    url:     "https://www.prog.sav.sk/wp-content/uploads/Filcak-and-Jeck-Coal-and-SME-FEB2020_en.pdf"
     date:    2020
     authors:
       - name: Prognostický ústav Centra spoločenských a psychologických vied SAV
