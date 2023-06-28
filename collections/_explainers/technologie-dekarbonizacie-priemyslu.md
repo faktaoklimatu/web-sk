@@ -4,7 +4,7 @@ title:       "Aké sú technológie dekarbonizácie priemyslu?"
 slug:        "technologie-dekarbonizacie-priemyslu"
 published:   2023-06-26
 authors:
-  - id: ["adam-bilek"]
+  - id: "adam-bilek"
   - id: ["jirka-lnenicka"]
     minor-role: "editácia"
   - id: ["marcel-otruba"]
@@ -95,7 +95,7 @@ V súčasnosti sa celosvetovo **95 % vodíku na priemyselné využitie vyrába z
 
 {% capture vodik %}
 
-Vyrobený vodík sa rozlišuje podľa pôvodu, resp. emisnej náročnosti produkcie, a označuje se rôznými "farbami". Z hľadiska možného využitia sú najdôležitejšie tieto štyri:
+Vyrobený vodík sa rozlišuje podľa pôvodu, resp. emisnej náročnosti produkcie, a označuje sa rôznymi "farbami". Z hľadiska možného využitia sú najdôležitejšie tieto štyri:
 
 <div class="farby-vodika" markdown="1">
 {% include figure.html name="vodik-zeleny.svg" alt="Piktogram zeleného vodíka" no-lightbox=true %}
@@ -142,7 +142,7 @@ V niektorých odvetviach však výroba vyžaduje také vysoké teploty, že je t
 
 ## Doplnkové metódy
 
-Patrí medzi ne recyklácia, využívanie biomasy a odpadov na vykurovanie, rôzne náhrady surovín alebo využívanie alternatívnych produktov, ako aj úspory vďaka zvýšujúcej sa efektivite.
+Patrí medzi ne recyklácia, využívanie biomasy a odpadov na vykurovanie, rôzne náhrady surovín alebo využívanie alternatívnych produktov, ako aj úspory vďaka zvyšujúcej sa efektivite.
 
 Pri dekarbonizácii priemyslu môže do určitej miery pomôcť aj vedecký a technologický pokrok – môžu sa napríklad objaviť nové, účinnejšie technológie alebo postupy. Na to sa však nemožno príliš spoliehať. V priemyselných odvetviach, v ktorých je dekarbonizácia najväčšou výzvou, takýto výskum a vývoj prebieha už mnoho rokov.  Nové technológie a postupy tak budú mať skôr podobu **drobných zlepšení** a pravdepodobnosť radikálnych zmien nie je veľká.
 
@@ -223,7 +223,7 @@ Pretože nemožno čakať, že výrazne klesne dopyt po základných typoch prie
 
 [^ulozenie]: [Očakáva sa](https://iea.blob.core.windows.net/assets/deebef5d-0c34-4539-9d0c-10b13d840027/NetZeroby2050-ARoadmapfortheGlobalEnergySector_CORR.pdf), že 95 % zachyteného CO<sub>2</sub> bude uložených pod zem a zvyšných 5 % by bolo využitých na výrobu syntetických palív. Háčik ale spočíva v tom, že pokiaľ vyrobíme syntetické palivá zo zachyteného uhlíka, ktorý pochádza z fosílnych palív, tento uhlík sa pri spálení týchto syntetických palív zase uvoľní do atmosféry. Preto je dôležité zachytávať uhlík aj z biomasy, aby sme mohli dosiahnuť neutrálnu emisnú bilanciu.
 [^zachyt]: Je jednoduchšie zachytávať CO<sub>2</sub> pri jeho vyššej koncentrácii v atmosfére. Po odstránení väčšiny molekúl, teda po výraznom znížení koncentrácie, [sa proces zachytávania stáva náročnejším](https://climate.mit.edu/ask-mit/how-efficient-carbon-capture-and-storage).
-[^ccs]: [Energetické nároky CCS](https://www.sciencedirect.com/science/article/pii/S1876610213003603) znamenajú spotrebu 250 – 300 kWh na každú zachytenú tonu CO<sub>2</sub>. Stlačenie CO<sub>2</sub> vyžaduje ďalších 80 – 120 kWh na tonu CO<sub>2</sub>. Pri kalcináci počas výroby cementu sa na Slovensku ročne uvoľní asi 1,35 Mt CO<sub>2</sub>, jeho zachytenie a stlačenie by teda vyžadovalo asi 0,5 TWh elektriny ročne (približne 1,7 % spotreby celej SR).
+[^ccs]: [Energetické nároky CCS](https://www.sciencedirect.com/science/article/pii/S1876610213003603) znamenajú spotrebu 250 – 300 kWh na každú zachytenú tonu CO<sub>2</sub>. Stlačenie CO<sub>2</sub> vyžaduje ďalších 80 – 120 kWh na tonu CO<sub>2</sub>. Pri kalcinácii počas výroby cementu sa na Slovensku ročne uvoľní asi 1,35 Mt CO<sub>2</sub>, jeho zachytenie a stlačenie by teda vyžadovalo asi 0,5 TWh elektriny ročne (približne 1,7 % spotreby celej SR).
 [^1450]: [Teplotu okolo 1450 °C dosahuje tekuté železo po tom, čo opustí pec](https://ohaz.umet.fmmr.tuke.sk/inter/technologie/technologie_vp_proces.pdf), no vo vysokej peci môže teplota dosahovať až [2000 – 2300 °C](https://en.wikipedia.org/wiki/Blast_furnace#Modern_applications_of_the_blast_furnace).
 [^plyn]:  [Ide o proces, kedy metán reaguje s vodnou parou](https://www.energy.gov/eere/fuelcells/hydrogen-fuel-basics). Pri tejto reakcii sa uvoľňuje CO<sub>2</sub>, podobne ako pri spaľovaní metánu.
 [^vodik]: Celosvetový dopyt po vodíku v roku 2050 sa odhaduje v stovkách Mt ročne (napr. podľa [IRENA](https://www.irena.org/publications/2022/Jul/Global-Hydrogen-Trade-Outlook) je to viac ako 600 Mt). Slovensko v roku 2050 bude potrebovať zhruba [0,5 Mt zeleného vodíku ročne](https://www.mhsr.sk/uploads/files/YBN0ndkU.pdf?csrt=2310365313461346377), čo by vyžadovalo cca 25 TWh zelenej elektriny ročne, čo je približne päťnásobok celkovej slovenskej produkcie vodných a solárnych elektrární v roku 2018(infografiky/elektrina-sr). Nedáva ale zmysel, aby sme takto využívali všetku obnoviteľnú elektrinu. Vyrábať zelený vodík má najväčší ekonomický zmysel z prebytkov elektrickej energie (keď je cena elektriny na burze veľmi nízka).
