@@ -129,7 +129,7 @@ subtopics:
     **Množstvo emisií, ktoré je ešte možné vypustiť, aby sme neprekročili určitú teplotnú hranicu, sa označuje ako uhlíkový rozpočet**. Cieľ Parížskej dohody o udržaní nárastu teploty výrazne pod 2 °C je teda možné pomocou uhlíkového rozpočtu preformulovať na určité množstvo skleníkových plynov, ktoré môžeme ako ľudstvo vypustiť, aby sme tento cieľ dosiahli.
   content:
   - emisne-scenare-pariz
-  - suvislost-koncentracie-oteplenie
+  - suvislost-koncentracie-oteplovanie
   - 1979-charneyho-sprava
 
 - id:          "neutralita"
