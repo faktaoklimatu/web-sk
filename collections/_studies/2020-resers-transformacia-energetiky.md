@@ -1,8 +1,8 @@
 ---
 layout:      survey
 title:       "Štúdie transformácie energetiky"
-slug:        2020-reserse-transformacie-energetiky
-redirect_from: "/2020-reserse-transformacie-energetiky"
+slug:        2020-resers-transformacie-energetiky
+redirect_from: "/2020-resers-transformacie-energetiky"
 weight:      300
 published:   2023-06-13
 tags-scopes: [ sr ]
@@ -42,14 +42,14 @@ items:
         url:  "https://www.bloomberg.org/"
     timeframe: 2030
   - title:   "Energetická chudoba na Slovensku 2020: od analýz k odporúčaniam pre verejné politiky"
-    url:     "http://www.prog.sav.sk/index.php/energeticka-chudoba-na-slovensku-2020-od-analyz-k-odporucaniam-pre-verejne-politiky"
+    url:     "http://www..sav.sk/index.php/energeticka-chudoba-na-slovensku-2020-od-analyz-k-odporucaniam-pre-verejne-politiky"
     date:    Jún 2020
     authors:
-      - name: Prognostický ústav Centra spoločenských a psychologických vied SAV
+      - name: nostický ústav Centra spoločenských a psychologických vied SAV
         url:  "http://www.prog.sav.sk/index.php/"
     timeframe: —
   - title:   "The Potential and Challenges of Socially Sensitive, Low-carbon Regional Transition: The Case of Small and Medium Enterprises in Upper Nitra"
-    url:     "http://www.prog.sav.sk/index.php/potential-and-challenges-socially-sensitive-low-carbon-regional-transition-case-small-and-medium"
+    url:     "https://www.prog.sav.sk/wp-content/uploads/Filcak-and-Jeck-Coal-and-SME-FEB2020_en.pdf"
     date:    2020
     authors:
       - name: Prognostický ústav Centra spoločenských a psychologických vied SAV
