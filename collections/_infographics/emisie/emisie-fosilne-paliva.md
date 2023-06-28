@@ -1,9 +1,9 @@
 ---
 layout:     infographic
-title:      "Svetové emisie CO2 z fosílnych palív a výroby cementu"
+title:      "Svetové emisie CO₂ z fosílnych palív a výroby cementu"
 slug:       "emisie-fosilne-paliva"
 redirect_from: "/emisie-fosilne-paliva"
-published:  2021-03-01
+published:  2023-06-29
 weight:     95
 tags-scopes: [ svet ]
 tags-topics: [ emisie, energetika ]
