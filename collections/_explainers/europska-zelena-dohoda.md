@@ -122,10 +122,7 @@ Na ich zníženie je potrebné tieto fosílne palivá postupne nahradiť **obnov
 
 Ako bolo uvedené v úvode, ciele Zelenej dohody sa realizujú predovšetkým prostredníctvom balíka legislatívnych aktov [Fit for 55](/infografiky/fit-for-55). V sektore energetiky je cieľom zvýšiť podiel OZE v energetickom mixe EÚ na 42,5 % v roku 2030 (viď revízia [Smernice o obnoviteľných zdrojoch energie](https://www.consilium.europa.eu/sk/press/press-releases/2023/03/30/council-and-parliament-reach-provisional-deal-on-renewable-energy-directive/)) alebo znížiť spotrebu energie o ďalších 11,7 % v porovnaní s referenčným scenárom na rok 2020[^referencny-scenar] (viď revízia [Smernice o energetickej účinnosti](https://www.consilium.europa.eu/sk/press/press-releases/2023/03/10/council-and-parliament-strike-deal-on-energy-efficiency-directive/)).
 
-{% comment %}
 Finálne dojednané ciele balíčka Fit For 55 sú o niečo vyššie ako pôvodne ohlásené zámery. V oblasti OZE sa cieľ zmenil zo 40 % na 42,5 % a v oblasti energetických úspor z 9 % na 11,7 %. Na jar 2022 totiž Komisia v reakcii na ruskú inváziu na Ukrajinu a s ňou súvisiacu **potrebu zbaviť sa závislosti od ruských fosílnych palív** predstavila balík s názvom [**RePowerEU**](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/european-green-deal/repowereu-affordable-secure-and-sustainable-energy-europe_sk), ktorý je v sektore energetiky ambicióznejší ako pôvodná Zelená dohoda.
-{% endcomment %}
-V reakcii na ruskú inváziu na Ukrajinu a **potrebu zbaviť sa závislosti od fosílnych palív z Ruska** Komisia na jar 2022 predstavila balík s názvom [**RePowerEU**](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/european-green-deal/repowereu-affordable-secure-and-sustainable-energy-europe_sk), ktorý ambície Zelenej dohody v sektore energetiky ďalej zvyšuje. V praxi to napríklad znamená, že ciele v návrhoch Fit for 55 boli upravené – priamy dôsledok vyššie uvedených limitov pre ciele v oblasti OZE a úspor energie (45 % a 13 %).
 
 {% capture necp %}
 
