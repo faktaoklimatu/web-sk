@@ -1,13 +1,13 @@
 ---
 layout:     infographic
-title:      "Svetové emisie CO₂ z fosílnych palív a výroby cementu"
+title:      "Svetové emisie CO₂ z fosílnych palív a z výroby cementu"
 slug:       "emisie-fosilne-paliva"
 redirect_from: "/emisie-fosilne-paliva"
-published:  2023-06-29
+published:  2021-03-19
 weight:     95
 tags-scopes: [ svet ]
 tags-topics: [ emisie, energetika ]
-caption:    "Svetové emisie CO<sub>2</sub> zo spaľovania uhlia, ropy a plynu narástli za posledných 60 rokov štvornásobne. K dosiahnutiu uhlíkovej neutrality bude potrebné, aby klesli prakticky na nulu."
+caption:    "Svetové emisie CO<sub>2</sub> zo spaľovania uhlia, ropy a plynu narástli za posledných 60 rokov štvornásobne. Na dosiahnutie uhlíkovej neutrality bude potrebné, aby klesli prakticky na nulu."
 data-our:   "https://docs.google.com/spreadsheets/d/1livivZOC7ha7UkAqiMJtvt1AnMRUq-aNsta8KKgxQ44/edit?usp=sharing"
 data-orig:  [ [ "Global Carbon Project", "https://data.icos-cp.eu/licence_accept?ids=%5B%226QlPjfn_7uuJtAeuGGFXuPwz%22%5D" ]
             ]
