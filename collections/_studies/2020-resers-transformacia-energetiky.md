@@ -1,8 +1,8 @@
 ---
 layout:      survey
 title:       "Štúdie transformácie energetiky"
-slug:        2020-resers-transformacie-energetiky
-redirect_from: "/2020-resers-transformacie-energetiky"
+slug:        2020-resers-transformacia-energetiky
+redirect_from: "/2020-resers-transformacia-energetiky"
 weight:      300
 published:   2023-06-13
 tags-scopes: [ sr ]
@@ -42,10 +42,10 @@ items:
         url:  "https://www.bloomberg.org/"
     timeframe: 2030
   - title:   "Energetická chudoba na Slovensku 2020: od analýz k odporúčaniam pre verejné politiky"
-    url:     "http://www..sav.sk/index.php/energeticka-chudoba-na-slovensku-2020-od-analyz-k-odporucaniam-pre-verejne-politiky"
+    url:     "http://www.sav.sk/index.php/energeticka-chudoba-na-slovensku-2020-od-analyz-k-odporucaniam-pre-verejne-politiky"
     date:    Jún 2020
     authors:
-      - name: nostický ústav Centra spoločenských a psychologických vied SAV
+      - name: Prognostický ústav Centra spoločenských a psychologických vied SAV
         url:  "http://www.prog.sav.sk/index.php/"
     timeframe: —
   - title:   "The Potential and Challenges of Socially Sensitive, Low-carbon Regional Transition: The Case of Small and Medium Enterprises in Upper Nitra"
