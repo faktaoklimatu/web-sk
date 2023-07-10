@@ -79,6 +79,7 @@ subtopics:
   - emisie-svet-na-osobu
   - emisie-svet-na-hdp
   - emisie-eu-poradie
+  - emisie-eu-na-osobu
   qa:
   - q: "Aké sú celkové svetové emisie?"
     a: |
