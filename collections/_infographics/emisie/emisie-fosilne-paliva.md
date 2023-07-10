@@ -34,7 +34,7 @@ data-orig:  [ [ "Global Carbon Project", "https://data.icos-cp.eu/licence_accept
 
 ### Ropa
 
-* **Použitie:** Väčšina ropy, presnejšie benzínu a nafty vyrobených z ropy, sa spaľuje v doprave. Zriedkavejšie sa používa na výrobu elektriny a tepla. Na výrobu elektriny a tepla sa používa skôr výnimočne.
+* **Použitie:** Väčšina ropy, presnejšie benzínu a nafty vyrobených z ropy, sa spaľuje v doprave. Na výrobu elektriny a tepla sa používa skôr výnimočne.
 * **Ťažba a preprava:** Celkovo sa na svete vyťaží okolo [100 miliónov barelov ropy](https://www.eia.gov/outlooks/steo/report/global_oil.php) za deň, teda asi 5 miliárd ton ročne (2019). Najviac ropy sa ťaží v krajinách Perzského zálivu (asi 32 % svetovej produkcie), ďalej v USA (15 %) a Rusku (13 %). Zatiaľčo USA pokrývajú ťažbou vlastnú spotrebu, väčšina ostatných významných producentov ropy svoju ťažbu exportuje. Asi 61 % ropy sa [prepravuje po mori](https://talkbusiness.net/2017/08/61-of-global-crude-oil-and-petroleum-products-transported-by-sea/), zvyšok [ropovodmi](http://worldmap.harvard.edu/data/geonode:global_oil_pipelines_7z9).
 * V grafe je vidieť niekoľkoročný **pokles spotreby po roku 1979**, ktorý bol spôsobený [ropnou krízou](https://en.wikipedia.org/wiki/1979_oil_crisis) po revolúcii v Iráne a následnou vojnou medzi Iránom a Irakom. V tom čase svetová produkcia klesla približne o 4 % a cena ropy sa zdvojnásobila.
 
