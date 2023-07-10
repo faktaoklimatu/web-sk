@@ -76,6 +76,7 @@ subtopics:
   - emisie-sr
   - emisie-eu
   - emisie-svet
+  - emisie-vybrane-staty
   - emisie-svet-na-osobu
   - emisie-svet-na-hdp
   - emisie-eu-poradie
