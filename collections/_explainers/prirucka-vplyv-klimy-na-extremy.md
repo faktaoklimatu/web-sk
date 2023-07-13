@@ -10,7 +10,7 @@ authors:
   - name: "Friederike Otto"
     affiliation: "Imperial College London"
     link: "https://twitter.com/FrediOtto"
-  - id: "jirka-lnenicka", ["Lenka Sedlačková"]
+  - id: "jirka-lnenicka"
     minor-role: "preklad"
 weight:      80
 tags-scopes: [ svet ]
@@ -50,20 +50,21 @@ Odpoveď je vždy iná – závisí od lokality, ročného obdobia, typu udalost
 
 **Cieľom tejto príručky je pomôcť novinárom prinášať presné informácie o extrémnych meteorologických javoch a správne ich zaraďovať do kontextu globálneho otepľovania**. Inými slovami, ako čo najlepšie informovať svoje publikum o vplyve klimatickej zmeny na čoraz častejšie vyskytujúce sa extrémne prejavy počasia bez toho, aby sme túto súvislosť preceňovali (alebo naopak podceňovali)?
 
-## Výzkum atribuce extrémních událostí
+## Výskum atribúcie extrémnych udalostí
 
-### Obecný přehled
+### Všeobecný prehľad
 
-S myšlenkou připisovat jednotlivé meteorologické jevy změně klimatu přišel jeden klimatolog, v jehož domě právě stoupala voda v důsledku povodně. Jak tak pozoroval, co se děje, začal přemýšlet nad otázkou odpovědnosti – [čí je to vlastně vina](https://www.nature.com/articles/421891a), tyhle lokální dopady globální změny klimatu? A je možné tuto souvislost nějak exaktně vědecky popsat?
+S myšlienkou pripisovať jednotlivé meteorologické javy klimaticej zmene prišiel klimatológ, v ktorého dome práve stúpala voda v dôsledku povodní. Keď pozoroval, čo sa deje, začal premýšľať o otázke zodpovednosti – [čia to je vlastne vina](https://www.nature.com/articles/421891a), tieto lokálne dopady globálnej zmeny klímy? A je možné túto súvislosť exaktne vedecky popísať?
 
-Do jaké míry je určitá extrémní událost v důsledku změny klimatu více či méně pravděpodobná a/nebo více či méně intenzivní, vypočítávají tzv. atribuční studie.
+Miera, do akej je určitá extrémna udalosť viac alebo menej pravdepodobná a/alebo viac alebo menej intenzívna v dôsledku klimatickej zmeny, sa vypočítava pomocou tzv. atribučných štúdií.
 
-První taková [studie](https://www.nature.com/articles/nature03089) byla zveřejněna v roce 2004 a zaměřovala se na vlnu veder, která proběhla v západní Evropě o rok dříve. Léto 2003 bylo v tomto regionu mimořádně horké – šlo o bezprecedentně dlouhou vlnu veder, při které [zemřelo přes 70 000 lidí](https://www.sciencedirect.com/science/article/pii/S1631069107003770). Po této katastrofě s dopady pro celý region se vědci rozhodli použít klimatické modely, aby s jejich pomocí zjistili, jakou roli v tom sehrála změna klimatu.
+Prvá takáto [štúdia](https://www.nature.com/articles/nature03089) bola zverejnená v roku 2004 a zameriavala sa na vlnu horúčav, ktorá postihla západnú Európu rok predtým. Leto 2003 bolo v tejto oblasti mimoriadne horúce – išlo o bezprecedentnú vlnu horúčav, počas ktorej [zomrelo viac ako 70 000 ľudí](https://www.sciencedirect.com/science/article/pii/S1631069107003770). Po 
+byla zveřejněna v roce 2004 a zaměřovala se na vlnu veder, která proběhla v západní Evropě o rok dříve. Léto 2003 bylo v tomto regionu mimořádně horké – šlo o bezprecedentně dlouhou vlnu veder, při které [zemřelo přes 70 000 lidí](https://www.sciencedirect.com/science/article/pii/S1631069107003770). Po tejto katastrofe s celoregionálnym dopadom sa vedci rozhodli použiť klimatické modely, aby zistili, akú úlohu v nej zohrala klimatická zmena.
 
 Postupovali takto:
-- Nejprve vytvořili tisíce simulací současného klimatu, které je dnes v důsledku lidské činnosti teplejší než dřív. Zjednodušeně řečeno: znovu a znovu za stejných podmínek opakovali simulace klimatického modelu a díky tomu zjistili, jak by vypadalo počasí v uplynulých tisíciletích, kdyby bylo klima stejné jako dnes. Tento krok byl pro zkoumání extrémních projevů počasí, jež jsou už ze své definice vzácné, velmi užitečný. V rámci těchto simulací pak vědci spočítali, kolikrát by se během tohoto dlouhého období vyskytla tak extrémní vlna veder, jakou v západní Evropě zažili v roce 2003. Ukázalo se, že se jedná o skutečně vzácný jev a že by byl vzácný i ve světě, v němž by průměrná globální roční teplota odpovídala dnešním hodnotám.
+- Najprv vytvorili tisíce simulácií súčasnej klímy, ktorá je dnes v dôsledku ľudskej činnosti teplejšia ako v minulosti. Zjednodušene povedané: opakovali simulácie klimatického modelu stále dokola za rovnakých podmienok, čo im umožnilo zistiť, aké by bolo počasie v minulých tisícročiach, keby bola klíma rovnaká ako dnes. Tento krok bol pri štúdiu extrémnych javov, ktoré sú už podľa svojej definície zriedkavé, veľmi užitočný. V rámci týchto simuláciách potom vedci vypočítali, koľkokrát by sa počas tohto dlhého obdobia vyskytla taká extrémna vlna horúčav, akú zažila západná Európa v roku 2003. Ukázalo sa, že ide skutočne o vzácny jav, ktorý by bol zriedkavý aj vo svete, kde by priemerná ročná globálna teplota bola rovnaká ako dnes.
 
-- Dalším krokem byla jiná simulace – jak by vypadalo klima bez vlivu člověka, tedy bez jakýchkoli emisí spojených s lidskou činností, včetně skleníkových plynů a aerosolů. Tím byl odstraněn lidský faktor. Kolik skleníkových plynů dnes v atmosféře v důsledku spalování fosilních paliv je, víme přesně, takže tento krok byl poměrně jednoduchý. Poté vědci spočítali, kolikrát by se za takových podmínek vyskytla podobně extrémní vlna veder, a opět zjistili, že by byla mnohem vzácnější. Dokonce tak vzácná, že bez vlivu člověka na klima je výskyt takovéto události prakticky vyloučený.
+- Ďalším krokom bola iná simulácia – ako by vyzerala klíma bez vplyvu človeka, teda bez akýchkoľvek emisií spojených s ľudskou činnosťou vrátane <glossary id="antropogennesklenikoveplyny">skleníkových plynov</glossary> a aerosólov. Tým bol odstránený ľudský faktor. Presne vieme, koľko skleníkových plynov je v atmosfére v dôsledku spaľovania fosílnych palív, takže tento krok bol pomerne jednoduchý. Vedci potom vypočítali, koľkokrát by sa za takýchto podmienok vyskytla podobne extrémna vlna horúčav, a opäť zistili, že by bola oveľa vzácnejšia. Dokonca tak vzácna, že bez vplyvu človeka na klímu je výskyt takejto udalosti prakticky nemožný.
 
 - Zjištěné hodnoty nakonec vědci porovnali a dospěli k závěru, že v důsledku změny klimatu způsobené lidmi se pravděpodobnost událostí, jako bylo léto v Evropě v roce 2003, zvýšila minimálně dvakrát a zřejmě daleko více.
 
@@ -297,6 +298,7 @@ Tyto trendy jsou zřetelně potvrzovány také atribučními studiemi. V Austrá
 - **Řízení rizika** – Řízené vypalování lesů s cílem zabránit hromadění paliva je v některých oblastech běžnou praxí již po tisíciletí, ne vždy se však provádí důsledně. Riziko požárů odpovídá úrovni plánování a provádění řízeného vypalování; pokud se toto vypalování neprovádí důsledně, riziko požárů se výrazně zvyšuje.
 - **Zdroje zapálení** – Lidská činnost, například zakládání ohňů, může být spouštěčem katastrofy v celém lese. Podle US Forest Service je 85 % lesních požárů v USA důsledkem lidské nedbalosti nebo úmyslu. [Délka sezóny lesních požárů se ztrojnásobila](https://www.pnas.org/content/114/11/2946) (v absolutních číslech jde o prodloužení přibližně o tři měsíce) ve srovnání se stavem, kdy je zapálení způsobeno bleskem. Při podávání zpráv o příčinách významných lesních požárů je důležité informovat i o těchto faktorech a také zmínit, kolika osob a staveb se to týká a jak velké riziko to pro ně představuje. V každém případě skutečnost, že riziko lesních požárů zvyšují i další faktory, nesnižuje roli změny klimatu. Ta prodloužila na celém světě sezónu lesních požárů v průměru o cca dva týdny, a to hlavně tím, že zvýšila dostupnost paliva (důsledek horka a vysychání). Srovnání těchto čísel nicméně nevykresluje skutečnost v úplnosti: změna klimatu rovněž zvyšuje intenzitu období požárů způsobem, jakým ji nárůst počtu požárů způsobených člověkem nezvyšuje. Klimatická změna totiž také ovlivňuje, jak se daný požár rozhoří, jaký bude jeho rozsah a délka jeho trvání – působí tak jako faktor souběžně s nárůstem počtu požárů způsobených člověkem, takže sezóna požárů je pak delší a zároveň intenzivnější.
 
+{% comment %}
 ## Jednostránkové shrnutí
 
 V následující infografice na jedné stránce shrnujeme to nejdůležitější o vlivu změny klimatu na jednotlivé extrémy počasí.
@@ -306,5 +308,5 @@ V následující infografice na jedné stránce shrnujeme to nejdůležitější
     alt="TODO"
     caption="Jednostránkové shrnutí doporučení."
 %}
-
-*Překlad "Kompasu pro novináře" vznikl za podpory [České asociace pojišťoven](https://www.cap.cz/).*
+{% endcomment %}
+*Preklad českého "Kompasu pre novináře" vznikol za podpory [České asociace pojišťoven](https://www.cap.cz/).*
