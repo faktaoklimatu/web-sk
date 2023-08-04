@@ -24,7 +24,7 @@ Nižšie uvádzame prehľad opatrení vrátane odkazov na verziu legislatívnych
 
 #### Emisné povolenky
 
-* [Revízia obchodovania s emisnými kvótami](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=celex%3A32023L0959) (*European Emissions Trading System*, EU ETS) vrátane zahrnutia námornej dopravy do oterajšieho systému a vznik nového systému pre cestnú dopravu a budovy (tzv. EU ETS 2)[^reforma-eu-ets] {% include includes-local/fit-for-55-icon.html status="done" %}
+* [Revízia obchodovania s emisnými kvótami](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=celex%3A32023L0959) (*European Emissions Trading System*, EU ETS) vrátane zahrnutia námornej dopravy do doterajšieho systému a vznik nového systému pre cestnú dopravu a budovy (tzv. EU ETS 2)[^reforma-eu-ets] {% include includes-local/fit-for-55-icon.html status="done" %}
 * [Revízia obchodovania s emisnými kvótami v leteckej doprave](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=celex%3A32023L0958) {% include includes-local/fit-for-55-icon.html status="done" %}
 
 #### Ďalšie trhové mechanizmy
