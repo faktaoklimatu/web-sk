@@ -18,7 +18,7 @@ caption:       "Fit for 55 je balík legislatívnych návrhov Európskej komisie
 
 Balíček legislatívnych návrhov [Fit for 55](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A52021DC0550), ktorý podporuje **zníženie emisií skleníkových plynov o 55 % do roku 2030 oproti roku 1990**, predstavila Európska komisia v júli 2021. Balík obsahuje návrhy na úpravu existujúcich smerníc a nariadení, ako aj úplne nové legislatívne návrhy zamerané na oblasti ako obchodovanie s emisiami (EU ETS), kompenzáciu uhlíka na hraniciach, energetiku a palivá či využívanie pôdy a lesné hospodárstvo. V neposlednom rade prináša podporné opatrenia s cieľom urobiť transformáciu sociálne spravodlivejšou. Navrhované opatrenia by mali priniesť nové príležitosti pre investície, inovácie a tvorbu pracovných miest.[^fit-for-55]
 
-// Balíček se aktuálně nachází ve fázi legislativních návrhů ze strany Evropské komise, které se dále projednávají v Evropském parlamentu a Radě Evropské unie, tedy s účastí ministrů vlád členských zemí a národních pracovních skupin. Pro Českou republiku je v tomto kontextu zásadní **předsednictví Radě EU**, které převezme v druhé polovině roku 2022 a bude tak mít možnost ovlivnit směr jednání. Očekává se, že by vyjednávání o finální podobě legislativy mohla trvat až do roku 2024.[^fit-for-55-q-a] //
+Niektoré legislatívne návrhy v balíku už boli schválené (napr. reforma systému obchodovania s emisnými kvótami) a vstúpili do platnosti, pričom o značnej časti z nich sa rokovalo počas českého predsedníctva v Rade EÚ, ktoré sa uskutočnilo v druhej polovici roka 2022. Niektoré z nich ešte čakajú na prerokovanie v Európskom parlamente a Rade Európskej únie, t. j. za účasti ministrov národných vlád a národných pracovných skupín. Očakáva sa, že rokovania o konečnej podobe legislatívy by mohli trvať až do roku 2024.[^fit-for-55-q-a]
 
 ## Kontext vzniku
 
@@ -54,57 +54,56 @@ Tretiu skupinu návrhov tvoria **podporné opatrenia**. S cieľom zabezpečiť s
 
 Ako uvádza Komisia,[^fit-for-55] legislatívne návrhy vychádzajú z analýzy posúdenia vplyvov, ktorá ukazuje, že "prílišné spoliehanie sa na posilnené regulačné politiky by viedlo k zbytočne vysokému ekonomickému zaťaženiu, zatiaľ čo samotné stanovovanie cien uhlíka by neodstránilo pretrvávajúce zlyhania trhu a netrhové prekážky". Balík preto pozostáva z kombinácie trhových mechanizmov a regulácií, ako aj nevyhnutných podporných opatrení. Vo väčšine prípadov návrhy nezahŕňajú jednu konkrétnu technológiu, ale spravidla podporujú celý rad technológií, prípadne stanovujú len cieľ a spôsob jeho dosiahnutia nechávajú otvorený.
 
-Nižšie uvádzame prehľad navrhovaných opatrení vrátane odkazov na pôvodné legislatívne návrhy Európskej komisie:
+Nižšie uvádzame prehľad opatrení vrátane odkazov na verziu legislatívnych návrhov Európskej komisie (niekde sa jedná o schválenú verziu, inde o návrh, ktorý sa stále prejednáva alebo čaká na prejednanie) aktuálnu v júli 2023:
 
 ### Trhové mechanizmy
 
 #### Emisné kvóty
 
-* [Revízia európskeho systému obchodovania s emisnými kvótami](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A52021PC0551) (*European Emissions Trading System*, EU ETS)
-* Zahrnutie [letecké](https://eur-lex.europa.eu/legal-content/sk/TXT/?uri=CELEX%3A52021PC0552) a [námornej dopravy](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A52021PC0551) do EU ETS
-* [Rozšírenie EU ETS o cestnú dopravu a budovy](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A52021PC0551)
+* [Revízia európskeho systému obchodovania s emisnými kvótami]([https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=celex%3A32023L0959](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=celex%3A32023L0959)) (*European Emissions Trading System*, EU ETS) vrátane zahrnutia námornej dopravy do doterajšieho systému a vznik nového systému pre cestnú dopravu a budovy (tzv. EU ETS 2)[^reforma-eu-ets] {% include includes-local/fit-for-55-icon.html status="done" %}
+* [Revízia obchodovania s emisnými kvótami v leteckej doprave](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=celex%3A32023L0958)
 
 #### Iné trhové mechanizmy
 
-* [Kompenzácia uhlíka na hraniciach](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A52021PC0564) (*Carbon Border Adjustment Mechanism*, CBAM)
-* [Revízia smernice o zdaňovaní energie](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A52021PC0563) (*Energy Taxation Directive*, ETD)
+* [Kompenzácia uhlíka na hraniciach](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=celex%3A32023R0956) (*Carbon Border Adjustment Mechanism*, CBAM) {% include includes-local/fit-for-55-icon.html status="done" %}
+* [Revízia smernice o zdaňovaní energie](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A52021PC0563) (*Energy Taxation Directive*, ETD) {% include includes-local/fit-for-55-icon.html status="inprogress" %}
 
 ### Ciele a regulácie
 
 #### Záväzky na zníženie emisií (v sektoroch, na ktoré sa nevzťahujú trhové mechanizmy)
 
-* [Revízia nariadenia o spoločnom úsilí](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A52021PC0555)
+* [Revízia nariadenia o spoločnom úsilí](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=celex%3A32023R0857) {% include includes-local/fit-for-55-icon.html status="done" %}
 
 #### Energetika
 
-* [Revízia smernice o obnoviteľných zdrojoch energie](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A52021PC0557) (*Renewable Energy Directive*, RED)
-* [Revízia nariadenia o znižovaní emisií metánu v odvetví energetiky a o zmene nariadenia (EÚ) 2019/942](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A52021PC0805)
-* [Revízia nariadenia o vnútornom trhu s obnoviteľnými plynmi a zemným plynom a s vodíkom](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=COM%3A2021%3A804%3AFIN)
-* [Revízia smernice o spoločných pravidlách pre vnútorný trh s obnoviteľnými plynmi, zemným plynom a s vodíkom](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=COM%3A2021%3A803%3AFIN)
+* [Revízia smernice o obnoviteľných zdrojoch energie](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A52021PC0557) (*Renewable Energy Directive*, RED)[^red] {% include includes-local/fit-for-55-icon.html status="inprogress" %}
+* [Revízia nariadenia o znižovaní emisií metánu v odvetví energetiky a o zmene nariadenia (EÚ) 2019/942](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A52021PC0805) {% include includes-local/fit-for-55-icon.html status="inprogress" %}
+* [Revízia nariadenia o vnútornom trhu s obnoviteľnými plynmi a zemným plynom a s vodíkom](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=COM%3A2021%3A804%3AFIN) {% include includes-local/fit-for-55-icon.html status="inprogress" %}
+* [Revízia smernice o spoločných pravidlách pre vnútorný trh s obnoviteľnými plynmi, zemným plynom a s vodíkom](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=COM%3A2021%3A803%3AFIN) {% include includes-local/fit-for-55-icon.html status="inprogress" %}
 
 #### Energetická účinnosť
 
-* [Revízia smernice o energetickej účinnosti](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A52021PC0558) (*Energy Efficiency Directive*, EED)
-* [Revízia smernice o energetickej hospodárnosti budov](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=COM%3A2021%3A802%3AFIN) (*Energy Performance of Buildings Directive*, EPBD)
+* [Revízia smernice o energetickej účinnosti](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A52021PC0558) (*Energy Efficiency Directive*, EED)[^eed] {% include includes-local/fit-for-55-icon.html status="inprogress" %}
+* [Revízia smernice o energetickej hospodárnosti budov](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=COM%3A2021%3A802%3AFIN) (*Energy Performance of Buildings Directive*, EPBD) {% include includes-local/fit-for-55-icon.html status="inprogress" %}
 
 #### Doprava
 
-* [Prísnejšie emisné predpisy pre osobné automobily a dodávky](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A52021PC0556)
-* [Nová infraštruktúra pre alternatívne palivá](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A52021PC0559)
-* [Iniciatíva ReFuelEU za udržateľnejšie letecké palivá](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A52021PC0561)
-* [Iniciatíva za čistejšie námorné palivá FuelEU](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A52021PC0562)
+* [Prísnejšie emisné predpisy pre osobné automobily a dodávky](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=celex%3A32023R0851) {% include includes-local/fit-for-55-icon.html status="done" %}
+* [Nová infraštruktúra pre alternatívne palivá](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A52021PC0559) {% include includes-local/fit-for-55-icon.html status="inprogress" %}
+* [Iniciatíva ReFuelEU za udržateľnejšie letecké palivá](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A52021PC0561) {% include includes-local/fit-for-55-icon.html status="inprogress" %}
+* [Iniciatíva za čistejšie námorné palivá FuelEU](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A52021PC0562) {% include includes-local/fit-for-55-icon.html status="inprogress" %}
 
 #### Krajina a ekosystémy
 
-* [Stratégia lesného hospodárstva EÚ](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A52021DC0572)
-* [Revízia nariadenia o využívaní pôdy a lesníctve](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A52021PC0554)
+* [Stratégia lesného hospodárstva EÚ](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A52021DC0572) {% include includes-local/fit-for-55-icon.html status="done" %}
+* [Revízia nariadenia o využívaní pôdy a lesníctve](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=celex%3A32023R0839) {% include includes-local/fit-for-55-icon.html status="done" %}
 
 ### Podporné opatrenia
 
-* Zriadenie [Sociálneho klimatického fondu](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A52021PC0568)
-* Posilnenie [Modernizačného fondu](https://www.minzp.sk/klima/modernizacny-fond/) a [Inovačného fondu](https://www.minzp.sk/klima/inovacny-fond/)
+* Zriadenie [Sociálneho klimatického fondu](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=celex%3A32023R0955) {% include includes-local/fit-for-55-icon.html status="done" %}
+* Posilnenie [Modernizačného fondu](https://www.minzp.sk/klima/modernizacny-fond/) a [Inovačného fondu](https://www.minzp.sk/klima/inovacny-fond/) prostredníctvom [reformy EU ETS](https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=celex%3A32023L0959)[^reforma-eu-ets] {% include includes-local/fit-for-55-icon.html status="done" %}
 
-Viac informácií o navrhovaných opatreniach nájdete v našej infografike [Fit for 55: prehľad navrhovaných opatrení](/infografiky/fit-for-55-opatrenia).
+Viac informácií o jednotlivých opatreniach nájdete v našej infografike [Fit for 55: prehľad navrhovaných opatrení](/infografiky/fit-for-55-opatrenia).
 
 ## Zdroje a poznámky
 
@@ -121,3 +120,9 @@ Balíčkom Fit for 55 sa viac zaoberá napríklad [Klimatická koalícia](https:
 [^emisie-co2]: Our World in Data: [CO<sub>2</sub> emissions by region](https://ourworldindata.org/co2-emissions#co2-emissions-by-region)
 
 [^eurobarometer]: [Eurobarometer 2021](https://climate.ec.europa.eu/system/files/2021-06/sk_climate_2021_sk.pdf). Percento tých, ktorí vnímajú zmenu klímy ako závážny problém, zahŕňa respondentov a respondentky, ktorí ju vnímajú ako *veľmi* nebo *dosť* závažný problém. Percento súhlasiacich s výrokom zahŕňa respondentov a respondentky, ktorí s ním *rozhodne* alebo *skôr* súhlasia.
+
+[^reforma-eu-ets]: Nasledujúce opatrenia sú súčasťou jednej smernice: revízia doterajšieho systému EU ETS, jeho rozšírenie o námornú dopravu, vznik nového systému EU ETS 2 pre cestnú dopravu a budovy a posilnenie Modernizačného a Inovačného fondu.
+
+[^red]: V marci 2023 došlo medzi Parlamentom, Radou a Komisiou EÚ k [predbežnej dohode](https://www.consilium.europa.eu/sk/press/press-releases/2023/03/30/council-and-parliament-reach-provisional-deal-on-renewable-energy-directive/) o podobe smernice, pričom sa očakáva, že by mala čoskoro vstúpiť do platnosti.
+
+[^eed]: V marci 2023 došlo medzi Parlamentom, Radou a Komisiou EÚ k [predbežnej dohode](https://www.consilium.europa.eu/sk/press/press-releases/2023/03/10/council-and-parliament-strike-deal-on-energy-efficiency-directive/) o podobe smernice, pričom sa očakáva, že by mala čoskoro vstúpiť do platnosti.
