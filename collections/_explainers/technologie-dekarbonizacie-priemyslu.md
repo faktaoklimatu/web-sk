@@ -87,7 +87,7 @@ Projekty zachytávania CO<sub>2</sub> často cielia na **zachytenie 90 % emisií
     alt="Piktogram využitia vodíka"
 %}
 
-**Môže nahradiť fosílne palivá**, ktoré sa v priemysle spaľujú kvôli dodaniu tepla. Jeho použitie je vhodné najmä v situáciách, kedy je nutné dosiahnuť veľmi vysokých teplôt (napr. pri výrobe železa to je okolo 1500 °C[^1450] alebo viac). Zároveň môže v niektorých prípadoch slúžiť ako **náhrada vstupných surovín**, ktoré sa používajú pri chemických reakciách počas priemyselných procesov – napr. pri výrobe amoniaku by sa mohol používať zelený vodík namiesto vodíka produkovaného pomocou fosílnych palív alebo ako náhrada koksu pri redukcii železnej rudy.
+**Môže nahradiť fosílne palivá**, ktoré sa v priemysle spaľujú kvôli dodaniu tepla. Jeho použitie je vhodné najmä v situáciách, kedy je nutné dosiahnuť veľmi vysoké teploty (napr. pri výrobe železa to je okolo 1500 °C[^1450] alebo viac). Zároveň môže v niektorých prípadoch slúžiť ako **náhrada vstupných surovín**, ktoré sa používajú pri chemických reakciách počas priemyselných procesov – napr. pri výrobe amoniaku by sa mohol používať zelený vodík namiesto vodíka produkovaného pomocou fosílnych palív alebo ako náhrada koksu pri redukcii železnej rudy.
 
 Dá sa preto očakávať, že zelený vodík bude pri dekarbonizácii priemyslu zohrávať kľúčovú úlohu. Miera jeho využitia bude však značne závislá od vývoja jeho ceny – tá je zatiaľ príliš vysoká. Platí to obzvlášť v porovnaní s cenou fosílnych palív, ktoré môže zelený vodík nahradiť.
 
@@ -118,7 +118,9 @@ Vyrobený vodík sa rozlišuje podľa pôvodu, resp. emisnej náročnosti produk
     content=vodik
 %}
 
-Okrem toho bude potrebné vybudovať špeciálnu infraštruktúru potrebnú na prepravu vodíka – po prvé, aby sa minimalizoval jeho možný únik (keďže je [horľavý a výbušný](https://www1.eere.energy.gov/hydrogenandfuelcells/pdfs/h2_safety_fsheet.pdf), podobne ako zemný plyn), a po druhé, preprava vodíka je vzhľadom na jeho fyzikálne vlastnosti podstatne zložitejšia ako preprava zemného plynu (vodík má nízku objemovú hustotu energie, a preto zaberá pomerne veľký objem, čo komplikuje proces stláčania). Ak by sme chceli vodík skvapalniť, museli by sme ho ochladiť na -253 °C[^253] (na skvapalnenie zemného plynu stačí teplota -161,5 °C[^161]).
+Okrem toho bude potrebné vybudovať špeciálnu infraštruktúru potrebnú na prepravu vodíka – po prvé, aby sa minimalizoval jeho možný únik (keďže je [horľavý a výbušný](https://www1.eere.energy.gov/hydrogenandfuelcells/pdfs/h2_safety_fsheet.pdf), podobne ako zemný plyn), a po druhé, preprava vodíka je vzhľadom na jeho fyzikálne vlastnosti podstatne zložitejšia ako preprava zemného plynu (vodík má nízku objemovú hustotu energie, a preto zaberá pomerne veľký objem, čo komplikuje proces stláčania). Ak by sme chceli vodík skvapalniť, museli by sme ho ochladiť na -253 °C[^253] (na skvapalnenie zemného plynu stačí teplota -161,5 °C[^161]). 
+
+Ministerstvo hospodárstva SR vypracovalo [Národnú vodíkovú stratégiu (NVS)](https://www.mhsr.sk/uploads/files/YBN0ndkU.pdf?csrt=2310365313461346377) do roku 2050, ktorú vláda schválila v lete 2021 a v júni 2023 bola prijatá prvá časť [akčného plánu](https://nvas.sk/akcny-plan-je-schvaleny-slovensko-tak-ma-plan-dalsieho-rozvoja-vodika-a-vodikovych-technologii/) jej realizovania do roku 2026. NVS predpokladá, že do roku 2050 využijeme 400 až 600 kiloton vodíka ročne. Domácu spotrebu by mal pokryť vodík vyrobený pomocou elektrickej energie z rezerv jadrových elektrární alebo spaľovaním zemného plynu s využitím CCS technológií, biomasy či komunálneho netriedeného odpadu.
 
 #### Je možné očakávať, že sa CCS a vodík v budúcnosti významne rozšíria?
 
