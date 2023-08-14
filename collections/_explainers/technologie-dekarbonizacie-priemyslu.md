@@ -5,11 +5,11 @@ slug:        "technologie-dekarbonizacie-priemyslu"
 published:   2023-06-26
 authors:
   - id: "adam-bilek"
-  - id: ["jirka-lnenicka"]
+  - id: "jirka-lnenicka"
     minor-role: "editácia"
-  - id: ["marcel-otruba"]
+  - id: "marcel-otruba"
     minor-role: "ilustrácie"
-  - id: ["Lenka Sedlačková, Viera Minarovičová"]
+  - ids: ["lenka-sedlackova", "viera-minarovicova"]
     minor-role: "slovenský obsah"
 weight:      74
 tags-scopes: [  ]
