@@ -26,6 +26,27 @@
     }
 }
 
+.grid-figures {
+    display: grid;
+    column-gap: 1rem;
+    row-gap: 1rem;
+
+    .longread-figure {
+        margin: 0;
+    }
+}
+
+.technologie-dekarbonizace-prumyslu {
+    line-height: 1.2;
+    grid-template-columns: 6em 1fr;
+    align-items: center;
+}
+
+.barvy-vodiku .longread-figure {
+    max-width: 30rem;
+    margin-top: 2rem !important;
+}
+
 @media screen and (max-width: 768px) {
     .support-block { padding-left: 0; }
 
@@ -33,5 +54,24 @@
         font-size: 0.85rem;
         padding: 0.3rem 0.5rem;
         margin-inline: 0.05rem;
+    }
+
+}
+
+@media (min-width: 768px) {
+    .grid-figures {
+        column-gap: 1.5rem;
+        p {
+            align-self: center;
+            margin-bottom: 0;
+        }
+    }
+
+    .technologie-dekarbonizace-prumyslu {
+        grid-template-columns: repeat(var(--items), 1fr);
+        grid-template-rows: auto auto;
+        grid-auto-flow: column;
+        p { align-self: start; }
+        .longread-figure { margin-right: 1em; }
     }
 }
