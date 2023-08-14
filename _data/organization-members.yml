@@ -1,0 +1,65 @@
+- title: "Český tým"
+  members:
+  - id: "ondras-pribyla"
+    name: "Ondráš Přibyla"
+    no_link: true
+  - id: "kristi-psorn-zakopcanova"
+    name: "Kristi Pšorn Zákopčanová"
+    name_formal: "Kristína Pšorn Zákopčanová"
+    no_link: true
+  - id: "jan-krcal"
+    name: "Jan Krčál"
+    no_link: true
+  - id: "katerina-kolouchova"
+    name: "Kateřina Kolouchová"
+    no_link: true
+  - id: "jirka-lnenicka"
+    name: "Jirka Lněnička"
+    name_formal: "Jiří Lněnička"
+    no_link: true
+  - id: "petr-holik"
+    name: "Petr Holík"
+    no_link: true
+  - id: "marcel-otruba"
+    name: "Marcel Otruba"
+    no_link: true
+  - id: "hana-tesak-vrtala"
+    name: "Hana Tesák Vrtala"
+    no_link: true
+  - id: "milan-vitek"
+    name: "Milan Vítek"
+    no_link: true
+  - id: "adam-bilek"
+    name: "Adam Bílek"
+    no_link: true
+  - id: "martin-ukrop"
+    name: "Martin Ukrop"
+    no_link: true
+  - id: "matej-grabovsky"
+    name: "Matěj Grabovský"
+    no_link: true
+  - id: "tom-protivinsky"
+    name: "Tom Protivínský"
+    name_formal: "Tomáš Protivínský"
+    no_link: true
+
+- title: "Slovenský tým"
+  members:
+  - id: "lenka-sedlackova"
+    name: "Lenka Sedláčková"
+    no_link: true
+  - id: "viera-minarovicova"
+    name: "Viera Minarovičová"
+    no_link: true
+
+- title: "Faktům o klimatu dále pomáhají"
+  members:
+  - id: "oldrich-sklenar"
+    name: "Oldřich Sklenář"
+    no_link: true
+  - id: "jakub-zamouril"
+    name: "Jakub Zamouřil"
+    no_link: true
+  - id: "marek-krcal"
+    name: "Marek Krčál"
+    no_link: true
