@@ -1,4 +1,4 @@
-- title: "Český tým"
+- title: "Český tím"
   members:
   - id: "ondras-pribyla"
     name: "Ondráš Přibyla"
@@ -43,16 +43,16 @@
     name_formal: "Tomáš Protivínský"
     no_link: true
 
-- title: "Slovenský tým"
+- title: "Slovenský tím"
   members:
   - id: "lenka-sedlackova"
-    name: "Lenka Sedláčková"
+    name: "Lenka Sedlačková"
     no_link: true
   - id: "viera-minarovicova"
     name: "Viera Minarovičová"
     no_link: true
 
-- title: "Faktům o klimatu dále pomáhají"
+- title: "Faktom o klíme tiež pomáhajú"
   members:
   - id: "oldrich-sklenar"
     name: "Oldřich Sklenář"
