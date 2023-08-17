@@ -71,7 +71,7 @@ V obmedzenej miere môžu so znížením emisií pomôcť aj tieto **doplnkové 
     alt="Piktogram záchytu CO2"
 %}
 
-Proces zachytávania CO<sub>2</sub> sa označuje skratkou CCS (_Carbon Capture and Storage_). Zachytený CO<sub>2</sub> je následne prepravené a uložené v geologických štruktúrach, napríklad do vyťažených ložísk zemného plynu a ropy či do hlboko uložených geologických vrstiev obsahujúcich slanú vodu. Teoreticky je možné zachytený CO<sub>2</sub> aj priemyselne využiť, do budúcna sa však očakáva, že väčšina sa bude ukladať.[^ulozenie]
+Proces zachytávania CO<sub>2</sub> sa označuje skratkou CCS (_Carbon Capture and Storage_). Zachytený CO<sub>2</sub> je následne prepravený a uložený do geologických štruktúr, napríklad do vyťažených ložísk zemného plynu a ropy či do hlboko uložených geologických vrstiev obsahujúcich slanú vodu. Teoreticky je možné zachytený CO<sub>2</sub> aj priemyselne využiť, do budúcna sa však očakáva, že väčšina sa bude ukladať.[^ulozenie]
 
 Táto technológia sa na využitie v dekarbonizácii priemyslu hodí najmä v prípadoch, keď **chemické reakcie**, pri ktorých vzniká CO<sub>2</sub>, **nie je možné priamo nahradiť** alebo **sa nedá výrazne znížiť ich emisnú náročnosť**. Príkladom môže byť proces kalcinácie (žíhania) pri výrobe cementu, kedy sa uhličitan vápenatý (CaCO<sub>3</sub>) mení na oxid vápenatý (CaO), pri čom sa uvoľňuje oxid uhličitý (CO<sub>2</sub>). Bez tohto chemického procesu sa zatiaľ výroba cementu nezaobíde, nezostáva teda nič iné, než uvoľnený oxid uhličitý zachytiť.
 
