@@ -7,7 +7,7 @@ authors:
   - id: "katerina-kolouchova"
   - ids: ["jirka-lnenicka", "kristi-psorn-zakopcanova"]
     minor-role: "editácia"
-  - ids: ["Viera Minarovičová", "Lenka Sedlačková"]
+  - ids: ["viera-minarovicova", "lenka-sedlackova"]
     minor-role: "preklad"
 weight:      74
 tags-scopes: [ eu ]
