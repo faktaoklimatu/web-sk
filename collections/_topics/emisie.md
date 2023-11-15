@@ -152,6 +152,7 @@ subtopics:
   - emisne-povolenky-ets
   - europska-zelena-dohoda
   - emisne-scenare-pariz
+  - taxonomia-eu
   - mitigacne-opatrenia-mmf
   - 2019-mitigacne-opatrenia-mmf
   - fit-for-55
