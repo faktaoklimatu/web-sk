@@ -3,7 +3,7 @@ layout:        infographic
 title:         "Fit for 55: prehľad opatrení"
 slug:          "fit-for-55-opatrenia"
 redirect_from: "/fit-for-55-opatrenia"
-published:     2023-07-23
+published:     2023-11-15
 weight:        94
 tags-scopes:   [ eu ]
 tags-topics:   [ opatrenia, ekonomika ]
@@ -14,7 +14,7 @@ caption:       "Fit for 55 je balíček legislatívnych návrhov Európskej komi
     title="Čo je balíček Fit for 55?"
     text="Širší kontext vzniku a obsah balíčku približujeme v súvisiacej infografike."
     slug="fit-for-55"
-%} 
+%}
 
 Balík legislatívnych návrhov [Fit for 55](https://eur-lex.europa.eu/legal-content/sk/TXT/?uri=CELEX%3A52021DC0550), ktorý **podporuje zníženie emisií skleníkových plynov o 55 % do roku 2030 oproti roku 1990**, bol Európskou komisiou predstavený v júli 2021. Balíček obsahuje návrhy upravujúce existujúce smernice či nariadenia, ako i celkom nové legislatívne návrhy. Zameriava sa na oblasti, ako je obchodovanie s emisnými povolenkami (EU ETS) [^explainer-emisne-povolenky], uhlíkové kompenzácie na hraniciach, energetiku, palivá či využívanie pôdy a lesníctvo. V neposlednom rade prináša podporné opatrenia, ktorých cieľom je urobiť celú transformáciu sociálne spravodlivejšou. Navrhované opatrenia by mali priniesť nové príležitosti pre investície, inovácie a tvorbu pracovných miest.[^fit-for-55]
 
@@ -74,7 +74,6 @@ Všeobecný kontext a prehľad balíčka Fit for 55 nájdete v našej infografik
 ### Na koho sa ďalej obrátiť
 
 Balíčkom Fit for 55 sa viac zaoberá napríklad [Klimatická koalícia](https://klimatickakoalicia.sk/kontakty/).
-
 
 ### Zdroje
 
