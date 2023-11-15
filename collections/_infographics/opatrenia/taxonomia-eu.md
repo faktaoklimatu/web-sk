@@ -3,7 +3,7 @@ layout:     infographic
 title:      "Taxonómia EÚ"
 slug:       "taxonomia-eu"
 redirect_from: "/taxonomia-eu"
-published:  2023-06-21
+published:  2023-11-15
 weight:     99
 tags-scopes: [ svet ]
 tags-topics: [ opatrenia, ekonomika ]
