@@ -1,0 +1,5 @@
+{% if include.status == "done" %}
+<i class="fas fa-circle-check ff55-done" title="Stav v júli 2023: schválené" data-toggle="tooltip"></i>
+{% elsif include.status == "inprogress" %}
+<i class="fas fa-clock ff55-inprogress" title="Stav v júli 2023: čaká na schválenie" data-toggle="tooltip"></i>
+{% endif %}
