@@ -150,6 +150,8 @@ subtopics:
   - spoplatnenie-emisii-svet
   - 2021-resers-zavazky-statov
   - emisne-povolenky-ets
+  - europska-zelena-dohoda
+  - emisne-scenare-pariz
   - mitigacne-opatrenia-mmf
   - 2019-mitigacne-opatrenia-mmf
   - fit-for-55
