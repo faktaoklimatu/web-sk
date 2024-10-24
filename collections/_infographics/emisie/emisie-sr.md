@@ -7,7 +7,7 @@ published:  2020-03-01
 weight:     97
 tags-scopes: [ sr ]
 tags-topics: [ emisie ]
-caption:    "Rozdelenie celkových emisií skleníkových plynov (v tonách CO2<sub>2</sub> ekvivalentu) na Slovensku v jednotlivých sektoroch za rok 2018. Ročný objem emisií Slovenska je 43,53 mil. ton. V prepočte na obyvateľa to je 8 t CO2<sub>2</sub>eq na obyvateľa."
+caption:    "Rozdelenie celkových emisií skleníkových plynov (v tonách CO<sub>2</sub> ekvivalentu) na Slovensku v jednotlivých sektoroch za rok 2018. Ročný objem emisií Slovenska je 43,53 mil. ton. V prepočte na obyvateľa to je 8 t CO<sub>2</sub>eq na obyvateľa."
 data-our:   "https://docs.google.com/spreadsheets/d/1FIuOP9Q58_0LEEuuhggXpuAnvRcs13e8H1buZKWJB3Y/edit?usp=sharing"
 data-orig:  [
     ["Eurostat", "https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=env_air_gge&lang=en"]
