@@ -150,6 +150,7 @@ subtopics:
   - spoplatnenie-emisii-svet
   - 2021-resers-zavazky-statov
   - emisne-povolenky-ets
+  - svetove-dohody
   - mitigacne-opatrenia-mmf
   - 2019-mitigacne-opatrenia-mmf
 
