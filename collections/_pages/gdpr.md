@@ -6,47 +6,83 @@ slug: gdpr
 <div class="row"><div class="col-12 col-lg-10" markdown="1">
 
 {:.perex}
-Vytvorené v súlade s platnou legislatívou a Nariadením Európskeho Parlamentu a Rady (EU) 2016/679 o ochrane fyzických osôb v súvislosti so spracovaním osobných údajov a o voľnom pohybe týchto údajov. Platné od 6. októbra 2020.
+Vytvorené v súlade s platnou legislatívou a Nariadením Európskeho parlamentu a Rady (EÚ) 2016/679 o ochrane fyzických osôb v súvislosti so spracovaním osobných údajov a o voľnom pohybe týchto údajov. Platné od 6. októbra 2020, naposledy aktualizované 13.2.2025.
+
+Tento dokument môže byť priebežne aktualizovaný, aby odrážal zmeny v právnych požiadavkách alebo v našich postupoch.
 
 ## Správca osobných údajov
+Správcom osobných údajov je organizácia Otevřené dáta o klimatu, z. o. p., so sídlom Cyrilská 7, 602 00 Brno, IČO: 095 55 587, zapísaná v registri ústavov vedenom Krajským súdom v Brne, spisová značka U 300.
 
-Správcom osobných údajov je organizácia Otevřená data o klimatu, z. ú. so sídlom Cyrilská 7, 602 00 Brno, Česká republika, IČO: 095 55 587, zapísaná v registri ústavov vedenom Krajským súdom v Brne so spisovou značkou U 300.
-
-Kontaktná osoba pre ochranu osobných údajov: Anna Macková, v prípade otázok píšte na [gdpr@faktyoklime.sk](mailto:gdpr@faktyoklime.sk)
+Kontaktná osoba pre ochranu osobných údajov: Martin Ukrop. V prípade otázok píšte prosím na gdpr@faktaoklimatu.cz.
 
 ## Účel spracovania osobných údajov
+Správca spracováva osobné údaje za účelom plnenia zmluvy, za účelom plnenia právnej povinnosti, za účelom oprávneného záujmu správcu alebo za účelom uvedeným pri udelení osobného súhlasu. Osobné údaje správca získava priamo od subjektov údajov, prípadne od sprostredkovateľa darovacieho procesu.
 
-Správca spracováva osobné údaje za účelom plnenia zmluvy, za účelom plnenia právnej povinnosti, za účelom oprávneného záujmu správcu alebo za účelom stanoveným pri udelení osobného súhlasu. Osobné údaje správca získava priamo od subjektov údajov, prípadne od sprostredkovateľa grantového procesu.
+### Spracovanie osobných údajov pri poskytnutí alebo prisľúbení daru
+Osobné údaje spracovávame na základe plnenia zmluvy, oprávneného záujmu správcu a plnenia právnych povinností. Pri poskytnutí alebo prisľúbení daru budete zaradení do databázy darcov.
 
-### Spracovanie osobných údajov pri poskytnutí alebo prísľube daru
+V databáze uchovávame:
 
-Osobné údaje spracovávame na základe plnenia zmluvy a oprávneného záujmu správcu. Pri poskytnutí alebo prísľube daru budete zaradení do databázy darcov. V tejto databáze archivujeme informácie o výške a frekvencii daru, ktorý bol poskytnutý a osobné údaje darcu (meno, priezvisko, bydlisko, e-mailová adresa). Darovanie prebieha cez darovací portál Darujme.cz, ktorý je prevádzkovaný naším zmluvným partnerom. Ten sa zaväzuje využívať vami vyplnené informácie iba v rozsahu potrebnom na spracovanie daru a uzavretie darovacej zmluvy. Tieto údaje potom poskytuje našej organizácii Otevřená data o klimatu. Bankové údaje o platbe, číslo účtu alebo údaje z platobnej karty odovzdávate iba banke, ktorá transakciu sprostredkováva.
+* meno, priezvisko,
+* bydlisko,
+* e-mailovú adresu,
+* výšku a frekvenciu darov,
+* údaje o zdroji návštevy našej darovacej stránky, získané prostredníctvom analytických parametrov (tzv. UTM parametre, napr. utm_source, utm_medium, utm_campaign).
 
-Osobné údaje spracovávame za účelom plnenia právnej povinnosti (vedenie účtovníctva, vydávanie potvrdení o daroch, zverejnenie celkovej výšky prijatých darov vo výročnej správe a ďalších materiáloch), a za účelom oprávneného záujmu správcu (poďakovanie a informovanie vás o využití vášho daru a dianí v organizácii, zasielanie žiadostí o podporu).
+Osobné údaje spracovávame za účelom plnenia právnej povinnosti (vedenie účtovníctva, vydávanie potvrdení o daroch, zverejnenie celkovej výšky prijatých darov vo výročnej správe a ďalších materiáloch) a za účelom oprávneného záujmu správcu (poďakovanie spolu s informáciou pre vás o využití vášho daru, informácie o dianí v organizácii, zasielanie žiadostí o podporu).
 
-### Spracovanie osobných údajov pri prihlásení na seminár či k odberu newslettera
+Analytické údaje uchovávame za účelom vyhodnocovania účinnosti marketingových kampaní a optimalizácie nášho fundraisingu. Údaje o dare a analytické informácie spracovávame na základe nášho oprávneného záujmu.
 
-Osobné údaje spracovávame na základe udeleného súhlasu. Pri registrácii na seminár či registrácii k odberu newslettera budete zaradení do príslušnej databázy. V tejto databáze spracovávame vaše osobné údaje, ktoré ste uviedli (meno, priezvisko, telefónne číslo, e-mailová adresa).
+Dary sú realizované prostredníctvom darovacieho portálu [Darujme.sk](https://darujme.sk), ktorý prevádzkuje náš zmluvný partner Nadácia VIA. Tento partner využíva vami vyplnené informácie iba na spracovanie daru a uzavretie darovacej zmluvy. Bankové údaje o platbe (číslo účtu, údaje z platobnej karty) spracováva iba banka.
 
-Osobné údaje spracovávame na základe udeleného súhlasu na účely uvedené pri udelený súhlas (informovanie o dianí v organizácii, informovanie o termínoch seminárov, apod.) a za účelom oprávneného záujmu správcu (zasielanie žiadostí o podporu).
+Ak o to darca požiada, realizujeme dary v podobe príspevku zamestnávateľa prostredníctvom darcovského portálu [Benevity](https://benevity.com/). Osobné údaje táto platforma spracováva na základe udeleného súhlasu podľa vlastných [pravidiel](https://benevity.com/privacy-policy).
+
+Dary v súhrnnej výške nad 20 000 CZK od jedného darcu za rok zverejňujeme vo verejnej výročnej správe (meno, priezvisko a výška daru).
+
+### Spracovanie osobných údajov pri prihlásení na seminár, k odberu newsletteru alebo vyplnení dotazníka
+
+Osobné údaje spracovávame na základe udeleného súhlasu, a to za účelom informovania o dianí v organizácii, termínoch seminárov alebo kontaktovania pre spätnú väzbu. Zároveň môžeme na základe oprávneného záujmu správcu zasielať žiadosti o podporu.
+
+V tejto databáze uchovávame:
+ * meno, priezvisko,
+ * telefónne číslo (voliteľne),
+ * e-mailovú adresu.
 
 ### Analytika na webových stránkach
+K analýze návštevnosti na našich webových stránkach a k ich vylepšovaniu používame Google Analytics. Táto služba používa súbory cookie na rozpoznanie opakovaných návštev a na sledovanie interakcie s webom. Dáta sú ukladané anonymizovane a neumožňujú priame identifikovanie konkrétnych osôb. Používanie cookies môžete odmietnuť prostredníctvom nastavení vo svojom webovom prehliadači.
 
-Na analýzu návštevnosti na našich webových stránkach a na ich vylepšovanie používame Google Analytics. Služba ukladá v prehliadači návštevníka tzv. _cookie_, ktorý sa používa na identifikáciu opakovaných návštev. Ukladané _cookies_ sú anonymné a ich prostredníctvom nezískavame žiadne osobné údaje. Cookies si môžete sami zablokovať vo svojom webovom prehliadači.
+## Doba spracovania osobných údajov
+Osobné údaje uchovávame po dobu nevyhnutnú pre vyššie uvedené účely.
 
-## Doba spracovania
+* Plnenie zákonných povinností – podľa príslušných právnych predpisov (napr. zákon o účtovníctve).
+* Oprávnený záujem správcu – do ukončenia oprávneného záujmu.
+* Údaje spracovávané na základe súhlasu – do odvolania súhlasu.
 
-Osobné údaje subjektov spracovávame a uchovávame po dobu nevyhnutne potrebnú na vyššie uvedené účely. Doba spracovania osobných údajov pre plnenie zákonných povinností sa riadi príslušnými právnymi predpismi (zákon o účtovníctve). V prípade údajov spracovávaných na základe oprávneného záujmu správcu spracovávame tieto údaje po dobu trvania oprávneného záujmu. V prípade, že si už neprajete byť v databázach spracovávaných na základe udeleného súhlasu alebo oprávneného záujmu správcu, máte právo na vymazanie osobných údajov. Buď kontaktovaním príslušnej osoby (kontakt vyššie) alebo odhlásením sa z odberu newsletterov (odkaz v pätičke) apod.
+Po uplynutí doby archivácie sú osobné údaje buď automaticky vymazané, alebo anonymizované.
 
-## Spôsob spracovania
+Ak si neprajete byť v našich databázach, máte právo na vymazanie osobných údajov. Kontaktujte nás e-mailom na gdpr@faktaoklimatu.cz alebo sa odhláste z newsletteru (odkaz v pätičke e-mailu).
 
-Osobné údaje subjektov spracovávame v rámci ústavu, prípadne pomocou tretích strán, ktorých zoznam nájdete nižšie. Typicky ide o službu na zasielanie newsletterov či externú účtovnú firmu. Tieto subjekty sú obchodnými partnermi správcu a fungujú buď ako samostatní správcovia (majú stanovené vlastné účely a prostriedky spracovania osobných údajov) alebo ako spracovatelia (spracúvajú osobné údaje pre správcu na základe jeho pokynov). Osobné údaje sú spracovávané len v rámci EÚ.
+## Spôsob spracovania osobných údajov
+Osobné údaje subjektov spracovávame v rámci ústavu, prípadne pomocou tretích strán, ktorých zoznam nájdete nižšie. Typicky sa jedná o službu pre zasielanie newsletterov či o externú účtovnú firmu. Tieto subjekty sú obchodnými partnermi správcu a fungujú buď ako samostatní správcovia (majú stanovené vlastné účely a prostriedky spracovania osobných údajov), alebo ako spracovatelia (spracovávajú osobné údaje pre správcu na základe jeho pokynov). Osobné údaje sú spracovávané iba v rámci EÚ s výnimkou spracovania osobných údajov prostredníctvom platformy Benevity, ktorá sa riadi legislatívou Kanady.
 
 ### Spracovatelia a obchodní partneri
 
-* [Nadace VIA](https://www.nadacevia.cz/), funguje ako samostatný správca pre finančné dary cez portál [Darujme.cz](https://www.darujme.cz/)
-* [ECOMAIL.CZ, s.r.o.](https://ecomail.cz/), funguje ako spracovateľ pre dáta k newsletterom a rozesielkám
-* [Jaspar s.r.o.](https://www.ucetnictvijaspar.cz/), funguje ako spracovateľ pre účtovné dáta
-* [Google Ireland Limited](https://en.wikipedia.org/wiki/Google), funguje ako spracovateľ pre analytiku návštevnosti našich webov cez službu [Google Analytics](https://marketingplatform.google.com/about/analytics/)
+* [Nadácia VIA](https://www.nadacevia.sk/), funguje ako samostatný správca pre finančné dary cez portál [Darujme.sk](https://www.darujme.sk/).
+* [ECOMAIL.SK, s.r.o.](https://ecomail.sk/), funguje ako spracovateľ pre dáta k newsletterom a rozosielaným oznámeniam.
+* [Jaspar s.r.o.](https://www.ucetnictvijaspar.sk/), funguje ako spracovateľ účtovných dát.
+* [Google Ireland Limited](https://en.wikipedia.org/wiki/Google), funguje ako spracovateľ pre analýzu návštevnosti našich webov prostredníctvom služby [Google Analytics](https://marketingplatform.google.com/about/analytics/).
+* [Benevity, Inc.](https://benevity.com/privacy-policy), funguje ako samostatný správca pre finančné a nefinančné dary cez ich portál.
+
+## Vaše práva
+Podľa GDPR máte právo:
+
+* na prístup k svojim osobným údajom,
+* na opravu nepresných údajov,
+* na vymazanie údajov, ak už nie sú potrebné,
+* na obmedzenie spracovania, ak sú splnené zákonné podmienky,
+* vznesenie námietky proti spracovaniu údajov,
+* na prenosnosť údajov k inému správcovi.
+
+Pre uplatnenie týchto práv nás kontaktujte na gdpr@faktaoklimatu.cz.
 
 </div></div>
