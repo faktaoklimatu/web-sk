@@ -33,7 +33,7 @@ Osobné údaje spracovávame za účelom plnenia právnej povinnosti (vedenie ú
 
 Analytické údaje uchovávame za účelom vyhodnocovania účinnosti marketingových kampaní a optimalizácie nášho fundraisingu. Údaje o dare a analytické informácie spracovávame na základe nášho oprávneného záujmu.
 
-Dary sú realizované prostredníctvom darovacieho portálu [Darujme.sk](https://darujme.sk), ktorý prevádzkuje náš zmluvný partner Nadácia VIA. Tento partner využíva vami vyplnené informácie iba na spracovanie daru a uzavretie darovacej zmluvy. Bankové údaje o platbe (číslo účtu, údaje z platobnej karty) spracováva iba banka.
+Dary sú realizované prostredníctvom darovacieho portálu [Darujme.cz](https://darujme.cz), ktorý prevádzkuje náš zmluvný partner Nadace VIA. Tento partner využíva vami vyplnené informácie iba na spracovanie daru a uzavretie darovacej zmluvy. Bankové údaje o platbe (číslo účtu, údaje z platobnej karty) spracováva iba banka.
 
 Ak o to darca požiada, realizujeme dary v podobe príspevku zamestnávateľa prostredníctvom darcovského portálu [Benevity](https://benevity.com/). Osobné údaje táto platforma spracováva na základe udeleného súhlasu podľa vlastných [pravidiel](https://benevity.com/privacy-policy).
 
@@ -67,9 +67,9 @@ Osobné údaje subjektov spracovávame v rámci ústavu, prípadne pomocou tret�
 
 ### Spracovatelia a obchodní partneri
 
-* [Nadácia VIA](https://www.nadacevia.sk/), funguje ako samostatný správca pre finančné dary cez portál [Darujme.sk](https://www.darujme.sk/).
-* [ECOMAIL.SK, s.r.o.](https://ecomail.sk/), funguje ako spracovateľ pre dáta k newsletterom a rozosielaným oznámeniam.
-* [Jaspar s.r.o.](https://www.ucetnictvijaspar.sk/), funguje ako spracovateľ účtovných dát.
+* [Nadace VIA](https://www.nadacevia.cz/), funguje ako samostatný správca pre finančné dary cez portál [Darujme.cz](https://www.darujme.cz/).
+* [ECOMAIL.CZ, s.r.o.](https://ecomail.cz/), funguje ako spracovateľ pre dáta k newsletterom a rozosielaným oznámeniam.
+* [Jaspar s.r.o.](https://www.ucetnictvijaspar.cz/), funguje ako spracovateľ účtovných dát.
 * [Google Ireland Limited](https://en.wikipedia.org/wiki/Google), funguje ako spracovateľ pre analýzu návštevnosti našich webov prostredníctvom služby [Google Analytics](https://marketingplatform.google.com/about/analytics/).
 * [Benevity, Inc.](https://benevity.com/privacy-policy), funguje ako samostatný správca pre finančné a nefinančné dary cez ich portál.
 
