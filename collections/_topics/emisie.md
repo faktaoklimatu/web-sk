@@ -137,6 +137,7 @@ subtopics:
   lead: |
     **Na zastavenie klimatickej zmeny je nutné prestať vypúšťať skleníkové plyny**, čiže dosiahnuť tzv. *net-zero*, respektíve klimatickú neutralitu. Výraz *net-zero* môžeme preložiť ako "čistá nula" a myslí sa tým to, že daný štát či firma sú klimaticky neutrálne, čo znamená, že odstraňujú z atmosféry toľko skleníkových plynov, koľko sami vypustia. Táto situácia je tiež označovaná ako klimatická neutralita alebo uhlíková neutralita (tento pojem sa však väčšinou týka iba oxidu uhličitého, nie všetkých <glossary id="antropogennesklenikoveplyny">skleníkových plynov</glossary>). **K cieľu dosiahnuť uhlíkovú neutralitu sa už prihlásili štáty zodpovedné za takmer 90 % svetových emisií oxicu uhličitého** (k februáru 2022).
   content:
+  - emisne-scenare-pariz
   - koncept-uhlikovy-rozpocet
   - koncept-cesty-k-neutralite
   - technologie-dekarbonizacie-priemyslu
@@ -147,11 +148,15 @@ subtopics:
   lead: |
     Podiel jednotlivých sektorov na emisiách <glossary id="antropogennesklenikoveplyny">skleníkových plynov</glossary> poskytuje užitočné vodítko pri zameriavaní <glossary id="mitigacia">mitigačných</glossary> snáh. Najväčšie emisné úspory na Slovensku môžeme dosiahnuť dekarbonizáciou priemyselných procesov. Ako jednotlivci však tiež môžeme prispieť k zníženiu emisií, napríklad **znížením energetickej náročnosti** svojich domácností, **obmedzením individuálnej automobilovej dopravy** alebo **menšou konzumáciou mäsa a mliečnych výrobkov**.
   content:  # U nového obsahu zvaž přidání také do dohody-legislativa>eu a ekonomika>opatreni.
-  - spoplatnenie-emisii-svet
-  - 2021-resers-zavazky-statov
+  - europska-zelena-dohoda
   - emisne-povolenky-ets
+  - taxonomia-eu
+  - fit-for-55
+  - fit-for-55-opatrenia
+  - spoplatnenie-emisii-svet
   - mitigacne-opatrenia-mmf
   - 2019-mitigacne-opatrenia-mmf
+  - 2021-resers-zavazky-statov
 
 - id:          "intenzity"
   title:       "Emisie vs. HDP: emisné intenzity ekonomík"
